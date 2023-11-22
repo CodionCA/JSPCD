@@ -578,10 +578,6 @@ file = "config/doubledoors.json5"
 hash = "41c34d569277e7490c9a67d7adae9e8645ce46f2a9e2cc640d160d6d359b7e36"
 
 [[files]]
-file = "config/drippyloadingscreen/config.cfg"
-hash = "b9a9956e2ad94100a2150b4467f144aae5311766761cbab67733896d7f29e92a"
-
-[[files]]
 file = "config/dynamic_lights_reforged.toml"
 hash = "aa9567de27d7826b65dbec599521c8ab3b048d2e31e068943a5d435c87885f37"
 
@@ -1138,10 +1134,6 @@ file = "config/modpack-update-checker.txt"
 hash = "8940145adfda8377646b59aed1e79d0a452913de015fa4ccf5d9b20f79ca721a"
 
 [[files]]
-file = "config/modpack-update-checker/config.json"
-hash = "37fe82e21944bb75845eba2de54499bf3a8556e0fc31a2d4bf9962913d00aacb"
-
-[[files]]
 file = "config/moonlight-client.toml"
 hash = "9b81f493d4a6a11eda44a019f1f1c9ecd0347523fdbd363b5f6534abda2d8f94"
 
@@ -1588,10 +1580,6 @@ hash = "d1f01c1b88e9f0273da1a90cd0c5d0ff62c2313b7ef4c901993aa8cafa84e5d6"
 [[files]]
 file = "config/xaeroworldmap.txt"
 hash = "09d0cd9c3c6571073add1ebdbc0d037e346214484340412842f9f3041fc4caef"
-
-[[files]]
-file = "configureddefaults/options.txt"
-hash = "1c043292cd5609091e6ad8b7c203f68be619648347f3960167748f9ee3433faa"
 
 [[files]]
 file = "fancymenu_data/last_world.fmdata"
