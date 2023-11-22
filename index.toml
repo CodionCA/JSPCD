@@ -650,10 +650,6 @@ file = "config/fancymenu/customization/jscpd.txt"
 hash = "a11a70f5730a3bda936b91ffcc27b80ca0ae354c89dd7165710859ad48cbd7e2"
 
 [[files]]
-file = "config/fancymenu/customization/jspcd.txt"
-hash = "a4847a48c60b4e1b57694602c8c00981bad2ca4e6c2476f9bd01727a51f9edb0"
-
-[[files]]
 file = "config/fancymenu/locals/de_de.local"
 hash = "13485f1d678322a328e798c34f1ff9f7f9c690464d1050e2e7c1ea02b0f49b61"
 
@@ -1583,7 +1579,7 @@ hash = "09d0cd9c3c6571073add1ebdbc0d037e346214484340412842f9f3041fc4caef"
 
 [[files]]
 file = "fancymenu_data/last_world.fmdata"
-hash = "827c748d6de30e58c7bc0b5b155d45cd3492119cdacfdec3d7740cb451b08b9d"
+hash = "5318282dbd0e8c6fbfd1ca64ed19d100db6ef262dfae39fc1d7963e50f2230f3"
 
 [[files]]
 file = "mods/AI-Improvements-1.20-0.5.2.jar"
