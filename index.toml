@@ -902,5 +902,9 @@ file = "servers.dat"
 hash = "2e92df594404a9c02c5069ae85c37ed798373699dfc674c580dba36faa3f09e9"
 
 [[files]]
+file = "shaderpacks/ComplementaryUnbound_r5.0.1.zip"
+hash = "c689bac26885e817ba2511b47b6418bde840adffba35abd205c3b8f658329c89"
+
+[[files]]
 file = "shaderpacks/ComplementaryUnbound_r5.0.1.zip.txt"
 hash = "99d046ac52781945253c415d85333bad2cb05f1d37f23ebb4f04d4d4d078ccb1"
