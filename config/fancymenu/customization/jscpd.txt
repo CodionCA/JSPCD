@@ -29,7 +29,17 @@ customization {
 }
 
 customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_accessibility_button%
+  action = hidebutton
+}
+
+customization {
   identifier = %id=376322%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_language_button%
   action = hidebutton
 }
 
@@ -55,7 +65,7 @@ customization {
 
 customization {
   orientation = top-left
-  hidden = false
+  hidden = true
   x = 346
   width = 268
   action = deep_customization_element:title_screen_forge_top
@@ -66,7 +76,7 @@ customization {
 
 customization {
   orientation = top-left
-  hidden = false
+  hidden = true
   x = 2
   width = 108
   action = deep_customization_element:title_screen_branding
@@ -77,7 +87,7 @@ customization {
 
 customization {
   orientation = top-left
-  hidden = false
+  hidden = true
   x = 731
   width = 228
   action = deep_customization_element:title_screen_forge_copyright
@@ -145,5 +155,24 @@ customization {
   actionid = 020faa4b-af5c-4a5c-ba3c-b9721a3cb61b1700583741275
   y = 46
   height = 100
+}
+
+customization {
+  orientation = top-left
+  enable_scrolling = true
+  shadow = true
+  scale = 1.0
+  source = Copyright Beast Mode. Distribute.
+  text_border = 0
+  case_mode = normal
+  source_mode = direct
+  line_spacing = 1
+  x = 793
+  width = 200
+  action = custom_layout_element:fancymenu_customization_item_text
+  actionid = 9992016c-9330-45a8-8ebe-22e8b8f48fd11700625704026
+  y = 517
+  alignment = left
+  height = 40
 }
 
