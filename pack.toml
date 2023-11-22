@@ -1,0 +1,12 @@
+name = "JSPCD"
+version = "1.0.1"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "35cfa5ae37ea9a34ef687c05d2e7411df2373774aff8a6726d9498fe787dd8c9"
+
+[versions]
+forge = "47.2.0"
+minecraft = "1.20.1"

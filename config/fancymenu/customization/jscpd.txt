@@ -1,0 +1,149 @@
+type = menu
+
+customization-meta {
+  identifier = net.minecraft.client.gui.screens.TitleScreen
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  name = jspcd
+  action = setbackgroundpanorama
+}
+
+customization {
+  action = setscale
+  scale = 2
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_multiplayer_button%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=376322%
+  action = hidebutton
+}
+
+customization {
+  identifier = %id=button_compatibility_id:forge_titlescreen_mods_button%
+  orientation = mid-centered
+  x = -100
+  action = movebutton
+  y = -39
+}
+
+customization {
+  identifier = %id=button_compatibility_id:forge_titlescreen_mods_button%
+  width = 200
+  action = resizebutton
+  height = 20
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_realms_button%
+  action = hidebutton
+}
+
+customization {
+  orientation = top-left
+  hidden = false
+  x = 346
+  width = 268
+  action = deep_customization_element:title_screen_forge_top
+  actionid = 772096f7-3cd7-4cb2-a5f6-26d7f030eba51700550741971
+  y = 4
+  height = 19
+}
+
+customization {
+  orientation = top-left
+  hidden = false
+  x = 2
+  width = 108
+  action = deep_customization_element:title_screen_branding
+  actionid = a6c1adaa-23c0-4916-9fcf-8f0bf7f5a6081700550741978
+  y = 498
+  height = 40
+}
+
+customization {
+  orientation = top-left
+  hidden = false
+  x = 731
+  width = 228
+  action = deep_customization_element:title_screen_forge_copyright
+  actionid = 1c894881-16d4-42ab-afc2-f4bd766467221700550741978
+  y = 520
+  height = 9
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 583
+  width = 13
+  action = deep_customization_element:title_screen_realms_notification
+  actionid = 5295b962-d2b2-4dd7-bc31-5df5f79630f71700550741978
+  y = 235
+  height = 13
+}
+
+customization {
+  orientation = top-left
+  hidden = true
+  x = 343
+  width = 274
+  action = deep_customization_element:title_screen_logo
+  actionid = bb1a7533-f962-4d16-9d21-ac66016f11231700550741978
+  y = 30
+  height = 52
+}
+
+customization {
+  orientation = top-centered
+  splash_color = #ff6fb0
+  hidden = false
+  x = 170
+  width = 60
+  splash_rotation = -20
+  action = deep_customization_element:title_screen_splash
+  actionid = 5672172d-2085-417d-9124-d2d9e13c2e221700550741979
+  y = 98
+  height = 30
+}
+
+customization {
+  orientation = mid-centered
+  loopbackgroundanimations = true
+  hoverlabel = JOIN &5&lJ&a&lS&d&lP&c&lC&b&lD&r {"placeholder":"serverstatus","values":{"ip":"mod.codion.ca"}} {"placeholder":"serverplayercount","values":{"ip":"mod.codion.ca"}}
+  restartbackgroundanimations = true
+  buttonaction = joinserver;mod.codion.ca%btnaction_splitter_fm%
+  x = -100
+  width = 200
+  action = addbutton
+  actionid = 55fd0798-ca2a-4c69-8379-faaf528df4101700550760131
+  y = -63
+  label = §5§lJ§a§lS§d§lP§c§lC§b§lD§r
+  height = 20
+}
+
+customization {
+  path = resourcepacks/minecraft_title.png
+  orientation = top-centered
+  x = -185
+  width = 364
+  action = addtexture
+  actionid = 020faa4b-af5c-4a5c-ba3c-b9721a3cb61b1700583741275
+  y = 46
+  height = 100
+}
+
