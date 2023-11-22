@@ -643,23 +643,11 @@ hash = "3cb918be192a7a0d3d61fce8ceba4ed9dce2f951182d83882fe8ec70adc4d09c"
 
 [[files]]
 file = "config/fancymenu/config.txt"
-hash = "b0f0bb5e67fac54c26e44db4d18534392c438ee54028070a5e3c30d5d12c77d3"
+hash = "4627f4330bcfab00baf8fac465767057c7c87d1032eab5be39ba8934f6ade455"
 
 [[files]]
 file = "config/fancymenu/customizablemenus.txt"
-hash = "f5e7f2d2a031f45b6aec55a1721fb3ce67619e2bd9eaa99105eb1490fdcdf7b2"
-
-[[files]]
-file = "config/fancymenu/customization/aether.txt"
-hash = "6c5c1ac3a8dd0ab53488e441547697ccd299bb4650170daacd3bb3185d516d76"
-
-[[files]]
-file = "config/fancymenu/customization/error.txt"
-hash = "e3d81b1c9f728469c018bdb059303f66e7c8feccda864ce49e2c74e69254da82"
-
-[[files]]
-file = "config/fancymenu/customization/escapemenu.txt"
-hash = "6be8abfa1a0b45b4724222b3e05c2dfd982208d1ea42b8a694d6ce521aee9eb1"
+hash = "290bcc08dbac1bd350e67604dcdfcc88efc097a723a4afaf96aa2fbe4f1e9a32"
 
 [[files]]
 file = "config/fancymenu/customization/jscpd.txt"
@@ -668,30 +656,6 @@ hash = "a11a70f5730a3bda936b91ffcc27b80ca0ae354c89dd7165710859ad48cbd7e2"
 [[files]]
 file = "config/fancymenu/customization/jspcd.txt"
 hash = "a4847a48c60b4e1b57694602c8c00981bad2ca4e6c2476f9bd01727a51f9edb0"
-
-[[files]]
-file = "config/fancymenu/customization/loading.txt"
-hash = "0d9f021012316188e8a91440d911ae82fec234df14ef50aa5f2c7658b66099cb"
-
-[[files]]
-file = "config/fancymenu/customization/luna_screen.txt"
-hash = "88ffe3dc9136d150a05a27aac3866b30d22fe6bee049f36526674e7f4e54acbc"
-
-[[files]]
-file = "config/fancymenu/customization/mainmenu.txt"
-hash = "af91cf51fd22bea118ebf70a4edaea7a31b573ad231d15e0ef9ca4bf2ca3890f"
-
-[[files]]
-file = "config/fancymenu/customization/mpuc.txt"
-hash = "681088981e1983628b92a5d3dafb4a7bbe30f5b968830ab95f6508a21d6a7f72"
-
-[[files]]
-file = "config/fancymenu/customization/multi.txt"
-hash = "93c0fb9ed3470e4355989a65b5b50ae3e3dc124f81cbf12c221cb6b4956e93d3"
-
-[[files]]
-file = "config/fancymenu/customization/multiplayer.txt"
-hash = "c174aad62b3655110e33324cab4e15af09d9e9b2b8dbe301722f1d8f5dda4a82"
 
 [[files]]
 file = "config/fancymenu/locals/de_de.local"
@@ -723,43 +687,7 @@ hash = "50cf30919fd2c7b11f6ce246425d657e3b93dfb919a0b6fe4730dc5d9fee0d2a"
 
 [[files]]
 file = "config/fancymenu/menu_identifiers.db"
-hash = "9dfa943b1306339bcea776147394c19db55f7cfc41ed3f3fb639f41a360baffe"
-
-[[files]]
-file = "config/fancymenu/minecraftwindow/icons/icon16x16.png"
-hash = "044b6e09f6fb66ce876ce5476c55ce9445479c099af7d844584bbcea93598d5b"
-
-[[files]]
-file = "config/fancymenu/minecraftwindow/icons/icon32x32.png"
-hash = "576794a582acb68f6ea80d70b4ff72effb50c473ff5ac471561bcfef6b9f2a32"
-
-[[files]]
-file = "config/fancymenu/panoramas/betterminecraftpanorama/panorama/panorama_0.png"
-hash = "e59f347665954b50eaa0d974a1ae06aa2646bb4d3a3481bd0d8faa8af47d8a5f"
-
-[[files]]
-file = "config/fancymenu/panoramas/betterminecraftpanorama/panorama/panorama_1.png"
-hash = "6610ddfb2262e0283c673674ee0f328086e9c7844aff1fd164679c4abc9da45f"
-
-[[files]]
-file = "config/fancymenu/panoramas/betterminecraftpanorama/panorama/panorama_2.png"
-hash = "cbddc5047375874fd60ced9a8248ff6f1f1bc0808c93da1c44660de8aa688d54"
-
-[[files]]
-file = "config/fancymenu/panoramas/betterminecraftpanorama/panorama/panorama_3.png"
-hash = "e41694c7d8539e520dca4ad1317bbec2cde0aa39662aa3fd801e74fbf3896a8c"
-
-[[files]]
-file = "config/fancymenu/panoramas/betterminecraftpanorama/panorama/panorama_4.png"
-hash = "3d284f63a375b237773fee74aff4e80b9e84e11a48b46e9e7d3eb18c913dac28"
-
-[[files]]
-file = "config/fancymenu/panoramas/betterminecraftpanorama/panorama/panorama_5.png"
-hash = "e011119a0eb7845afd5e87622e0e0255ca0142d6a37a88ba36a240cfc1d62481"
-
-[[files]]
-file = "config/fancymenu/panoramas/betterminecraftpanorama/properties.txt"
-hash = "7f6592570b374503dd55a03de17a6ef9c78cceb51f65d3f5c11c7f20bad2c051"
+hash = "003a1c89846741e0eb9475089d4ed653896fd08e0b994667fae452b4ad894a72"
 
 [[files]]
 file = "config/fancymenu/panoramas/jspcd/panorama/panorama_0.png"
