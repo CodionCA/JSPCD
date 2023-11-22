@@ -1,5 +1,5 @@
 name = "JSPCD"
-version = "1.0.1"
+version = "1.0.2"
 pack-format = "packwiz:1.1.0"
 
 [index]
@@ -8,5 +8,5 @@ hash-format = "sha256"
 hash = "c7b38afec87f36a7c694fdfab408056123d928ef954dade4ed9f46fd589d2d85"
 
 [versions]
-forge = "47.2.0"
+forge = "47.2.6"
 minecraft = "1.20.1"
