@@ -1590,6 +1590,10 @@ file = "mods/AI-Improvements-1.20-0.5.2.jar"
 hash = "575a4a8e00f982c064d54bb3e73e5cda2d14414de054a471a3daf3f58bdf560a"
 
 [[files]]
+file = "mods/AdvancedPeripherals-1.20.1-0.7.34b.jar"
+hash = "ee90277c9d5f3499cd9b1a30701b6630441b47a4b4122c6bd6df96336da1d472"
+
+[[files]]
 file = "mods/Clumps-forge-1.20.1-12.0.0.3.jar"
 hash = "575199cd54b3b52c2c887d58af048efa3d8296942f079ec183d0259fcb21c65a"
 
@@ -1702,6 +1706,14 @@ file = "mods/canary-mc1.20.1-0.2.7.jar"
 hash = "ed3d8c663119077302c0b8e1ebf6144b0a4e830d8babba29ef63944f921eac21"
 
 [[files]]
+file = "mods/cc-tweaked-1.20.1-forge-1.109.0.jar"
+hash = "ca392322be3321419dda59cc61ac537577031df3ad9a98957cc955d5e81b8101"
+
+[[files]]
+file = "mods/cccbridge-mc1.20.1-forge-1.6.3.jar"
+hash = "ebdde3d104757c50f0a052b7807c4b7464bf12217a1cc7155387f665fb578d22"
+
+[[files]]
 file = "mods/citadel-2.4.9-1.20.1.jar"
 hash = "36058eed1dad7b57598cb60a584165f57c80f1f5807043e2e3c4052e58ca83d3"
 
@@ -1716,10 +1728,6 @@ hash = "4d69c98e33aee3c98d76d11aab3d497ff0c82d367f1378b2dee19971932aa206"
 [[files]]
 file = "mods/create-structures-0.1.1-1.20.1-FORGE.jar"
 hash = "6f1c57dc200cce4e7a9d158b3d6895c108637f518060377f6bc5bc52ad8d4aab"
-
-[[files]]
-file = "mods/createaddition-1.20.1-1.0.0b.jar"
-hash = "b0fbe599083320cac65f60c4ffb3e3d3946777d7d8f64ce865b8eb74f4d49b49"
 
 [[files]]
 file = "mods/cupboard-1.20.1-2.1.jar"
