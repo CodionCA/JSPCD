@@ -610,10 +610,6 @@ file = "mods/AI-Improvements-1.20-0.5.2.jar"
 hash = "575a4a8e00f982c064d54bb3e73e5cda2d14414de054a471a3daf3f58bdf560a"
 
 [[files]]
-file = "mods/BOH_0.0.4.jar"
-hash = "bde45f31a17ff44cabccba6266c203da36cb70092a66362cebba7fbbba1211c1"
-
-[[files]]
 file = "mods/Clumps-forge-1.20.1-12.0.0.3.jar"
 hash = "575199cd54b3b52c2c887d58af048efa3d8296942f079ec183d0259fcb21c65a"
 
@@ -646,16 +642,8 @@ file = "mods/MouseTweaks-forge-mc1.20-2.25.jar"
 hash = "ab40135c02e94d968570a0c13895a2a686c04a8b341728e34ca56fa97067bba4"
 
 [[files]]
-file = "mods/REIPluginCompatibilities-forge-12.0.93.jar"
-hash = "7c49095f52b0b6f7db752126c4b069c78b1314f8f29eccf37db24b9d17fc76c4"
-
-[[files]]
 file = "mods/RegionsUnexploredForge-0.5.3+1.20.1.jar"
 hash = "0cd30cb4f9e8346ea2d09f6f0acd9af97429cb23897e4c893912e4cce28d3a15"
-
-[[files]]
-file = "mods/RoughlyEnoughItems-12.0.674.jar"
-hash = "286b542137156e45c5d715159a11564cb43b404ef71b7fae9b315ddef47f5578"
 
 [[files]]
 file = "mods/Steam_Rails-1.5.3+forge-mc1.20.1.jar"
@@ -754,6 +742,10 @@ file = "mods/embeddium-0.2.9+mc1.20.1.jar"
 hash = "9435e5291632868e8d35a1ed7782a79793f128158e553aba430c8fa02d121529"
 
 [[files]]
+file = "mods/emi-1.0.24+1.20.1+forge.jar"
+hash = "baf5b582103f711b86ee43211bcf238b3fc494c52dc6c98215d9d42c59958f58"
+
+[[files]]
 file = "mods/endofherobrine-1.20.1-1.0.8.2.jar"
 hash = "f3c296d7166c11c8a129e8a137bb496f6f2b59b352fa0259a4a87332edb19fb3"
 
@@ -796,6 +788,10 @@ hash = "a367ee55bc8c2b743815efab78f775dc845e614a2875f6f6a3b1979e7acf1369"
 [[files]]
 file = "mods/irons_spellbooks-1.20.1-2.0.2.jar"
 hash = "98763b37a1396509d45df9311b09beb709db6fc01c99880f28490aa7450edfca"
+
+[[files]]
+file = "mods/jei-1.20.1-forge-15.2.0.27.jar"
+hash = "43c66b26b541614b168f2d8dc881254dc1f40611e093ed55c7a46299c5c45f49"
 
 [[files]]
 file = "mods/justzoom_forge_1.0.2_MC_1.20.1.jar"
