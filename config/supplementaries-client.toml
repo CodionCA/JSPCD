@@ -138,9 +138,9 @@
 	#Rotation particle
 	[particles.turn_particle]
 		#An RGBA color
-		initial_color = "#002A77EA"
+		initial_color = "2a77ea"
 		#An RGBA color
-		fade_color = "#0032BEFA"
+		fade_color = "32befa"
 
 #General settings
 [general]
@@ -173,7 +173,7 @@
 	clock_right_click = true
 	#Allow to right click with a compass to display current coordinates in numerical form
 	compass_right_click = false
-	#Renders an enchantment glint on placeable enchanted booksNote that turning this on will make book piles use tile renderer instead of baked models making them slower to render
+	#Renders an enchantment glint on placeable enchanted books
 	placeable_books_glint = false
 	#Placeable books random colors
 	#This is a list. Add more entries with syntax [[...]]
@@ -182,22 +182,10 @@
 	banner_pattern_tooltip = true
 	#Enables paintings tooltip image preview
 	paintings_tooltip = true
-	#Enables sherds tooltip image preview
-	sherds_tooltip = true
-	#Size of the tooltip image used for Sherds, Blackboards, Banner patterns and Paintings
-	#Range: 1 ~ 255
-	tooltip_image_size = 80
 	#Wearing mob heads will apply post processing
 	mob_head_shaders = true
 	#Sends your current chat when you die while typing
 	send_chat_on_death = true
-	#A scalar multiplier that will be applied to sign text making it brighter, supposedly more legible
-	#Range: 0.0 ~ 5.0
-	sign_text_color_multiplier = 1.2000000476837158
-	#Needs the server config with same name on. If on here it will ignore the server one and keep vanilla colors
-	tinted_blocks_on_maps = true
-	#Colors tall grass same color as grass
-	tall_grass_color = true
 
 [items]
 
@@ -207,20 +195,10 @@
 		#Render the block outline for distant blocks that are reachable with a slingshot enchanted with Stasis
 		stasis_block_outline = true
 		#An RGBA color for the block outline in hex format, for example 0x00000066 for vanilla outline colors
-		block_outline_color = "#FFFFFF66"
+		block_outline_color = "ffffff66"
 		#How big should a slingshot projectile look
 		#Range: 0.0 ~ 1.0
 		projectile_scale = 0.5
-
-	[items.altimeter]
-		#Click action for depth meter which displays current depth
-		click_action = true
-		#Allows depth meter to have unique textures per each dimension. Add more dimensions IDs and a matching texture in the correct path replacing ':' with '_'
-		#This is a list. Add more entries with syntax [[...]]
-		extra_dimension_textures = ["minecraft:the_nether", "minecraft:the_end"]
-		#Increasing this to be more than 1 will result in delth meter display image to be shown in float amounts instead of pixel perfect ones
-		#Range: 1 ~ 10
-		texture_precision_multiplier = 1
 
 	[items.quiver]
 		#Z offset for quiver render when wearing armor. Useful for when you have custom armor bigger than vanilla to void clipping. Leave at -1 for automatic offset
