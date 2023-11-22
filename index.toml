@@ -1718,6 +1718,10 @@ file = "mods/create-structures-0.1.1-1.20.1-FORGE.jar"
 hash = "6f1c57dc200cce4e7a9d158b3d6895c108637f518060377f6bc5bc52ad8d4aab"
 
 [[files]]
+file = "mods/createaddition-1.20.1-1.0.0b.jar"
+hash = "b0fbe599083320cac65f60c4ffb3e3d3946777d7d8f64ce865b8eb74f4d49b49"
+
+[[files]]
 file = "mods/cupboard-1.20.1-2.1.jar"
 hash = "e19d92b01fd1195924a6b29efc22cd13c8bd3cef2964c64bca61e05a4d00065e"
 
@@ -1800,6 +1804,10 @@ hash = "48cc0d5e5e5c1751c18fa2fc2d79dab64ed658f76b9e397ef51767bd6695a43d"
 [[files]]
 file = "mods/iceandfire-2.1.13-1.20.1+build.2.1.13-alpha-7.jar"
 hash = "a367ee55bc8c2b743815efab78f775dc845e614a2875f6f6a3b1979e7acf1369"
+
+[[files]]
+file = "mods/interiors-0.5.2+mc1.20.1-FORGE.jar"
+hash = "47137fea73c475a3a6faeaf15a07e242f3614ed9f9c0ae6ab08b5f06f90e7b18"
 
 [[files]]
 file = "mods/irons_spellbooks-1.20.1-2.0.2.jar"
