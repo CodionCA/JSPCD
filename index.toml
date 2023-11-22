@@ -647,7 +647,11 @@ hash = "290bcc08dbac1bd350e67604dcdfcc88efc097a723a4afaf96aa2fbe4f1e9a32"
 
 [[files]]
 file = "config/fancymenu/customization/jscpd.txt"
-hash = "a11a70f5730a3bda936b91ffcc27b80ca0ae354c89dd7165710859ad48cbd7e2"
+hash = "f319c1c7b24f14947f4d9dffcb10e921e35d2c6f497e058b11f01c8bb459c82d"
+
+[[files]]
+file = "config/fancymenu/customization/jspcd.txt"
+hash = "a4847a48c60b4e1b57694602c8c00981bad2ca4e6c2476f9bd01727a51f9edb0"
 
 [[files]]
 file = "config/fancymenu/locals/de_de.local"
@@ -1814,8 +1818,8 @@ file = "mods/mcw-bridges-2.1.0-mc1.20.2forge.jar"
 hash = "8fd8e8b54783b43d702f3d1bf7066b714c7056c051151cb04a45c0a96f921485"
 
 [[files]]
-file = "mods/minecolonies-1.20.1-1.1.240-RELEASE.jar"
-hash = "cb6c6e620ed99a6859c8c579596092bc4521e568b34c59afb5fb6384cc6383cc"
+file = "mods/minecolonies-1.20.1-1.1.321-BETA.jar"
+hash = "010c0ef3f6bd04ee92ac40d967ec1fecbf7cd41a4ad3b340ae8cae19071eb9bc"
 
 [[files]]
 file = "mods/missions-forge-0.2.jar"
