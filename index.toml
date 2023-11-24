@@ -1606,8 +1606,8 @@ file = "mods/Fastload-Reforged-mc1.20.1-3.4.0.jar"
 hash = "038a5fa1c044d5afae22502ca1444eeb1a700d34a224996c25f233524ae35a7a"
 
 [[files]]
-file = "mods/FpsReducer2-fabric-1.20.2-2.6.jar"
-hash = "dc24293ddf8fe0e29a9d812c78d0763d8b1c661389da376bac40fdbb1a9198db"
+file = "mods/FpsReducer2-forge-1.20-2.5.jar"
+hash = "4edeec5c3dc690e06a647dd5f4d5cd4f95330e0d0b0d7aceb3748f10dbd64b90"
 
 [[files]]
 file = "mods/ImmediatelyFast-1.2.7+1.20.2.jar"
@@ -1616,6 +1616,10 @@ hash = "5f659876bfba4a8ba130cfbf80689b4230f753a663209ad4a0a198eea3e78476"
 [[files]]
 file = "mods/Jade-1.20.1-forge-11.6.3.jar"
 hash = "bf77e4c7902dbc61de42d065467928177d72378c5e7935f9a377bdb90a1919d5"
+
+[[files]]
+file = "mods/Log-Begone-Forge-1.20.1-1.0.8.jar"
+hash = "7ac59d4a83c7841f46d1182b626f7b0d229b9159b8ec1a63d7a7dd40fc817adc"
 
 [[files]]
 file = "mods/Log-Begone-neoforge-1.20.1-1.0.9.jar"
@@ -1662,8 +1666,8 @@ file = "mods/YungsBetterMineshafts-1.20-Forge-4.0.4.jar"
 hash = "6632e7bcc58325098e85bcb755483de7cb3af92a5ea548f3b5c0162cbf0dc1dc"
 
 [[files]]
-file = "mods/YungsBetterStrongholds-1.20-Forge-4.0.2.jar"
-hash = "f5e1d21e7076d6430c8016497dcef30fe4419319f86ace99cecc062758e6cbf1"
+file = "mods/YungsBetterStrongholds-1.20-Forge-4.0.3.jar"
+hash = "054b0a1be86510ed6bd05de66a29200f13f5603c0c9eb7e62074ddc3d19cb0e4"
 
 [[files]]
 file = "mods/YungsBridges-1.20-Forge-4.0.3.jar"
@@ -1678,8 +1682,8 @@ file = "mods/alternate_current-mc1.20-1.7.0.jar"
 hash = "9dfa5365ef170323612d6ada820b7cac12e05135f00f16d0f627488426f59565"
 
 [[files]]
-file = "mods/appleskin-forge-mc1.20.1-2.5.0.jar"
-hash = "568dcf98294a228295bb819f2d8ac27840e75870de80e78137d4c771f2a6cd4f"
+file = "mods/appleskin-forge-mc1.20.1-2.5.1.jar"
+hash = "e12419e43e3babc810af289403c5cd96bd7f09809b389acc6bb2f122b4b2a426"
 
 [[files]]
 file = "mods/architectury-9.1.12-forge.jar"
@@ -1690,8 +1694,8 @@ file = "mods/async-locator-forge-1.20-1.3.0.jar"
 hash = "d171fdddd8dad64cba4c8c67cd2a0bdfc2697ff35e11f9fb666b7464e1e9468b"
 
 [[files]]
-file = "mods/blockui-1.20.1-0.0.98-ALPHA.jar"
-hash = "670fbd73eafa059235b85c0f62a2de2ab98e1666d2f28a916c399727c40ebba8"
+file = "mods/blockui-1.20.1-1.0.125-BETA.jar"
+hash = "ce5767e683a078ee50577971ce68d871f88fe9ed63c863a10c405c1e8b48db71"
 
 [[files]]
 file = "mods/blue_skies-1.20.1-1.3.29.jar"
@@ -1730,6 +1734,10 @@ file = "mods/create-structures-0.1.1-1.20.1-FORGE.jar"
 hash = "6f1c57dc200cce4e7a9d158b3d6895c108637f518060377f6bc5bc52ad8d4aab"
 
 [[files]]
+file = "mods/createaddition-1.20.1-1.1.1.jar"
+hash = "a7b2159145b7373478752c439e7cb7fe42439855c46e74cdda5b21230848a6ed"
+
+[[files]]
 file = "mods/cupboard-1.20.1-2.1.jar"
 hash = "e19d92b01fd1195924a6b29efc22cd13c8bd3cef2964c64bca61e05a4d00065e"
 
@@ -1750,8 +1758,8 @@ file = "mods/ecologics-forge-1.20.1-2.2.0.jar"
 hash = "7f64597c57877648d033d299e41d80dd7f1bf54bf4f39fca78b778dc350ef712"
 
 [[files]]
-file = "mods/embeddium-0.2.9+mc1.20.1.jar"
-hash = "9435e5291632868e8d35a1ed7782a79793f128158e553aba430c8fa02d121529"
+file = "mods/embeddium-0.2.10+mc1.20.1.jar"
+hash = "5ce4708481e160854597b02327fed0788864911ae854f6b2f12f7a2742161ab7"
 
 [[files]]
 file = "mods/emi-1.0.24+1.20.1+forge.jar"
@@ -1798,6 +1806,10 @@ file = "mods/geophilic-v2.0.0-mc1.20u1.20.1.jar"
 hash = "cea4bd15e3b6fb5b5b155acdd345742cd8514469f2dfd6d6cb7dad5f98d90cf7"
 
 [[files]]
+file = "mods/geophilic-v2.1.0-mc1.20u1.20.2.jar"
+hash = "988477f9dea904d916b1a261ae7c2475a453ed7a5490f96c8742d353740c5586"
+
+[[files]]
 file = "mods/getittogetherdrops-forge-1.20-1.3.jar"
 hash = "01e07848b9f741c713bc5b96469a4fbacf950c1285a65de2b153c32474dbdd1f"
 
@@ -1842,8 +1854,8 @@ file = "mods/letmedespawn-forge-1.20.x-1.2.0.jar"
 hash = "be0a9e08652968bbb14a3771c9823f0664be27970f5cba910e20ad0524a76bfa"
 
 [[files]]
-file = "mods/mcw-bridges-2.1.0-mc1.20.2forge.jar"
-hash = "8fd8e8b54783b43d702f3d1bf7066b714c7056c051151cb04a45c0a96f921485"
+file = "mods/mcw-bridges-2.1.1-mc1.20.1forge.jar"
+hash = "612975c8d83a12875a5bcfab8f5fb66185faea53d00c5a05f7b7879e4fcfdc52"
 
 [[files]]
 file = "mods/minecolonies-1.20.1-1.1.240-RELEASE.jar"
@@ -1854,8 +1866,8 @@ file = "mods/missions-forge-0.2.jar"
 hash = "17e65606eb06e3af7e75344c12e5dacd00c055b27d12cf4396711136a1995a98"
 
 [[files]]
-file = "mods/moonlight-1.20-2.8.65-forge.jar"
-hash = "473d8f915b335c0984b7feb84a3eb60cac1acd5902d9484e43a7db42d8705217"
+file = "mods/moonlight-1.20-2.8.66-forge.jar"
+hash = "61a441e00d2d8e05296aea675d2f479164638d474d655ecfa3dce50bf3647026"
 
 [[files]]
 file = "mods/naturalist-forge-4.0.3-1.20.1.jar"
@@ -1914,7 +1926,7 @@ file = "mods/supplementaries-1.20-2.6.31.jar"
 hash = "63ef3eecc00d7c2cafad8094b72e3a1167efb28fbff5c5ed7272ded18b54800c"
 
 [[files]]
-file = "mods/vmp-fabric-mc1.20.1-0.2.0+beta.7.101-all.jar"
+file = "mods/vmp-forge-mc1.20.1-0.2.0+beta.7.101-all.jar"
 hash = "83989e3e2188d520ca71083c0840d8d6c3a89d35f79232f98bc476c113505ca3"
 
 [[files]]
@@ -1922,8 +1934,8 @@ file = "mods/voicechat-forge-1.20.1-2.4.28.jar"
 hash = "30c1fe61c4cfca55c7602a93fe35aa173ce7fd7c190cbb186fa7f337847b4cbe"
 
 [[files]]
-file = "mods/xptome-1.20.1-2.1.8.jar"
-hash = "6f745427b680f779f5ece7fdc34caae37c3872c1ad4c049320c4c45bd2a35d90"
+file = "mods/xptome-1.20.1-2.2.jar"
+hash = "544f028730fd62fc50f9d5b7cc9b463aa3fd6a4db1864e54cffa38bf398493d3"
 
 [[files]]
 file = "options.txt"
