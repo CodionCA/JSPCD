@@ -1914,6 +1914,10 @@ file = "mods/soundphysics-forge-1.20.1-1.2.1.jar"
 hash = "3216ba02b5c3e446d99fdde913842ef6a7d47399b9626e20f21ad70ac31c34b8"
 
 [[files]]
+file = "mods/starlight-1.1.2+forge.1cda73c.jar"
+hash = "e90763c86d362c7cb427dbb70e89985c11a882fdd69ae7d04ac2e23a106eb500"
+
+[[files]]
 file = "mods/structure_gel-1.20.1-2.15.0.jar"
 hash = "df9abe5a24a52b0b3e63716a6f603204e04632e11b3c22d2d7ccc099d328e9cb"
 
