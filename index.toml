@@ -1622,10 +1622,6 @@ file = "mods/Log-Begone-Forge-1.20.1-1.0.8.jar"
 hash = "7ac59d4a83c7841f46d1182b626f7b0d229b9159b8ec1a63d7a7dd40fc817adc"
 
 [[files]]
-file = "mods/Log-Begone-neoforge-1.20.1-1.0.9.jar"
-hash = "115324e292a9b7e0e1f750a0f7e4c005ef2ab92728ef0a64d12cba3aa0bbcffd"
-
-[[files]]
 file = "mods/MouseTweaks-forge-mc1.20-2.25.jar"
 hash = "ab40135c02e94d968570a0c13895a2a686c04a8b341728e34ca56fa97067bba4"
 
@@ -1800,10 +1796,6 @@ hash = "66fe14e5f378d7db2391c9ef9a45bd74d923278ff9b09275cac30b9ebb772ba8"
 [[files]]
 file = "mods/geckolib-forge-1.20.1-4.2.4.jar"
 hash = "4157e25a3002d1afe49331a07c3f402551e15f146b484873ed5f815b30134351"
-
-[[files]]
-file = "mods/geophilic-v2.0.0-mc1.20u1.20.1.jar"
-hash = "cea4bd15e3b6fb5b5b155acdd345742cd8514469f2dfd6d6cb7dad5f98d90cf7"
 
 [[files]]
 file = "mods/geophilic-v2.1.0-mc1.20u1.20.2.jar"
