@@ -1650,6 +1650,10 @@ file = "mods/WorldPreGenerator-1.20.1-4.0.0.jar"
 hash = "a924be0f9f3c8523bbf7fdfac0367b9d7302af6755ecc17f4d6cc9e51a006d0c"
 
 [[files]]
+file = "mods/XaerosWorldMap_1.36.0_Forge_1.20.jar"
+hash = "a6011143e7d41b5e1445b8eeefda859094a379ff40eeaa6362a25bb23c591a1c"
+
+[[files]]
 file = "mods/YungsApi-1.20-Forge-4.0.2.jar"
 hash = "d3cd5188e83f2bb53ea296155108e94a8842babdf9e6774847c93fb55f306445"
 
@@ -1742,8 +1746,8 @@ file = "mods/curios-forge-5.4.2+1.20.1.jar"
 hash = "1780cf50bc3d946027c428ad6dfee2383da7235eb26fe6feea37e7c960e66b92"
 
 [[files]]
-file = "mods/domum_ornamentum-1.20-1.0.110-RELEASE-universal.jar"
-hash = "b4ee1af3377f453219dcb896af899f6cb7eeacbf8344b2e9e9771b3bebf6d017"
+file = "mods/domum_ornamentum-1.20-1.0.147-BETA-universal.jar"
+hash = "60354d2f4efe531dc0e055ebe14763f766225571b1a814598e33384602fdcb22"
 
 [[files]]
 file = "mods/dynview-1.20.1-3.9.jar"
@@ -1760,10 +1764,6 @@ hash = "5ce4708481e160854597b02327fed0788864911ae854f6b2f12f7a2742161ab7"
 [[files]]
 file = "mods/emi-1.0.24+1.20.1+forge.jar"
 hash = "baf5b582103f711b86ee43211bcf238b3fc494c52dc6c98215d9d42c59958f58"
-
-[[files]]
-file = "mods/endofherobrine-1.20.1-1.0.8.2.jar"
-hash = "f3c296d7166c11c8a129e8a137bb496f6f2b59b352fa0259a4a87332edb19fb3"
 
 [[files]]
 file = "mods/entityculling-forge-1.6.2-mc1.20.1.jar"
@@ -1850,8 +1850,8 @@ file = "mods/mcw-bridges-2.1.1-mc1.20.1forge.jar"
 hash = "612975c8d83a12875a5bcfab8f5fb66185faea53d00c5a05f7b7879e4fcfdc52"
 
 [[files]]
-file = "mods/minecolonies-1.20.1-1.1.240-RELEASE.jar"
-hash = "cb6c6e620ed99a6859c8c579596092bc4521e568b34c59afb5fb6384cc6383cc"
+file = "mods/minecolonies-1.20.1-1.1.327-BETA.jar"
+hash = "cb3f0ee4b1d79f92a9c5c9f1f52793d49207fac4c777678bcddd8ee9f76285fb"
 
 [[files]]
 file = "mods/missions-forge-0.2.jar"
@@ -1860,6 +1860,10 @@ hash = "17e65606eb06e3af7e75344c12e5dacd00c055b27d12cf4396711136a1995a98"
 [[files]]
 file = "mods/moonlight-1.20-2.8.66-forge.jar"
 hash = "61a441e00d2d8e05296aea675d2f479164638d474d655ecfa3dce50bf3647026"
+
+[[files]]
+file = "mods/multipiston-1.20-1.2.31-ALPHA.jar"
+hash = "b62075969162b7fd7d65a0fd9582dfe9c6dfffd4290458b22a6c336d61e2c2ff"
 
 [[files]]
 file = "mods/naturalist-forge-4.0.3-1.20.1.jar"
