@@ -1922,6 +1922,10 @@ file = "mods/soundphysics-forge-1.20.1-1.2.1.jar"
 hash = "3216ba02b5c3e446d99fdde913842ef6a7d47399b9626e20f21ad70ac31c34b8"
 
 [[files]]
+file = "mods/spark-1.10.53-forge.jar"
+hash = "eba275ba9bb0cb5b542913c3138c6eeff6a752898266d63d125d185f26ac99ed"
+
+[[files]]
 file = "mods/starlight-1.1.2+forge.1cda73c.jar"
 hash = "e90763c86d362c7cb427dbb70e89985c11a882fdd69ae7d04ac2e23a106eb500"
 
@@ -1932,6 +1936,10 @@ hash = "df9abe5a24a52b0b3e63716a6f603204e04632e11b3c22d2d7ccc099d328e9cb"
 [[files]]
 file = "mods/structurize-1.20.1-1.0.662-BETA.jar"
 hash = "fd5707191a9816892a658d77d9fe8f3fc8ba973deb127c78dafc9b9af9913b98"
+
+[[files]]
+file = "mods/stylecolonies-1.2.jar"
+hash = "689602ddc0d53f2a546d528dd4c9a2610a8e16f2cbe6b0ae191c5cb126255c68"
 
 [[files]]
 file = "mods/supplementaries-1.20-2.6.31.jar"
