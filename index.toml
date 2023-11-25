@@ -5247,7 +5247,7 @@ hash = "92f58d1a2160fc827a02b70f44c6425416911cd8a49a69bf98a076a6a4d94c7d"
 
 [[files]]
 file = "config/sound_physics_remastered/soundphysics.properties"
-hash = "b5547f7dd7841562164a084ef5973617f8067cf57c63c17925dff0f7f8ab9485"
+hash = "aef5e862457dbd182e2c06d6a8d3c2750cb326051165f97ac112748e7967498c"
 
 [[files]]
 file = "config/starterkit/starterkit-old.txt"
