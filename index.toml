@@ -1,6 +1,3858 @@
 hash-format = "sha256"
 
 [[files]]
+file = "blueprints/Byzantine_2/Byzantine.png"
+hash = "7bdda37029b82612f008ee3b257e19a077564da92f49017fdfddff0e228bf804"
+
+[[files]]
+file = "blueprints/Byzantine_2/agriculture/horticulture/altplantation1.blueprint"
+hash = "4e5b73eba5f5540dccee4bb5ba2950bede61817112978625fdefbfabd3edf8e4"
+
+[[files]]
+file = "blueprints/Byzantine_2/agriculture/horticulture/altplantation2.blueprint"
+hash = "d4e065fc07af872debdbb13a70628aeb894ea791f473e56dde58f106226a2247"
+
+[[files]]
+file = "blueprints/Byzantine_2/agriculture/horticulture/altplantation3.blueprint"
+hash = "42a1128f4289fd25ed25479142a9ff0d278ab64213466e1631f52a3cfd320d34"
+
+[[files]]
+file = "blueprints/Byzantine_2/agriculture/horticulture/altplantation4.blueprint"
+hash = "2f075e80f1dc815480c62591161baff8c4e1a906742ddeac577eb9f0f882c9bd"
+
+[[files]]
+file = "blueprints/Byzantine_2/agriculture/horticulture/altplantation5.blueprint"
+hash = "80720941b105a1d8497cb3d16e33f084d1ab07c3d8921845c7c50c93bfc43f08"
+
+[[files]]
+file = "blueprints/Byzantine_2/agriculture/horticulture/composter1.blueprint"
+hash = "2c1dc028069a0e2f96a8c2efdd1aafb05f4465be71193c53400a5479734e4df3"
+
+[[files]]
+file = "blueprints/Byzantine_2/agriculture/horticulture/composter2.blueprint"
+hash = "9d6060acf5647eba77fe100a2a0106644278491da76bcc7215a1ba57cbe92cbd"
+
+[[files]]
+file = "blueprints/Byzantine_2/agriculture/horticulture/composter3.blueprint"
+hash = "bae8e39ddc5a334ed98547c60d52e6e5ff61f96de8498694327bf9af671a4370"
+
+[[files]]
+file = "blueprints/Byzantine_2/agriculture/horticulture/composter4.blueprint"
+hash = "35fcd18b99015c1c2b5bf22318eb9251f2da2dac61aaad6e331f9070f9ddb6b1"
+
+[[files]]
+file = "blueprints/Byzantine_2/agriculture/horticulture/composter5.blueprint"
+hash = "c33471c33ea31d3fcb7e8788d41aa53b8644ad9e459896774033f37ce9f0b69b"
+
+[[files]]
+file = "blueprints/Byzantine_2/agriculture/horticulture/cornerdorm0.blueprint"
+hash = "0cfbba8cdfcd09e0ce490e863e508efbd56eba37aa5cdc7491fc0556a970badc"
+
+[[files]]
+file = "blueprints/Byzantine_2/agriculture/horticulture/cornerdorm1.blueprint"
+hash = "4ff8204cfe609bf3bb27c131a6c66ad4a2e5a9abc524a5b588bbecb56281f0d1"
+
+[[files]]
+file = "blueprints/Byzantine_2/agriculture/horticulture/cornerdorm2.blueprint"
+hash = "730d59dda87966c1b47429bde26c3b03ff6830a7de1a2c5ded04a16769018e74"
+
+[[files]]
+file = "blueprints/Byzantine_2/agriculture/horticulture/cornerdorm3.blueprint"
+hash = "4159201d06c4e17410d8fb9371262f67b4431af1f70a628ca9387a8b92b2ced6"
+
+[[files]]
+file = "blueprints/Byzantine_2/agriculture/horticulture/cornerdorm4.blueprint"
+hash = "f3bb28fd8ad852795c5bbbd8bb320714a973b6c11c1c4e7a0a94874367c27561"
+
+[[files]]
+file = "blueprints/Byzantine_2/agriculture/horticulture/cornerdorm5.blueprint"
+hash = "47ea605094de69fc8d890b4c842e9dc586a1452d0ec489b0445007fbec6cc2da"
+
+[[files]]
+file = "blueprints/Byzantine_2/agriculture/horticulture/farm1.blueprint"
+hash = "34264d948c85ec1f535ac3ca9c2badf061334f5d202405f21cfe568a1725f456"
+
+[[files]]
+file = "blueprints/Byzantine_2/agriculture/horticulture/farm2.blueprint"
+hash = "6d349b79e739c08ab0e6c50b913d04764d1ffa23880a711654d59e209a81b69d"
+
+[[files]]
+file = "blueprints/Byzantine_2/agriculture/horticulture/farm3.blueprint"
+hash = "2aa6c7e9339bf41745b5457cceca8f308a27d00fee12a0befc36230313ed20c1"
+
+[[files]]
+file = "blueprints/Byzantine_2/agriculture/horticulture/farm4.blueprint"
+hash = "f1f43e90a73cbf84b7511f00a1960453dceaf2e0b0efb9fa923e53c62c3eacc9"
+
+[[files]]
+file = "blueprints/Byzantine_2/agriculture/horticulture/farm5.blueprint"
+hash = "595074dc14b26f9d3628377cac3c0c477936cc92935ba341595ff369b7b016c3"
+
+[[files]]
+file = "blueprints/Byzantine_2/agriculture/horticulture/flowershop1.blueprint"
+hash = "4f6797a61753961c8c7b9f926002593bcf70bedde0fc4752191aaf0ce213bbd9"
+
+[[files]]
+file = "blueprints/Byzantine_2/agriculture/horticulture/flowershop2.blueprint"
+hash = "3b78e2826ad0557f7e2529b420a14211bfc5ab867e5bcef9c0b4181db6f519f9"
+
+[[files]]
+file = "blueprints/Byzantine_2/agriculture/horticulture/flowershop3.blueprint"
+hash = "16a28e1a7903e676fece8fd56501c3846060fc582fc61e7edc2f90986490edc2"
+
+[[files]]
+file = "blueprints/Byzantine_2/agriculture/horticulture/flowershop4.blueprint"
+hash = "118dde5375f53082dd887bb6664ce25f6c5874b55636a1cfaf3b2225e776430a"
+
+[[files]]
+file = "blueprints/Byzantine_2/agriculture/horticulture/flowershop5.blueprint"
+hash = "dc4d14e7ea1cdddb308cc368f393ddc2d02c9c1f6333341e66127d04efd4d55f"
+
+[[files]]
+file = "blueprints/Byzantine_2/agriculture/horticulture/flowershopMystical1.blueprint"
+hash = "a5e6cb12fb5297fb7e4cff81df26b6eed8b079ffbac896e0aeee5994e68a3f9b"
+
+[[files]]
+file = "blueprints/Byzantine_2/agriculture/horticulture/flowershopMystical2.blueprint"
+hash = "733b875d538e5c6f2f742beccd5c5a5d31b247635f8eda9f647cfdd6bd01d5b0"
+
+[[files]]
+file = "blueprints/Byzantine_2/agriculture/horticulture/flowershopMystical3.blueprint"
+hash = "d21086e090812eb964c594947c39f854fdf0b67f3bc7ceea439ae503ae73c275"
+
+[[files]]
+file = "blueprints/Byzantine_2/agriculture/horticulture/flowershopMystical4.blueprint"
+hash = "9f788f561a547e99d5f39bd75cf38c45f7b7f6696d767778dca7f484fa15ad44"
+
+[[files]]
+file = "blueprints/Byzantine_2/agriculture/horticulture/flowershopMystical5.blueprint"
+hash = "932cd5ec029fc2db1c608d8a15cb1cac3e2e574f7b3805b64135d06f6fbc0809"
+
+[[files]]
+file = "blueprints/Byzantine_2/agriculture/horticulture/plantation1.blueprint"
+hash = "cd0f0e88ede87c36cd84cec3a0d22d67b8a6a30cef289783a2425b76dc0c9282"
+
+[[files]]
+file = "blueprints/Byzantine_2/agriculture/horticulture/plantation2.blueprint"
+hash = "ff0255a2ddd343bc3eb137423f286e8a40d858f3bb2d4e20adf4b2682dbcdb19"
+
+[[files]]
+file = "blueprints/Byzantine_2/agriculture/horticulture/plantation3.blueprint"
+hash = "78a4057e384f37e063fd588577b9ba1a2a6e284765175a004edebaf7abd1ff33"
+
+[[files]]
+file = "blueprints/Byzantine_2/agriculture/horticulture/plantation4.blueprint"
+hash = "ad33b970d7c8741d7b55c28b41fa470c099f469bfa6a2f05933d85bac89783ae"
+
+[[files]]
+file = "blueprints/Byzantine_2/agriculture/horticulture/plantation5.blueprint"
+hash = "44a055057373004ee7e1b25abafd6e243689e017547973f1ecf34db74c62852e"
+
+[[files]]
+file = "blueprints/Byzantine_2/agriculture/horticulture/plantroom0.blueprint"
+hash = "c6696d5c3df9b10d8e12a2a9e7898d43869f24d643efd3b0d8f92864ff653a3d"
+
+[[files]]
+file = "blueprints/Byzantine_2/agriculture/horticulture/plantroom1.blueprint"
+hash = "c6f2ef311b46788b2e1319207bb7cf6d2f9bb5dbd0e905b631f79d306392b818"
+
+[[files]]
+file = "blueprints/Byzantine_2/agriculture/horticulture/plantroom2.blueprint"
+hash = "2983c2e22f7588709a40e66ea82e9f674d3217addf7ae462e9d26b9470c3650d"
+
+[[files]]
+file = "blueprints/Byzantine_2/agriculture/horticulture/plantroom3.blueprint"
+hash = "2f0d61cfb0f382ebb21d701e47a09abbae609b3a51cd58d124738bdabf08ff67"
+
+[[files]]
+file = "blueprints/Byzantine_2/agriculture/horticulture/plantroom4.blueprint"
+hash = "83f799c3a4c67907315cc19f66f3528579659972ad6e86681bf65e09ba8fa950"
+
+[[files]]
+file = "blueprints/Byzantine_2/agriculture/horticulture/plantroom5.blueprint"
+hash = "d129821b53491e0be22f314a624c76239ba13a8e655ae3cf6b78d07d1a55bc1b"
+
+[[files]]
+file = "blueprints/Byzantine_2/agriculture/husbandry/apiary1.blueprint"
+hash = "a3e3448310411a6032299ee2f8044332dd746c02212a824088aaa33bde92d15c"
+
+[[files]]
+file = "blueprints/Byzantine_2/agriculture/husbandry/apiary2.blueprint"
+hash = "a1304d4caa6a3ff0020f81f8571bde07cb23f3cb706c32d46cc9a6b4bda30c73"
+
+[[files]]
+file = "blueprints/Byzantine_2/agriculture/husbandry/apiary3.blueprint"
+hash = "aac649c9aee0fa6e623a74aefd5ad1ba5b1503a46d45f1430ab591c9230a7603"
+
+[[files]]
+file = "blueprints/Byzantine_2/agriculture/husbandry/apiary4.blueprint"
+hash = "09e9f014dd613a4edf00c98cc8fe2fcd6d46510fda87658d566d742a960a5da5"
+
+[[files]]
+file = "blueprints/Byzantine_2/agriculture/husbandry/apiary5.blueprint"
+hash = "12576b8688e33ce6239c67948e229121fdf69da0cbc0ccb326483145c22f8728"
+
+[[files]]
+file = "blueprints/Byzantine_2/agriculture/husbandry/boatextra1.blueprint"
+hash = "47a01310274533175d51ac6e1b951782aad4262248c0a27eb0b99c5b996f9046"
+
+[[files]]
+file = "blueprints/Byzantine_2/agriculture/husbandry/boatextra2.blueprint"
+hash = "4d0f31409603d2edb84fc3573d9e84ede4813b0de4da691b7bbb2f82e9c351fa"
+
+[[files]]
+file = "blueprints/Byzantine_2/agriculture/husbandry/boatextra3.blueprint"
+hash = "10e720e52f718ec50649c32a8088e2e35214b74a73898670b2dbf8630ea3a315"
+
+[[files]]
+file = "blueprints/Byzantine_2/agriculture/husbandry/boatextra4.blueprint"
+hash = "987ac1a3c600c2f8b445739b148242d69bede04ef51e1f967ce5c4dbe93339e6"
+
+[[files]]
+file = "blueprints/Byzantine_2/agriculture/husbandry/boatextra5.blueprint"
+hash = "47b70432f70a7bcb5115f94398841a96c439364ee6cdc5e166c1438fca8ffe06"
+
+[[files]]
+file = "blueprints/Byzantine_2/agriculture/husbandry/chickens1.blueprint"
+hash = "4a8ec9c6a8665a53ddfecdb13ac1eec017e9521caeafb9b278abb7fa18bf82d5"
+
+[[files]]
+file = "blueprints/Byzantine_2/agriculture/husbandry/chickens2.blueprint"
+hash = "6c091f3ff7b90447a3310169ab0e5378793180176457b455f87d888f61a5db8f"
+
+[[files]]
+file = "blueprints/Byzantine_2/agriculture/husbandry/chickens3.blueprint"
+hash = "6e16624ed53a74b34fd9e598887971d65adf3d29e482a7a551587da63d1acfa6"
+
+[[files]]
+file = "blueprints/Byzantine_2/agriculture/husbandry/chickens4.blueprint"
+hash = "6eacbb326166f268c36c4944fc7b36f7e3c27fe12e50dc10893be1aa6583c30f"
+
+[[files]]
+file = "blueprints/Byzantine_2/agriculture/husbandry/chickens5.blueprint"
+hash = "4b3c1d1bf8dc57fa575a26b31b376fbff9ad635581dcecd12d572cc8182b4170"
+
+[[files]]
+file = "blueprints/Byzantine_2/agriculture/husbandry/cows1.blueprint"
+hash = "a1dc61f683d5d7fb55c205e265bb10b57e1dc8915e20a6b22ac0153f29da3188"
+
+[[files]]
+file = "blueprints/Byzantine_2/agriculture/husbandry/cows2.blueprint"
+hash = "3aa95fbf5668c569d5897b541aee9ab725056126ece36bf372c8d345ea21e9fa"
+
+[[files]]
+file = "blueprints/Byzantine_2/agriculture/husbandry/cows3.blueprint"
+hash = "95aefce749c2557d1674168c18c3303a4d9461e55d95d2204f76b699d95d7fd1"
+
+[[files]]
+file = "blueprints/Byzantine_2/agriculture/husbandry/cows4.blueprint"
+hash = "040c6fc909c39d6371b8851a085e22c809da828b01c85ffacacfaa0191bc3a88"
+
+[[files]]
+file = "blueprints/Byzantine_2/agriculture/husbandry/cows5.blueprint"
+hash = "5276f225fdceb068ee49ee9f457ae327a5ffeeda3f22e6e4def898cdff97c397"
+
+[[files]]
+file = "blueprints/Byzantine_2/agriculture/husbandry/deliveryman1.blueprint"
+hash = "0ec5e73b42084c460b531f21f44a379a8cf229c144b17765a9237f67f1844f34"
+
+[[files]]
+file = "blueprints/Byzantine_2/agriculture/husbandry/deliveryman2.blueprint"
+hash = "2efacc560f1511c033448a97ad4a12b5ac66b3af935b5045c29c3a928c0adfc0"
+
+[[files]]
+file = "blueprints/Byzantine_2/agriculture/husbandry/deliveryman3.blueprint"
+hash = "c43751bf61f56353a4930465d256365d101f1c3d49957293fd2043d5ccf39ba4"
+
+[[files]]
+file = "blueprints/Byzantine_2/agriculture/husbandry/deliveryman4.blueprint"
+hash = "0b8722a50124325fdd4ed46a479a65de339816026ee8da2354d5976e882f0a3b"
+
+[[files]]
+file = "blueprints/Byzantine_2/agriculture/husbandry/deliveryman5.blueprint"
+hash = "65828ba695bb361017baf7b612f6b77091d10ffa8b8254376e7548ae89c30157"
+
+[[files]]
+file = "blueprints/Byzantine_2/agriculture/husbandry/fish1.blueprint"
+hash = "7a527df8128f5914caae56700f429859e06064a7f3a36b0781a502aa8893f5b2"
+
+[[files]]
+file = "blueprints/Byzantine_2/agriculture/husbandry/fish2.blueprint"
+hash = "dcac7f9825c7099190654a3d2e230bb14f6fbb200b5da9f82b9a1f51f558c7a1"
+
+[[files]]
+file = "blueprints/Byzantine_2/agriculture/husbandry/fish3.blueprint"
+hash = "c3e6834b00088a4afdadab2103e4e87037762311052f734520d520517fd9218e"
+
+[[files]]
+file = "blueprints/Byzantine_2/agriculture/husbandry/fish4.blueprint"
+hash = "0848a49960f7219840a16b645dcb745910565dd91ecab3db53ca233af04121e4"
+
+[[files]]
+file = "blueprints/Byzantine_2/agriculture/husbandry/fish5.blueprint"
+hash = "bb47f6750fd6dc7a09c11bd4188976251107b063b74471518157dcc6c589f346"
+
+[[files]]
+file = "blueprints/Byzantine_2/agriculture/husbandry/fishingboat1.blueprint"
+hash = "5861056c0a2789ad5c0b5841db38dc4231a90c1b9b34bdf0915f6c9a1b3e95f3"
+
+[[files]]
+file = "blueprints/Byzantine_2/agriculture/husbandry/fishingboat2.blueprint"
+hash = "22a9f134a4bfd0837d647f85b8ff8b5e394bb1a8681e5dc31bbc7f0383ecd6e4"
+
+[[files]]
+file = "blueprints/Byzantine_2/agriculture/husbandry/fishingboat3.blueprint"
+hash = "35e900acfc63560d7928e37eac17bd16d768612bf609a928da5dd798b1e62012"
+
+[[files]]
+file = "blueprints/Byzantine_2/agriculture/husbandry/fishingboat4.blueprint"
+hash = "b692dccd381b9e4e5f20b119fbf8283f7b5347b0e8f0480c35e9e183f88e7e7f"
+
+[[files]]
+file = "blueprints/Byzantine_2/agriculture/husbandry/fishingboat5.blueprint"
+hash = "3f19ae35cc94e3a9855d81c2297040095a13a75a1c6903e98bb5aae17b969156"
+
+[[files]]
+file = "blueprints/Byzantine_2/agriculture/husbandry/pigs1.blueprint"
+hash = "ddb06dbe8f68ab0400264af166182f7999bed9c2c06ffec2267e2e1413112a3d"
+
+[[files]]
+file = "blueprints/Byzantine_2/agriculture/husbandry/pigs2.blueprint"
+hash = "32e089dbf26d915ee6842b9ea7ce5e6d414ccffd479f3366b8c632653080d3d1"
+
+[[files]]
+file = "blueprints/Byzantine_2/agriculture/husbandry/pigs3.blueprint"
+hash = "02a6b98f4cff3f09e1ddd85c9f0df31dcd549a09cbc134d46f09122ac9c4649f"
+
+[[files]]
+file = "blueprints/Byzantine_2/agriculture/husbandry/pigs4.blueprint"
+hash = "713e446aeaf4f757cdf2b526e790a1ef4524a5f8f237c3f185892da209a5ef5a"
+
+[[files]]
+file = "blueprints/Byzantine_2/agriculture/husbandry/pigs5.blueprint"
+hash = "7026d8f77dedbd0cc471396d44d798558d17c909091de3f2fc2450e695e52479"
+
+[[files]]
+file = "blueprints/Byzantine_2/agriculture/husbandry/sheep1.blueprint"
+hash = "61a66d107b0cf5dbdb149cb43f6aadd7c77d72061a3e00b409e6bfd5bc4920f2"
+
+[[files]]
+file = "blueprints/Byzantine_2/agriculture/husbandry/sheep2.blueprint"
+hash = "420bc103a690646dcf41d53f2cb76b0212a3dee651b995a58235c5167e74809e"
+
+[[files]]
+file = "blueprints/Byzantine_2/agriculture/husbandry/sheep3.blueprint"
+hash = "9d730656ce0eb4afa10408443ef4002e9a1f7330ee89453579b8a6852a17a6cf"
+
+[[files]]
+file = "blueprints/Byzantine_2/agriculture/husbandry/sheep4.blueprint"
+hash = "8e07bf27cdf62a806f4108c4447faa7686428c76c2d512f5bb16284dc3ccbcfb"
+
+[[files]]
+file = "blueprints/Byzantine_2/agriculture/husbandry/sheep5.blueprint"
+hash = "ccc9a6e2abb7e5e2a56bdbd16b7845fde402cb9934417786088cdd47d01f2936"
+
+[[files]]
+file = "blueprints/Byzantine_2/agriculture/icon.png"
+hash = "ab7b1d28c9984ada211002948e9a289e7af67f4fb72d5f9fdfbe6e790b08a9f9"
+
+[[files]]
+file = "blueprints/Byzantine_2/agriculture/icon_disabled.png"
+hash = "e71b469beec24ee83caef230043963103e6f0168247071eb6343d047e6dd09de"
+
+[[files]]
+file = "blueprints/Byzantine_2/craftsmanship/carpentry/deliveryman1.blueprint"
+hash = "0ec5e73b42084c460b531f21f44a379a8cf229c144b17765a9237f67f1844f34"
+
+[[files]]
+file = "blueprints/Byzantine_2/craftsmanship/carpentry/deliveryman2.blueprint"
+hash = "2efacc560f1511c033448a97ad4a12b5ac66b3af935b5045c29c3a928c0adfc0"
+
+[[files]]
+file = "blueprints/Byzantine_2/craftsmanship/carpentry/deliveryman3.blueprint"
+hash = "c43751bf61f56353a4930465d256365d101f1c3d49957293fd2043d5ccf39ba4"
+
+[[files]]
+file = "blueprints/Byzantine_2/craftsmanship/carpentry/deliveryman4.blueprint"
+hash = "0b8722a50124325fdd4ed46a479a65de339816026ee8da2354d5976e882f0a3b"
+
+[[files]]
+file = "blueprints/Byzantine_2/craftsmanship/carpentry/deliveryman5.blueprint"
+hash = "65828ba695bb361017baf7b612f6b77091d10ffa8b8254376e7548ae89c30157"
+
+[[files]]
+file = "blueprints/Byzantine_2/craftsmanship/carpentry/fletcher1.blueprint"
+hash = "7ed465df6f575e47360930fa2d8130bd15ed00a8b6edc33a7e0e46949e436455"
+
+[[files]]
+file = "blueprints/Byzantine_2/craftsmanship/carpentry/fletcher2.blueprint"
+hash = "dfa8fed1e077b36319d09af84444e05d13124c67d4ebd5da3d70eae5ab9d21a5"
+
+[[files]]
+file = "blueprints/Byzantine_2/craftsmanship/carpentry/fletcher3.blueprint"
+hash = "16b5c2bbfa8d4e81d67d6a8954532df18e6ea4dce8b9cc863f3462ad6f36958b"
+
+[[files]]
+file = "blueprints/Byzantine_2/craftsmanship/carpentry/fletcher4.blueprint"
+hash = "c1ec98f6da3bafca1a2aa79f8ef9a446e0a131444b34ae3a718e2c8d986ea377"
+
+[[files]]
+file = "blueprints/Byzantine_2/craftsmanship/carpentry/fletcher5.blueprint"
+hash = "02726bf7e84c1b7e68ede0856923d4d7048716202af7bdb6a8c6a1edcee0b03c"
+
+[[files]]
+file = "blueprints/Byzantine_2/craftsmanship/carpentry/sawmill1.blueprint"
+hash = "38bb7ec41b40f8fb5ac25a80a5be26da53d4a2150185200f5f0554907b1cb6b1"
+
+[[files]]
+file = "blueprints/Byzantine_2/craftsmanship/carpentry/sawmill2.blueprint"
+hash = "9532bfd0aba0c4d2c51dbea4dbc4e57483df6f7e43709ef6751679347246cfc6"
+
+[[files]]
+file = "blueprints/Byzantine_2/craftsmanship/carpentry/sawmill3.blueprint"
+hash = "264745f6ee55ce599dc29c04be20c1376130f8fa456dd1cec137c9b1fea5631b"
+
+[[files]]
+file = "blueprints/Byzantine_2/craftsmanship/carpentry/sawmill4.blueprint"
+hash = "b29b51b1cf9c8ba7ebbf45859e8a180fe4b6c7e51f6b131c98f313345559895d"
+
+[[files]]
+file = "blueprints/Byzantine_2/craftsmanship/carpentry/sawmill5.blueprint"
+hash = "0c879f73a3682fc93789459728e1822c63b86ac61c3c3a124f1f86f611c3504d"
+
+[[files]]
+file = "blueprints/Byzantine_2/craftsmanship/icon.png"
+hash = "595de197e15e8912d73d540bbba6da3e65f1a42b44f600e00908ab28b196d8de"
+
+[[files]]
+file = "blueprints/Byzantine_2/craftsmanship/icon_disabled.png"
+hash = "29998e55ae25ed0b6836642df7cf3fd9625e9de87ef5b986c14bbde56924a69d"
+
+[[files]]
+file = "blueprints/Byzantine_2/craftsmanship/luxury/baker1.blueprint"
+hash = "cc8778ac3f8a5dae1cfcba6312ddb186bd210e724a440b253b62c33d3b31f2e2"
+
+[[files]]
+file = "blueprints/Byzantine_2/craftsmanship/luxury/baker2.blueprint"
+hash = "0f27e08fa24de5daa1e4964c964a9da970d168efa41c06b4575f4dfad5d3e8b2"
+
+[[files]]
+file = "blueprints/Byzantine_2/craftsmanship/luxury/baker3.blueprint"
+hash = "141363a9ce3cbd638bc67606924f63df968fa91a0da7ab3a268c78fae5856ba2"
+
+[[files]]
+file = "blueprints/Byzantine_2/craftsmanship/luxury/baker4.blueprint"
+hash = "d1aebfa6cfa266dae2b5445e668aa7a45b67918004e5506017384000d5e786d8"
+
+[[files]]
+file = "blueprints/Byzantine_2/craftsmanship/luxury/baker5.blueprint"
+hash = "1e77b32c94a7c2637c4b474927921e9a04a42e71e4f6fc85fda601a593b43f3e"
+
+[[files]]
+file = "blueprints/Byzantine_2/craftsmanship/luxury/concretemixer1.blueprint"
+hash = "028219091cfff4c4d0224e28927256e6aabe2cb8aa18bde7d9b2382d758b2eb3"
+
+[[files]]
+file = "blueprints/Byzantine_2/craftsmanship/luxury/concretemixer2.blueprint"
+hash = "bfe4c2963ec37e9d2f6ee9d72a358d57b67dc7cce35e0cb3b97440dd943583ac"
+
+[[files]]
+file = "blueprints/Byzantine_2/craftsmanship/luxury/concretemixer3.blueprint"
+hash = "f3f4d8c6556402287b867bf00c14c90bd52383ebfbf2f2d7dfc0963c589fa63f"
+
+[[files]]
+file = "blueprints/Byzantine_2/craftsmanship/luxury/concretemixer4.blueprint"
+hash = "573377540c5dc6bd31567ea40e17393ee2b8bcc0bfb231535aa2419f4ce706a9"
+
+[[files]]
+file = "blueprints/Byzantine_2/craftsmanship/luxury/concretemixer5.blueprint"
+hash = "f76bdc558d0bafe789c337176f65267a4611546b0505822f14ab87e3e9c30bb3"
+
+[[files]]
+file = "blueprints/Byzantine_2/craftsmanship/luxury/deliveryman1.blueprint"
+hash = "0ec5e73b42084c460b531f21f44a379a8cf229c144b17765a9237f67f1844f34"
+
+[[files]]
+file = "blueprints/Byzantine_2/craftsmanship/luxury/deliveryman2.blueprint"
+hash = "2efacc560f1511c033448a97ad4a12b5ac66b3af935b5045c29c3a928c0adfc0"
+
+[[files]]
+file = "blueprints/Byzantine_2/craftsmanship/luxury/deliveryman3.blueprint"
+hash = "c43751bf61f56353a4930465d256365d101f1c3d49957293fd2043d5ccf39ba4"
+
+[[files]]
+file = "blueprints/Byzantine_2/craftsmanship/luxury/deliveryman4.blueprint"
+hash = "0b8722a50124325fdd4ed46a479a65de339816026ee8da2354d5976e882f0a3b"
+
+[[files]]
+file = "blueprints/Byzantine_2/craftsmanship/luxury/deliveryman5.blueprint"
+hash = "65828ba695bb361017baf7b612f6b77091d10ffa8b8254376e7548ae89c30157"
+
+[[files]]
+file = "blueprints/Byzantine_2/craftsmanship/luxury/dyer1.blueprint"
+hash = "fe99687836b66dc14ee31d95441259b49c811ba8a69dff74a8cc283126383997"
+
+[[files]]
+file = "blueprints/Byzantine_2/craftsmanship/luxury/dyer2.blueprint"
+hash = "cbe24d0389895c5879d20ee3646c77ac081af3027ec91c8ef3ba12e2e6d3a014"
+
+[[files]]
+file = "blueprints/Byzantine_2/craftsmanship/luxury/dyer3.blueprint"
+hash = "6bc01188587309ce7369b6bbcb64ef46aeae43c4d56f2ac85878d96d595fce5f"
+
+[[files]]
+file = "blueprints/Byzantine_2/craftsmanship/luxury/dyer4.blueprint"
+hash = "9ddb741de17581fc6bdde5252499c5b8698d836eb52e1079be00d6eb5d44738e"
+
+[[files]]
+file = "blueprints/Byzantine_2/craftsmanship/luxury/dyer5.blueprint"
+hash = "e735201c8f4d36ce01821cb18b4ef9e0b90da9319a878d6dd83e9fcbd6c3532e"
+
+[[files]]
+file = "blueprints/Byzantine_2/craftsmanship/luxury/glassblower1.blueprint"
+hash = "f9cf2312552f68666f3a9e262baab1dc07157dd2a9f62b427d26918da6c6a5ce"
+
+[[files]]
+file = "blueprints/Byzantine_2/craftsmanship/luxury/glassblower2.blueprint"
+hash = "ece1ef44cd70d5fd851453a238cf914cbfbe700aac6a918bc21e489d6336e7cc"
+
+[[files]]
+file = "blueprints/Byzantine_2/craftsmanship/luxury/glassblower3.blueprint"
+hash = "48579f70143fb7ff4ade5e678848fd4d4a5fe3a3a24fbeb9ca0b13f7457e620f"
+
+[[files]]
+file = "blueprints/Byzantine_2/craftsmanship/luxury/glassblower4.blueprint"
+hash = "ff58e4d7c5cc072875c8490d6cde39b6396e245a2c2d1631682016f2da4eb2f9"
+
+[[files]]
+file = "blueprints/Byzantine_2/craftsmanship/luxury/glassblower5.blueprint"
+hash = "30969d0d7be97f49b58f5182edc38e082a783bddf8f26fe701a8be6128edb66e"
+
+[[files]]
+file = "blueprints/Byzantine_2/craftsmanship/main.png"
+hash = "33da1f7429226cfc2b6d45a1fca17e1c26788a55c133876a4a1f5672a4c75bb0"
+
+[[files]]
+file = "blueprints/Byzantine_2/craftsmanship/masonry/crusher1.blueprint"
+hash = "6020fd1998f734a0551c08b7622965a1d7af91330c9b66ffce6f71a04b1c8728"
+
+[[files]]
+file = "blueprints/Byzantine_2/craftsmanship/masonry/crusher2.blueprint"
+hash = "632ada86c5c92dd9812dbb20041d4e6f8dcdfbee1663966b31f38606d0244f19"
+
+[[files]]
+file = "blueprints/Byzantine_2/craftsmanship/masonry/crusher3.blueprint"
+hash = "c119e5ed944f11c9906d3b3e17a3a8eb06d06f6462cfd316f1defaaa1ef9fb44"
+
+[[files]]
+file = "blueprints/Byzantine_2/craftsmanship/masonry/crusher4.blueprint"
+hash = "88fe704d2ed1c11dd72d9585f253d6091a3ace7e00da1dfe6a6006ae040aaa84"
+
+[[files]]
+file = "blueprints/Byzantine_2/craftsmanship/masonry/crusher5.blueprint"
+hash = "a185dc61df7da8afb478e4901eba453334a5f55f34fb4944fe448da5a7c65a27"
+
+[[files]]
+file = "blueprints/Byzantine_2/craftsmanship/masonry/deliveryman1.blueprint"
+hash = "0ec5e73b42084c460b531f21f44a379a8cf229c144b17765a9237f67f1844f34"
+
+[[files]]
+file = "blueprints/Byzantine_2/craftsmanship/masonry/deliveryman2.blueprint"
+hash = "2efacc560f1511c033448a97ad4a12b5ac66b3af935b5045c29c3a928c0adfc0"
+
+[[files]]
+file = "blueprints/Byzantine_2/craftsmanship/masonry/deliveryman3.blueprint"
+hash = "c43751bf61f56353a4930465d256365d101f1c3d49957293fd2043d5ccf39ba4"
+
+[[files]]
+file = "blueprints/Byzantine_2/craftsmanship/masonry/deliveryman4.blueprint"
+hash = "0b8722a50124325fdd4ed46a479a65de339816026ee8da2354d5976e882f0a3b"
+
+[[files]]
+file = "blueprints/Byzantine_2/craftsmanship/masonry/deliveryman5.blueprint"
+hash = "65828ba695bb361017baf7b612f6b77091d10ffa8b8254376e7548ae89c30157"
+
+[[files]]
+file = "blueprints/Byzantine_2/craftsmanship/masonry/sifter1.blueprint"
+hash = "66f4257aec7b46fff0256e347331f98733a9f8d76249eb0c6e152324abc77395"
+
+[[files]]
+file = "blueprints/Byzantine_2/craftsmanship/masonry/sifter2.blueprint"
+hash = "6be8906021b44b40e9645e438a28c7d0f06e354e10aea861ee0a5a4bf60b07e8"
+
+[[files]]
+file = "blueprints/Byzantine_2/craftsmanship/masonry/sifter3.blueprint"
+hash = "715bd7cbf1a2e38cb6a22233cceafdadffb55b34dafe9b7396e090d1d4f75373"
+
+[[files]]
+file = "blueprints/Byzantine_2/craftsmanship/masonry/sifter4.blueprint"
+hash = "48103317002a3af13d1d6f2d46cc12249c9d0fa8ea69d57b01d69cbb381cb1b7"
+
+[[files]]
+file = "blueprints/Byzantine_2/craftsmanship/masonry/sifter5.blueprint"
+hash = "d3a1d68c3d0889de4cea0556bdaa1adbda55706c13ce43ee6ae3df98a3182113"
+
+[[files]]
+file = "blueprints/Byzantine_2/craftsmanship/masonry/stonemason1.blueprint"
+hash = "7dcaf5dce8c00dffb6821b2e20afe3280f64730b3d2d0b9486f5d79050e4366d"
+
+[[files]]
+file = "blueprints/Byzantine_2/craftsmanship/masonry/stonemason2.blueprint"
+hash = "773dfdcc6f1a1fad86d77a1dcb7fe149840df8781a1031b1fa1a2716e9bb5888"
+
+[[files]]
+file = "blueprints/Byzantine_2/craftsmanship/masonry/stonemason3.blueprint"
+hash = "eb6bd37842731d0327eab85c8c147e1008ccc35c353561880b96f0de83d061d3"
+
+[[files]]
+file = "blueprints/Byzantine_2/craftsmanship/masonry/stonemason4.blueprint"
+hash = "8405419ed8d63906f3a452d6b8947799c09df5015438884ca4bfbecd7433b24d"
+
+[[files]]
+file = "blueprints/Byzantine_2/craftsmanship/masonry/stonemason5.blueprint"
+hash = "4fca576832de84d814b7f0febef93f4c2ea5e8644b97d04699db2758d10902b2"
+
+[[files]]
+file = "blueprints/Byzantine_2/craftsmanship/masonry/stonesmelter1.blueprint"
+hash = "dc73785f2bb2bd5fed453d7a731b578a59baeb6d45bb5183c0f4fdc37f7db481"
+
+[[files]]
+file = "blueprints/Byzantine_2/craftsmanship/masonry/stonesmelter2.blueprint"
+hash = "59f02f3a1e7330fac2c4e59bc4bfcd52b7a7052085b0bf9cf9810d20a17dda8b"
+
+[[files]]
+file = "blueprints/Byzantine_2/craftsmanship/masonry/stonesmelter3.blueprint"
+hash = "10eb1c524e7fe8d4b4c992ccc96cd38267a2b5015fcceaa5628564925658d9ff"
+
+[[files]]
+file = "blueprints/Byzantine_2/craftsmanship/masonry/stonesmelter4.blueprint"
+hash = "e95f30a4c5a29de93c5e68601cbe7d3410b445d9bb6ca3c3be5978743a5eba32"
+
+[[files]]
+file = "blueprints/Byzantine_2/craftsmanship/masonry/stonesmelter5.blueprint"
+hash = "eca438aa696acfb3a01397232e2aad51c0978e57a38ca9ff8604c760a9c914e3"
+
+[[files]]
+file = "blueprints/Byzantine_2/craftsmanship/metallurgy/Blacksmith1.blueprint"
+hash = "8d2b33b31e361eae2d94b18e30717427a0961739177df2d6ada711ea72e56cd0"
+
+[[files]]
+file = "blueprints/Byzantine_2/craftsmanship/metallurgy/Blacksmith2.blueprint"
+hash = "6bcfca99460115ca806ced515270534b6247af1b5b91708baf79990ef232cd72"
+
+[[files]]
+file = "blueprints/Byzantine_2/craftsmanship/metallurgy/Blacksmith3.blueprint"
+hash = "c10fe0761760175135f88a68e4d1191dd71a8db265f817022299f607227b5ebd"
+
+[[files]]
+file = "blueprints/Byzantine_2/craftsmanship/metallurgy/Blacksmith4.blueprint"
+hash = "2267e44de5ffc0cd1a5b3fcfd5090cb8cd9268070fcfdc7cbb98817b723517a5"
+
+[[files]]
+file = "blueprints/Byzantine_2/craftsmanship/metallurgy/Blacksmith5.blueprint"
+hash = "ac6ccbd93744d4d209a0ec54800caba44bc0a3dd9f5c45e8173d243b7318c2d7"
+
+[[files]]
+file = "blueprints/Byzantine_2/craftsmanship/metallurgy/smelter1.blueprint"
+hash = "8e2fcc9180266cf89fc429c40744c718bc38f68416aebc9c9fc0bdb9158534f0"
+
+[[files]]
+file = "blueprints/Byzantine_2/craftsmanship/metallurgy/smelter2.blueprint"
+hash = "e0b3486a882de5618d49dc9ff8a3857af735969772974d86a8aa18d2bbcab5cd"
+
+[[files]]
+file = "blueprints/Byzantine_2/craftsmanship/metallurgy/smelter3.blueprint"
+hash = "1a3fde7a1f8a67dae226c65376473c7b89fd7b545cb98129207555d2f9c5e093"
+
+[[files]]
+file = "blueprints/Byzantine_2/craftsmanship/metallurgy/smelter4.blueprint"
+hash = "d344f53afb3fdf0b70b16132af532e5c437774cc7c13c6b11b468df646b92c94"
+
+[[files]]
+file = "blueprints/Byzantine_2/craftsmanship/metallurgy/smelter5.blueprint"
+hash = "8e64f8bd5a34f95726735b78493a60b2620c23759d0ff2aeaa95376ee34d6a5e"
+
+[[files]]
+file = "blueprints/Byzantine_2/craftsmanship/storage/deliveryman1.blueprint"
+hash = "0ec5e73b42084c460b531f21f44a379a8cf229c144b17765a9237f67f1844f34"
+
+[[files]]
+file = "blueprints/Byzantine_2/craftsmanship/storage/deliveryman2.blueprint"
+hash = "2efacc560f1511c033448a97ad4a12b5ac66b3af935b5045c29c3a928c0adfc0"
+
+[[files]]
+file = "blueprints/Byzantine_2/craftsmanship/storage/deliveryman3.blueprint"
+hash = "c43751bf61f56353a4930465d256365d101f1c3d49957293fd2043d5ccf39ba4"
+
+[[files]]
+file = "blueprints/Byzantine_2/craftsmanship/storage/deliveryman4.blueprint"
+hash = "0b8722a50124325fdd4ed46a479a65de339816026ee8da2354d5976e882f0a3b"
+
+[[files]]
+file = "blueprints/Byzantine_2/craftsmanship/storage/deliveryman5.blueprint"
+hash = "65828ba695bb361017baf7b612f6b77091d10ffa8b8254376e7548ae89c30157"
+
+[[files]]
+file = "blueprints/Byzantine_2/craftsmanship/storage/dockhouse1.blueprint"
+hash = "ea1acf35317981f4e03f25f2b33035c3b66c02424830fbb6cb22e0b5159f704f"
+
+[[files]]
+file = "blueprints/Byzantine_2/craftsmanship/storage/dockhouse2.blueprint"
+hash = "80d34f2cf38257ed7ba6dbd70240d409dbe0e1732d2f25f9a2663ab564dfe297"
+
+[[files]]
+file = "blueprints/Byzantine_2/craftsmanship/storage/dockhouse3.blueprint"
+hash = "c772c66f515f68c670edd7be9c138f0830fd19a0a59b5d836aac91db892ee5d3"
+
+[[files]]
+file = "blueprints/Byzantine_2/craftsmanship/storage/dockhouse4.blueprint"
+hash = "8afaf6115db6381d6811f0f6293736f3ae72daed38e11a9c33a41702cd0a1b3c"
+
+[[files]]
+file = "blueprints/Byzantine_2/craftsmanship/storage/dockhouse5.blueprint"
+hash = "5c0b09f0b9612287061d9c3b98dcf97e86432c0afe0b320ba3dc6a82f6edfa1c"
+
+[[files]]
+file = "blueprints/Byzantine_2/craftsmanship/storage/warehouse1.blueprint"
+hash = "edfb54043905dd8403b8308aa2ece4da1051e2625fddd6ed7a7f05277c86a0d3"
+
+[[files]]
+file = "blueprints/Byzantine_2/craftsmanship/storage/warehouse2.blueprint"
+hash = "ceec2328f047196c2622eac50f9aa29ffb11d9ee58bfdecc73c2d5dd7e8ecd00"
+
+[[files]]
+file = "blueprints/Byzantine_2/craftsmanship/storage/warehouse3.blueprint"
+hash = "ce8d7a18db265b06529237ec6b282836f872e26ca321622077fb39bb397a0dd6"
+
+[[files]]
+file = "blueprints/Byzantine_2/craftsmanship/storage/warehouse4.blueprint"
+hash = "c8543b2935b578d8892472fdf2194592e2c2e463b6d218e84498e2e65d698713"
+
+[[files]]
+file = "blueprints/Byzantine_2/craftsmanship/storage/warehouse5.blueprint"
+hash = "74e90bac10ef2b0f932478570658604e32b220e8ff4bd75c5d8e3848128a6a6a"
+
+[[files]]
+file = "blueprints/Byzantine_2/decorations/aqueduct/cistern_intake.blueprint"
+hash = "42c8d2f2d6de804f0d4fc42dbf34f8600dba541461d35f8159bd5c989e483f2a"
+
+[[files]]
+file = "blueprints/Byzantine_2/decorations/aqueduct/duct_1.blueprint"
+hash = "89ecda9f75ad0749fd47d449319992e71375035bdcfc251402867ca24258de4d"
+
+[[files]]
+file = "blueprints/Byzantine_2/decorations/aqueduct/duct_10.blueprint"
+hash = "fc393e073de8cb0e9799bdeb62f4b964e14f7c8be6c34f885c1e9fbf2b942d5e"
+
+[[files]]
+file = "blueprints/Byzantine_2/decorations/aqueduct/duct_11.blueprint"
+hash = "96f1fe838ee76021aab8f78ad2e5b1b27c761a7632b905c179cdd4f17b1b3d67"
+
+[[files]]
+file = "blueprints/Byzantine_2/decorations/aqueduct/duct_12.blueprint"
+hash = "986c56cac0fba0c3296e599ce61d784fccb2fc6293981addced18d7419ae050b"
+
+[[files]]
+file = "blueprints/Byzantine_2/decorations/aqueduct/duct_13.blueprint"
+hash = "c23f14bf21b9727ad134d8b9ddbbbce8a65aacdb4035e9b01fd4b6b40692e8be"
+
+[[files]]
+file = "blueprints/Byzantine_2/decorations/aqueduct/duct_1_turn.blueprint"
+hash = "6bd2f4f9d1a34913b49df340f7addcbf54eda19d729d268d4ccdc3f3532316a4"
+
+[[files]]
+file = "blueprints/Byzantine_2/decorations/aqueduct/duct_2.blueprint"
+hash = "6bca70b8eab6bf5020d93fbd42b098f99752ccd06f2477d0de7447420b6352a0"
+
+[[files]]
+file = "blueprints/Byzantine_2/decorations/aqueduct/duct_3.blueprint"
+hash = "c18b8fd8bd6b5e0879443cfc164d800c0cd4cf625cfe62d83c7f7ee78a40c756"
+
+[[files]]
+file = "blueprints/Byzantine_2/decorations/aqueduct/duct_4.blueprint"
+hash = "10d5424780a983df600fd2d05facfd2472c3c3b4598469fb0a3d44093d8d2582"
+
+[[files]]
+file = "blueprints/Byzantine_2/decorations/aqueduct/duct_5.blueprint"
+hash = "3a40313f3e98d07958232a04c0c1d1b68ff03ae229be260a3bdb7800784963bc"
+
+[[files]]
+file = "blueprints/Byzantine_2/decorations/aqueduct/duct_6.blueprint"
+hash = "286e9587b10b440fbcb7be882e1dd2ed3546d28d4b39ab0ab08c02d7cdfd3752"
+
+[[files]]
+file = "blueprints/Byzantine_2/decorations/aqueduct/duct_7.blueprint"
+hash = "30c407456beaed523429c10a72ae194fdde698fed47bae3169004b348cb58528"
+
+[[files]]
+file = "blueprints/Byzantine_2/decorations/aqueduct/duct_8.blueprint"
+hash = "a1c1ff2aec664d155a7c469184d05691d6f7f7cac707a8ff7610af5cf1131d32"
+
+[[files]]
+file = "blueprints/Byzantine_2/decorations/aqueduct/duct_9.blueprint"
+hash = "cccc0fdb3621a3accb165b5a40e20f2e8163d3d04bb5a415a7b32a342eae4516"
+
+[[files]]
+file = "blueprints/Byzantine_2/decorations/aqueduct/duct_downspout.blueprint"
+hash = "e4caed0a1443db5e0c5e5a4bd6ae89c07d5e7821aaca6216916d9e734ed4054b"
+
+[[files]]
+file = "blueprints/Byzantine_2/decorations/aqueduct/duct_footing.blueprint"
+hash = "0abbca8d65088113b2794497f4007103fa4115fe5fbf1b67843b3e3cd689a962"
+
+[[files]]
+file = "blueprints/Byzantine_2/decorations/aqueduct/duct_short_turn.blueprint"
+hash = "cf53a732b8d1a2d978d59503d00a96d941af9a1ca5aef7ca16cdb69bd863314b"
+
+[[files]]
+file = "blueprints/Byzantine_2/decorations/aqueduct/duct_tdown.blueprint"
+hash = "9935303e4fa905f92d27fefc41a7b313534a8ad2fd39929e12002e376219788e"
+
+[[files]]
+file = "blueprints/Byzantine_2/decorations/aqueduct/duct_xdown.blueprint"
+hash = "796f32edc2c159c578be7a3f91d5d05bd6b949f20ecb76c32c1c1080f6cb9a27"
+
+[[files]]
+file = "blueprints/Byzantine_2/decorations/gardens/building/arch_a.blueprint"
+hash = "f6f5a0d2918a252c0532135d3d544df6d33be4edcbc84fd475b6b99b5238069c"
+
+[[files]]
+file = "blueprints/Byzantine_2/decorations/gardens/building/arch_b.blueprint"
+hash = "bbe6b6cd8ff5fb8fd74908d82c2b8b84bbd8ac3ef62f17fb64cf429de86e5de7"
+
+[[files]]
+file = "blueprints/Byzantine_2/decorations/gardens/building/memorial.blueprint"
+hash = "5e0fb5e306b80883fae7df02415c05b7bd55337b5355dc0d943a81368165bd26"
+
+[[files]]
+file = "blueprints/Byzantine_2/decorations/gardens/cornersection/a.blueprint"
+hash = "91696e71873d16b1b84216380904fe03b6480708b75c8b43f32e385c713c1b15"
+
+[[files]]
+file = "blueprints/Byzantine_2/decorations/gardens/cornersection/b.blueprint"
+hash = "1a48e40d69826f354d1182e815644a7df1441254202e96343bf296d3898ccfe4"
+
+[[files]]
+file = "blueprints/Byzantine_2/decorations/gardens/cornersection/c.blueprint"
+hash = "c046aece812746c7760ff4a206396f5513da43e06c6d4824c38b6eae58dffa0f"
+
+[[files]]
+file = "blueprints/Byzantine_2/decorations/gardens/cornersection/d.blueprint"
+hash = "0621ab88bdc8c4079f95d0be4dd3390c8118c84fa3317c3914433a4b23705d38"
+
+[[files]]
+file = "blueprints/Byzantine_2/decorations/gardens/cornersection/e.blueprint"
+hash = "b25f6fbd0ab7d788dd5d038536e2174ee3bb2e08dd09917e3cfc601d701b5789"
+
+[[files]]
+file = "blueprints/Byzantine_2/decorations/gardens/cornersection/f.blueprint"
+hash = "d18fdc6df581084c077141859214ad24d459f71232af064de53bca11171c282e"
+
+[[files]]
+file = "blueprints/Byzantine_2/decorations/gardens/cornersection/g.blueprint"
+hash = "0fc7989d7cc0f4403c62be4ae69be0207ca7383874e7bf2e1cefbdddb47065bf"
+
+[[files]]
+file = "blueprints/Byzantine_2/decorations/gardens/edge/corner.blueprint"
+hash = "9c2fba1468e8aaca436872aa5a7bb7d03d2c20ec675fa8cea8b1aa4a7c88fd64"
+
+[[files]]
+file = "blueprints/Byzantine_2/decorations/gardens/edge/corner_a.blueprint"
+hash = "134a6d2ed18c2f83fbb70967b9c98ce100562983fcb68c71a0442d8d4a6bf3ab"
+
+[[files]]
+file = "blueprints/Byzantine_2/decorations/gardens/edge/long.blueprint"
+hash = "7bc32aff1e13f84185467940ebae36f33c4ad25cf88f2f4575a2d4952a4de9cb"
+
+[[files]]
+file = "blueprints/Byzantine_2/decorations/gardens/edge/long_gate.blueprint"
+hash = "5b35cb402e051b1adb7814db60845246b0fb127e11cb3cf1ec911fccdf4c20c4"
+
+[[files]]
+file = "blueprints/Byzantine_2/decorations/gardens/edge/short.blueprint"
+hash = "c8105e1786c3b774277a0285c379a77203f8aca942751815556413c2387e8413"
+
+[[files]]
+file = "blueprints/Byzantine_2/decorations/gardens/edge/short_gate.blueprint"
+hash = "d6f1067be42a42ee6f6d69301546b25b4dd4d2cf22ffaf078e91c598c97e6ffa"
+
+[[files]]
+file = "blueprints/Byzantine_2/decorations/gardens/flowerbeds/seatsallium.blueprint"
+hash = "0a3f6b46799bb0c9419131e8e3244ad82a2c99458a6c4d590fd362d130b0d3b2"
+
+[[files]]
+file = "blueprints/Byzantine_2/decorations/gardens/flowerbeds/seatsblueorchid.blueprint"
+hash = "0dec33b8c21d709130bab8dff239084a3407879701e1ce57aa1af563e116397c"
+
+[[files]]
+file = "blueprints/Byzantine_2/decorations/gardens/flowerbeds/seatscornflower.blueprint"
+hash = "26c719b49728086823c036d6666da049db70e1cf4d71b3cc33decabf37f0d175"
+
+[[files]]
+file = "blueprints/Byzantine_2/decorations/gardens/flowerbeds/seatsdandelion.blueprint"
+hash = "32d86299994944799a189e5c83ce4ed75b9967ed4ccb16a9cfd8605d75614452"
+
+[[files]]
+file = "blueprints/Byzantine_2/decorations/gardens/flowerbeds/seatsorangetulip.blueprint"
+hash = "8e265e8ffe127593c6cc63dd2f747794df9b0cbcceebe751147d93eeafd35145"
+
+[[files]]
+file = "blueprints/Byzantine_2/decorations/gardens/flowerbeds/seatspinktulip.blueprint"
+hash = "ad36ea7b5f6a368d8201e9c7340fcca74b1e2c661166b15b8053ac579ca89232"
+
+[[files]]
+file = "blueprints/Byzantine_2/decorations/gardens/flowerbeds/seatspoppy.blueprint"
+hash = "83220a62b8996765a73c8532f1e55c35c67f586488e1a8494c9f9427a33b47d7"
+
+[[files]]
+file = "blueprints/Byzantine_2/decorations/gardens/flowerbeds/seatsredtulip.blueprint"
+hash = "bb5c7dd75ff9c39fe437696bedc3f8c19ea5948c30e0cfe91e99369ce9c98119"
+
+[[files]]
+file = "blueprints/Byzantine_2/decorations/gardens/flowerbeds/seatswhitetulip.blueprint"
+hash = "27eed62ac9fa4562e3ca51e8333bd84298b7e2aed3f75f91878c1f8edec52dae"
+
+[[files]]
+file = "blueprints/Byzantine_2/decorations/gardens/side/mossygate.blueprint"
+hash = "e766a2a9b9c0cb210217b44534cebe76cbd00e500f0ec2752fc1a67c7aa93204"
+
+[[files]]
+file = "blueprints/Byzantine_2/decorations/gardens/side/plantarray.blueprint"
+hash = "8b616716736fadbf667a24eeeb2bc30cd8ed3cb393eca0954f2157f5b04e6376"
+
+[[files]]
+file = "blueprints/Byzantine_2/decorations/gardens/side/plantwave.blueprint"
+hash = "d0f36da9bfa53fff660f8d2dd2cca82dfb1a6630b4b02f51e0fe57a5e2bfc737"
+
+[[files]]
+file = "blueprints/Byzantine_2/decorations/gardens/side/pool.blueprint"
+hash = "6f7704a16165a61e8d12bd8922beb1466cf88cb5091946c8bd50ddde88481e73"
+
+[[files]]
+file = "blueprints/Byzantine_2/decorations/gardens/side/pool_long.blueprint"
+hash = "d0a7bb5e6fdde5e9cf638042558416bd501a1cb84ff9b5df2e65fcce3c31c170"
+
+[[files]]
+file = "blueprints/Byzantine_2/decorations/gardens/side/pool_long_flat.blueprint"
+hash = "675b862749b82d31f8d9429572edd57199346ca165e086253a031f5ca372da43"
+
+[[files]]
+file = "blueprints/Byzantine_2/decorations/gardens/side/stonygate.blueprint"
+hash = "81b8178a7e6352c795e41f4b78900790b3e38933c8978ecfd375fcaca072c02d"
+
+[[files]]
+file = "blueprints/Byzantine_2/decorations/gardens/side/threeplanter.blueprint"
+hash = "4857a447065c6707ac68b06b00592f79ff14e73b0e2778d68a7aecd0188f6fce"
+
+[[files]]
+file = "blueprints/Byzantine_2/decorations/gardens/side/twoplanter.blueprint"
+hash = "b59337ff8aad920ca29aeb9436d23662ea990fa73e3d7f7baffb10adaff7b9ec"
+
+[[files]]
+file = "blueprints/Byzantine_2/decorations/gardens/side/zags.blueprint"
+hash = "30328f2827cf4ac457be28f98cdfb04344aade9c12433bb9e18e7772e76335ec"
+
+[[files]]
+file = "blueprints/Byzantine_2/decorations/gardens/square/empty.blueprint"
+hash = "daf17e996fbf541e67ea4c7f4e5354c6ee35ace2c7d94ab56b4fb324a54dc657"
+
+[[files]]
+file = "blueprints/Byzantine_2/decorations/gardens/square/empty_lit.blueprint"
+hash = "c13395e2942ca80c712414f35c2a138cd1bc9bf4477c181eecc474883eef524a"
+
+[[files]]
+file = "blueprints/Byzantine_2/decorations/gardens/square/gazebo.blueprint"
+hash = "237e302da1b36b250b3f395ed42239430ed77108b183085f848f86bcaf839cc9"
+
+[[files]]
+file = "blueprints/Byzantine_2/decorations/gardens/square/intersection.blueprint"
+hash = "a38633c98a766a8b7d0644de1e6d0a388fd0a59b99185484ed873a416e306b6a"
+
+[[files]]
+file = "blueprints/Byzantine_2/decorations/gardens/square/plaza_a.blueprint"
+hash = "7c0787de7afd8b9a59b0e57a06c89f6465065c3fbf18448382e81210c3b9ecc8"
+
+[[files]]
+file = "blueprints/Byzantine_2/decorations/gardens/square/plaza_b.blueprint"
+hash = "113e5a3930c854f9e6c2ab2b25c975b1ebae0c981d70d79eafcaeea0fa79544f"
+
+[[files]]
+file = "blueprints/Byzantine_2/decorations/gardens/square/pool.blueprint"
+hash = "f182d25f7d3c81e36ed65beac7b411f2f436608689461147b1882ee18b3106ba"
+
+[[files]]
+file = "blueprints/Byzantine_2/decorations/gardens/square/shrine.blueprint"
+hash = "552bfa4b745095ddb4c6d483000bf45d180c76ec996663c3de8f6033509e7738"
+
+[[files]]
+file = "blueprints/Byzantine_2/decorations/gardens/square/tholos.blueprint"
+hash = "c82814d73d5da742257a6690f11274b7255028d1406b6dd5678a7c63311a92f4"
+
+[[files]]
+file = "blueprints/Byzantine_2/decorations/gardens/square/walkway.blueprint"
+hash = "d068d76ead58ab220647b0da47288a37b6949c60ce2e415c2e1f58f69e0488f3"
+
+[[files]]
+file = "blueprints/Byzantine_2/decorations/icon.png"
+hash = "df942f69499634bb5a99cd2ed0a084224f1cc3b8155e8769f3c66ee092543d4d"
+
+[[files]]
+file = "blueprints/Byzantine_2/decorations/icon_disabled.png"
+hash = "638c06ff1ab7637232fd1d00a5bec21db6282c60bd63fde547b1dfa70f5fce8b"
+
+[[files]]
+file = "blueprints/Byzantine_2/decorations/misc/basinsmall.blueprint"
+hash = "39ab46f4eb0c5f0b5a2a70bb5dc8554e60e377f66dbf3c7f27ccbcb46537618d"
+
+[[files]]
+file = "blueprints/Byzantine_2/decorations/misc/cedar_row.blueprint"
+hash = "d95cf3e2615f65a177e0c2da33375db8bf5ca8ea2fcabe51713aea96031375c3"
+
+[[files]]
+file = "blueprints/Byzantine_2/decorations/misc/cedars_a.blueprint"
+hash = "bceadb4e2d01f3f98a1d5c716577b74cadb1113005e3febeb55764e5bd9f871a"
+
+[[files]]
+file = "blueprints/Byzantine_2/decorations/misc/cedars_b.blueprint"
+hash = "aaaec2e77bbf48a5bdf013ac7dcab2ac0e5ea8c5246b6825a5ba825f38fbd334"
+
+[[files]]
+file = "blueprints/Byzantine_2/decorations/misc/forumarch1.blueprint"
+hash = "c850fe27f6c80e9f03eafffb91bf22a4352df307b782e0a9c6930de300cce5bb"
+
+[[files]]
+file = "blueprints/Byzantine_2/decorations/misc/nethergate.blueprint"
+hash = "ceb9f43216915472209882e29cf8858ec2909d36ccb13d3a1e1686f3921fde47"
+
+[[files]]
+file = "blueprints/Byzantine_2/decorations/misc/pubtoilet.blueprint"
+hash = "5396a8843a57d33bc9ed967e59bc89761977a8fa589f16c915035781d3a26a8f"
+
+[[files]]
+file = "blueprints/Byzantine_2/decorations/misc/shed.blueprint"
+hash = "9eaecd8abf50f54cd47b826461300c04a7f0594c806d8feafc6bf743742b2688"
+
+[[files]]
+file = "blueprints/Byzantine_2/decorations/misc/treelittle.blueprint"
+hash = "a2df36c8919f11d5502e8dddb7eff65686214e38c645790ee9297047943eef74"
+
+[[files]]
+file = "blueprints/Byzantine_2/decorations/misc/treemedium.blueprint"
+hash = "c74685c7a1be0fea7d08a8a09aa6b8d201c6919232a6cc73259a0179c59782f3"
+
+[[files]]
+file = "blueprints/Byzantine_2/decorations/misc/treeshort.blueprint"
+hash = "4fb4a1ed5cb607ed67d7b1cefb79f3138c48f4f068724cf8de2eda229be32770"
+
+[[files]]
+file = "blueprints/Byzantine_2/decorations/misc/treeskinny.blueprint"
+hash = "8f4defed093d87ceab7668be49769322ad3eb87cdf91bdc7996769e1768b0b26"
+
+[[files]]
+file = "blueprints/Byzantine_2/decorations/misc/treewide.blueprint"
+hash = "1bee9c3d30bb4ef87f6fea9e6517c9891910a152c29257c7c7665339846d7ee4"
+
+[[files]]
+file = "blueprints/Byzantine_2/decorations/road/cartbasic.blueprint"
+hash = "3fea9f6f59dd55bc29a0199000a5b925389ffd89558316ced657986f5f1bee76"
+
+[[files]]
+file = "blueprints/Byzantine_2/decorations/road/cartfancy.blueprint"
+hash = "a201d22e2f5d750a0d73c9637f3c94cf1a42ba8c10d17b517fbe061b257ce331"
+
+[[files]]
+file = "blueprints/Byzantine_2/decorations/road/lamppost1.blueprint"
+hash = "21a3425fef49f6c711adf6750f8d8404a273fcaa042ef8bafb1cf67db951e94a"
+
+[[files]]
+file = "blueprints/Byzantine_2/decorations/road/lamppost2.blueprint"
+hash = "7b585a774f183924ad3977c5d359589ac983408b93a4862b6c509ac1a3939048"
+
+[[files]]
+file = "blueprints/Byzantine_2/decorations/road/lamppost3.blueprint"
+hash = "e66c9ebdd8341c6dea877946e28d1bb1cd9891cf7742ee8a886fd875f1c31437"
+
+[[files]]
+file = "blueprints/Byzantine_2/decorations/road/lamppostcorner1.blueprint"
+hash = "5b761338f83ac164ea645ff38e39c81a047d698e4c0767c89f2f538f29cc746c"
+
+[[files]]
+file = "blueprints/Byzantine_2/decorations/road/lamppostcorner2.blueprint"
+hash = "9dd9aeafa57df1dfb23b5be93dfd3e11ec0e7225a9b089a1f0ded89fd67684f4"
+
+[[files]]
+file = "blueprints/Byzantine_2/decorations/road/lamppostcorner3.blueprint"
+hash = "a9ec292782d9e69700d2830492977a48657d5ed94b06ade246c68ca93f581bc0"
+
+[[files]]
+file = "blueprints/Byzantine_2/decorations/road/lamppostdouble1.blueprint"
+hash = "65e58b68471af65bd977106f02300b2557226b5521f858501f0b845bd6ddb0ff"
+
+[[files]]
+file = "blueprints/Byzantine_2/decorations/road/lamppostdouble2.blueprint"
+hash = "85b76b04c02c960a630d4f9227769eaeb3507cc671f88e8232c406560905b8df"
+
+[[files]]
+file = "blueprints/Byzantine_2/decorations/road/lamppostdouble3.blueprint"
+hash = "fdd3dbb8b29037da8c05cd223d1fcbea7865447085b61199fc81d31d4b065fa4"
+
+[[files]]
+file = "blueprints/Byzantine_2/decorations/road/streetplantera.blueprint"
+hash = "64fe4e8987aa769669adc5ae804d99a4911434204d514ab560f534470419b94a"
+
+[[files]]
+file = "blueprints/Byzantine_2/decorations/road/streetplanterb.blueprint"
+hash = "c6575814d5b5d3ad337bd57a870bc08a1639e923daddbd79cf379421fa1e0ed3"
+
+[[files]]
+file = "blueprints/Byzantine_2/decorations/road/streetplanterc.blueprint"
+hash = "ee798dcf2b01bdf8e97a0406a4ac36d3329a989acd9aa0fabb923c8c971bb343"
+
+[[files]]
+file = "blueprints/Byzantine_2/decorations/road/streetseatsa1.blueprint"
+hash = "b7ba456729060356c025fab1ee872e7af0d5ab1ab599d4b24dc78d7a739aa36e"
+
+[[files]]
+file = "blueprints/Byzantine_2/decorations/road/streetseatsa2.blueprint"
+hash = "4e6865050935bf8fd02388167d024b3dfe064ffc9a1087182265d66a5b2698ec"
+
+[[files]]
+file = "blueprints/Byzantine_2/decorations/ships/merchant1.blueprint"
+hash = "2275a1e49870f55b8af8722ffcae2537e068973bd8920e2f1714ba11be51e9f7"
+
+[[files]]
+file = "blueprints/Byzantine_2/decorations/ships/merchant2.blueprint"
+hash = "e9db23023ae3b20734416592801b7127e7e96f2f6ba90bba7286a51c811bae97"
+
+[[files]]
+file = "blueprints/Byzantine_2/decorations/ships/playerexplorer1.blueprint"
+hash = "feb5c9676748e834740ca24d9c3a519a80a9f5fc160e60f53dfe16b3e119104f"
+
+[[files]]
+file = "blueprints/Byzantine_2/decorations/ships/playerexplorer2.blueprint"
+hash = "3c80b3a82a4e1f5990080a16d061e40b857bc6bae3197fff9fedad56e360310e"
+
+[[files]]
+file = "blueprints/Byzantine_2/decorations/ships/rowboat.blueprint"
+hash = "6891261b4b4a27c00b514c509078e27db4d52b2682c2fc835e38b0e583df0773"
+
+[[files]]
+file = "blueprints/Byzantine_2/decorations/statue/statueatlas.blueprint"
+hash = "8a5b2fda1163e5a6a49d1cb364851a536380294f6cae477bb08e830e37de335d"
+
+[[files]]
+file = "blueprints/Byzantine_2/decorations/statue/statuebrazier.blueprint"
+hash = "dcecf8c4127c4cd0c4f35bb95dc1cae22bd358162d9ae49180f9b37448001dd2"
+
+[[files]]
+file = "blueprints/Byzantine_2/decorations/statue/statuecavalry.blueprint"
+hash = "39ae40221bf758d96fbce27f6d31ad83b3c9c847341c22549c170f6a8c0f3df8"
+
+[[files]]
+file = "blueprints/Byzantine_2/decorations/statue/statuecolumnhorse.blueprint"
+hash = "ff813c947a0a7def661ae0e374c2b74c93e4faca7606bc8de465660e3b6b139a"
+
+[[files]]
+file = "blueprints/Byzantine_2/decorations/statue/statueconstantine.blueprint"
+hash = "7dc659cc94568c96ca90ed877871bb8f51a39a912192652000bfcf9f515730a6"
+
+[[files]]
+file = "blueprints/Byzantine_2/decorations/statue/statueeagle.blueprint"
+hash = "f303bf45fc4d9e964aaf6d16232bcb9b583969130e63e995a4e9573127bee821"
+
+[[files]]
+file = "blueprints/Byzantine_2/decorations/statue/statuemary.blueprint"
+hash = "e05232a2099d6d6c15847bfb26620dd68c70e5353450b5dd922df8fdc8cba64b"
+
+[[files]]
+file = "blueprints/Byzantine_2/decorations/statue/statueobelisk.blueprint"
+hash = "10a0df2e723e4eaed6b8f2587dbb21870211016f4bf2b7c88e5363bd631e30d3"
+
+[[files]]
+file = "blueprints/Byzantine_2/decorations/statue/statuepillardrums.blueprint"
+hash = "562b2ece5803829a983957499ff3dda9587008e48188f2347be2a84910614367"
+
+[[files]]
+file = "blueprints/Byzantine_2/decorations/supplies/supplycamp.blueprint"
+hash = "8ffa042796e2affc14f5be412a788f2eccdf77f8a2c481787e0e625c0c09812d"
+
+[[files]]
+file = "blueprints/Byzantine_2/decorations/supplies/supplyship.blueprint"
+hash = "cc0b46ac60bed51cf1913ff829297c4b4222c5526f01d7729d79e58b40b17e8c"
+
+[[files]]
+file = "blueprints/Byzantine_2/education/UniversityLibrary1.blueprint"
+hash = "7582bc1060f53b927fc4ef2d64b53e46b5dff7932f5239e5478ed6380a294d10"
+
+[[files]]
+file = "blueprints/Byzantine_2/education/UniversityLibrary2.blueprint"
+hash = "e5ec8bbf99c709409819a5d7721794a72e3a05e4b92b073f38ffe00f0f453993"
+
+[[files]]
+file = "blueprints/Byzantine_2/education/UniversityLibrary3.blueprint"
+hash = "a9c553337b4d55cca3477311e8edd69faa32795e29e7bac65928164ae4b6f738"
+
+[[files]]
+file = "blueprints/Byzantine_2/education/UniversityLibrary4.blueprint"
+hash = "0d1c917aef416b6cc48954f7860b4b0ad0c7dc0df6f9ad3b0178dc481a40145e"
+
+[[files]]
+file = "blueprints/Byzantine_2/education/UniversityLibrary5.blueprint"
+hash = "5f15b05d7caf32afda7792e00d0819ec4cab526d55889a30c4cedb90cab884b4"
+
+[[files]]
+file = "blueprints/Byzantine_2/education/UniversitySchool1.blueprint"
+hash = "306f09b04f14ef932b8f5fa0188c61d09b2d56ff9a6f0517e68c4a1b6a7e57ee"
+
+[[files]]
+file = "blueprints/Byzantine_2/education/UniversitySchool2.blueprint"
+hash = "f8f502faa199d386420623979fa356c0ba1df07db9724362423e2bb93c65f9e9"
+
+[[files]]
+file = "blueprints/Byzantine_2/education/UniversitySchool3.blueprint"
+hash = "c2fcee9922f142b04ac7b6dd7465e7ba6e485d0d210262d7975c147e83eb1c3b"
+
+[[files]]
+file = "blueprints/Byzantine_2/education/UniversitySchool4.blueprint"
+hash = "63d537f1448688b32b26785f9335b346aa1920986c233a9392554f2ea8a1e78d"
+
+[[files]]
+file = "blueprints/Byzantine_2/education/UniversitySchool5.blueprint"
+hash = "32ca7da22c38281d56041526bd810c3f523acb791f65ca9eb04bbca60ee6d3d5"
+
+[[files]]
+file = "blueprints/Byzantine_2/education/basement1.blueprint"
+hash = "6d20ee1cf7b76c1af93643f0f0d50b88ad2139e5734b30c0cdb89af2e5ad495a"
+
+[[files]]
+file = "blueprints/Byzantine_2/education/icon.png"
+hash = "43ea5923eb4805bce90fbc9884f2c810c32e8fb82784d3dae9dbdb77c514bbd8"
+
+[[files]]
+file = "blueprints/Byzantine_2/education/icon_disabled.png"
+hash = "3cd98c7ae0a602ae05a6418a277fe100f8488e785174b1f28a450015fca6bdd5"
+
+[[files]]
+file = "blueprints/Byzantine_2/education/insulaeguard1.blueprint"
+hash = "5b8a1c68b84e73155a326cb2eeb050044c612c96e2be72066127515495d3cf80"
+
+[[files]]
+file = "blueprints/Byzantine_2/education/insulaeguard2.blueprint"
+hash = "2c3aeecf5c758a26d1f6786fc6d99a7413317c211d75bd1016bb4746d0f22648"
+
+[[files]]
+file = "blueprints/Byzantine_2/education/insulaeguard3.blueprint"
+hash = "f35ab4cfb9d30382ce579448145fa8b896d82bcb263c3c2af6f04f0eea5abd44"
+
+[[files]]
+file = "blueprints/Byzantine_2/education/insulaeguard4.blueprint"
+hash = "298996cf1c7d1adb34fb46698bf862d1e606f77d1e88c20de45bbb148b97b133"
+
+[[files]]
+file = "blueprints/Byzantine_2/education/insulaeguard5.blueprint"
+hash = "df399c96f1becd3cb1830d4545da5d55612ee1d16079c5370a1bed33b32c0d70"
+
+[[files]]
+file = "blueprints/Byzantine_2/education/library1.blueprint"
+hash = "9c1394ffa4c6afedcd2c9171d2c9e88d385dd8e019a6e669e6b61e76e0ea49b9"
+
+[[files]]
+file = "blueprints/Byzantine_2/education/library2.blueprint"
+hash = "7c556ce2eb8baa6d00f2ec55bfe10cce57627b26d30c35494c09344b73f2e082"
+
+[[files]]
+file = "blueprints/Byzantine_2/education/library3.blueprint"
+hash = "3506f50d00bb463bca58c22741d9bb60ded71dc0fbccd4a3ac015ec13834548e"
+
+[[files]]
+file = "blueprints/Byzantine_2/education/library4.blueprint"
+hash = "d6d6b409eecd617c5cd341f6b015607d86d0ab9bf071620728f527d2f85b3cf0"
+
+[[files]]
+file = "blueprints/Byzantine_2/education/library5.blueprint"
+hash = "66028555bff3dbed56c9ca74b0482d934b190785cdac1032c21cdca4ccc6b2e0"
+
+[[files]]
+file = "blueprints/Byzantine_2/education/university1.blueprint"
+hash = "d6d40e9968a7eff3e2e5ce44511344884e1f39cac67a574e47221a9f764a1950"
+
+[[files]]
+file = "blueprints/Byzantine_2/education/university2.blueprint"
+hash = "244c72a051bf309d26f41efac61844dff97106c2e3fb9bd5d06c484f6d19bd3a"
+
+[[files]]
+file = "blueprints/Byzantine_2/education/university3.blueprint"
+hash = "089ab2c78e290047b8673e09704ac0827722529f9f20e4acbfdf7816eb750579"
+
+[[files]]
+file = "blueprints/Byzantine_2/education/university4.blueprint"
+hash = "35bdfecedaf67e7bc90beb7e8be90118ccecd5a27175dfe5c3f6500321d9f6b3"
+
+[[files]]
+file = "blueprints/Byzantine_2/education/university5.blueprint"
+hash = "90148786301570bf23ce1c32d9427334914cf36feaec7bfd81cbe8ea03658dac"
+
+[[files]]
+file = "blueprints/Byzantine_2/fundamentals/builder/builder1.blueprint"
+hash = "715474e0358c948bc93e5da4f14f65a8610bcfd72f5ad19822b172240b424efe"
+
+[[files]]
+file = "blueprints/Byzantine_2/fundamentals/builder/builder2.blueprint"
+hash = "8cbbacf5c86b517a20a8d5836d3c76f34bc3940092b8990e9778504a2be231af"
+
+[[files]]
+file = "blueprints/Byzantine_2/fundamentals/builder/builder3.blueprint"
+hash = "5c7d215914c708fa12706ad8d3918df0339377c78260d9566f9937aad220e249"
+
+[[files]]
+file = "blueprints/Byzantine_2/fundamentals/builder/builder4.blueprint"
+hash = "1a4c9a214adcde2b6632bd660f270546e910504d438b8a213f835e5b50343c78"
+
+[[files]]
+file = "blueprints/Byzantine_2/fundamentals/builder/builder5.blueprint"
+hash = "d52869aa434c5c2f8b0c5ce529ec8716e4ddf01336c477f643986f4591b71572"
+
+[[files]]
+file = "blueprints/Byzantine_2/fundamentals/church/alchemist1.blueprint"
+hash = "45b1e7726bfdff94b7b0d6ef50f3417b937a8265a598c34685bd20c7389b177f"
+
+[[files]]
+file = "blueprints/Byzantine_2/fundamentals/church/alchemist2.blueprint"
+hash = "f76f4a5a0b1e0a71f1b09617d5328917fc2e06121201b7e4c8b10d8a34f5156d"
+
+[[files]]
+file = "blueprints/Byzantine_2/fundamentals/church/alchemist3.blueprint"
+hash = "463dd8a2066d36da56abbce845f96fc61b0a16cded4325350e6b040fb0a7c285"
+
+[[files]]
+file = "blueprints/Byzantine_2/fundamentals/church/alchemist4.blueprint"
+hash = "795635571ed87500936ac75b8575feb45ff4ecb07cae43466a8d3fc736e14682"
+
+[[files]]
+file = "blueprints/Byzantine_2/fundamentals/church/alchemist5.blueprint"
+hash = "bf118c22f838ad3185d2898e834b25648e19d702625c14d80e35f3b00c8f9b55"
+
+[[files]]
+file = "blueprints/Byzantine_2/fundamentals/church/alchemist_m1.blueprint"
+hash = "2ad21de6883ddf3fa3728cfa95a6121cad6021fbb0648ab90746c14c0af80dc5"
+
+[[files]]
+file = "blueprints/Byzantine_2/fundamentals/church/alchemist_m2.blueprint"
+hash = "f2cc26fd5fe2536ce7880b2c25d086c5d22256948e7b402314a032b109a90317"
+
+[[files]]
+file = "blueprints/Byzantine_2/fundamentals/church/alchemist_m3.blueprint"
+hash = "20fb6594341bad43a9b56b8df3a6b436aab0068dd28a953f7c36fd3708d90428"
+
+[[files]]
+file = "blueprints/Byzantine_2/fundamentals/church/alchemist_m4.blueprint"
+hash = "a95c31615131640dbb2aedf3c3903ba643803b83b6cddf9a2b487e9cec125dd8"
+
+[[files]]
+file = "blueprints/Byzantine_2/fundamentals/church/alchemist_m5.blueprint"
+hash = "95d96a3cf61f574e55643003d9b211a903a4e0d7149b33fba78374764e73e641"
+
+[[files]]
+file = "blueprints/Byzantine_2/fundamentals/church/church1.blueprint"
+hash = "533369fc0ac6a546d730840a8af9043b42644f16db0522372ed579f46cbe6fe8"
+
+[[files]]
+file = "blueprints/Byzantine_2/fundamentals/church/church2.blueprint"
+hash = "b35b71cf63d330d67ff7ee551577ade6ef4468d85c0fc84b471800be6faae33e"
+
+[[files]]
+file = "blueprints/Byzantine_2/fundamentals/church/church3.blueprint"
+hash = "0c55ff1cbeae7174293b9d25b9cbbe892cde80527083b7c663a1667312ba7dfc"
+
+[[files]]
+file = "blueprints/Byzantine_2/fundamentals/church/church4.blueprint"
+hash = "6d98d4fac8425cbce0c0894a434d7f16e892d8ba486f115af2f174c3a97f9168"
+
+[[files]]
+file = "blueprints/Byzantine_2/fundamentals/church/church5.blueprint"
+hash = "468abe6329d6973a040ee5b66bf359d7af2077346f9d123ace331821bc67d230"
+
+[[files]]
+file = "blueprints/Byzantine_2/fundamentals/church/dorm1.blueprint"
+hash = "58356ab257f2bfc7ccc318e50917b535c74c970382a9df789d459ec26b0eeddd"
+
+[[files]]
+file = "blueprints/Byzantine_2/fundamentals/church/dorm2.blueprint"
+hash = "f382deb232b77712c9ae139538fd613b3f36abda10449c73879e8c823c7803d2"
+
+[[files]]
+file = "blueprints/Byzantine_2/fundamentals/church/dorm3.blueprint"
+hash = "1a6e47140418af292dac4f0409e74c626c0f0280d109e2650b7ed3389e6d61a8"
+
+[[files]]
+file = "blueprints/Byzantine_2/fundamentals/church/dorm4.blueprint"
+hash = "040f42aa644a24030afc779cbadc485508e517656f2ad372b43e747ff5f288f0"
+
+[[files]]
+file = "blueprints/Byzantine_2/fundamentals/church/dorm5.blueprint"
+hash = "78d43ef28541db4b111a4f31c8f4e63be1fbe62c136ab2010be71301143ebb01"
+
+[[files]]
+file = "blueprints/Byzantine_2/fundamentals/church/dorm_m1.blueprint"
+hash = "06a860cd5d173af85a77129b1068aa5dff22ecc2d2cb7c753e586dfd87738770"
+
+[[files]]
+file = "blueprints/Byzantine_2/fundamentals/church/dorm_m2.blueprint"
+hash = "cce1b6f7aba7c9c1a7807a89143b8eb6bf1d8d1f0f69dd9099f794e9ea21c509"
+
+[[files]]
+file = "blueprints/Byzantine_2/fundamentals/church/dorm_m3.blueprint"
+hash = "2b54ed27bf804c678942bb52a2cee0f1c0efa869a24a5c0dca26a6b174f4f15d"
+
+[[files]]
+file = "blueprints/Byzantine_2/fundamentals/church/dorm_m4.blueprint"
+hash = "162d411ffed47bbb8c927a938828361a6aa6beb073345cbdee180f4fd276c6ff"
+
+[[files]]
+file = "blueprints/Byzantine_2/fundamentals/church/dorm_m5.blueprint"
+hash = "9b50f2ee102fefd4d09173dee254ae97d2ea177ffff323479f551ba007052392"
+
+[[files]]
+file = "blueprints/Byzantine_2/fundamentals/church/enchanter1.blueprint"
+hash = "95d1f4835c22ce57b50e857222d0b0b4146fa17628265a9c4e24fdf89b2ff427"
+
+[[files]]
+file = "blueprints/Byzantine_2/fundamentals/church/enchanter2.blueprint"
+hash = "3668752ee7f0366ce66ba7c7d8b939d81c580c0fd012e92cc4abd40a5d350bd0"
+
+[[files]]
+file = "blueprints/Byzantine_2/fundamentals/church/enchanter3.blueprint"
+hash = "a1a23587c5f5ccbded98f766f329019adbe85090b1e5e3f018440a44cfd79444"
+
+[[files]]
+file = "blueprints/Byzantine_2/fundamentals/church/enchanter4.blueprint"
+hash = "7a87baaaeaea7f5b13ef5790b08b458b7e019ffc94f83f74aa288baf769a8d3a"
+
+[[files]]
+file = "blueprints/Byzantine_2/fundamentals/church/enchanter5.blueprint"
+hash = "d506c8d8ff00e4d99bbc5dfd0effcedc01b4758140a0d6c32a96a23cd0360447"
+
+[[files]]
+file = "blueprints/Byzantine_2/fundamentals/church/graveyard1.blueprint"
+hash = "eeb4fc4d306686c962e62acde4a1c3c4bd06e65cd19e57addb45f4a30b1400f9"
+
+[[files]]
+file = "blueprints/Byzantine_2/fundamentals/church/graveyard2.blueprint"
+hash = "64157062b9140c63273c6aecfaed466712eba679d228dd4bfa58e82af0b73fab"
+
+[[files]]
+file = "blueprints/Byzantine_2/fundamentals/church/graveyard3.blueprint"
+hash = "a75a006dfcbec1860a1d8e977102194326d33620df9af856bc84862adff26153"
+
+[[files]]
+file = "blueprints/Byzantine_2/fundamentals/church/graveyard4.blueprint"
+hash = "60012ebc5764252e87c85dff7f351a057ac56b740a2dda6b020a471de62ccffa"
+
+[[files]]
+file = "blueprints/Byzantine_2/fundamentals/church/graveyard5.blueprint"
+hash = "f4ea8b32e21b27880552cde96fd716d8ab45a11352ad524b376ba0c428e36908"
+
+[[files]]
+file = "blueprints/Byzantine_2/fundamentals/church/library1.blueprint"
+hash = "98f947940c013259215e494ee43bae0356297bcdad164899f42b2322bda0d596"
+
+[[files]]
+file = "blueprints/Byzantine_2/fundamentals/church/library2.blueprint"
+hash = "919b40721d3c8ecd908940a19544923709d4cb40b0fcb4209d73bcaee91ea3f7"
+
+[[files]]
+file = "blueprints/Byzantine_2/fundamentals/church/library3.blueprint"
+hash = "b90ff94162d4dda4858b041fc188a9f4d7b8eeae53f0beababd8d96b9b2f3b31"
+
+[[files]]
+file = "blueprints/Byzantine_2/fundamentals/church/library4.blueprint"
+hash = "ac57795dce03b5ffac7bdeb0d84ebdf9e8e375bcdb63838c5b861e25219c8a59"
+
+[[files]]
+file = "blueprints/Byzantine_2/fundamentals/church/library5.blueprint"
+hash = "8893ed1cfbc3e730f6c26838d1d4c44470723764036ac883a04ddb6f34ebcf19"
+
+[[files]]
+file = "blueprints/Byzantine_2/fundamentals/church/school1.blueprint"
+hash = "efc10703e4c969faa5c8488bb0f9ae623dbbf17bbab2787b38a3e344563607a4"
+
+[[files]]
+file = "blueprints/Byzantine_2/fundamentals/church/school2.blueprint"
+hash = "23310f346cae24131258078f876a3e3c7c8c837176ae63827761219c4c5c8755"
+
+[[files]]
+file = "blueprints/Byzantine_2/fundamentals/church/school3.blueprint"
+hash = "5910276f1797880ebf709f9e687a2cc5e8ac325ae3337e51bc30a1afdfb5a558"
+
+[[files]]
+file = "blueprints/Byzantine_2/fundamentals/church/school4.blueprint"
+hash = "597a01def56c1b0797fe1a04698ecf0430868f39288ff40f185ade361f39e71f"
+
+[[files]]
+file = "blueprints/Byzantine_2/fundamentals/church/school5.blueprint"
+hash = "5251470809f2684752a2d54e7ebeb2be72c6ea7d6d5ffeec22bb1c123b67d631"
+
+[[files]]
+file = "blueprints/Byzantine_2/fundamentals/hospital/hillside1.blueprint"
+hash = "d44258e00ef27986df5d6bb4c3ea55df65d0048fdc6dfa640ea862648a98e2fb"
+
+[[files]]
+file = "blueprints/Byzantine_2/fundamentals/hospital/hillside2.blueprint"
+hash = "3ab6d5fae79ecd809ac3478a90b08f2607089a6f9812614869ecf62a7327f210"
+
+[[files]]
+file = "blueprints/Byzantine_2/fundamentals/hospital/hillside3.blueprint"
+hash = "6dcd36e0150eca5f80be46e370432e2ce57fafc376a601b4cc53c70a60a58a1e"
+
+[[files]]
+file = "blueprints/Byzantine_2/fundamentals/hospital/hillside4.blueprint"
+hash = "e7de8849f2ef19150fd97c287f1f573f873f2b01603d08954f68721bf5031e99"
+
+[[files]]
+file = "blueprints/Byzantine_2/fundamentals/hospital/hillside5.blueprint"
+hash = "b72c29abd2eecf34728daddd0a03f030fa3d0e1fbc1f67cd13c0951bb4e896d5"
+
+[[files]]
+file = "blueprints/Byzantine_2/fundamentals/hospital/hospital1.blueprint"
+hash = "09ecefafbecd240ec219acd704bc120c89f7ea372106e36745a9bdbf4750a931"
+
+[[files]]
+file = "blueprints/Byzantine_2/fundamentals/hospital/hospital2.blueprint"
+hash = "3d486b31978b0f586d52c28c2fcde6a17edb0e7897579a23d47799c5d3a22342"
+
+[[files]]
+file = "blueprints/Byzantine_2/fundamentals/hospital/hospital3.blueprint"
+hash = "b15b0bef5e32141f2fb16a75606d5f38fb70254bf8d031532316cbe730d404db"
+
+[[files]]
+file = "blueprints/Byzantine_2/fundamentals/hospital/hospital4.blueprint"
+hash = "0c4be374faa89031682e9726626153938b5bc77070f5af6f0a4522599468c24e"
+
+[[files]]
+file = "blueprints/Byzantine_2/fundamentals/hospital/hospital5.blueprint"
+hash = "5d96c275b9d6d7eb3d4abcfc1daf8963a5c8e38ddde8f1b6f0da1b6004b5ab90"
+
+[[files]]
+file = "blueprints/Byzantine_2/fundamentals/hospital/maindorm1.blueprint"
+hash = "a4312e2ddeab048d603eb532da84c3f7bd8deaf6928a87f23fee82a61693adcb"
+
+[[files]]
+file = "blueprints/Byzantine_2/fundamentals/hospital/maindorm2.blueprint"
+hash = "d3e6795144fc269e5e29ab79f680259fb26b4e8ff1c1321f4648106d6a1c78b9"
+
+[[files]]
+file = "blueprints/Byzantine_2/fundamentals/hospital/maindorm3.blueprint"
+hash = "681aaf9d3faed512cc5df6081249af12c8eccaf9805c6b702fb25457891ad4fb"
+
+[[files]]
+file = "blueprints/Byzantine_2/fundamentals/hospital/maindorm4.blueprint"
+hash = "2039ac00292807e9230ca6ca1f309aea886b2b5f02c03ff8e7d90f62fc8e4ffb"
+
+[[files]]
+file = "blueprints/Byzantine_2/fundamentals/hospital/maindorm5.blueprint"
+hash = "183afbfd29737cd314f7bf53d6196c2ae72112a524bb3c3739816c015a9b9419"
+
+[[files]]
+file = "blueprints/Byzantine_2/fundamentals/house/classic1.blueprint"
+hash = "e294e077068ce6eb89887222b2040d9ecef3f117f119b61a0b2a42c87c8e31d8"
+
+[[files]]
+file = "blueprints/Byzantine_2/fundamentals/house/classic2.blueprint"
+hash = "58e3ecb82b38390e4978daf4c1b9309ae3daa10a3d9dd1ac25dadc9c0d4d0967"
+
+[[files]]
+file = "blueprints/Byzantine_2/fundamentals/house/classic3.blueprint"
+hash = "a95ea44770601cfdaabbd3ed32dbeba14ba5bc9b6fcf4a52ca2fb3c3b184f83e"
+
+[[files]]
+file = "blueprints/Byzantine_2/fundamentals/house/classic4.blueprint"
+hash = "3dd964409250fe05efbc673b1e5f9e386da64d3e2f7a80ff900fa8daa4eb5178"
+
+[[files]]
+file = "blueprints/Byzantine_2/fundamentals/house/classic5.blueprint"
+hash = "17a1a6af689a1f71e9777621fd09531fcf0f10bdb78f919f6b905b669d3ec028"
+
+[[files]]
+file = "blueprints/Byzantine_2/fundamentals/house/hillside1.blueprint"
+hash = "36d9f476cf195a1790515e1c99e2068b3aed3759fef079a2f5077a836e68dd11"
+
+[[files]]
+file = "blueprints/Byzantine_2/fundamentals/house/hillside2.blueprint"
+hash = "07a018a69264d74f02a7528751dcd9322f96bc22febdf9aad063d4b9966099d2"
+
+[[files]]
+file = "blueprints/Byzantine_2/fundamentals/house/hillside3.blueprint"
+hash = "4853dfa0763ad93039eb0241cead41d45217d87abb9e7b947a57ce9366e0ae36"
+
+[[files]]
+file = "blueprints/Byzantine_2/fundamentals/house/hillside4.blueprint"
+hash = "39267d6958dea5df13e7cb7afab0a1a907ccdaf742c99611b84a36db100579dd"
+
+[[files]]
+file = "blueprints/Byzantine_2/fundamentals/house/hillside5.blueprint"
+hash = "833daf261252353ebdc2f97268f6388b72b1898b84c0eb0bf1885091bf238094"
+
+[[files]]
+file = "blueprints/Byzantine_2/fundamentals/house/modern1.blueprint"
+hash = "fc241e74e3b530c47ceb5f219e78773525dda1d618723262d2d7be42df19a747"
+
+[[files]]
+file = "blueprints/Byzantine_2/fundamentals/house/modern2.blueprint"
+hash = "7d9c1728bafadb6ccc6f36a6deb0cf7544ee88bf685aadbe22fb61abdf48bb5a"
+
+[[files]]
+file = "blueprints/Byzantine_2/fundamentals/house/modern3.blueprint"
+hash = "6cc858ba4c8dc53ec008de0dc7d4cbd2bbcc48a2b1473ec51463fb172428826b"
+
+[[files]]
+file = "blueprints/Byzantine_2/fundamentals/house/modern4.blueprint"
+hash = "e1989f7275c236601e2d1778c936806e1e97dffa9dfc0e9ae4000ada089982a6"
+
+[[files]]
+file = "blueprints/Byzantine_2/fundamentals/house/modern5.blueprint"
+hash = "28ae6c5cb69188c3b36f998aa38f386e26fbc73d3ce38d6e11e729a2defba48b"
+
+[[files]]
+file = "blueprints/Byzantine_2/fundamentals/icon.png"
+hash = "5ef65c55967b60361a9ef6c00678c71b546bd064afb3e3dac1bb5086ba124389"
+
+[[files]]
+file = "blueprints/Byzantine_2/fundamentals/icon_disabled.png"
+hash = "6ad79c8c963eeac3843132b18e553d1466bbe70d64f59ab505b3a071e1d98595"
+
+[[files]]
+file = "blueprints/Byzantine_2/fundamentals/insulae_corners/corner_a1.blueprint"
+hash = "e14bd9bd4976974ffc889eb2a9d1ce67222df375eb0feb801f75e5b69fbd045d"
+
+[[files]]
+file = "blueprints/Byzantine_2/fundamentals/insulae_corners/corner_a2.blueprint"
+hash = "4440b403e5dee1bb8de9eedad86022668528c1f8be68ba855bc7f0292d293222"
+
+[[files]]
+file = "blueprints/Byzantine_2/fundamentals/insulae_corners/corner_a3.blueprint"
+hash = "9a5e81e625c7118363ef866b3a45bde774c38a9dd1e40181d79b237c1d6fd88a"
+
+[[files]]
+file = "blueprints/Byzantine_2/fundamentals/insulae_corners/corner_a4.blueprint"
+hash = "c63302c8cf21a3fef6b94cda29bcf43cba19d31db6b6f607c5bed9399c2771a4"
+
+[[files]]
+file = "blueprints/Byzantine_2/fundamentals/insulae_corners/corner_a5.blueprint"
+hash = "7e336f0fd01df5cffd8ca40dd3966a763e05148ca7b4691ac7117491f06710c5"
+
+[[files]]
+file = "blueprints/Byzantine_2/fundamentals/insulae_corners/corner_b1.blueprint"
+hash = "a45fcbb3eea42b072325b4bbb3063b70fc15e5166f6a8b40266acc9e3522290c"
+
+[[files]]
+file = "blueprints/Byzantine_2/fundamentals/insulae_corners/corner_b2.blueprint"
+hash = "6f1d8ef0ee6ffc5087f0614d23cf8d2af0bc7c020c361ebe473bd23df533dbeb"
+
+[[files]]
+file = "blueprints/Byzantine_2/fundamentals/insulae_corners/corner_b3.blueprint"
+hash = "cdb25a5973fd3e69180e67af657dc9daad22b073baac55aefa196e23dc2df262"
+
+[[files]]
+file = "blueprints/Byzantine_2/fundamentals/insulae_corners/corner_b4.blueprint"
+hash = "c9d0a263111a37ad716d1ae66aafac5ad83c483e376031d3e54252fc33f4abe8"
+
+[[files]]
+file = "blueprints/Byzantine_2/fundamentals/insulae_corners/corner_b5.blueprint"
+hash = "94c2fc0a0f3cad0d282daddcde0127d6cb0a2cb2e3b702ade162efd4313cfc48"
+
+[[files]]
+file = "blueprints/Byzantine_2/fundamentals/insulae_corners/corner_c1.blueprint"
+hash = "3444c3cea2f054c2a1f1e6a9a66f232109321d950e349560abd757e2f1beb9de"
+
+[[files]]
+file = "blueprints/Byzantine_2/fundamentals/insulae_corners/corner_c2.blueprint"
+hash = "c4155cd5d3ce17d2ea1f4e24be8e79227021ce08a09b9122df23c75e9171d6c7"
+
+[[files]]
+file = "blueprints/Byzantine_2/fundamentals/insulae_corners/corner_c3.blueprint"
+hash = "9ea089a4137ee8696e24d3cde3587023cefb42a5a2fd417d04ba962e0b7a3c58"
+
+[[files]]
+file = "blueprints/Byzantine_2/fundamentals/insulae_corners/corner_c4.blueprint"
+hash = "a0e8dd130fd6c43179ce05471f0a56ebddb566daf6bf03f225771fe7a1c18f37"
+
+[[files]]
+file = "blueprints/Byzantine_2/fundamentals/insulae_corners/corner_c5.blueprint"
+hash = "4d0caf5bfa9e8294040ed8a1905d94379581df94456918ddaeb62e15c24977cc"
+
+[[files]]
+file = "blueprints/Byzantine_2/fundamentals/insulae_corners/cornercafe1.blueprint"
+hash = "12c0bc025af0210fdec93dd1cb46651a1cd2b41f7303c398f7bfc4dfe94cd5a4"
+
+[[files]]
+file = "blueprints/Byzantine_2/fundamentals/insulae_corners/cornercafe2.blueprint"
+hash = "f7315a92b59e1aa69e45d377f126cfab5d95970b3a7354cf7a720299f4dccb4d"
+
+[[files]]
+file = "blueprints/Byzantine_2/fundamentals/insulae_corners/cornercafe3.blueprint"
+hash = "1494bf6d23b2369e1d1831f651d191a25aa531db6bd959c0a471e583f0fdf11f"
+
+[[files]]
+file = "blueprints/Byzantine_2/fundamentals/insulae_corners/cornercafe4.blueprint"
+hash = "44376bc8db977d11a5a800abe112e73a89ed624f78758597acce556c5a420dc1"
+
+[[files]]
+file = "blueprints/Byzantine_2/fundamentals/insulae_corners/cornercafe5.blueprint"
+hash = "3eec8e53a1c38a9eb84014eb44697b0bed1be8cf92a6ca85f1fe51ce6b1a19b9"
+
+[[files]]
+file = "blueprints/Byzantine_2/fundamentals/insulae_corners/cornerdorm1.blueprint"
+hash = "4ff8204cfe609bf3bb27c131a6c66ad4a2e5a9abc524a5b588bbecb56281f0d1"
+
+[[files]]
+file = "blueprints/Byzantine_2/fundamentals/insulae_corners/cornerdorm2.blueprint"
+hash = "730d59dda87966c1b47429bde26c3b03ff6830a7de1a2c5ded04a16769018e74"
+
+[[files]]
+file = "blueprints/Byzantine_2/fundamentals/insulae_corners/cornerdorm3.blueprint"
+hash = "4159201d06c4e17410d8fb9371262f67b4431af1f70a628ca9387a8b92b2ced6"
+
+[[files]]
+file = "blueprints/Byzantine_2/fundamentals/insulae_corners/cornerdorm4.blueprint"
+hash = "f3bb28fd8ad852795c5bbbd8bb320714a973b6c11c1c4e7a0a94874367c27561"
+
+[[files]]
+file = "blueprints/Byzantine_2/fundamentals/insulae_corners/cornerdorm5.blueprint"
+hash = "47ea605094de69fc8d890b4c842e9dc586a1452d0ec489b0445007fbec6cc2da"
+
+[[files]]
+file = "blueprints/Byzantine_2/fundamentals/insulae_corners/cornerschool0.blueprint"
+hash = "99c0f7c6d5c6baedcba071ea2ce5250fde72336773fded833654b7bc1c05e60a"
+
+[[files]]
+file = "blueprints/Byzantine_2/fundamentals/insulae_corners/cornerschool1.blueprint"
+hash = "c1b2fe9a64bfd214747f7243f02917a5dbd69df10521180b6a67d393c6bcd4b0"
+
+[[files]]
+file = "blueprints/Byzantine_2/fundamentals/insulae_corners/cornerschool2.blueprint"
+hash = "a64ad010ad2c4fc3978a7751d0cadee49efa8d733a559a9679f9414c6791eeb0"
+
+[[files]]
+file = "blueprints/Byzantine_2/fundamentals/insulae_corners/cornerschool3.blueprint"
+hash = "fa297c6c920fe5608f70f24fc1324af8d52ced29ac96b017186f88e5de034ca5"
+
+[[files]]
+file = "blueprints/Byzantine_2/fundamentals/insulae_corners/cornerschool4.blueprint"
+hash = "ae8f183ceaa72ee0ac8cb7918c0c5132f171fc4633be9527a65aeb4507405aba"
+
+[[files]]
+file = "blueprints/Byzantine_2/fundamentals/insulae_corners/cornerschool5.blueprint"
+hash = "65ef935ba97759ec4722461c5778f7349170947819d4c22840ff20ff70706853"
+
+[[files]]
+file = "blueprints/Byzantine_2/fundamentals/insulae_corners/insulaeguard1.blueprint"
+hash = "5b8a1c68b84e73155a326cb2eeb050044c612c96e2be72066127515495d3cf80"
+
+[[files]]
+file = "blueprints/Byzantine_2/fundamentals/insulae_corners/insulaeguard2.blueprint"
+hash = "2c3aeecf5c758a26d1f6786fc6d99a7413317c211d75bd1016bb4746d0f22648"
+
+[[files]]
+file = "blueprints/Byzantine_2/fundamentals/insulae_corners/insulaeguard3.blueprint"
+hash = "f35ab4cfb9d30382ce579448145fa8b896d82bcb263c3c2af6f04f0eea5abd44"
+
+[[files]]
+file = "blueprints/Byzantine_2/fundamentals/insulae_corners/insulaeguard4.blueprint"
+hash = "298996cf1c7d1adb34fb46698bf862d1e606f77d1e88c20de45bbb148b97b133"
+
+[[files]]
+file = "blueprints/Byzantine_2/fundamentals/insulae_corners/insulaeguard5.blueprint"
+hash = "df399c96f1becd3cb1830d4545da5d55612ee1d16079c5370a1bed33b32c0d70"
+
+[[files]]
+file = "blueprints/Byzantine_2/fundamentals/insulae_corners/maindorm1.blueprint"
+hash = "a4312e2ddeab048d603eb532da84c3f7bd8deaf6928a87f23fee82a61693adcb"
+
+[[files]]
+file = "blueprints/Byzantine_2/fundamentals/insulae_corners/maindorm2.blueprint"
+hash = "d3e6795144fc269e5e29ab79f680259fb26b4e8ff1c1321f4648106d6a1c78b9"
+
+[[files]]
+file = "blueprints/Byzantine_2/fundamentals/insulae_corners/maindorm3.blueprint"
+hash = "681aaf9d3faed512cc5df6081249af12c8eccaf9805c6b702fb25457891ad4fb"
+
+[[files]]
+file = "blueprints/Byzantine_2/fundamentals/insulae_corners/maindorm4.blueprint"
+hash = "2039ac00292807e9230ca6ca1f309aea886b2b5f02c03ff8e7d90f62fc8e4ffb"
+
+[[files]]
+file = "blueprints/Byzantine_2/fundamentals/insulae_corners/maindorm5.blueprint"
+hash = "183afbfd29737cd314f7bf53d6196c2ae72112a524bb3c3739816c015a9b9419"
+
+[[files]]
+file = "blueprints/Byzantine_2/fundamentals/insulae_corners/tinydorm1.blueprint"
+hash = "19d28933aee44ea802b4220961b8db4f69e02ecd25288b0969eae8cdcc3aa13f"
+
+[[files]]
+file = "blueprints/Byzantine_2/fundamentals/insulae_corners/tinydorm2.blueprint"
+hash = "e08dbff45c2a1791992c34721222eade6120e806fbd2101491da1918022fdff3"
+
+[[files]]
+file = "blueprints/Byzantine_2/fundamentals/insulae_corners/tinydorm3.blueprint"
+hash = "2d683f0e17851f1b267a2ddeb5b2bf7c3a7a328da475a31140d9419160a37cb2"
+
+[[files]]
+file = "blueprints/Byzantine_2/fundamentals/insulae_corners/tinydorm4.blueprint"
+hash = "f949ae7e6c8b798984f3b28d39db1a843b794293c8fe68e787f04f1c9842c6e4"
+
+[[files]]
+file = "blueprints/Byzantine_2/fundamentals/insulae_corners/tinydorm5.blueprint"
+hash = "755d95741c4bdf399c1a950f5d037490ea3430d502497848cab3b67bfb7cb5d1"
+
+[[files]]
+file = "blueprints/Byzantine_2/fundamentals/insulae_ends/end_a1.blueprint"
+hash = "af38db3684da547dd74fe755e15ac52c40e3a9c2f6d581e76da0f4a78a785f9b"
+
+[[files]]
+file = "blueprints/Byzantine_2/fundamentals/insulae_ends/end_a2.blueprint"
+hash = "cf47c513e1869749041722dd632a06111b21505a26a99c9b9a16733df95853f4"
+
+[[files]]
+file = "blueprints/Byzantine_2/fundamentals/insulae_ends/end_a3.blueprint"
+hash = "b31b48d3191897b5761b1fe1bb7c491e2a56a4199392dd52ffc3dc6ff6c45a2b"
+
+[[files]]
+file = "blueprints/Byzantine_2/fundamentals/insulae_ends/end_a4.blueprint"
+hash = "e47775630388df9dcf1db082ec17b6b8df7aae59f8446f4fbe2781b1f1d40fb4"
+
+[[files]]
+file = "blueprints/Byzantine_2/fundamentals/insulae_ends/end_a5.blueprint"
+hash = "33a486b447898fad60ee917fec9787e45cedc7b40c1b9fc6526818337bdf8e6f"
+
+[[files]]
+file = "blueprints/Byzantine_2/fundamentals/insulae_ends/end_b1.blueprint"
+hash = "4d8707e0662eed264ca306b3107fa0481c7dd572c4a326cc321802706f964c89"
+
+[[files]]
+file = "blueprints/Byzantine_2/fundamentals/insulae_ends/end_b2.blueprint"
+hash = "04f7231b95373e494d6d23d08ef4ecb9243cc3341017cf1f0b0dbc2031eedd5b"
+
+[[files]]
+file = "blueprints/Byzantine_2/fundamentals/insulae_ends/end_b3.blueprint"
+hash = "735ffd934399ca38294e9c64ad54e89f1e81c9380939e8e1bd2e5bbdfe058f48"
+
+[[files]]
+file = "blueprints/Byzantine_2/fundamentals/insulae_ends/end_b4.blueprint"
+hash = "57dfde22ef56a80b5170a9f3aa0c1bc5f46af55ad781bba364ac2d7a3d00560d"
+
+[[files]]
+file = "blueprints/Byzantine_2/fundamentals/insulae_ends/end_b5.blueprint"
+hash = "081a0ce9fc4f5925104628da38a4b21482280b51688714b808f9227d579e597b"
+
+[[files]]
+file = "blueprints/Byzantine_2/fundamentals/insulae_ends/end_c1.blueprint"
+hash = "04d2f4d9bb2923297e9909864acd80f73b7aeb4feff7041bdf6921c9c3433cca"
+
+[[files]]
+file = "blueprints/Byzantine_2/fundamentals/insulae_ends/end_c2.blueprint"
+hash = "d6a6f9292932f336b452bf3c60de30c3b7d0e93c858f91718ddd0ac4804c1a35"
+
+[[files]]
+file = "blueprints/Byzantine_2/fundamentals/insulae_ends/end_c3.blueprint"
+hash = "d3f196a1606b5708806c211e5331b48b12d12559bbfae3fca7cdf8ed65631aed"
+
+[[files]]
+file = "blueprints/Byzantine_2/fundamentals/insulae_ends/end_c4.blueprint"
+hash = "1151e88ef560dc184b7f6052cf6b08bc5b70b83072438996f2bb31601721ce05"
+
+[[files]]
+file = "blueprints/Byzantine_2/fundamentals/insulae_ends/end_c5.blueprint"
+hash = "a21de2658ceb9b9b58dc36ceef5fa361f147bf0e8cbeb4ac7183747849e93f83"
+
+[[files]]
+file = "blueprints/Byzantine_2/fundamentals/insulae_ends/enddorm1.blueprint"
+hash = "7209b1f8ffacf9458e0b655982a8c9e8b837570a8acfa9caa2e9b7db1ab92c21"
+
+[[files]]
+file = "blueprints/Byzantine_2/fundamentals/insulae_ends/enddorm2.blueprint"
+hash = "1a2b199a7cbe0ac6d632b6f193823e676f97784607ca1dd5bcf3c9302f5e4477"
+
+[[files]]
+file = "blueprints/Byzantine_2/fundamentals/insulae_ends/enddorm3.blueprint"
+hash = "fa81ca532e1fda6c17fdd693e91e8a388a7515230cf96420eea2911b2bfba582"
+
+[[files]]
+file = "blueprints/Byzantine_2/fundamentals/insulae_ends/enddorm4.blueprint"
+hash = "1ec6900261a46501d23181196ebceab59e8e6a01b39e68a77525e33ed35fa931"
+
+[[files]]
+file = "blueprints/Byzantine_2/fundamentals/insulae_ends/enddorm5.blueprint"
+hash = "fcf4ed33a9497e595cbae7cefea0b342e8501bb5910668d5b0ca1da47fceb744"
+
+[[files]]
+file = "blueprints/Byzantine_2/fundamentals/insulae_ends/insulaeguard1.blueprint"
+hash = "5b8a1c68b84e73155a326cb2eeb050044c612c96e2be72066127515495d3cf80"
+
+[[files]]
+file = "blueprints/Byzantine_2/fundamentals/insulae_ends/insulaeguard2.blueprint"
+hash = "2c3aeecf5c758a26d1f6786fc6d99a7413317c211d75bd1016bb4746d0f22648"
+
+[[files]]
+file = "blueprints/Byzantine_2/fundamentals/insulae_ends/insulaeguard3.blueprint"
+hash = "f35ab4cfb9d30382ce579448145fa8b896d82bcb263c3c2af6f04f0eea5abd44"
+
+[[files]]
+file = "blueprints/Byzantine_2/fundamentals/insulae_ends/insulaeguard4.blueprint"
+hash = "298996cf1c7d1adb34fb46698bf862d1e606f77d1e88c20de45bbb148b97b133"
+
+[[files]]
+file = "blueprints/Byzantine_2/fundamentals/insulae_ends/insulaeguard5.blueprint"
+hash = "df399c96f1becd3cb1830d4545da5d55612ee1d16079c5370a1bed33b32c0d70"
+
+[[files]]
+file = "blueprints/Byzantine_2/fundamentals/insulae_ends/maindorm1.blueprint"
+hash = "a4312e2ddeab048d603eb532da84c3f7bd8deaf6928a87f23fee82a61693adcb"
+
+[[files]]
+file = "blueprints/Byzantine_2/fundamentals/insulae_ends/maindorm2.blueprint"
+hash = "d3e6795144fc269e5e29ab79f680259fb26b4e8ff1c1321f4648106d6a1c78b9"
+
+[[files]]
+file = "blueprints/Byzantine_2/fundamentals/insulae_ends/maindorm3.blueprint"
+hash = "681aaf9d3faed512cc5df6081249af12c8eccaf9805c6b702fb25457891ad4fb"
+
+[[files]]
+file = "blueprints/Byzantine_2/fundamentals/insulae_ends/maindorm4.blueprint"
+hash = "2039ac00292807e9230ca6ca1f309aea886b2b5f02c03ff8e7d90f62fc8e4ffb"
+
+[[files]]
+file = "blueprints/Byzantine_2/fundamentals/insulae_ends/maindorm5.blueprint"
+hash = "183afbfd29737cd314f7bf53d6196c2ae72112a524bb3c3739816c015a9b9419"
+
+[[files]]
+file = "blueprints/Byzantine_2/fundamentals/insulae_middles/hotpool1.blueprint"
+hash = "78125e35cdd8647545aaf2f89b6d481608dcecd02c067c154745d65b1ee713e0"
+
+[[files]]
+file = "blueprints/Byzantine_2/fundamentals/insulae_middles/insulaeguard1.blueprint"
+hash = "5b8a1c68b84e73155a326cb2eeb050044c612c96e2be72066127515495d3cf80"
+
+[[files]]
+file = "blueprints/Byzantine_2/fundamentals/insulae_middles/insulaeguard2.blueprint"
+hash = "2c3aeecf5c758a26d1f6786fc6d99a7413317c211d75bd1016bb4746d0f22648"
+
+[[files]]
+file = "blueprints/Byzantine_2/fundamentals/insulae_middles/insulaeguard3.blueprint"
+hash = "f35ab4cfb9d30382ce579448145fa8b896d82bcb263c3c2af6f04f0eea5abd44"
+
+[[files]]
+file = "blueprints/Byzantine_2/fundamentals/insulae_middles/insulaeguard4.blueprint"
+hash = "298996cf1c7d1adb34fb46698bf862d1e606f77d1e88c20de45bbb148b97b133"
+
+[[files]]
+file = "blueprints/Byzantine_2/fundamentals/insulae_middles/insulaeguard5.blueprint"
+hash = "df399c96f1becd3cb1830d4545da5d55612ee1d16079c5370a1bed33b32c0d70"
+
+[[files]]
+file = "blueprints/Byzantine_2/fundamentals/insulae_middles/main_a1.blueprint"
+hash = "e6382844b396d0e361fae0aede46027ecf10c0924b5759d8864ef38336eee96e"
+
+[[files]]
+file = "blueprints/Byzantine_2/fundamentals/insulae_middles/main_a2.blueprint"
+hash = "1bc5bc778113bf42b374bd5fc198f3ae466d765d6a6b2e2d4a8b64f05da2e8b7"
+
+[[files]]
+file = "blueprints/Byzantine_2/fundamentals/insulae_middles/main_a3.blueprint"
+hash = "e6d29f79b0908e3685b5018bd77fb4c9a933f4c88bcfca7c001bd05000fb2b8f"
+
+[[files]]
+file = "blueprints/Byzantine_2/fundamentals/insulae_middles/main_a4.blueprint"
+hash = "01549e8eb5180f06e8b1be6ebb20bf1db24ae6d9830841d997ae2df14b5d431a"
+
+[[files]]
+file = "blueprints/Byzantine_2/fundamentals/insulae_middles/main_a5.blueprint"
+hash = "acbce556953d74f3d297ea09a5fa1b142bc65321ee98400c9272e4e3cbe078aa"
+
+[[files]]
+file = "blueprints/Byzantine_2/fundamentals/insulae_middles/main_b1.blueprint"
+hash = "84f0fa6c853746b11b16a21deaf03440d76123a76921848587213a7116fd8841"
+
+[[files]]
+file = "blueprints/Byzantine_2/fundamentals/insulae_middles/main_b2.blueprint"
+hash = "bf595853e8e2632d11a3c0941fbf649120c8d82e8d35b34417b7c4338a24161b"
+
+[[files]]
+file = "blueprints/Byzantine_2/fundamentals/insulae_middles/main_b3.blueprint"
+hash = "b2b2d7b3d3dc449cd5a3504ac16f0c4b9701b8fcfa02c9f734fba7fd3b9b251f"
+
+[[files]]
+file = "blueprints/Byzantine_2/fundamentals/insulae_middles/main_b4.blueprint"
+hash = "6cdb4a98f1fa3db1134ad096dff4621f326216aa0df96e8b1c298047d1dbf61c"
+
+[[files]]
+file = "blueprints/Byzantine_2/fundamentals/insulae_middles/main_b5.blueprint"
+hash = "35d39468b1e6538eeedd7ab70e615316d7a052517e3bd74b670d83ddbf2b3210"
+
+[[files]]
+file = "blueprints/Byzantine_2/fundamentals/insulae_middles/maindorm1.blueprint"
+hash = "a4312e2ddeab048d603eb532da84c3f7bd8deaf6928a87f23fee82a61693adcb"
+
+[[files]]
+file = "blueprints/Byzantine_2/fundamentals/insulae_middles/maindorm2.blueprint"
+hash = "d3e6795144fc269e5e29ab79f680259fb26b4e8ff1c1321f4648106d6a1c78b9"
+
+[[files]]
+file = "blueprints/Byzantine_2/fundamentals/insulae_middles/maindorm3.blueprint"
+hash = "681aaf9d3faed512cc5df6081249af12c8eccaf9805c6b702fb25457891ad4fb"
+
+[[files]]
+file = "blueprints/Byzantine_2/fundamentals/insulae_middles/maindorm4.blueprint"
+hash = "2039ac00292807e9230ca6ca1f309aea886b2b5f02c03ff8e7d90f62fc8e4ffb"
+
+[[files]]
+file = "blueprints/Byzantine_2/fundamentals/insulae_middles/maindorm5.blueprint"
+hash = "183afbfd29737cd314f7bf53d6196c2ae72112a524bb3c3739816c015a9b9419"
+
+[[files]]
+file = "blueprints/Byzantine_2/fundamentals/insulae_middles/mid_a1.blueprint"
+hash = "5ddb17786067d6c8bc7543c8636b07937032920633f3e79972eefe35fd7448c1"
+
+[[files]]
+file = "blueprints/Byzantine_2/fundamentals/insulae_middles/mid_a2.blueprint"
+hash = "4acc8e7c5c51130e8c1924d3d8b1f0fcd9e484c3181bae8237c334c6a7f81ff5"
+
+[[files]]
+file = "blueprints/Byzantine_2/fundamentals/insulae_middles/mid_a3.blueprint"
+hash = "a8f9e7c5254df661d8dee93f1c0c024114b0c6b60dbdd96b28bbaa575a0e39fd"
+
+[[files]]
+file = "blueprints/Byzantine_2/fundamentals/insulae_middles/mid_a4.blueprint"
+hash = "c378be85e00a907801cd1caf7a47d70b6c3213dd45b8629db8e12a71f35631c2"
+
+[[files]]
+file = "blueprints/Byzantine_2/fundamentals/insulae_middles/mid_a5.blueprint"
+hash = "b9bb7af862a781cd905869d2895553a3cfa4bb25d302d5c43a61f337cde93b35"
+
+[[files]]
+file = "blueprints/Byzantine_2/fundamentals/insulae_middles/mid_b1.blueprint"
+hash = "c5e89e8041a12c16b0f9129ad0cb22939378f01e475c67ddc8c451e697adf796"
+
+[[files]]
+file = "blueprints/Byzantine_2/fundamentals/insulae_middles/mid_b2.blueprint"
+hash = "72cd5e2628c321c0871ca417c2132f6990cd364dedfb884b3be8a8a1a719d216"
+
+[[files]]
+file = "blueprints/Byzantine_2/fundamentals/insulae_middles/mid_b3.blueprint"
+hash = "5fe325ebfd8dd85c11c0fa8a752807c2b90f7067ba329d7ff365eaa6b382d927"
+
+[[files]]
+file = "blueprints/Byzantine_2/fundamentals/insulae_middles/mid_b4.blueprint"
+hash = "3c977b757e6734a3205e4b94b497273c9bcb5f19d61b10e6d21a37e57e54fd25"
+
+[[files]]
+file = "blueprints/Byzantine_2/fundamentals/insulae_middles/mid_b5.blueprint"
+hash = "43a1671b9e2468687964d16f632c90f1a94dbe9ae353d7464cc3ac33c1ccf037"
+
+[[files]]
+file = "blueprints/Byzantine_2/fundamentals/insulae_middles/mid_c1.blueprint"
+hash = "be5ddfb94ff290bdb8c1226eacf150ea47c7d133d9de9cc9c2f4157f59ff8038"
+
+[[files]]
+file = "blueprints/Byzantine_2/fundamentals/insulae_middles/mid_c2.blueprint"
+hash = "1188e5e1434d9e48a1a685814c4d02dd73667b502322230c67de6c2ea9d372fe"
+
+[[files]]
+file = "blueprints/Byzantine_2/fundamentals/insulae_middles/mid_c3.blueprint"
+hash = "74796a693f78d4f9b8f690ddd99ca678af696efa513384875848858d6a45fdc0"
+
+[[files]]
+file = "blueprints/Byzantine_2/fundamentals/insulae_middles/mid_c4.blueprint"
+hash = "2f1f80933b66a7c46af2822017ab506a00c2657c11e55448e094a63beb699492"
+
+[[files]]
+file = "blueprints/Byzantine_2/fundamentals/insulae_middles/mid_c5.blueprint"
+hash = "54689803c32cc77f32e6fbad7cd3608067f3132ab6d1dd76088f1c7d1efd47d8"
+
+[[files]]
+file = "blueprints/Byzantine_2/fundamentals/insulae_middles/moob_1.blueprint"
+hash = "3d9932638cb88429ef5f15353dce08782eacdf38d6ccee5658aeda7dfed0ffb6"
+
+[[files]]
+file = "blueprints/Byzantine_2/fundamentals/insulae_middles/moob_2.blueprint"
+hash = "3a9162d2a35e2a4af70edc78cc8b8191fbc01ea949497adf3714c697f749e7de"
+
+[[files]]
+file = "blueprints/Byzantine_2/fundamentals/insulae_middles/moob_3.blueprint"
+hash = "f9789aee27ff099169a14edccf48851904031eed14acfb2ef5e81617c32e715a"
+
+[[files]]
+file = "blueprints/Byzantine_2/fundamentals/insulae_middles/moob_4.blueprint"
+hash = "09df2a9250e79c3b0aa948c5174bbed29277fd36a0db4c91e6709abfb86a70b5"
+
+[[files]]
+file = "blueprints/Byzantine_2/fundamentals/insulae_middles/moob_5.blueprint"
+hash = "aa35f8ea44a2cd9cd253faa83a100f0c05a953a6cbc61e599080f52cce95adb9"
+
+[[files]]
+file = "blueprints/Byzantine_2/fundamentals/insulae_middles/moobpool1.blueprint"
+hash = "3ec8492f9659596fe3a09243327c5f77496000dcc244e46d09260630b0112a64"
+
+[[files]]
+file = "blueprints/Byzantine_2/fundamentals/insulae_middles/tinydorm1.blueprint"
+hash = "19d28933aee44ea802b4220961b8db4f69e02ecd25288b0969eae8cdcc3aa13f"
+
+[[files]]
+file = "blueprints/Byzantine_2/fundamentals/insulae_middles/tinydorm2.blueprint"
+hash = "e08dbff45c2a1791992c34721222eade6120e806fbd2101491da1918022fdff3"
+
+[[files]]
+file = "blueprints/Byzantine_2/fundamentals/insulae_middles/tinydorm3.blueprint"
+hash = "2d683f0e17851f1b267a2ddeb5b2bf7c3a7a328da475a31140d9419160a37cb2"
+
+[[files]]
+file = "blueprints/Byzantine_2/fundamentals/insulae_middles/tinydorm4.blueprint"
+hash = "f949ae7e6c8b798984f3b28d39db1a843b794293c8fe68e787f04f1c9842c6e4"
+
+[[files]]
+file = "blueprints/Byzantine_2/fundamentals/insulae_middles/tinydorm5.blueprint"
+hash = "755d95741c4bdf399c1a950f5d037490ea3430d502497848cab3b67bfb7cb5d1"
+
+[[files]]
+file = "blueprints/Byzantine_2/fundamentals/resources/forester1.blueprint"
+hash = "abd90e5fe2f802d584e07d74ff3d980aa1622957585a7610be46095e7f80a6ed"
+
+[[files]]
+file = "blueprints/Byzantine_2/fundamentals/resources/forester2.blueprint"
+hash = "b7478acc43e8d358910dbd31b5947eb51b1035128db03761f1a7c45dd813d60c"
+
+[[files]]
+file = "blueprints/Byzantine_2/fundamentals/resources/forester3.blueprint"
+hash = "eff6c04b150a0e2fb1bc3bf045500a94106b4d9eb66ed813d078ed8fb5a004e6"
+
+[[files]]
+file = "blueprints/Byzantine_2/fundamentals/resources/forester4.blueprint"
+hash = "85e24a9b3acf23bd322a4e9ffb16dc01705a1893cd680dd0c0de6e00ac703593"
+
+[[files]]
+file = "blueprints/Byzantine_2/fundamentals/resources/forester5.blueprint"
+hash = "e695fc8f0815faaebe475bfab76727d135c3986190bedd2d60d0ee7038a15da5"
+
+[[files]]
+file = "blueprints/Byzantine_2/fundamentals/resources/mine1.blueprint"
+hash = "b97b4caa0f6c5dadf45dfc955ef044ce92ba1e6fad93968c955212b344c39c56"
+
+[[files]]
+file = "blueprints/Byzantine_2/fundamentals/resources/mine2.blueprint"
+hash = "8748efa0fb27a7cce82fbac6c0975c9de1ff7201ed54b8f6e7b8cfe2b3deba45"
+
+[[files]]
+file = "blueprints/Byzantine_2/fundamentals/resources/mine3.blueprint"
+hash = "24dc8fc0455d86688adcfd3d456e34f2af861547a2009122a34207479aefa7bd"
+
+[[files]]
+file = "blueprints/Byzantine_2/fundamentals/resources/mine4.blueprint"
+hash = "f3fcf852766bbaaeb6eca8bc2eef01173751071eaad918b4f75c58d81010a3e9"
+
+[[files]]
+file = "blueprints/Byzantine_2/fundamentals/resources/mine5.blueprint"
+hash = "3ba66e0ce4f69a774040daf4e52d6ad4943fa5f984f8fe947dc8d99f2cd2f613"
+
+[[files]]
+file = "blueprints/Byzantine_2/fundamentals/restaurant/restaurant1.blueprint"
+hash = "d2d3f648bb332a301b73b5c218311dc6fc2ce7f5f9513c0186da8bfb329cf8b6"
+
+[[files]]
+file = "blueprints/Byzantine_2/fundamentals/restaurant/restaurant2.blueprint"
+hash = "9c8c29fb30d05cfdfdcd87064adcf31aa727312bb40d96d9f44cd7a4cba5a43d"
+
+[[files]]
+file = "blueprints/Byzantine_2/fundamentals/restaurant/restaurant3.blueprint"
+hash = "d8a9a4accd5862ef4d9fafdff4982453948c8d80ad656365c56ad1fceb18317f"
+
+[[files]]
+file = "blueprints/Byzantine_2/fundamentals/restaurant/restaurant4.blueprint"
+hash = "7245ce68f9ddba8d50309423f21e878d1f8a0837e6e74aab7f1477eba1c3feac"
+
+[[files]]
+file = "blueprints/Byzantine_2/fundamentals/restaurant/restaurant5.blueprint"
+hash = "431d4b1bb954d41ff700c84d068391590893ea578769d6b35db5ae3a9c643012"
+
+[[files]]
+file = "blueprints/Byzantine_2/fundamentals/tavern/tavern1.blueprint"
+hash = "3ec594dee64048ce0c22fd51b5cc8fe34efee818cda95b083f6963d86cc7780a"
+
+[[files]]
+file = "blueprints/Byzantine_2/fundamentals/tavern/tavern2.blueprint"
+hash = "6d77055f301f0ff6b4db0ba9204c32f5291938f98039710031b49897af607c48"
+
+[[files]]
+file = "blueprints/Byzantine_2/fundamentals/tavern/tavern3.blueprint"
+hash = "909f7a722c89a69b59a546cb70409066de9020ec4d4c733a4f3da4668c914984"
+
+[[files]]
+file = "blueprints/Byzantine_2/fundamentals/town_hall/insulaeguard1.blueprint"
+hash = "5b8a1c68b84e73155a326cb2eeb050044c612c96e2be72066127515495d3cf80"
+
+[[files]]
+file = "blueprints/Byzantine_2/fundamentals/town_hall/insulaeguard2.blueprint"
+hash = "2c3aeecf5c758a26d1f6786fc6d99a7413317c211d75bd1016bb4746d0f22648"
+
+[[files]]
+file = "blueprints/Byzantine_2/fundamentals/town_hall/insulaeguard3.blueprint"
+hash = "f35ab4cfb9d30382ce579448145fa8b896d82bcb263c3c2af6f04f0eea5abd44"
+
+[[files]]
+file = "blueprints/Byzantine_2/fundamentals/town_hall/insulaeguard4.blueprint"
+hash = "298996cf1c7d1adb34fb46698bf862d1e606f77d1e88c20de45bbb148b97b133"
+
+[[files]]
+file = "blueprints/Byzantine_2/fundamentals/town_hall/insulaeguard5.blueprint"
+hash = "df399c96f1becd3cb1830d4545da5d55612ee1d16079c5370a1bed33b32c0d70"
+
+[[files]]
+file = "blueprints/Byzantine_2/fundamentals/town_hall/mechanic1.blueprint"
+hash = "d21c64fc422e1ea6aae7d0dfbd0b59dc52262fd4615a9f095b8f933788313b4f"
+
+[[files]]
+file = "blueprints/Byzantine_2/fundamentals/town_hall/mechanic2.blueprint"
+hash = "2525e01e4b49ce15ccc1986f9699be9b69c7ab4fca3b37f13bbde816a4eee56a"
+
+[[files]]
+file = "blueprints/Byzantine_2/fundamentals/town_hall/mechanic3.blueprint"
+hash = "ffc1bfee81b7436b57cf3aef6cd74c2dfc036a3e456ec0715ecfe6bc4ba4bd61"
+
+[[files]]
+file = "blueprints/Byzantine_2/fundamentals/town_hall/mechanic4.blueprint"
+hash = "1544b96011877db60a5d48833050ed7fe796b632f03398a779fc21b312405a98"
+
+[[files]]
+file = "blueprints/Byzantine_2/fundamentals/town_hall/mechanic5.blueprint"
+hash = "d379c2205a27a023f93faabe26244128db054f95e4e7709285bf24bbc1d8bed6"
+
+[[files]]
+file = "blueprints/Byzantine_2/fundamentals/town_hall/townhall1.blueprint"
+hash = "fa1a8cb25a314281a4f5a1e0b56cb88ff61ab599e1e2b4d796d2ec488a776109"
+
+[[files]]
+file = "blueprints/Byzantine_2/fundamentals/town_hall/townhall2.blueprint"
+hash = "78a16c628eeef026d495a4d8afbfb1b8701aef9802f56fa3dc71584c2fcc77ff"
+
+[[files]]
+file = "blueprints/Byzantine_2/fundamentals/town_hall/townhall3.blueprint"
+hash = "79f7e12ffc9c04b6c6cf45ab5d0063323323a932e73ccfc3b76fbeebddafe59f"
+
+[[files]]
+file = "blueprints/Byzantine_2/fundamentals/town_hall/townhall4.blueprint"
+hash = "3a0b4b7122a85233542676726ea975fff0c45b950fb47edbaa24f2861ef1b6de"
+
+[[files]]
+file = "blueprints/Byzantine_2/fundamentals/town_hall/townhall5.blueprint"
+hash = "9a69bbc9fe67eca8f47fa71cc88bb927033b1710fff6f0ea1953cc11b0904013"
+
+[[files]]
+file = "blueprints/Byzantine_2/infrastructure/avenue/avenuetowerbridge1.blueprint"
+hash = "2bce222742c7d19a935eb625377393e21cb034c90cef942fa01b2abadabcd607"
+
+[[files]]
+file = "blueprints/Byzantine_2/infrastructure/avenue/avenuetowerbridge2.blueprint"
+hash = "f3dae2aaac8be46ba5b4f8b6220de8071445207955c84900d0294b97cbf24b59"
+
+[[files]]
+file = "blueprints/Byzantine_2/infrastructure/avenue/avenuetowerbridge3.blueprint"
+hash = "ac3c82faa7291821fdf72ba19cb8407d9246eb019abd0237e2c671fc8824e231"
+
+[[files]]
+file = "blueprints/Byzantine_2/infrastructure/avenue/crossfour.blueprint"
+hash = "a81631ee354b077e06736edc4dd0a04fe7a7fed6dd2472a5232b0753c3b66605"
+
+[[files]]
+file = "blueprints/Byzantine_2/infrastructure/avenue/crossthree.blueprint"
+hash = "d6e9d7987219ead640ed8bc233700eb0fff1056d173001f75dac9fa0591263b4"
+
+[[files]]
+file = "blueprints/Byzantine_2/infrastructure/avenue/endwalker.blueprint"
+hash = "495481501dc1ad721e490bd6909404e9cee530a152aa88055de4f9ec3f3f96fb"
+
+[[files]]
+file = "blueprints/Byzantine_2/infrastructure/avenue/short.blueprint"
+hash = "7671fa029b9df61277fbc3ac9154190ea74bc4df7bc13d51faeb586739f9eb65"
+
+[[files]]
+file = "blueprints/Byzantine_2/infrastructure/avenue/straight.blueprint"
+hash = "17b052ec99e8d92565f1216984a0e6a3a079e9a89fbb40a1923e1624fb450ddb"
+
+[[files]]
+file = "blueprints/Byzantine_2/infrastructure/avenue/straightnotubs.blueprint"
+hash = "23a9c6c7accdc0bcfd2fcc97eef9eba520356b3345bece554a4f62725add2b86"
+
+[[files]]
+file = "blueprints/Byzantine_2/infrastructure/avenue/straightoneup.blueprint"
+hash = "cf546620184f0e9191f683d1361420338c7549cb6176127f09ff3ba0b3a01a47"
+
+[[files]]
+file = "blueprints/Byzantine_2/infrastructure/avenue/straightthreeup.blueprint"
+hash = "3a6429788aca5b37a0c98be1962fdf50b73741a9df491bec54f8b8648a45b326"
+
+[[files]]
+file = "blueprints/Byzantine_2/infrastructure/avenue/straighttwoup.blueprint"
+hash = "ebd754ae99e75f0609e8f421af0f29bb0fce9be3edc56117a9bd90649836f22e"
+
+[[files]]
+file = "blueprints/Byzantine_2/infrastructure/avenue/straightwalker.blueprint"
+hash = "9a1c3f653b1bf855c784b1c58d35af5de357708f27602795a24fd4a7320a1f03"
+
+[[files]]
+file = "blueprints/Byzantine_2/infrastructure/avenue/turn.blueprint"
+hash = "bb55fe1b455e9d7e912ce306e997ea81ffdbaefe59d349d5c0df5078dfd877bf"
+
+[[files]]
+file = "blueprints/Byzantine_2/infrastructure/bridge/main/bridgeguard1.blueprint"
+hash = "9c9b7c66bf2ece1b804e41db217fdfa5336b4285e82c6cd38a8246c878093569"
+
+[[files]]
+file = "blueprints/Byzantine_2/infrastructure/bridge/main/bridgeguard2.blueprint"
+hash = "27e153ab49482557f3b8bfebc694bba96dc5c1bf3c94ff4c39cb92045d2ae88a"
+
+[[files]]
+file = "blueprints/Byzantine_2/infrastructure/bridge/main/bridgeguard3.blueprint"
+hash = "d2da9682824c602f2b7fbb0a7f769e3cfb630107f6d6a249f0adfa50ddfe7176"
+
+[[files]]
+file = "blueprints/Byzantine_2/infrastructure/bridge/main/bridgeguard4.blueprint"
+hash = "9035155531a63e951444d6074a6470ca4e787010f4ca4664ceb68d397ce4931a"
+
+[[files]]
+file = "blueprints/Byzantine_2/infrastructure/bridge/main/bridgeguard5.blueprint"
+hash = "8286685304f594b6078b5f0f200c134d2ccc1896809219c610cc8c54e311e5aa"
+
+[[files]]
+file = "blueprints/Byzantine_2/infrastructure/bridge/main/pier.blueprint"
+hash = "5e9b303a3f9a6d7be3ccc1b8246007871ee373e33ba263027000c65392f42d18"
+
+[[files]]
+file = "blueprints/Byzantine_2/infrastructure/bridge/main/pier_footing.blueprint"
+hash = "dc54c0f6a5d66904ae6045b685ddfaf42e00337c8f10e1028029481fe995aec5"
+
+[[files]]
+file = "blueprints/Byzantine_2/infrastructure/bridge/main/pier_guards.blueprint"
+hash = "277cd64d5abbb774e4e4f20adf774b2f83d1f5076c5b16137adcf269cdd82021"
+
+[[files]]
+file = "blueprints/Byzantine_2/infrastructure/bridge/main/pier_riser.blueprint"
+hash = "035c84049139d3f156fb9ec8d31e638f25c27d39756e081e420c441a7a1ce696"
+
+[[files]]
+file = "blueprints/Byzantine_2/infrastructure/bridge/main/ramp.blueprint"
+hash = "25f4a9f66b8844189f887d171847a90ebff281384cc1f86a88bb23d87f277cf1"
+
+[[files]]
+file = "blueprints/Byzantine_2/infrastructure/bridge/main/ramp_riser.blueprint"
+hash = "0254fc59b57b4b7f767aafedb278f23df889c2c52653c079059209a4ad544cd8"
+
+[[files]]
+file = "blueprints/Byzantine_2/infrastructure/bridge/main/ramp_start.blueprint"
+hash = "d55127038844ebd9228aed404fe57a255d98cf60736f2e5dbf95e58302c4de4f"
+
+[[files]]
+file = "blueprints/Byzantine_2/infrastructure/bridge/main/ramp_steep.blueprint"
+hash = "e239059de61747af3da5815c3f890f16b3372b03a1b6b0565dab4304b1f8af89"
+
+[[files]]
+file = "blueprints/Byzantine_2/infrastructure/bridge/main/ramptospan.blueprint"
+hash = "8d26d61f088c5fc259cfb2866a43c3f6747039021594befdcb01359a8faf22e8"
+
+[[files]]
+file = "blueprints/Byzantine_2/infrastructure/bridge/main/ramptospan_footing.blueprint"
+hash = "9466599e996b35ceb1756d69b7cebc2af4f305f5fd903c95204e77fef29e5cfc"
+
+[[files]]
+file = "blueprints/Byzantine_2/infrastructure/bridge/main/ramptospan_riser.blueprint"
+hash = "a56890db59a6d484a8ee594fa713f4a91d74efeccb713494e0aebbd71b5b10a6"
+
+[[files]]
+file = "blueprints/Byzantine_2/infrastructure/bridge/main/span.blueprint"
+hash = "4d5ea6cf7dc58ccdbd2f472c7be628f55b2bfef8155dc611790b7b92087ab1d5"
+
+[[files]]
+file = "blueprints/Byzantine_2/infrastructure/bridge/wood/footing_onepair.blueprint"
+hash = "889960fb4901f79d3531d8d6473848b9f0f6a00a6ec3cb659d7094daf46270d0"
+
+[[files]]
+file = "blueprints/Byzantine_2/infrastructure/bridge/wood/ramp_long.blueprint"
+hash = "ef810e34af211e75ec0b5bfce9cc7cfed9905c6646b06b2c3d6c7a746e097f94"
+
+[[files]]
+file = "blueprints/Byzantine_2/infrastructure/bridge/wood/ramp_short.blueprint"
+hash = "3ba09c2ed22122bcd72ace5dfc743b709c41d668a511f7227f5b710fb73731f4"
+
+[[files]]
+file = "blueprints/Byzantine_2/infrastructure/bridge/wood/straight.blueprint"
+hash = "a43f3691249db17de217ead6c3db2a74df93a4ab85a31588be1a5ba8deb7f518"
+
+[[files]]
+file = "blueprints/Byzantine_2/infrastructure/bridge/wood/straight_footing.blueprint"
+hash = "cd2bd5e51fe46113511ec39cdd2ddc294db4f656b0848e1a943999225d81e787"
+
+[[files]]
+file = "blueprints/Byzantine_2/infrastructure/bridge/wood/straight_riser.blueprint"
+hash = "5a1c0efea305cce89bdc96787be89d09328fa8ac3b69d880e9cd9f808806798d"
+
+[[files]]
+file = "blueprints/Byzantine_2/infrastructure/fields/farm/double.blueprint"
+hash = "c9322b9df78ff3a603b760af51b7cd1c346dcccd321dacbe8232681849dbdd3b"
+
+[[files]]
+file = "blueprints/Byzantine_2/infrastructure/fields/farm/hilldouble.blueprint"
+hash = "760391ef97b520582499b67ea72edca4f9166f6b9c866297a2ad73ba36a84bef"
+
+[[files]]
+file = "blueprints/Byzantine_2/infrastructure/fields/farm/hillsingle.blueprint"
+hash = "c7191dcf69de4d06ea3c4b5d885f9a8135bfb1d33d860c1c60e9d7062bbfc336"
+
+[[files]]
+file = "blueprints/Byzantine_2/infrastructure/fields/farm/single.blueprint"
+hash = "1c5e246332f7ecb19e6fb00e5632c26dc4be897e840ef57cfa6b0e4e2ea49fff"
+
+[[files]]
+file = "blueprints/Byzantine_2/infrastructure/fields/farm/triple.blueprint"
+hash = "a1a9cbcf694ec2cee54a532251c833483663ecd61141e1f8e41c3f244b569e95"
+
+[[files]]
+file = "blueprints/Byzantine_2/infrastructure/fields/farm/tripleell.blueprint"
+hash = "97be0debd0258bc854ae0b16f5985f946b1738a7c28d0644cb8a0d17a069e1aa"
+
+[[files]]
+file = "blueprints/Byzantine_2/infrastructure/fields/farm/triplethin.blueprint"
+hash = "82d3e1dda96716238a52783cf51b7296f254d7185150ebda682af813fb838314"
+
+[[files]]
+file = "blueprints/Byzantine_2/infrastructure/fields/farm/trithintreeless.blueprint"
+hash = "7e166c0200e99468344091a12a2507617d6914c986d59f0a67c7f17905334389"
+
+[[files]]
+file = "blueprints/Byzantine_2/infrastructure/fields/plantation/bamboo.blueprint"
+hash = "718f762783211d4c64c412fe429738f32a2edb658461a521afe58c75b296ea7a"
+
+[[files]]
+file = "blueprints/Byzantine_2/infrastructure/fields/plantation/cactus.blueprint"
+hash = "19850583ab9e97dc24b5fbfc9e3b757a6a322e39adbb0677a21943cc1ee9561d"
+
+[[files]]
+file = "blueprints/Byzantine_2/infrastructure/fields/plantation/cocoa.blueprint"
+hash = "4fe9569f1e7f2f032cac16ee1216a3bd8a12015c3ee7495bd6d724c6fe8655f2"
+
+[[files]]
+file = "blueprints/Byzantine_2/infrastructure/fields/plantation/ocean.blueprint"
+hash = "1be3b03b1e80d4c2f7a15bedd9daed1497ec3ec5aea1471cd05a8954448cbde0"
+
+[[files]]
+file = "blueprints/Byzantine_2/infrastructure/fields/plantation/sugar.blueprint"
+hash = "436255c1f789443bab2b9395dd3cb2c3812e7cf2a5e29dbf5459aa9f0937e243"
+
+[[files]]
+file = "blueprints/Byzantine_2/infrastructure/fields/plantation/sugar_diag.blueprint"
+hash = "aa939ff6d4ad27ffc6bbbd77f85c875b1ed245303ce5e6307073b91aefc40ef9"
+
+[[files]]
+file = "blueprints/Byzantine_2/infrastructure/fields/plantation/sugar_turn.blueprint"
+hash = "4765917693b823fb7c03956288136617816ff1ae4380922010385964f9bda923"
+
+[[files]]
+file = "blueprints/Byzantine_2/infrastructure/fields/plantation/sugar_vines.blueprint"
+hash = "cf60b92a041404c80d94d728f92ea669fe4ac2b6afdab5190b77700ecdcf3c58"
+
+[[files]]
+file = "blueprints/Byzantine_2/infrastructure/forum/plaza_end/cistern1.blueprint"
+hash = "3f5705dee34b21348b360b93d9989dc0262c53274af9381fa9d077a7ef980bdf"
+
+[[files]]
+file = "blueprints/Byzantine_2/infrastructure/forum/plaza_end/cistern2.blueprint"
+hash = "0203b2073253ccaca6b43db3635e68a7f77b00233126acd5fb0d1858df4efd06"
+
+[[files]]
+file = "blueprints/Byzantine_2/infrastructure/forum/plaza_end/cisternhome1.blueprint"
+hash = "988f6ebb73f9bb4e8f9478ef2103ccba61441d038b18692c49fe85b843ebc044"
+
+[[files]]
+file = "blueprints/Byzantine_2/infrastructure/forum/plaza_end/cisternhome2.blueprint"
+hash = "b0014046c0fcef72d36c8369983de4434b48957817814bbeb5a3d74d6f2913d5"
+
+[[files]]
+file = "blueprints/Byzantine_2/infrastructure/forum/plaza_end/deliveryman0.blueprint"
+hash = "318087e4dbf34cbd0161872e7f00778ef15b51a7c6a8711e0c14a025d010cea9"
+
+[[files]]
+file = "blueprints/Byzantine_2/infrastructure/forum/plaza_end/deliveryman1.blueprint"
+hash = "c153e085fd26731025f7917cbf7d0df5bb9dc6ebe613dbabf0ee8bea1b26ea6c"
+
+[[files]]
+file = "blueprints/Byzantine_2/infrastructure/forum/plaza_end/deliveryman2.blueprint"
+hash = "e146fc27f51794a090619842f0e02871616217395d056da89eb279636b183abc"
+
+[[files]]
+file = "blueprints/Byzantine_2/infrastructure/forum/plaza_end/deliveryman3.blueprint"
+hash = "fe5e941f372c5cd5d5f4ca87a33966734b2627262be4056390f67f6f9e6dd281"
+
+[[files]]
+file = "blueprints/Byzantine_2/infrastructure/forum/plaza_end/deliveryman4.blueprint"
+hash = "efc3812705940da1ca4d13d89df4474dabaf7461f1e7bff1c6dfe63958a8d55c"
+
+[[files]]
+file = "blueprints/Byzantine_2/infrastructure/forum/plaza_end/deliveryman5.blueprint"
+hash = "f53206d9e94793348d1e7fa7dd5f0411ed0fbdbea379b1aff05ca1809f7fc3fc"
+
+[[files]]
+file = "blueprints/Byzantine_2/infrastructure/forum/plaza_end/empty.blueprint"
+hash = "1569376a84180ea2276cf1af4d9764540f336c90e0c74416160a324e1f7be838"
+
+[[files]]
+file = "blueprints/Byzantine_2/infrastructure/forum/plaza_end/insulaeguard0.blueprint"
+hash = "89b750eb69902c6ee34a37f2e2e7d40c70eafe2b4cfaccbb0a88fcbcfcd1f378"
+
+[[files]]
+file = "blueprints/Byzantine_2/infrastructure/forum/plaza_end/insulaeguard1.blueprint"
+hash = "670a8efdbb4b490f284c00eb7b9d8c61c033f4a865c41be22f79e6cf71f93fd9"
+
+[[files]]
+file = "blueprints/Byzantine_2/infrastructure/forum/plaza_end/insulaeguard2.blueprint"
+hash = "14bc09c787c683638bd35226af40029ba0738133ac9f2432c79d1d869f45b29b"
+
+[[files]]
+file = "blueprints/Byzantine_2/infrastructure/forum/plaza_end/insulaeguard3.blueprint"
+hash = "c6064209e3177cc2d0d9fe3e066f20ba5b2230257aeeecd021a09a62ab75a5f6"
+
+[[files]]
+file = "blueprints/Byzantine_2/infrastructure/forum/plaza_end/insulaeguard4.blueprint"
+hash = "a1ced10bb5c944cf7c3b5bada779cf1ef49382e2d43cb289cb053dd0401cc44b"
+
+[[files]]
+file = "blueprints/Byzantine_2/infrastructure/forum/plaza_end/insulaeguard5.blueprint"
+hash = "cda5b3650f89954386dc12208f1d52f1df9aca329ad266d1e2c6bca56213c98c"
+
+[[files]]
+file = "blueprints/Byzantine_2/infrastructure/forum/plaza_mid/deliveryman0.blueprint"
+hash = "8d317f1becdd61c2ae5a194a809df83eb2d678f27c24a04a865052e8999fc394"
+
+[[files]]
+file = "blueprints/Byzantine_2/infrastructure/forum/plaza_mid/deliveryman1.blueprint"
+hash = "491d6b1e2fcfa3460fd463ba9b952ffa147884276514efeb41785dcd80ae0bb5"
+
+[[files]]
+file = "blueprints/Byzantine_2/infrastructure/forum/plaza_mid/deliveryman2.blueprint"
+hash = "af4327b0bc65cf200033067200e04d80c874c62308750b393605fe49bf19588b"
+
+[[files]]
+file = "blueprints/Byzantine_2/infrastructure/forum/plaza_mid/deliveryman3.blueprint"
+hash = "1cfbc019ac5852d5e59c5f4b65c64ab03f8948a98d03f0da7a01d9e58edaf8d3"
+
+[[files]]
+file = "blueprints/Byzantine_2/infrastructure/forum/plaza_mid/deliveryman4.blueprint"
+hash = "ae4028dd2991f8519e9539a596d7f0f38242e45627f1096785d23723ea6fbc9d"
+
+[[files]]
+file = "blueprints/Byzantine_2/infrastructure/forum/plaza_mid/deliveryman5.blueprint"
+hash = "cb7da1385bc7513bf34842da59ed060edca7775b50623e44ce7c5eb55c578619"
+
+[[files]]
+file = "blueprints/Byzantine_2/infrastructure/forum/plaza_mid/empty.blueprint"
+hash = "83655d569fd79e3eddb2ffad7c6ed8da70e664bd2149c084449699a00116899a"
+
+[[files]]
+file = "blueprints/Byzantine_2/infrastructure/forum/plaza_mid/forumfountain1.blueprint"
+hash = "d1d7751b4b04d90432e813eb31af0fe609abcd5a1aa5abd2e5d8c4d5eab388a6"
+
+[[files]]
+file = "blueprints/Byzantine_2/infrastructure/forum/plaza_mid/forumfountain2.blueprint"
+hash = "37e465d16830a7c92ec2b0e49ea6532915ea3004d423f29782af26cd609afede"
+
+[[files]]
+file = "blueprints/Byzantine_2/infrastructure/forum/plaza_mid/fountain1.blueprint"
+hash = "c44117a58cd8bb189ee765c56719e892fdc49d1c1e4b7547da12b6d67806c345"
+
+[[files]]
+file = "blueprints/Byzantine_2/infrastructure/forum/plaza_mid/fountain2.blueprint"
+hash = "cc823ee5e76a5ffbaaf43228cebaf50f2bfb5f6b551daa33345b5bb725c3dc6a"
+
+[[files]]
+file = "blueprints/Byzantine_2/infrastructure/forum/plaza_mid/fountain3.blueprint"
+hash = "fc9b0a0113eb14a1ce5bff6be4377a40e0ab7b4b63052e96ceffad21a03a1920"
+
+[[files]]
+file = "blueprints/Byzantine_2/infrastructure/forum/plaza_mid/hub1.blueprint"
+hash = "9b66ffc41f36464657584ae7424afe0bb3b02cd6304dbc82d7b7b969525cefd6"
+
+[[files]]
+file = "blueprints/Byzantine_2/infrastructure/forum/plaza_mid/hub2.blueprint"
+hash = "e98f31ff66423bab5a1bcb3c3e163db054bbdf0c78dabe9ce908c5231c83c71e"
+
+[[files]]
+file = "blueprints/Byzantine_2/infrastructure/forum/plaza_mid/hub3.blueprint"
+hash = "914711ee07424ca516aa258abdc24085b8b22dc580ea160415bf02787727b3da"
+
+[[files]]
+file = "blueprints/Byzantine_2/infrastructure/forum/plaza_mid/insulaeguard0.blueprint"
+hash = "7768b560ef894e9dd9a3314a69534c7d5b5c9c0c98f0cef0cc5796013e4ee74f"
+
+[[files]]
+file = "blueprints/Byzantine_2/infrastructure/forum/plaza_mid/insulaeguard1.blueprint"
+hash = "0eb79c0a1ea9172ace5965066ef6352623e4d37e519294136b94445c57490fb1"
+
+[[files]]
+file = "blueprints/Byzantine_2/infrastructure/forum/plaza_mid/insulaeguard2.blueprint"
+hash = "f13b2d06cfe4045b5342252bc6a2fcc52451e8f313b41f1deae5e32113146123"
+
+[[files]]
+file = "blueprints/Byzantine_2/infrastructure/forum/plaza_mid/insulaeguard3.blueprint"
+hash = "1fb9321ec10125f8f4c535128dac7b9f0404f57550c96b653aafa00cb33fa867"
+
+[[files]]
+file = "blueprints/Byzantine_2/infrastructure/forum/plaza_mid/insulaeguard4.blueprint"
+hash = "74ce658fccb1998f26fc440cc23eeecb6e3e50882319cf22a6612696c7eeda5f"
+
+[[files]]
+file = "blueprints/Byzantine_2/infrastructure/forum/plaza_mid/insulaeguard5.blueprint"
+hash = "2fbebb3ce8a5ef61c0de014a7d84b3fcbb6ec7327de2dd8224ed08e7fa8bd1eb"
+
+[[files]]
+file = "blueprints/Byzantine_2/infrastructure/forum/plaza_mid/mosaic1.blueprint"
+hash = "7b65075279825c0f332f75d919809c8a0696d386db69a45979decd9f68b7faf0"
+
+[[files]]
+file = "blueprints/Byzantine_2/infrastructure/forum/plaza_mid/mosaic2.blueprint"
+hash = "89a4d6761eb8aca2e71d46e376999549445b2ecb7429eb8816d5fd56ac9a4618"
+
+[[files]]
+file = "blueprints/Byzantine_2/infrastructure/forum/plaza_mid/mosaic3.blueprint"
+hash = "a87bc8c0e882998f08df07d5573cd0ba968de31abcd038e6f13875db5e7f1597"
+
+[[files]]
+file = "blueprints/Byzantine_2/infrastructure/forum/plaza_mid/mosaicb1.blueprint"
+hash = "e1e7ce64420b70add15206b60c3fea0da26f9f13d0ede00a79aa7ba9ec711cd0"
+
+[[files]]
+file = "blueprints/Byzantine_2/infrastructure/forum/plaza_mid/mosaicb2.blueprint"
+hash = "6683ec3e527522864052df5e0caa2637c0a4a957dabe9d4c492116e8514cadf0"
+
+[[files]]
+file = "blueprints/Byzantine_2/infrastructure/forum/plaza_mid/mosaicb3.blueprint"
+hash = "0e20700e1a41402c7e5814ee22a5eba87c1d2e42c75c453e7f41b713c08bf2c7"
+
+[[files]]
+file = "blueprints/Byzantine_2/infrastructure/forum/plaza_mid/shady1.blueprint"
+hash = "855e69c9b24fff96912cc687d416a4c2f1e5638c7beb9c4002a8bb9257c7430c"
+
+[[files]]
+file = "blueprints/Byzantine_2/infrastructure/forum/plaza_mid/shady2.blueprint"
+hash = "a96ea5161eeb3a20194e406137c9f7457c50171c1cd9042f045e198c092839c4"
+
+[[files]]
+file = "blueprints/Byzantine_2/infrastructure/forum/plaza_mid/shady3.blueprint"
+hash = "90c6f7754b30d95ae50ce18ef2365894964121b3cdbeae6438a416371d2acbc3"
+
+[[files]]
+file = "blueprints/Byzantine_2/infrastructure/forum/plaza_single/cistern1.blueprint"
+hash = "45110ab6e0c7eaba6eff448e5c6ded6d3d7f5c04fc58564da85dfef00e0d0e23"
+
+[[files]]
+file = "blueprints/Byzantine_2/infrastructure/forum/plaza_single/cistern2.blueprint"
+hash = "c58cc40612bc19fc40906c77f4972ea2b228a2a0ce4bfe6b38e03246370a8069"
+
+[[files]]
+file = "blueprints/Byzantine_2/infrastructure/forum/plaza_single/cisternhome1.blueprint"
+hash = "988f6ebb73f9bb4e8f9478ef2103ccba61441d038b18692c49fe85b843ebc044"
+
+[[files]]
+file = "blueprints/Byzantine_2/infrastructure/forum/plaza_single/cisternhome2.blueprint"
+hash = "b0014046c0fcef72d36c8369983de4434b48957817814bbeb5a3d74d6f2913d5"
+
+[[files]]
+file = "blueprints/Byzantine_2/infrastructure/forum/plaza_single/deliveryman0.blueprint"
+hash = "f435376240fa9eca97429a86423b8d4b69ed74c53e490e052418d817dc00c1aa"
+
+[[files]]
+file = "blueprints/Byzantine_2/infrastructure/forum/plaza_single/deliveryman1.blueprint"
+hash = "d34c6a4caa37784eccacbc1d567e445de143078d1297f23013ba8d72f12c964b"
+
+[[files]]
+file = "blueprints/Byzantine_2/infrastructure/forum/plaza_single/deliveryman2.blueprint"
+hash = "2c659eacc748f719d0b588d6e8c8344804868d4f31611205a8ac3834edeb0cdc"
+
+[[files]]
+file = "blueprints/Byzantine_2/infrastructure/forum/plaza_single/deliveryman3.blueprint"
+hash = "cc5008eac52441dd8d1f9fec0460ae738be87ce3f1aed0d99f53cdd2d30c7afd"
+
+[[files]]
+file = "blueprints/Byzantine_2/infrastructure/forum/plaza_single/deliveryman4.blueprint"
+hash = "4f8684417c49405b946474504e458155df0c34d602eeb1fb0e6f499253952f30"
+
+[[files]]
+file = "blueprints/Byzantine_2/infrastructure/forum/plaza_single/deliveryman5.blueprint"
+hash = "ba88493b651d590889cff5ec9af23b9f93254dfc772035e1950526f3b291556b"
+
+[[files]]
+file = "blueprints/Byzantine_2/infrastructure/forum/plaza_single/empty.blueprint"
+hash = "5674d7fafb1391bc26534f1b86a65326f5fe60233692b876ac25395ec3790dc9"
+
+[[files]]
+file = "blueprints/Byzantine_2/infrastructure/forum/plaza_single/insulaeguard0.blueprint"
+hash = "39aeb57f7fa2675bbf107cfdfb67b69b86d811c942dc6912ca4dfb0c29c634be"
+
+[[files]]
+file = "blueprints/Byzantine_2/infrastructure/forum/plaza_single/insulaeguard1.blueprint"
+hash = "ff4857e8384350c633f0ca5d3ac317e106e2633b09cb4ed3e95984edce891d4e"
+
+[[files]]
+file = "blueprints/Byzantine_2/infrastructure/forum/plaza_single/insulaeguard2.blueprint"
+hash = "06fb8e7bb4541d698cc8cc7fea26f08a0373ab8d7a38bd6de934d944cae81ea1"
+
+[[files]]
+file = "blueprints/Byzantine_2/infrastructure/forum/plaza_single/insulaeguard3.blueprint"
+hash = "02521bf87d43667b4fef7f1d3d905940e7305127a94a906c9e60264fc4932ce8"
+
+[[files]]
+file = "blueprints/Byzantine_2/infrastructure/forum/plaza_single/insulaeguard4.blueprint"
+hash = "09bf64f2a002b31d3a80c7318d9efa5123d5f4eea84fba72f75d4223f12ccf61"
+
+[[files]]
+file = "blueprints/Byzantine_2/infrastructure/forum/plaza_single/insulaeguard5.blueprint"
+hash = "7818bbe2201fc7d4ff5ee344d4202fd162a97751318ceec50876bf2edb4baa91"
+
+[[files]]
+file = "blueprints/Byzantine_2/infrastructure/forum/plaza_sublevel/subplazadrains.blueprint"
+hash = "69d4c46b58543251ef114089d22f5dec57811ed033d40671900ed511db0eeffb"
+
+[[files]]
+file = "blueprints/Byzantine_2/infrastructure/forum/plaza_sublevel/subplazaother.blueprint"
+hash = "2a4df727280a0d7dd870ab2cf0c3619a8ccca60eb6c45c9a6032b82a97502cb6"
+
+[[files]]
+file = "blueprints/Byzantine_2/infrastructure/harbor/pier/edgerailing.blueprint"
+hash = "79c3d7c15c7ba8d0e66d21fc338f1885a496eabdeb55f625eea27a461102b7c6"
+
+[[files]]
+file = "blueprints/Byzantine_2/infrastructure/harbor/pier/end.blueprint"
+hash = "54d381613b4c9c0e17cd5b7b12d3506413b627eefb4ef89423e5187f0c16b501"
+
+[[files]]
+file = "blueprints/Byzantine_2/infrastructure/harbor/pier/lampsdouble.blueprint"
+hash = "1ba1f1bf75e2e5dae50e3119ec1b0378c8ec5169059276dd2d60f9e36b400149"
+
+[[files]]
+file = "blueprints/Byzantine_2/infrastructure/harbor/pier/piermain.blueprint"
+hash = "14ead91707e0fb7da6178255e5ee0c7c846c162df02fde457842f0dd22de2089"
+
+[[files]]
+file = "blueprints/Byzantine_2/infrastructure/harbor/pier/piertee.blueprint"
+hash = "862e9c80a305a1cca07ab5fc1c76e4b58e09f19c1591944ea13e910d343c14bc"
+
+[[files]]
+file = "blueprints/Byzantine_2/infrastructure/harbor/pier/pierwood.blueprint"
+hash = "84f36865ef9839d4be4a5c242ffce6eee555a3dc5f729b8583b185d258f65336"
+
+[[files]]
+file = "blueprints/Byzantine_2/infrastructure/harbor/pier/pierwoodthin.blueprint"
+hash = "1696740d9437fb83d4eb3ff6e0b1ccfab82cb93d91b882c9a226ee554f7f22ea"
+
+[[files]]
+file = "blueprints/Byzantine_2/infrastructure/harbor/pier/woodpontoon.blueprint"
+hash = "8597b96e0e006521ee5c473438d1df6532f046851e9a4e4d6162f8a6c7f416d6"
+
+[[files]]
+file = "blueprints/Byzantine_2/infrastructure/harbor/seawall/cornerdiagin.blueprint"
+hash = "c23f622684228828ced54a9e57ee808987f2b07a4a899c56bc5570a0d3e15156"
+
+[[files]]
+file = "blueprints/Byzantine_2/infrastructure/harbor/seawall/cornerdiagout.blueprint"
+hash = "85b3220857bc3aace58e8ae03f28a2c3c587797d60c991951fe422efc34aefd1"
+
+[[files]]
+file = "blueprints/Byzantine_2/infrastructure/harbor/seawall/cornerinside.blueprint"
+hash = "1a4493b91639b0e98f73b966e6103f56c676fd4f2f1a6289e78c1b5a16999adc"
+
+[[files]]
+file = "blueprints/Byzantine_2/infrastructure/harbor/seawall/corneroutside.blueprint"
+hash = "8d3f5a56ab956bd5634f64fba98783489c9afea903d4bea5d05cbf1c5e837ce9"
+
+[[files]]
+file = "blueprints/Byzantine_2/infrastructure/harbor/seawall/dredge_brush.blueprint"
+hash = "d577be16d56fdf988d0fc35a921e7659c4688d32ca5cc052b77c4ab67d4a89fa"
+
+[[files]]
+file = "blueprints/Byzantine_2/infrastructure/harbor/seawall/long.blueprint"
+hash = "859b423af315fa8002a82d25ed01b78126f69100bdc5a86dbb9a6423f596b191"
+
+[[files]]
+file = "blueprints/Byzantine_2/infrastructure/harbor/seawall/short.blueprint"
+hash = "eaf1d3e2f8334119978eb53041c51cf19555cc2f008b15de0473720a3b746fd0"
+
+[[files]]
+file = "blueprints/Byzantine_2/infrastructure/harbor/seawall/tee.blueprint"
+hash = "ab371004f471e2c8131881b3936a36539249abf936cea7f1a4473b6ee8c26e86"
+
+[[files]]
+file = "blueprints/Byzantine_2/infrastructure/icon.png"
+hash = "91085e080cd83b99e3d4217131fc204832bb0c88b219ef448c3dda63a8bb7268"
+
+[[files]]
+file = "blueprints/Byzantine_2/infrastructure/icon_disabled.png"
+hash = "72111d835413304b20c88b9cb0d240c207218a5599eb6c0831c645ced7d4db08"
+
+[[files]]
+file = "blueprints/Byzantine_2/infrastructure/mineshafts/mediumquarry1.blueprint"
+hash = "22c47e58b1581e1b9d4de916689cf7dc92ce5404160fcec6276049cee9e89f13"
+
+[[files]]
+file = "blueprints/Byzantine_2/infrastructure/mineshafts/mediumquarryshaft1.blueprint"
+hash = "6dd05427b478601ec6a9c3132c71d2fee5f719a05e1de0fee2116436ff30b2df"
+
+[[files]]
+file = "blueprints/Byzantine_2/infrastructure/mineshafts/minermainshaft.blueprint"
+hash = "72ea74bee5f31d4552b77ebf3213996adbb3271bf0432b5a6a2f77aba281c555"
+
+[[files]]
+file = "blueprints/Byzantine_2/infrastructure/mineshafts/minerx2left.blueprint"
+hash = "80f53111f236073e6afd68d918da884e8284c9c4e2e8f4da59cff04c0c00bfe2"
+
+[[files]]
+file = "blueprints/Byzantine_2/infrastructure/mineshafts/minerx2right.blueprint"
+hash = "8b8ac62bbb2e87b01a172bb05c49e0942e42330550df2618a13cc1ca7c4f26d0"
+
+[[files]]
+file = "blueprints/Byzantine_2/infrastructure/mineshafts/minerx2top.blueprint"
+hash = "6ceae2bb6f22ad3743f7b26e665dd2a68cd95261090ec814bf61f83c21feaad9"
+
+[[files]]
+file = "blueprints/Byzantine_2/infrastructure/mineshafts/minerx3leftright.blueprint"
+hash = "35c73e1df5e830c81dd34637fc20f0c645b317adde5c307ff2fc51db0caa9934"
+
+[[files]]
+file = "blueprints/Byzantine_2/infrastructure/mineshafts/minerx3topleft.blueprint"
+hash = "e4470ac3dfe8b8518fd9c212b8b21cf23670ca7d9eff0249fb09ea140cb7a171"
+
+[[files]]
+file = "blueprints/Byzantine_2/infrastructure/mineshafts/minerx3topright.blueprint"
+hash = "65d4afdbadb9940cffe6f27105071d50fb65edefe109c00154a449a4e0f9cfd6"
+
+[[files]]
+file = "blueprints/Byzantine_2/infrastructure/mineshafts/minerx4.blueprint"
+hash = "403d61578f7ba50cb7127f2ea51256dce4e9a7817e75af5e23bc79393314aa33"
+
+[[files]]
+file = "blueprints/Byzantine_2/infrastructure/mineshafts/simplequarry1.blueprint"
+hash = "ca0ab2b31fb2e23c74eae7a538a2ca025acdf41e66e6c164deffde105b5b83b3"
+
+[[files]]
+file = "blueprints/Byzantine_2/infrastructure/mineshafts/simplequarryshaft1.blueprint"
+hash = "423d7be35a30c11712f30befafe810f42bf81170c3e9132436be30aa29460d6f"
+
+[[files]]
+file = "blueprints/Byzantine_2/infrastructure/retainingwall/archstairs.blueprint"
+hash = "eebc3c796bbe8b3de7f5ffa647cfad369632863f6d77b08347524efca41715d1"
+
+[[files]]
+file = "blueprints/Byzantine_2/infrastructure/retainingwall/cornerin.blueprint"
+hash = "9380fafe14c576c66de1a4a6122f0faa6521b18b3730c54a850ce738557fc32e"
+
+[[files]]
+file = "blueprints/Byzantine_2/infrastructure/retainingwall/cornerin_reight.blueprint"
+hash = "a93d1f74c62fb7390acf739ce2656c1f1817268dc1ebdcd803794d907b76e1a6"
+
+[[files]]
+file = "blueprints/Byzantine_2/infrastructure/retainingwall/cornerin_rfour.blueprint"
+hash = "9a88bc4efd8b4e674482aaf48e04ade20b50af87a86a553c57db7464297a8210"
+
+[[files]]
+file = "blueprints/Byzantine_2/infrastructure/retainingwall/cornerout.blueprint"
+hash = "c15935967897749d14ec0c7fd15923e69f6a8e653a62a2c013464a2f08957611"
+
+[[files]]
+file = "blueprints/Byzantine_2/infrastructure/retainingwall/cornerout_reight.blueprint"
+hash = "0d4005e9784644ca067a8c968cba03bc7c634eef38cd2edc48e1e1ef32825968"
+
+[[files]]
+file = "blueprints/Byzantine_2/infrastructure/retainingwall/cornerout_rfour.blueprint"
+hash = "d3b528695efd25b2924ef353153531d6b8509a5d2676019977a69fd4534c81f4"
+
+[[files]]
+file = "blueprints/Byzantine_2/infrastructure/retainingwall/diag_reight.blueprint"
+hash = "6a1a6a3b463c5ea96925965e76f83f455e0872e66fcb8fa38566e2fe6ceb03f5"
+
+[[files]]
+file = "blueprints/Byzantine_2/infrastructure/retainingwall/diag_rfour.blueprint"
+hash = "1cd1888a07760ec8113c51e217d0a6b9dec67f19cb077d49d7e4d874051a90cd"
+
+[[files]]
+file = "blueprints/Byzantine_2/infrastructure/retainingwall/diagonal.blueprint"
+hash = "ec3a900ba2053faa41b3529dfbb17791936ebbd9e56f5aafd96267865477e7cb"
+
+[[files]]
+file = "blueprints/Byzantine_2/infrastructure/retainingwall/long.blueprint"
+hash = "aeedc2acfc88889db51495f2912b98c945cab15c1707ba9aacb840fda7ad2d72"
+
+[[files]]
+file = "blueprints/Byzantine_2/infrastructure/retainingwall/long_reight.blueprint"
+hash = "604dc3b535a1d3d5b469e5602b68571687fe5bd920aacf0d59b18abf1fa29a77"
+
+[[files]]
+file = "blueprints/Byzantine_2/infrastructure/retainingwall/long_rfour.blueprint"
+hash = "8ca117d90837d096735aa63cb275e999ad1bf52e5085bca201cae54ee169b56a"
+
+[[files]]
+file = "blueprints/Byzantine_2/infrastructure/retainingwall/roadshort.blueprint"
+hash = "3ee3b58a04d7db5af643a613ab288ace47c6657cd989279c8139b96772d5b15c"
+
+[[files]]
+file = "blueprints/Byzantine_2/infrastructure/retainingwall/roadtall.blueprint"
+hash = "1449ad5f8e7874d5a323bb0b2bbb1252400d653fa84eb94cd669255e70ce6daa"
+
+[[files]]
+file = "blueprints/Byzantine_2/infrastructure/retainingwall/short.blueprint"
+hash = "4b01c323fb4abb5d035690b6c98814d15a5b11f4592fc1731e88b536d1ce9894"
+
+[[files]]
+file = "blueprints/Byzantine_2/infrastructure/retainingwall/short_reight.blueprint"
+hash = "1ff9329e573e6208c723a0584b39063420a7bc05e3e280c5fa0be9631ddd539e"
+
+[[files]]
+file = "blueprints/Byzantine_2/infrastructure/retainingwall/short_rfour.blueprint"
+hash = "d21ba69306db08b2cfbc491e1c07c3c72e590ad7ec420ed5928a203b460b7e5c"
+
+[[files]]
+file = "blueprints/Byzantine_2/infrastructure/retainingwall/stairwell_bottom.blueprint"
+hash = "15542f13ccab499884772cfd29cd239012209e756250750a18c7a40fdca8b65d"
+
+[[files]]
+file = "blueprints/Byzantine_2/infrastructure/retainingwall/stairwell_reight.blueprint"
+hash = "dc753bc2bf8d8079a159cc030887fa4903495269556b3c7daa72f225b6d5e881"
+
+[[files]]
+file = "blueprints/Byzantine_2/infrastructure/retainingwall/stairwell_rfour.blueprint"
+hash = "579bc857ca1978dbdce5727d0ceb5ca94fbc4d73ea70efc2d8bfdaac2a30fc60"
+
+[[files]]
+file = "blueprints/Byzantine_2/infrastructure/retainingwall/stairwell_rone.blueprint"
+hash = "0e1e3c980ec45d48ae349b48b2ad5cff28cdb02b0c12aace90f37e5becbdb217"
+
+[[files]]
+file = "blueprints/Byzantine_2/infrastructure/retainingwall/stairwell_rtwo.blueprint"
+hash = "0273d712df0a5a041e6aaf549545504f9d2428b972ce5c11575222490bb3dab6"
+
+[[files]]
+file = "blueprints/Byzantine_2/infrastructure/retainingwall/stairwell_top.blueprint"
+hash = "618f437e34647d87cb20ac577faa18d969496b7a90040f68e0577294dcecef75"
+
+[[files]]
+file = "blueprints/Byzantine_2/infrastructure/retainingwall/stairwellarch.blueprint"
+hash = "d0b821f18b947a12aadc2c98a29ec450b60a713c394e4ef27b6e3bbd620d80aa"
+
+[[files]]
+file = "blueprints/Byzantine_2/infrastructure/retainingwall/stairwellarch_rfour.blueprint"
+hash = "73205733cecb8a05af4a41293d27d8fe7133beb6522ed1dc7f8cb2e24cc83112"
+
+[[files]]
+file = "blueprints/Byzantine_2/infrastructure/road/crossfour.blueprint"
+hash = "5108a85e33cbdcade93815ba7f67d5889d1aa860ee095c72d58dc4c5141f1e46"
+
+[[files]]
+file = "blueprints/Byzantine_2/infrastructure/road/crossthree.blueprint"
+hash = "1f4e73e69e822e1ec254825d0637d8038b50882c6026a16203ab83a5bb7334bb"
+
+[[files]]
+file = "blueprints/Byzantine_2/infrastructure/road/short.blueprint"
+hash = "a7158b38a44bda03f60606980cddc0bbf829e306ffc9604f70526ef151e8c6f2"
+
+[[files]]
+file = "blueprints/Byzantine_2/infrastructure/road/stairfive.blueprint"
+hash = "88e9d605aecffcaa9bb434ffee9051a82ac728d429a2fe3e804e6f2a2d5fee3b"
+
+[[files]]
+file = "blueprints/Byzantine_2/infrastructure/road/stairfour.blueprint"
+hash = "b28ce221d8516a14d4c1e514faed7068a2e715db3bdc82be222a3492839cef28"
+
+[[files]]
+file = "blueprints/Byzantine_2/infrastructure/road/stairsix.blueprint"
+hash = "b40aa92558f53864af60e7b11fa19f2f3b9d89b8a3a8a163b33a9e20d77744de"
+
+[[files]]
+file = "blueprints/Byzantine_2/infrastructure/road/stairthree.blueprint"
+hash = "c46b922d79f4cc56fb3960ae9bc3862e4d064e041c0ed9576a1f41039f1707d2"
+
+[[files]]
+file = "blueprints/Byzantine_2/infrastructure/road/stairtwo.blueprint"
+hash = "6d68c387eb5a3419598481f367674e893b7efd153ec5c9f4a150aa42e30491bc"
+
+[[files]]
+file = "blueprints/Byzantine_2/infrastructure/road/straight.blueprint"
+hash = "b80a861933b890b6ebb237ac00629275cd74cdd123a05e82d6d88692ade623de"
+
+[[files]]
+file = "blueprints/Byzantine_2/infrastructure/road/turn.blueprint"
+hash = "a2e00561ce91c4eaaad92ae552280366b518a7afd002bdff6126653512d19dd2"
+
+[[files]]
+file = "blueprints/Byzantine_2/infrastructure/sewer/avecrossfour.blueprint"
+hash = "e12f22cb0fbea9e4d4c20039bc8a7c2aa67f477ffeec71c87c41b3d3bde3e44c"
+
+[[files]]
+file = "blueprints/Byzantine_2/infrastructure/sewer/avecrossthree.blueprint"
+hash = "6f5d2588ed6e4fa623c57abb66435d04d5373aec8360b6d2df2c3b5d09cf92aa"
+
+[[files]]
+file = "blueprints/Byzantine_2/infrastructure/sewer/aveend.blueprint"
+hash = "90a317a5da5eeee3e2ad4061e9d58fb279b7fc5c9807c7978e7866dbba0a4368"
+
+[[files]]
+file = "blueprints/Byzantine_2/infrastructure/sewer/avenuestair.blueprint"
+hash = "ffe7208ff4ec801181342fd78f58ea0d71186e3d2736f46aa57238b30420f14a"
+
+[[files]]
+file = "blueprints/Byzantine_2/infrastructure/sewer/aveoneup.blueprint"
+hash = "a08eef3d364d5d77b7e1018e096c985e2a0545c237a42e385f2dd3271f449c90"
+
+[[files]]
+file = "blueprints/Byzantine_2/infrastructure/sewer/aveshort.blueprint"
+hash = "268e730a20038ae5d7a818a40820f32ad67538e86e8a7ebe9be6ba3f4d89bc44"
+
+[[files]]
+file = "blueprints/Byzantine_2/infrastructure/sewer/avestraight.blueprint"
+hash = "d80cce330bfd171a2f54dd21f54618177166e4d403adeccf8930a7f2237dc861"
+
+[[files]]
+file = "blueprints/Byzantine_2/infrastructure/sewer/avethreeup.blueprint"
+hash = "b39a66b4996b0a6014abca0326f754deb3a661e82bf9769ab3db3cbdd4ff4c80"
+
+[[files]]
+file = "blueprints/Byzantine_2/infrastructure/sewer/avetunnel.blueprint"
+hash = "179e67249529ff7a825732035f9ada1cf0aad6b3ee27ba44a59ce9bfa10fc387"
+
+[[files]]
+file = "blueprints/Byzantine_2/infrastructure/sewer/aveturn.blueprint"
+hash = "976f95ed85b1c3a78326d02a5258aedb4db2fbfd05cf5f7798dc4cc335481c5d"
+
+[[files]]
+file = "blueprints/Byzantine_2/infrastructure/sewer/avetwoup.blueprint"
+hash = "285e6d983a313181677223a1c5507dbc7e369986cbea6bcdde84f11f9447ea5f"
+
+[[files]]
+file = "blueprints/Byzantine_2/infrastructure/sewer/chambercross.blueprint"
+hash = "a6aae003b8d7905fa9fd633f24e745172bf1a5d568179dbbedea40707eb61df9"
+
+[[files]]
+file = "blueprints/Byzantine_2/infrastructure/sewer/cross.blueprint"
+hash = "111c8c1db563ce48be383bdeadc8781751383c0ced5906f2084d2aed4199d53f"
+
+[[files]]
+file = "blueprints/Byzantine_2/infrastructure/sewer/crosstee.blueprint"
+hash = "5a59ec2763e2ccc94d7a4d7cf4f3d20984f08995e568dfd0a399234f5c492fc7"
+
+[[files]]
+file = "blueprints/Byzantine_2/infrastructure/sewer/crossthrough.blueprint"
+hash = "23402e7e12940eb55b16094b527188cce61eb6f4b048c27291a9746761642120"
+
+[[files]]
+file = "blueprints/Byzantine_2/infrastructure/sewer/crossturn.blueprint"
+hash = "7962eece32d59ee7eeb7556cec0605141d66d8c49dea08fc5037e42d085cbf6e"
+
+[[files]]
+file = "blueprints/Byzantine_2/infrastructure/sewer/staireight.blueprint"
+hash = "bba58f8ebc46a00f831b201fac05aa0ff246a495ad7ddc532a2051ac5d6a318e"
+
+[[files]]
+file = "blueprints/Byzantine_2/infrastructure/sewer/stairfour.blueprint"
+hash = "bfab55fdcf04c377ef73bee341f805a62cdc8bf96a29548507969905a94216b4"
+
+[[files]]
+file = "blueprints/Byzantine_2/infrastructure/sewer/tinytunnelfour.blueprint"
+hash = "eef7ddb7bf4e778a865a3ed5ce5f2496e289174f3bfc675b8d11cef1ac871475"
+
+[[files]]
+file = "blueprints/Byzantine_2/infrastructure/sewer/tinytunneltwo.blueprint"
+hash = "c78c4701db631347f74806219d14813774e78de562569941a61892ea4f1f2686"
+
+[[files]]
+file = "blueprints/Byzantine_2/infrastructure/sewer/tunnelfour.blueprint"
+hash = "463e14d37c3c53f5b9b51f9472572987b530a5f35f13e692a787071b9eb4ae99"
+
+[[files]]
+file = "blueprints/Byzantine_2/infrastructure/sewer/tunneltwo.blueprint"
+hash = "036fa409937012909535eae86a8a9014c5f537a312bc0a6206bcaacc9065a6e9"
+
+[[files]]
+file = "blueprints/Byzantine_2/infrastructure/terrace/concave.blueprint"
+hash = "b18f61dcb0a70f942b6b4d186fb5da0a505575da0aaa4f3b850ff80bc6c245a3"
+
+[[files]]
+file = "blueprints/Byzantine_2/infrastructure/terrace/diag_long.blueprint"
+hash = "4c25393ced5a757c4be86a86fb64d872e117793c4d85a30a791042db34d4b222"
+
+[[files]]
+file = "blueprints/Byzantine_2/infrastructure/terrace/diag_short.blueprint"
+hash = "4abed86433fa68c2b228af95b8a215d156d1faea416cdbbf3e5ed5854653a926"
+
+[[files]]
+file = "blueprints/Byzantine_2/infrastructure/terrace/long.blueprint"
+hash = "2990fa913823664aac8d7ee653837f2b186beaffb73cc48e020f3b3e05736973"
+
+[[files]]
+file = "blueprints/Byzantine_2/infrastructure/terrace/short.blueprint"
+hash = "99bbd1dd7d7641ab034d3a10ea45af1a58ada4596116adfefcf5929205a9feff"
+
+[[files]]
+file = "blueprints/Byzantine_2/infrastructure/terrace/stair.blueprint"
+hash = "64b8ef4c7b60245e5b6b52da513f0176228fbdb488134fed5c98d0fae1a5e8e0"
+
+[[files]]
+file = "blueprints/Byzantine_2/infrastructure/terrace/stair_short.blueprint"
+hash = "6bb54771591f024173dce191e6e164be860c696b2d5f35a7b3531f035b31803a"
+
+[[files]]
+file = "blueprints/Byzantine_2/infrastructure/terrace/stair_u.blueprint"
+hash = "ec5c93c05d48b9f3b4570418c47ff89ffc96fd8dd54e95d622c1638e9d917630"
+
+[[files]]
+file = "blueprints/Byzantine_2/infrastructure/terrace/straight_incline.blueprint"
+hash = "f21d6576316c70e99c8701003f52cfad8055f8138329282e6f213d9cd8f54dc9"
+
+[[files]]
+file = "blueprints/Byzantine_2/infrastructure/terrace/turn_easy.blueprint"
+hash = "b596b5eea26c9875b3da1bf35e6d410297cf96449bd431d6075ec4f947f68370"
+
+[[files]]
+file = "blueprints/Byzantine_2/infrastructure/terrace/turn_long.blueprint"
+hash = "ae66a0c0a203db521bfc82a90bf188d435360420294c9918445e45ad5e7aae71"
+
+[[files]]
+file = "blueprints/Byzantine_2/infrastructure/terrace/turn_s.blueprint"
+hash = "6049865ae225913fc6a4a5be16216b1bb275a1c5ac13dc5ad091f8ee68cccbbc"
+
+[[files]]
+file = "blueprints/Byzantine_2/infrastructure/terrace/turn_short.blueprint"
+hash = "fb0f8c80573e3862925a432cc515a5cb67a099a224a578846842201c43ff7bfc"
+
+[[files]]
+file = "blueprints/Byzantine_2/military/barracks/academy1.blueprint"
+hash = "74041633cb9f7151bcdf272dd5f875c698663076e152a5e898ff33ee1c8ec972"
+
+[[files]]
+file = "blueprints/Byzantine_2/military/barracks/academy2.blueprint"
+hash = "e926d40d47ec86891e650cfb1e69fa6cdd1c82c1011b0b083370f608aa983c21"
+
+[[files]]
+file = "blueprints/Byzantine_2/military/barracks/academy3.blueprint"
+hash = "bf16d82dbb936918f9624eea46588de064ff29fec771baa4dc2086c89cdb3032"
+
+[[files]]
+file = "blueprints/Byzantine_2/military/barracks/academy4.blueprint"
+hash = "5cfc70cfe1c4e96630349fe7ef72c112fc64e2c056957b70ac4099e485efc8a4"
+
+[[files]]
+file = "blueprints/Byzantine_2/military/barracks/academy5.blueprint"
+hash = "209916be574fe1b842d2e9117f9bbffe72fda7e4f0adbe5bc19fd1ba36d9e860"
+
+[[files]]
+file = "blueprints/Byzantine_2/military/barracks/altbarracks1.blueprint"
+hash = "39e7ab28e3f230e996f96e6bfaa810a1b3d20360e91c896e5d82c8972658b4ad"
+
+[[files]]
+file = "blueprints/Byzantine_2/military/barracks/altbarracks2.blueprint"
+hash = "c4c4e9173f090f3cb8fd5a61181f8b15ed491a030901a3797942e2b36540944c"
+
+[[files]]
+file = "blueprints/Byzantine_2/military/barracks/altbarracks3.blueprint"
+hash = "797c4614c0040de71fad0bc393e597c0c55c992884b65b1a4b5b6292f76bdd2e"
+
+[[files]]
+file = "blueprints/Byzantine_2/military/barracks/altbarracks4.blueprint"
+hash = "9d5e5375bad28ba0ff9d77abea4840307c449ff7895139fb6cf32cf758bc4e16"
+
+[[files]]
+file = "blueprints/Byzantine_2/military/barracks/altbarracks5.blueprint"
+hash = "4aaf1acc42d219c055fd71a53af943ecdedab7b71e6964f751b3459c0f7b6471"
+
+[[files]]
+file = "blueprints/Byzantine_2/military/barracks/alttower1.blueprint"
+hash = "977ea242725dafbc3195e0c771f3d9b56e8f6cbab93c811d6bd5c0399ef1c2b2"
+
+[[files]]
+file = "blueprints/Byzantine_2/military/barracks/alttower2.blueprint"
+hash = "3e3ce207c1868328ec9253592461b9fdddaa2024aa0562261ec96cb6aae674ee"
+
+[[files]]
+file = "blueprints/Byzantine_2/military/barracks/alttower3.blueprint"
+hash = "21ce9207f875948b2e297af6a52f9978b0e8ea1d7259fdbb9c6f09329a1ac87d"
+
+[[files]]
+file = "blueprints/Byzantine_2/military/barracks/alttower4.blueprint"
+hash = "cb013eef37d963f538319176461f67d38cc1ec606d363a3c56814b117c314061"
+
+[[files]]
+file = "blueprints/Byzantine_2/military/barracks/alttower5.blueprint"
+hash = "afac30df8d1889e545fbe7ce4f857a4a7871c2bf6e4a770234ab4581de520c98"
+
+[[files]]
+file = "blueprints/Byzantine_2/military/barracks/archery1.blueprint"
+hash = "adfdbff14ca0e3ef21cd3e6ab13ec0d782af0bead75a6804241d6a3226534740"
+
+[[files]]
+file = "blueprints/Byzantine_2/military/barracks/archery2.blueprint"
+hash = "5fae6a13a36fd633760966a2851a8334cf90b154727d6baef790f89f557d4c4e"
+
+[[files]]
+file = "blueprints/Byzantine_2/military/barracks/archery3.blueprint"
+hash = "3a2727af6767c2f17ea43589c01419251d1148408fddbfea4cb2ff307284ad02"
+
+[[files]]
+file = "blueprints/Byzantine_2/military/barracks/archery4.blueprint"
+hash = "ff216657c5f2a17e827753d112c03b3467eaa89c5895711d3c45e02daa64d612"
+
+[[files]]
+file = "blueprints/Byzantine_2/military/barracks/archery5.blueprint"
+hash = "b37ae3bbbc29c97dcbd651021b776c1c36009f5e3c69d63383d5f1b70869fd44"
+
+[[files]]
+file = "blueprints/Byzantine_2/military/barracks/barracks1.blueprint"
+hash = "cfc56f3a62a7b2a470b219552f8dfdaabd2e7f84e2f4c240c2dda28a53334774"
+
+[[files]]
+file = "blueprints/Byzantine_2/military/barracks/barracks2.blueprint"
+hash = "7d59432155ae75175720c6f5f2bf3fc8bf298fe72112fe4e8d2e9280800a46ff"
+
+[[files]]
+file = "blueprints/Byzantine_2/military/barracks/barracks3.blueprint"
+hash = "b3d7c2563d854598cb4563a85a3dbe3ba31e1f6ac19d805e8d595ba8de312dbc"
+
+[[files]]
+file = "blueprints/Byzantine_2/military/barracks/barracks4.blueprint"
+hash = "abbc3801cf4dbb250444cad7f20237b2667bc44fec28aac0d700d5a90323b5f8"
+
+[[files]]
+file = "blueprints/Byzantine_2/military/barracks/barracks5.blueprint"
+hash = "1d69af062bb9eb72f7c624f96e0b8a8c6ad3f9d48048015c1f4017189fab9b3a"
+
+[[files]]
+file = "blueprints/Byzantine_2/military/barracks/keepsmith1.blueprint"
+hash = "43e14352e971381e4db7fda62fa0f812de292bb8a58424ebdb1595377ef3b0d9"
+
+[[files]]
+file = "blueprints/Byzantine_2/military/barracks/keepsmith2.blueprint"
+hash = "26a9da87491607369f97c6bde65b173b8bf7f70f188761267bd793f8cef328d1"
+
+[[files]]
+file = "blueprints/Byzantine_2/military/barracks/keepsmith3.blueprint"
+hash = "bcb0a51af94e4c2bb2c3b019b5ef79310b4056165cce4dc91e3eff9e063fb933"
+
+[[files]]
+file = "blueprints/Byzantine_2/military/barracks/keepsmith4.blueprint"
+hash = "c016a392560e2ff7c55dadf73d5a384010248295abb700eb94789089295787d3"
+
+[[files]]
+file = "blueprints/Byzantine_2/military/barracks/keepsmith5.blueprint"
+hash = "1e956916f0cbd6aca491a73616a48c2db8bf8ca2ea8d442185c9c52362d65a2d"
+
+[[files]]
+file = "blueprints/Byzantine_2/military/barracks/tower0.blueprint"
+hash = "edbf06a3a0e2dc6a28aa924c30df509ae9871362148cac527671722c98810ee1"
+
+[[files]]
+file = "blueprints/Byzantine_2/military/barracks/tower1.blueprint"
+hash = "a88674145c5b2f6ed160cb8e950380c90c343a9f3d80d51565907f24422e45a4"
+
+[[files]]
+file = "blueprints/Byzantine_2/military/barracks/tower2.blueprint"
+hash = "5830ccc9bd49bdce943cb709ba1349e2d26cdf2fc3413d73ff946e3dd47fb759"
+
+[[files]]
+file = "blueprints/Byzantine_2/military/barracks/tower3.blueprint"
+hash = "e49148366c73169ef062c8043e3b76cb8c3f19d117f309106ea319418c1c37a6"
+
+[[files]]
+file = "blueprints/Byzantine_2/military/barracks/tower4.blueprint"
+hash = "0057ee48debb06a701f334513076a405b4b318272a08c317a8a9d22a271b61a3"
+
+[[files]]
+file = "blueprints/Byzantine_2/military/barracks/tower5.blueprint"
+hash = "c61f3f928738cb5398753b78197123642f9edc1d023547b396e71a882690f0b7"
+
+[[files]]
+file = "blueprints/Byzantine_2/military/barracks/tower_m0.blueprint"
+hash = "766e9d023d9984ff2a521c4076bac27d74a1e18db61bcd04d3ad44995424444b"
+
+[[files]]
+file = "blueprints/Byzantine_2/military/barracks/tower_m1.blueprint"
+hash = "f9cb263f0c36e7edf11ae6eb6ef8c2b3daca048a7b1503fde975512c5b132ecf"
+
+[[files]]
+file = "blueprints/Byzantine_2/military/barracks/tower_m2.blueprint"
+hash = "835c73f4e580660bc1e90fdf0c9d685df749248a0ce7ce9e565fad1a9105349e"
+
+[[files]]
+file = "blueprints/Byzantine_2/military/barracks/tower_m3.blueprint"
+hash = "050e7282726b5d1948a658357e749e4e86034ac41a9a06fcdffca85f42069bfd"
+
+[[files]]
+file = "blueprints/Byzantine_2/military/barracks/tower_m4.blueprint"
+hash = "81c434b8d990edb1a9c742eb2ec6dfd01bc3aae7e9a80cb03ca779ce12818604"
+
+[[files]]
+file = "blueprints/Byzantine_2/military/barracks/tower_m5.blueprint"
+hash = "172449faa2050f4fbc795a1750621f6c18f930c3b483e18b264cd2367d63a0d7"
+
+[[files]]
+file = "blueprints/Byzantine_2/military/icon.png"
+hash = "bb2aaf6929add670f6c990ba7a371b7171c392061d7354dbd63f8b87e25dc830"
+
+[[files]]
+file = "blueprints/Byzantine_2/military/icon_disabled.png"
+hash = "7e798e26148e2f959cba8b89d57f4d63e97b3c7e17eedccca6b5a88730f90fa5"
+
+[[files]]
+file = "blueprints/Byzantine_2/military/tower_big/corner1.blueprint"
+hash = "9041ef83937741a181547b6633c8c0f30076d0067d256e2a8bbd6751752639c6"
+
+[[files]]
+file = "blueprints/Byzantine_2/military/tower_big/corner2.blueprint"
+hash = "6df6ded41cb236acdb77461e9665efc09f9ae27aebd01f5bd3f936907377e229"
+
+[[files]]
+file = "blueprints/Byzantine_2/military/tower_big/corner3.blueprint"
+hash = "7e2a9e5b5255cb628d258fa61df81161fa7000492cd7b80493fa86b3d542053f"
+
+[[files]]
+file = "blueprints/Byzantine_2/military/tower_big/corner4.blueprint"
+hash = "6c8d1df4597a3b7794260cd3a75d42131746c5fef2806d11e237a0e896467987"
+
+[[files]]
+file = "blueprints/Byzantine_2/military/tower_big/corner5.blueprint"
+hash = "abdfc0ceb8df306842ef54b824ef877cb141d017644e4b657bfa500c9b285d6d"
+
+[[files]]
+file = "blueprints/Byzantine_2/military/tower_big/footing_fill.blueprint"
+hash = "03ee8b91ba3a054751d2fde48905780b2a118a56e51606d70caf7e5b6723cda0"
+
+[[files]]
+file = "blueprints/Byzantine_2/military/tower_big/towerbig1.blueprint"
+hash = "e891648223348051fce50bfcf1b563dd561d1af2580d2778badc51ef07c8b2c7"
+
+[[files]]
+file = "blueprints/Byzantine_2/military/tower_big/towerbig2.blueprint"
+hash = "72b59941df2c9f548b04bf74d7b35f9c9827037501e1dccee223f7a09c6aafe7"
+
+[[files]]
+file = "blueprints/Byzantine_2/military/tower_big/towerbig3.blueprint"
+hash = "1e67b04710488cf09dbb3e897e156f69762bdb648aa80ba7474d5e4f5bb32c5e"
+
+[[files]]
+file = "blueprints/Byzantine_2/military/tower_big/towerbig4.blueprint"
+hash = "517eb7c0f9f21c5368ad4df0d6e4d085fe39510201221c2b038e420ba3d1a1cd"
+
+[[files]]
+file = "blueprints/Byzantine_2/military/tower_big/towerbig5.blueprint"
+hash = "2059033623bdc9efd8c6d7a0daac65e0f5c2c7d1700c4e71e70c2d72a1ba0806"
+
+[[files]]
+file = "blueprints/Byzantine_2/military/tower_small/coastal1.blueprint"
+hash = "67db7967a6bbb87b64e6330b5d6fedf503d49f9b3bfd3a1dca3026b3624a17c4"
+
+[[files]]
+file = "blueprints/Byzantine_2/military/tower_small/coastal2.blueprint"
+hash = "058dae50302986e1046ab5a2bdf49fe0da93a4236fed56b4fd1ce06302445fa0"
+
+[[files]]
+file = "blueprints/Byzantine_2/military/tower_small/coastal3.blueprint"
+hash = "16dad71a0824e2cb6501e5d8fcf6fd769ea0b62ddccde7d3b17a875340003ec3"
+
+[[files]]
+file = "blueprints/Byzantine_2/military/tower_small/coastal4.blueprint"
+hash = "52a038a5c436b07ca7d56f2809ea6542f70328b4f15560d16937975b9052a1be"
+
+[[files]]
+file = "blueprints/Byzantine_2/military/tower_small/coastal5.blueprint"
+hash = "bc97d237dcd3383a78d8350bb7077b7ade72080b940aa1cacec417560651ffd2"
+
+[[files]]
+file = "blueprints/Byzantine_2/military/tower_small/coastalcorner1.blueprint"
+hash = "ab52ffb3c65d6e39bd3837ac3984c12e3a2633ac462817aa1acf8432fe5c53e8"
+
+[[files]]
+file = "blueprints/Byzantine_2/military/tower_small/coastalcorner2.blueprint"
+hash = "eaa304df5399cb206b35989287ce06f7f1d909fd91fc98022a29bc89cf22c1f9"
+
+[[files]]
+file = "blueprints/Byzantine_2/military/tower_small/coastalcorner3.blueprint"
+hash = "b4ce7896b67769a87d7d0d16ff4b8844017528f9b6dfe6581b7578f14b470823"
+
+[[files]]
+file = "blueprints/Byzantine_2/military/tower_small/coastalcorner4.blueprint"
+hash = "58d007cbf59464daf3034871bddaab28b6acd882b305b2fc69b3be8de1542709"
+
+[[files]]
+file = "blueprints/Byzantine_2/military/tower_small/coastalcorner5.blueprint"
+hash = "15049436307ac200e3c33d2037a7c1a277dd132cc35e4cb12cecfe7e0753d906"
+
+[[files]]
+file = "blueprints/Byzantine_2/military/tower_small/corner1.blueprint"
+hash = "6daf3c53a8077dcc566e4b1b8eb362996e97ec89c0f6a98372c7a95476ac310e"
+
+[[files]]
+file = "blueprints/Byzantine_2/military/tower_small/corner2.blueprint"
+hash = "06a0473ac29ec537bc8182ec6360368be2ddb5cf93e6a8ad123d2ab5bff5e66d"
+
+[[files]]
+file = "blueprints/Byzantine_2/military/tower_small/corner3.blueprint"
+hash = "94e0cc2a6798aa4b13f71ebe6560ba3d31766bf9c1f5b447e753b01c76cdc4c9"
+
+[[files]]
+file = "blueprints/Byzantine_2/military/tower_small/corner4.blueprint"
+hash = "2883f312326840cbccd49b021a2e33c8aa79595c548c8fda6a5a563ec3f91171"
+
+[[files]]
+file = "blueprints/Byzantine_2/military/tower_small/corner5.blueprint"
+hash = "dd4269d12efa9b89f14d7f3289c2d0d53668677ba4bc90234de6b3f11bb45ccf"
+
+[[files]]
+file = "blueprints/Byzantine_2/military/tower_small/footing_fill.blueprint"
+hash = "8238640aec0a9c4d9e5eaee4609c03cbcc9182e2e1d91d1d83fb18a42c598e3e"
+
+[[files]]
+file = "blueprints/Byzantine_2/military/tower_small/towersmall1.blueprint"
+hash = "7478975ed08054aabaeb6b31da61b4d69f8683f21dee9d8043ecf5f0f20c368e"
+
+[[files]]
+file = "blueprints/Byzantine_2/military/tower_small/towersmall2.blueprint"
+hash = "e2f46d05025728aed91591a5cfa7339f01faf80205cb1d39f0acfa336b80bea3"
+
+[[files]]
+file = "blueprints/Byzantine_2/military/tower_small/towersmall3.blueprint"
+hash = "33022108218a00cc123b5de3e38385577b4e95ce0ce4297567172870527e6cb6"
+
+[[files]]
+file = "blueprints/Byzantine_2/military/tower_small/towersmall4.blueprint"
+hash = "e22a11a536cb16e2ee5bde0c00fb35118df5ba6e85acd532abd3add34e2c7306"
+
+[[files]]
+file = "blueprints/Byzantine_2/military/tower_small/towersmall5.blueprint"
+hash = "aa2888ba0ce28152ec7b45a73e01ddb500f1885b5598d0c5a8e87288df40ec0b"
+
+[[files]]
+file = "blueprints/Byzantine_2/military/warship/dromon1.blueprint"
+hash = "50c4b9c8d94317a503eb3a2d9a5d9821c5bb37c9e2197900484b00ea8d74b015"
+
+[[files]]
+file = "blueprints/Byzantine_2/military/warship/dromon2.blueprint"
+hash = "9aa9f1bbb9a7763a2769099fe6a7c17c88095f5d29f4abb75be38edfbbdeca1c"
+
+[[files]]
+file = "blueprints/Byzantine_2/military/warship/insulaeguard1.blueprint"
+hash = "5b8a1c68b84e73155a326cb2eeb050044c612c96e2be72066127515495d3cf80"
+
+[[files]]
+file = "blueprints/Byzantine_2/military/warship/insulaeguard2.blueprint"
+hash = "2c3aeecf5c758a26d1f6786fc6d99a7413317c211d75bd1016bb4746d0f22648"
+
+[[files]]
+file = "blueprints/Byzantine_2/military/warship/insulaeguard3.blueprint"
+hash = "f35ab4cfb9d30382ce579448145fa8b896d82bcb263c3c2af6f04f0eea5abd44"
+
+[[files]]
+file = "blueprints/Byzantine_2/military/warship/insulaeguard4.blueprint"
+hash = "298996cf1c7d1adb34fb46698bf862d1e606f77d1e88c20de45bbb148b97b133"
+
+[[files]]
+file = "blueprints/Byzantine_2/military/warship/insulaeguard5.blueprint"
+hash = "df399c96f1becd3cb1830d4545da5d55612ee1d16079c5370a1bed33b32c0d70"
+
+[[files]]
+file = "blueprints/Byzantine_2/mystic/ArenaAcademy1.blueprint"
+hash = "7b2ba70de40216af201cd6feaa75fd0466d6b50087f9cac11b148b000ca5bedb"
+
+[[files]]
+file = "blueprints/Byzantine_2/mystic/ArenaAcademy2.blueprint"
+hash = "646b128940e115be4bced80e8c8619c76c24f3bd231b709b3b5da219715be9a1"
+
+[[files]]
+file = "blueprints/Byzantine_2/mystic/ArenaAcademy3.blueprint"
+hash = "675a82393c549da78bae66b4140d3a15f9a282fa4d77009e0b3549bbe03d5208"
+
+[[files]]
+file = "blueprints/Byzantine_2/mystic/ArenaAcademy4.blueprint"
+hash = "df8cf4150dabb234c2b6af13723d299f73c2953d4496ade23b895b6a93538c97"
+
+[[files]]
+file = "blueprints/Byzantine_2/mystic/ArenaAcademy5.blueprint"
+hash = "f7f78425918c68f83551b7b84eba1dc75019ffe0b7f7ad961e73a4e0d69abdef"
+
+[[files]]
+file = "blueprints/Byzantine_2/mystic/altgraveyard1.blueprint"
+hash = "106ba9731939f35c16069e71d692d8f56f2f5b252c0e7a25474384c95287c298"
+
+[[files]]
+file = "blueprints/Byzantine_2/mystic/altgraveyard2.blueprint"
+hash = "d4769fded997bbfafd4aa57785768cb34b5cf3a42cdd30133315263aab08e39c"
+
+[[files]]
+file = "blueprints/Byzantine_2/mystic/altgraveyard3.blueprint"
+hash = "a89ea0be1369d3e17e96402c637adc94d53eccbaa98e3dcbeaa738f1e9c24d8b"
+
+[[files]]
+file = "blueprints/Byzantine_2/mystic/altgraveyard4.blueprint"
+hash = "65422eb7df1487ba8dfaba221a0fcaaf2126a69a23f13165160d7c46e2baef6b"
+
+[[files]]
+file = "blueprints/Byzantine_2/mystic/altgraveyard5.blueprint"
+hash = "5665daafa3af54c7b6bf3b7e49cd2103424d0c73485f55089cbcc5d7bfec6f38"
+
+[[files]]
+file = "blueprints/Byzantine_2/mystic/arena1.blueprint"
+hash = "58d1ec9b8f16715c630a1f13277584a529c0213520058a9eaba23e6d504da333"
+
+[[files]]
+file = "blueprints/Byzantine_2/mystic/arena2.blueprint"
+hash = "ec55ccf5694e589a45cf76127970a9ba71c17f9597c577c666affb502e609568"
+
+[[files]]
+file = "blueprints/Byzantine_2/mystic/arena3.blueprint"
+hash = "a43918644f6c69430a17e105732b89674d04bb545932e9fb1c31b262cf8a9751"
+
+[[files]]
+file = "blueprints/Byzantine_2/mystic/arena4.blueprint"
+hash = "880bbcf48d85f58b202866732a495c9e26d8f0e0b7925a96bdabb37a31b6d690"
+
+[[files]]
+file = "blueprints/Byzantine_2/mystic/arena5.blueprint"
+hash = "a6c411ded98c6f86ee63fc375d0352a26804d0cf20fc1bbd3b6a087a70d8d347"
+
+[[files]]
+file = "blueprints/Byzantine_2/mystic/avenuehellminer1.blueprint"
+hash = "63f7702b399e44399993eb8705ed81ffc9175a17bfc81622e529c82ecb72c945"
+
+[[files]]
+file = "blueprints/Byzantine_2/mystic/avenuehellminer2.blueprint"
+hash = "9c4f2a76f25e55b0d2ca77b4068ed6a1f07f926e9d986db8dd24ac8e8f3791f7"
+
+[[files]]
+file = "blueprints/Byzantine_2/mystic/avenuehellminer3.blueprint"
+hash = "f17cebbaa3939cf42c665ee1c788bb3849b3eccb0ebf043f77ba453443233735"
+
+[[files]]
+file = "blueprints/Byzantine_2/mystic/avenuehellminer4.blueprint"
+hash = "0c9c22077cd6cfd08df26a1c0fa7227ce4936983e6ff0c541e74b51ba4dcdcf3"
+
+[[files]]
+file = "blueprints/Byzantine_2/mystic/avenuehellminer5.blueprint"
+hash = "001bb2c9fe9b397c6a336d5b8980afb27cfb731d7a75f99e198da24424251e97"
+
+[[files]]
+file = "blueprints/Byzantine_2/mystic/cathedral.blueprint"
+hash = "b1ea13dfc1d5cc62eb807da0a1751871f1eea6f074b0d4ecb527c1d07b96964f"
+
+[[files]]
+file = "blueprints/Byzantine_2/mystic/deliveryman1.blueprint"
+hash = "0ec5e73b42084c460b531f21f44a379a8cf229c144b17765a9237f67f1844f34"
+
+[[files]]
+file = "blueprints/Byzantine_2/mystic/deliveryman2.blueprint"
+hash = "2efacc560f1511c033448a97ad4a12b5ac66b3af935b5045c29c3a928c0adfc0"
+
+[[files]]
+file = "blueprints/Byzantine_2/mystic/deliveryman3.blueprint"
+hash = "c43751bf61f56353a4930465d256365d101f1c3d49957293fd2043d5ccf39ba4"
+
+[[files]]
+file = "blueprints/Byzantine_2/mystic/deliveryman4.blueprint"
+hash = "0b8722a50124325fdd4ed46a479a65de339816026ee8da2354d5976e882f0a3b"
+
+[[files]]
+file = "blueprints/Byzantine_2/mystic/deliveryman5.blueprint"
+hash = "65828ba695bb361017baf7b612f6b77091d10ffa8b8254376e7548ae89c30157"
+
+[[files]]
+file = "blueprints/Byzantine_2/mystic/graveyard0.blueprint"
+hash = "199c1398a47b61846ce10eb244298342290dde0d6d80d981db50fb193878c7cf"
+
+[[files]]
+file = "blueprints/Byzantine_2/mystic/graveyard1.blueprint"
+hash = "8543cdf0d41fbe86c30e882644b5c18dca0ee1ed1fa4839c66853edc1e5cbe45"
+
+[[files]]
+file = "blueprints/Byzantine_2/mystic/graveyard2.blueprint"
+hash = "9e8d84128f0f7a084f038ef6f7378753250326d68b2bc33e4a360699201668ac"
+
+[[files]]
+file = "blueprints/Byzantine_2/mystic/graveyard3.blueprint"
+hash = "6aa79c8c1b4538cebe3a300e8afa811b37a10b0ee46af321e695aad6cc7d7076"
+
+[[files]]
+file = "blueprints/Byzantine_2/mystic/graveyard4.blueprint"
+hash = "3babd7f25fcaa59645280aefd8ebf8bdeacf71b7bf6c8ee2ede13486411a268f"
+
+[[files]]
+file = "blueprints/Byzantine_2/mystic/graveyard5.blueprint"
+hash = "e436e299e298efb8b5c1ede681b34f876e4ab613f9066f7f3fac03c9c5a56025"
+
+[[files]]
+file = "blueprints/Byzantine_2/mystic/icon.png"
+hash = "42cae5c61da749184d321015fef7efb1b7b9ce031d6a1687ce4c360037e2a95c"
+
+[[files]]
+file = "blueprints/Byzantine_2/mystic/icon_disabled.png"
+hash = "b869e73f2e95f0910989d974c87bace557d90665b40293a13ca047bc02ba4754"
+
+[[files]]
+file = "blueprints/Byzantine_2/mystic/nethermine1.blueprint"
+hash = "6cb07bd10863042a1ee67f41ca208cc4bf0d5f9fed5c28137ecc19cb06c9ba66"
+
+[[files]]
+file = "blueprints/Byzantine_2/mystic/nethermine2.blueprint"
+hash = "00c21eb88ea9da1b405256ecbcd0810ffc091bd7766784a6cf87fcaef82b6bf2"
+
+[[files]]
+file = "blueprints/Byzantine_2/mystic/nethermine3.blueprint"
+hash = "96550595856dc67fdd645352fc927c0644cf0f527908f40328736cef0c88b4e3"
+
+[[files]]
+file = "blueprints/Byzantine_2/mystic/nethermine4.blueprint"
+hash = "8fdba0c92e61cc155ad574244c8d8dfa7c67c0f0946b65262ff1ab6aa8f18b29"
+
+[[files]]
+file = "blueprints/Byzantine_2/mystic/nethermine5.blueprint"
+hash = "6c603fbba3802ecccaf3006156df3c36ab66036c2c3b2e9fe14b994d8fecbecb"
+
+[[files]]
+file = "blueprints/Byzantine_2/pack.json"
+hash = "37b2e19b3f6330eefab1655889c8dd91914defb26e334c29b0783456ce4ab460"
+
+[[files]]
+file = "blueprints/Byzantine_2/walls/field_structures/lookout.blueprint"
+hash = "6167301296958b31dd5da298678cc857749b355202fe091196bc41b99481c825"
+
+[[files]]
+file = "blueprints/Byzantine_2/walls/icon.png"
+hash = "a15b61d67b9e97dda2f3e5328bd451de200bd9374fa38c99151176d95ad81ac4"
+
+[[files]]
+file = "blueprints/Byzantine_2/walls/icon_disabled.png"
+hash = "a27bf6c83ae068346d4c668c3e579c6d83049b43653b1d089d1e2245ebda68be"
+
+[[files]]
+file = "blueprints/Byzantine_2/walls/palisades/diag.blueprint"
+hash = "cddcfa2d0d73f74c2202df78de1608bfb54d1eb612f74536719dfb675836094a"
+
+[[files]]
+file = "blueprints/Byzantine_2/walls/palisades/incline.blueprint"
+hash = "14ecb3baee891f0a18fb1a8c2bdc312da200063f5ab57d82d31af2358e5717cf"
+
+[[files]]
+file = "blueprints/Byzantine_2/walls/palisades/insideturn.blueprint"
+hash = "b6932cd70b2821c014ea315139f988cccd7656af8b60e96128d22c2ac6798d53"
+
+[[files]]
+file = "blueprints/Byzantine_2/walls/palisades/long.blueprint"
+hash = "41892a28f15504bf277bb585b3e7cc0e99f743e236d36b6a281ed16282681d06"
+
+[[files]]
+file = "blueprints/Byzantine_2/walls/palisades/outsideturn.blueprint"
+hash = "f5b71f825bd1be59e816577a4384603f648d99cb37b19847f2c827306f61dd86"
+
+[[files]]
+file = "blueprints/Byzantine_2/walls/palisades/short.blueprint"
+hash = "1fea7cf47f29061fb09ec81d7d1812dfec981d5fd1e715a98bad80ab9f1f4dc7"
+
+[[files]]
+file = "blueprints/Byzantine_2/walls/palisades/stair.blueprint"
+hash = "2deed42fb74c814d934c1f8fc1b07d79665f9f6a5f98f48cdb5331c605af6d0a"
+
+[[files]]
+file = "blueprints/Byzantine_2/walls/palisades/temp.blueprint"
+hash = "ec24cb8a48fd4828c31c6a6b8ee503560491886dbda14bf25cc9791c01caa121"
+
+[[files]]
+file = "blueprints/Byzantine_2/walls/palisades/tower.blueprint"
+hash = "954f48bcae66c7b176e1f93bfbc6b935d88585f9f1bf2b761ea9d7106b73bcd8"
+
+[[files]]
+file = "blueprints/Byzantine_2/walls/wall_main/footing_fill.blueprint"
+hash = "5b42521f99dbb3669bb7e38879a233f5777919da39da4899f7dee9b0c73a8430"
+
+[[files]]
+file = "blueprints/Byzantine_2/walls/wall_main/footing_stone.blueprint"
+hash = "d092f61735bd9a2e244cadbd178ae95b44ef3c43a9a4f4eede7e1acb86d28210"
+
+[[files]]
+file = "blueprints/Byzantine_2/walls/wall_main/gate1.blueprint"
+hash = "01443f0feb61f4b569e67347f1a2b35e0591e1172dd8a0787dee2bc9b835bb17"
+
+[[files]]
+file = "blueprints/Byzantine_2/walls/wall_main/gate2.blueprint"
+hash = "6490a497025bd380e1909c4450a7fe83bf96030a7c816f6481efffe034219cb5"
+
+[[files]]
+file = "blueprints/Byzantine_2/walls/wall_main/gate3.blueprint"
+hash = "4b1a8e745c2b9f6e009bd8ded77948b893350b6f7d7a371704ec35e850851d7b"
+
+[[files]]
+file = "blueprints/Byzantine_2/walls/wall_main/stair1.blueprint"
+hash = "9f30a139e314f81ff1c79f569e0007f94e3db003015bdd8048628e59545efb8a"
+
+[[files]]
+file = "blueprints/Byzantine_2/walls/wall_main/stair2.blueprint"
+hash = "d6c35d46fba8da14037ff8f60894b2b93f3775b4c7ba2e6a8ee51664e472be26"
+
+[[files]]
+file = "blueprints/Byzantine_2/walls/wall_main/stair3.blueprint"
+hash = "0dd3d9ab12df10f7cab9919ceb00a99d6620e6a217e85cef70f09b4ab6008db1"
+
+[[files]]
+file = "blueprints/Byzantine_2/walls/wall_main/twoup1.blueprint"
+hash = "8fbd1b31c09d8c51a57b39b22c1b7c87281fea0fe4a9059ab08fa19772dfb7f2"
+
+[[files]]
+file = "blueprints/Byzantine_2/walls/wall_main/twoup2.blueprint"
+hash = "5766423496f076b7cb805e713330530c9a929c134567479a8edc30a836202851"
+
+[[files]]
+file = "blueprints/Byzantine_2/walls/wall_main/twoup3.blueprint"
+hash = "d67e1cb1ff7aefa01a02b7d132842835385bdec505d24dd97f541fdfbe60dd3f"
+
+[[files]]
+file = "blueprints/Byzantine_2/walls/wall_main/wallmain1.blueprint"
+hash = "7c96e7f09ff7b75698e30feeea9174eb75f3b0d657df46eb7e2823eed90a1428"
+
+[[files]]
+file = "blueprints/Byzantine_2/walls/wall_main/wallmain2.blueprint"
+hash = "bc1c46151634a7091e020a837c1feb9eab5a50a10bdddd52dccc4def72acaac5"
+
+[[files]]
+file = "blueprints/Byzantine_2/walls/wall_main/wallmain3.blueprint"
+hash = "82f338e9038372445c99062e530581e6602a020e10064024522d1dc6d6f2a73d"
+
+[[files]]
+file = "blueprints/Byzantine_2/walls/wall_small/coastal1.blueprint"
+hash = "c8af6027f64734527d4a343e721b0d3b9023f94dbee2826d27232730873ee404"
+
+[[files]]
+file = "blueprints/Byzantine_2/walls/wall_small/coastal2.blueprint"
+hash = "7cb2d3f78adb337d90ae6607846003f0da57e2885948dc5f7b611ab1e182f43e"
+
+[[files]]
+file = "blueprints/Byzantine_2/walls/wall_small/coastal3.blueprint"
+hash = "85c47b777872d4db50faa187c42f52c7cfe475cb1f9c848eb4f9803fc03c3a0b"
+
+[[files]]
+file = "blueprints/Byzantine_2/walls/wall_small/diag1.blueprint"
+hash = "b48483e510a973f52c836ba14a9dd17668a726c9a1ed7384ac7642722b655c7c"
+
+[[files]]
+file = "blueprints/Byzantine_2/walls/wall_small/diag2.blueprint"
+hash = "9de942203ded85162d19678ce02e05e58545a9d699462796bd622bf9111a713b"
+
+[[files]]
+file = "blueprints/Byzantine_2/walls/wall_small/diag3.blueprint"
+hash = "370dbf8ac26983c3ee082299e627a6c19ed3384d16364bb3ea09e2cd986f65c0"
+
+[[files]]
+file = "blueprints/Byzantine_2/walls/wall_small/footing_fill.blueprint"
+hash = "5e36aae48a9863e913c3553cada028a3f94b45e190afd4e406245b3a920105d7"
+
+[[files]]
+file = "blueprints/Byzantine_2/walls/wall_small/footing_stone.blueprint"
+hash = "920a393f4e5c5dca099c38e0598b64f1fa080ec1c0fd6f2ff51584091e54cc25"
+
+[[files]]
+file = "blueprints/Byzantine_2/walls/wall_small/fourup1.blueprint"
+hash = "7b230117487f68360c1830a6232d361f6b1ec42a99da2598e08b6fb6f0d6c318"
+
+[[files]]
+file = "blueprints/Byzantine_2/walls/wall_small/fourup2.blueprint"
+hash = "83a1963b2f805f02136e4184ecad8ba639c98415cba248499069b06dadddb96a"
+
+[[files]]
+file = "blueprints/Byzantine_2/walls/wall_small/fourup3.blueprint"
+hash = "530a3a6108c12c3152516cd81eee83879a932f88ce1590380d8492436934b0ba"
+
+[[files]]
+file = "blueprints/Byzantine_2/walls/wall_small/gate1.blueprint"
+hash = "8f442199168bbd7ed197b7f945ce9e2bd8ff5f13cc5a8b96dd625d72bdf35000"
+
+[[files]]
+file = "blueprints/Byzantine_2/walls/wall_small/gate2.blueprint"
+hash = "1676d6cae080686fa68ea41d7f8d40410b24e8894a43fdf4e5bd9f8a49210388"
+
+[[files]]
+file = "blueprints/Byzantine_2/walls/wall_small/gate3.blueprint"
+hash = "e575dff94463270d342c4d6ba97523d835e1bb41fb915211339074ada34de48e"
+
+[[files]]
+file = "blueprints/Byzantine_2/walls/wall_small/insulaeguard0.blueprint"
+hash = "4baef2f03e180ec4c9bd6e328a9e98f1f6756262b6e3a61c67306d29d6ee246f"
+
+[[files]]
+file = "blueprints/Byzantine_2/walls/wall_small/oneup1.blueprint"
+hash = "bd71b4c445b79963e3bc0844ae67f6fd877df84075e4d45fe7e64539a313f346"
+
+[[files]]
+file = "blueprints/Byzantine_2/walls/wall_small/oneup2.blueprint"
+hash = "ed36de9dcc96a63008cbc50e225905d2aee819d9855a206bb6d3a374947f5e40"
+
+[[files]]
+file = "blueprints/Byzantine_2/walls/wall_small/oneup3.blueprint"
+hash = "d1ebbca688aec603fce7734eb6c2411f5e1b8badfe03d4a942f1fad341ebbc95"
+
+[[files]]
+file = "blueprints/Byzantine_2/walls/wall_small/sixup1.blueprint"
+hash = "fa1c106032017df20758cf889d142718defe33f83947d39a4dd2319f227c7dc3"
+
+[[files]]
+file = "blueprints/Byzantine_2/walls/wall_small/sixup2.blueprint"
+hash = "ec1f3091e868ebc1e33517431dc73e90df20ba2cad92f65bb97f46bf5b19284a"
+
+[[files]]
+file = "blueprints/Byzantine_2/walls/wall_small/sixup3.blueprint"
+hash = "e41bcaed092a898c57ae4d41ed99f63789b50c46af45246e8f9bae012abb58cc"
+
+[[files]]
+file = "blueprints/Byzantine_2/walls/wall_small/stair1.blueprint"
+hash = "af7e61788c791a0ae5e892d7cd5a07a08da4e21688bcf54535afff770e842df0"
+
+[[files]]
+file = "blueprints/Byzantine_2/walls/wall_small/stair2.blueprint"
+hash = "34557a39cc603d54913e9c0ed5b34330972b66fcd4d6c74e2bf81289d195b03a"
+
+[[files]]
+file = "blueprints/Byzantine_2/walls/wall_small/stair3.blueprint"
+hash = "f253cf30634ec957ef01d6f710efa3157e264ab7eee5f4b95af39d10a80034bb"
+
+[[files]]
+file = "blueprints/Byzantine_2/walls/wall_small/twoup1.blueprint"
+hash = "97dc4a659dde537f7bd1a1c773337e56a32600daa59a1b059200d536d94eba4e"
+
+[[files]]
+file = "blueprints/Byzantine_2/walls/wall_small/twoup2.blueprint"
+hash = "2bd1b8990f79491aaf60ae5470663fc0632c73b110bf98507018579f96e52cc6"
+
+[[files]]
+file = "blueprints/Byzantine_2/walls/wall_small/twoup3.blueprint"
+hash = "352582f88dabeb8c9899d30fe87ae0f7e17ae8731200af44dbd0b247b1b77bcb"
+
+[[files]]
+file = "blueprints/Byzantine_2/walls/wall_small/walladapter1.blueprint"
+hash = "833e3dfc4fc981b94456fef9b6e26e4a021aa0658b6d01ba7816862ef2e08a0d"
+
+[[files]]
+file = "blueprints/Byzantine_2/walls/wall_small/walladapter2.blueprint"
+hash = "4d44e04faa07ad543908d9451d3aceca30c14a1f40cb32611e9aa2d2d442efca"
+
+[[files]]
+file = "blueprints/Byzantine_2/walls/wall_small/walladapter3.blueprint"
+hash = "6f50021d509419c919682272d9e66e0e7988f50f5bd7008ec4de7f4d28e7ef48"
+
+[[files]]
+file = "blueprints/Byzantine_2/walls/wall_small/wallsmall1.blueprint"
+hash = "45016272a3c78fb6d8bfe9ce42c8481e11badbeca47db88e996fc2b12824205f"
+
+[[files]]
+file = "blueprints/Byzantine_2/walls/wall_small/wallsmall2.blueprint"
+hash = "e8898bfdbe91f452bbbeee6af18839aab7ed64dedbbc9ce49fa34aadc0f320fb"
+
+[[files]]
+file = "blueprints/Byzantine_2/walls/wall_small/wallsmall3.blueprint"
+hash = "f3fce6c7b1f2dd8c36db8d951652b6d8d25d9e7b41d3222a588ee4f8d557cd8c"
+
+[[files]]
 file = "complementary-unbound.pw.toml"
 hash = "fc9a279bdbe61e870a8b446c5c70b924799f9c17cdd04f6f7275801524165f2d"
 metafile = true
@@ -1395,7 +5247,7 @@ hash = "92f58d1a2160fc827a02b70f44c6425416911cd8a49a69bf98a076a6a4d94c7d"
 
 [[files]]
 file = "config/sound_physics_remastered/soundphysics.properties"
-hash = "2a39b23e57e95e7d026e469fd01ed954773cc6c19f4c1e3b8d1c3ccbaf6afaae"
+hash = "b5547f7dd7841562164a084ef5973617f8067cf57c63c17925dff0f7f8ab9485"
 
 [[files]]
 file = "config/starterkit/starterkit-old.txt"
@@ -1594,8 +5446,16 @@ file = "mods/AdvancedPeripherals-1.20.1-0.7.34b.jar"
 hash = "ee90277c9d5f3499cd9b1a30701b6630441b47a4b4122c6bd6df96336da1d472"
 
 [[files]]
+file = "mods/Bookshelf-Forge-1.20.1-20.1.6.jar"
+hash = "55864af2d3a6fd20a93b33d9fe9d6df807baaa12b62d5355136a8bc64846d214"
+
+[[files]]
 file = "mods/Clumps-forge-1.20.1-12.0.0.3.jar"
 hash = "575199cd54b3b52c2c887d58af048efa3d8296942f079ec183d0259fcb21c65a"
+
+[[files]]
+file = "mods/EnchantmentDescriptions-Forge-1.20.1-17.0.8.jar"
+hash = "825fcd24cfb9b3be7fbcadd1f3d5306e4ba7c263e973b8adf781124db414ce0b"
 
 [[files]]
 file = "mods/FarmersDelight-1.20.1-1.2.3.jar"
@@ -1622,6 +5482,10 @@ file = "mods/Jade-1.20.1-forge-11.6.3.jar"
 hash = "bf77e4c7902dbc61de42d065467928177d72378c5e7935f9a377bdb90a1919d5"
 
 [[files]]
+file = "mods/JustEnoughResources-1.20.1-1.4.0.238.jar"
+hash = "2c7f1abd56a2aafac4e3aa0f22bbbc6f781dd1dfbd6f6e8a8d6be41514a4cda0"
+
+[[files]]
 file = "mods/Log-Begone-Forge-1.20.1-1.0.8.jar"
 hash = "7ac59d4a83c7841f46d1182b626f7b0d229b9159b8ec1a63d7a7dd40fc817adc"
 
@@ -1640,6 +5504,10 @@ hash = "ab4759f18e5bf0ffc4152313994e32c93ee6f1fdb97418ce466e3f106a43db6a"
 [[files]]
 file = "mods/RegionsUnexploredForge-0.5.3+1.20.1.jar"
 hash = "0cd30cb4f9e8346ea2d09f6f0acd9af97429cb23897e4c893912e4cce28d3a15"
+
+[[files]]
+file = "mods/Searchables-forge-1.20.1-1.0.2.jar"
+hash = "dfab5b71552e8e702bb01360f5e8d1a6d714cf6881a30cb7072184a144c2b1e2"
 
 [[files]]
 file = "mods/Steam_Rails-1.5.3+forge-mc1.20.1.jar"
@@ -1682,6 +5550,14 @@ file = "mods/YungsExtras-1.20-Forge-4.0.3.jar"
 hash = "3def0d66debef6185df82f6b777ec382a59dc66da47c8f081e69cc059da1d98d"
 
 [[files]]
+file = "mods/adaptive_performance_tweaks_core_1.20.1-10.2.0.jar"
+hash = "fd2adfad0e03acd745586807115f8f492f2f33e22b9f021691f47ace6a07b14a"
+
+[[files]]
+file = "mods/adaptive_performance_tweaks_mods_1.20.1-10.0.0.jar"
+hash = "8c8488fc86929f42a19862cf7beeedd5ddd7cb54319f1e32390078af5c8751e0"
+
+[[files]]
 file = "mods/alternate_current-mc1.20-1.7.0.jar"
 hash = "9dfa5365ef170323612d6ada820b7cac12e05135f00f16d0f627488426f59565"
 
@@ -1700,6 +5576,10 @@ hash = "d171fdddd8dad64cba4c8c67cd2a0bdfc2697ff35e11f9fb666b7464e1e9468b"
 [[files]]
 file = "mods/backpacked-forge-1.20.1-2.2.5.jar"
 hash = "5a0bd1aca0ea280f09d06cce22475f4eeda0cf4fcdaee9662ecba435b44f0c5f"
+
+[[files]]
+file = "mods/balm-forge-1.20.1-7.1.4.jar"
+hash = "ddb5d0eb82e4fb6de3bc6e94e3d772e5f9b1f3770927194a1bf07a35c3baf988"
 
 [[files]]
 file = "mods/blockui-1.20.1-1.0.125-BETA.jar"
@@ -1728,6 +5608,14 @@ hash = "ebdde3d104757c50f0a052b7807c4b7464bf12217a1cc7155387f665fb578d22"
 [[files]]
 file = "mods/citadel-2.4.9-1.20.1.jar"
 hash = "36058eed1dad7b57598cb60a584165f57c80f1f5807043e2e3c4052e58ca83d3"
+
+[[files]]
+file = "mods/clientcrafting-1.20.1-1.7.jar"
+hash = "db2ba9d4e1bac588ecf4eeff07ef8cbfa79be7a84be341caa61c537f28d3474a"
+
+[[files]]
+file = "mods/clienttweaks-forge-1.20-11.1.0.jar"
+hash = "81196afb20496f00550db258c95ceeb9fb24611e08e53f6f5576e889af6119bb"
 
 [[files]]
 file = "mods/cloth-config-12.0.109-forge.jar"
@@ -1780,6 +5668,10 @@ hash = "132ec1dc9127511f044eea7a8ff3636373ed7dcb3696e4b25c4215bc85e8a25c"
 [[files]]
 file = "mods/exposure-1.20.1-1.0.0.jar"
 hash = "968e1ccb8223998379f5a6a01fb8d7a949b82b20ce00b72583143bab7864aa8c"
+
+[[files]]
+file = "mods/extremesoundmuffler-3.41-forge-1.20.1.jar"
+hash = "3981dfbff18f7f662ee532041faa134762bcd0967fa5b4208a6bd08ff04aa9b7"
 
 [[files]]
 file = "mods/fabric-api-0.90.7+1.10.1+1.20.1.jar"
@@ -1862,12 +5754,20 @@ file = "mods/mcw-bridges-2.1.1-mc1.20.1forge.jar"
 hash = "612975c8d83a12875a5bcfab8f5fb66185faea53d00c5a05f7b7879e4fcfdc52"
 
 [[files]]
+file = "mods/memorysettings-1.20.1-5.4.jar"
+hash = "71c9f057543e9b7d1c0a6f6e4d66b8b462eda6e588f8b937d428da2dc63dbf58"
+
+[[files]]
 file = "mods/minecolonies-1.20.1-1.1.327-BETA.jar"
 hash = "cb3f0ee4b1d79f92a9c5c9f1f52793d49207fac4c777678bcddd8ee9f76285fb"
 
 [[files]]
 file = "mods/missions-forge-0.2.jar"
 hash = "17e65606eb06e3af7e75344c12e5dacd00c055b27d12cf4396711136a1995a98"
+
+[[files]]
+file = "mods/modernfix-forge-5.9.3+mc1.20.1.jar"
+hash = "04abf7fcb74d6b84b7828a983219139e0f0870edd760a3ad1971d63583e69f36"
 
 [[files]]
 file = "mods/moonlight-1.20-2.8.66-forge.jar"
@@ -1892,6 +5792,10 @@ hash = "90d9965cb9efdbda29fdc5610be3914cf7008bf5c392ff34f7ab25f96a852691"
 [[files]]
 file = "mods/polymorph-forge-0.49.1+1.20.1.jar"
 hash = "3187abd8e1b73baea8f85dd89ea1fad3dfe51431df22dfb6fb51c74054ef2010"
+
+[[files]]
+file = "mods/refinedstorage-1.12.4.jar"
+hash = "d8ae3926c2121336efcd6956c43d91f21ce405b77ac7c7201c559d4c19f380d2"
 
 [[files]]
 file = "mods/repurposed_structures-7.1.11+1.20.1-forge.jar"
@@ -1936,10 +5840,6 @@ hash = "df9abe5a24a52b0b3e63716a6f603204e04632e11b3c22d2d7ccc099d328e9cb"
 [[files]]
 file = "mods/structurize-1.20.1-1.0.662-BETA.jar"
 hash = "fd5707191a9816892a658d77d9fe8f3fc8ba973deb127c78dafc9b9af9913b98"
-
-[[files]]
-file = "mods/stylecolonies-1.2.jar"
-hash = "689602ddc0d53f2a546d528dd4c9a2610a8e16f2cbe6b0ae191c5cb126255c68"
 
 [[files]]
 file = "mods/supplementaries-1.20-2.6.31.jar"
