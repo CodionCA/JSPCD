@@ -5622,6 +5622,10 @@ file = "mods/cloth-config-12.0.109-forge.jar"
 hash = "2d625ede005fbd5cf6b6aaf411494e49410ce6fcd15e9e947ba76436b5872544"
 
 [[files]]
+file = "mods/connectivity-1.20.1-4.8.jar"
+hash = "76b3847542f1e62c0d74a6ab761752e5c78145217b9b12ac240028184a961912"
+
+[[files]]
 file = "mods/create-1.20.1-0.5.1.f.jar"
 hash = "4d69c98e33aee3c98d76d11aab3d497ff0c82d367f1378b2dee19971932aa206"
 
