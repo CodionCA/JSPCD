@@ -5630,10 +5630,6 @@ file = "mods/cloth-config-12.0.109-forge.jar"
 hash = "2d625ede005fbd5cf6b6aaf411494e49410ce6fcd15e9e947ba76436b5872544"
 
 [[files]]
-file = "mods/connectivity-1.20.1-4.6.jar"
-hash = "1649dd2e8b65132ee25d24134280d48b68042d3d520df5cf09f4ba753467c013"
-
-[[files]]
 file = "mods/connectivity-1.20.1-4.8.jar"
 hash = "76b3847542f1e62c0d74a6ab761752e5c78145217b9b12ac240028184a961912"
 
