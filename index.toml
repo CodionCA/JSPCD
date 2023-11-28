@@ -5438,16 +5438,8 @@ file = "fancymenu_data/last_world.fmdata"
 hash = "5318282dbd0e8c6fbfd1ca64ed19d100db6ef262dfae39fc1d7963e50f2230f3"
 
 [[files]]
-file = "mods/AdvancedPeripherals-1.20.1-0.7.35b - Copy.jar"
-hash = "b191bb214929f94b03c29ffbb80d9b03a4803385e8697a2bcdbadcb564080be0"
-
-[[files]]
 file = "mods/AdvancedPeripherals-1.20.1-0.7.35b.jar"
 hash = "b191bb214929f94b03c29ffbb80d9b03a4803385e8697a2bcdbadcb564080be0"
-
-[[files]]
-file = "mods/AmbientEnvironment-forge-1.20.1-11.0.0.1 - Copy.jar"
-hash = "2c69c96cb11179ffd6de8e365f6dc0244f3ad2c9d7a4be82cc302170c0c47b02"
 
 [[files]]
 file = "mods/AmbientEnvironment-forge-1.20.1-11.0.0.1.jar"
@@ -5526,10 +5518,6 @@ metafile = true
 file = "mods/bookshelf.pw.toml"
 hash = "a8beef77c7ca4f31b9b85f4f123f2f461814b249551720b4f75c197e2aca68fc"
 metafile = true
-
-[[files]]
-file = "mods/caelus-forge-3.1.0+1.20 - Copy.jar"
-hash = "3410966d93cd8f31bf4b48ea838f065f25c3f17c745a06fbc2a6cd0a89d4f785"
 
 [[files]]
 file = "mods/caelus-forge-3.1.0+1.20.jar"
@@ -5730,10 +5718,6 @@ hash = "31ae709ead04455fab16615162995f15bb896e7e51250e548924c30ff7d63d0e"
 metafile = true
 
 [[files]]
-file = "mods/geckolib-forge-1.20.1-4.2.4 - Copy.jar"
-hash = "4157e25a3002d1afe49331a07c3f402551e15f146b484873ed5f815b30134351"
-
-[[files]]
 file = "mods/geckolib-forge-1.20.1-4.2.4.jar"
 hash = "4157e25a3002d1afe49331a07c3f402551e15f146b484873ed5f815b30134351"
 
@@ -5756,10 +5740,6 @@ metafile = true
 file = "mods/handcrafted.pw.toml"
 hash = "fd8a16a5802d4f48130060357963caaf7e450afe047675f16d32ef2714d00159"
 metafile = true
-
-[[files]]
-file = "mods/iceandfire-2.1.13-1.20.1+build.2.1.13-alpha-7 - Copy.jar"
-hash = "a367ee55bc8c2b743815efab78f775dc845e614a2875f6f6a3b1979e7acf1369"
 
 [[files]]
 file = "mods/iceandfire-2.1.13-1.20.1+build.2.1.13-alpha-7.jar"
@@ -5959,10 +5939,6 @@ metafile = true
 file = "mods/smooth-chunk-save.pw.toml"
 hash = "590bad572f7a77f8ecc3b6cf7a6c7288c92c0d3af49aa1f5039b3584b1e99401"
 metafile = true
-
-[[files]]
-file = "mods/soundphysics-forge-1.20.1-1.2.1 - Copy.jar"
-hash = "3216ba02b5c3e446d99fdde913842ef6a7d47399b9626e20f21ad70ac31c34b8"
 
 [[files]]
 file = "mods/soundphysics-forge-1.20.1-1.2.1.jar"
