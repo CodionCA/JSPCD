@@ -5886,6 +5886,10 @@ hash = "4f8fa2d8bba834bac3240024294ff9f2881fe20e11d775a93497dec5d25be571"
 metafile = true
 
 [[files]]
+file = "mods/refinedstorageaddons-0.10.0.jar"
+hash = "fd6c6822552cca0f6f14e21d0e8d374124ed03e98c5715a589d3824f04341fbb"
+
+[[files]]
 file = "mods/regions-unexplored.pw.toml"
 hash = "b9724c9e15c2d8c108e4a5fd765e56a9b1b3deaddea44f6a733496e1d4f91b7c"
 metafile = true
