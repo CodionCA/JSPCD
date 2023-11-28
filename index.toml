@@ -5454,6 +5454,10 @@ file = "mods/AmbientEnvironment-forge-1.20.1-11.0.0.1.jar"
 hash = "2c69c96cb11179ffd6de8e365f6dc0244f3ad2c9d7a4be82cc302170c0c47b02"
 
 [[files]]
+file = "mods/PacketFixer-forge-1.2.1-1.20.1.jar"
+hash = "c077c7964ad0228a89dc1847f3702a7bba668afbf8466c92947c6bff2d8e81fc"
+
+[[files]]
 file = "mods/adaptive-performance-tweaks-core.pw.toml"
 hash = "76488370b9f6649b4b597a5206066744785e3875e13fbca3586f3ed964d8a0fc"
 metafile = true
@@ -5657,9 +5661,8 @@ hash = "047c2676a37cbc1e8ba2eef7e590b233a59ba97a04cbd9faf85e6b3412d4a51b"
 metafile = true
 
 [[files]]
-file = "mods/entityculling.pw.toml"
-hash = "5b5868d9da5c3d76ea1edf2fd19e7b1612e599a625f8e6ef6bf56859df0783b3"
-metafile = true
+file = "mods/entityculling-forge-1.6.2-mc1.20.1.jar"
+hash = "132ec1dc9127511f044eea7a8ff3636373ed7dcb3696e4b25c4215bc85e8a25c"
 
 [[files]]
 file = "mods/every-compat.pw.toml"
@@ -5870,11 +5873,6 @@ metafile = true
 [[files]]
 file = "mods/oculus.pw.toml"
 hash = "735a4682ce5f732ea64ec5e8d62c9befa234fb55322ce6a6a4dcefc5dbf5a129"
-metafile = true
-
-[[files]]
-file = "mods/packet-fixer.pw.toml"
-hash = "5f88c0b9164f9592bd8e7e8ed45a35e3ac02c2184d569eed6dff4a4c48809790"
 metafile = true
 
 [[files]]
