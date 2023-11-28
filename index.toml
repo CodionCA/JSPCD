@@ -5442,8 +5442,16 @@ file = "mods/AI-Improvements-1.20-0.5.2.jar"
 hash = "575a4a8e00f982c064d54bb3e73e5cda2d14414de054a471a3daf3f58bdf560a"
 
 [[files]]
-file = "mods/AdvancedPeripherals-1.20.1-0.7.34b.jar"
-hash = "ee90277c9d5f3499cd9b1a30701b6630441b47a4b4122c6bd6df96336da1d472"
+file = "mods/AdvancedPeripherals-1.20.1-0.7.35b.jar"
+hash = "b191bb214929f94b03c29ffbb80d9b03a4803385e8697a2bcdbadcb564080be0"
+
+[[files]]
+file = "mods/AmbientEnvironment-forge-1.20.1-11.0.0.1.jar"
+hash = "2c69c96cb11179ffd6de8e365f6dc0244f3ad2c9d7a4be82cc302170c0c47b02"
+
+[[files]]
+file = "mods/AmbientSounds_FORGE_v5.2.22_mc1.20.1.jar"
+hash = "9a252d256505ecc42d97c4f405a5b282f9adaa9bb97acb9be0c180e6beb59235"
 
 [[files]]
 file = "mods/BetterBurning-Forge-1.20.1-9.0.2.jar"
@@ -5460,6 +5468,10 @@ hash = "55864af2d3a6fd20a93b33d9fe9d6df807baaa12b62d5355136a8bc64846d214"
 [[files]]
 file = "mods/Clumps-forge-1.20.1-12.0.0.3.jar"
 hash = "575199cd54b3b52c2c887d58af048efa3d8296942f079ec183d0259fcb21c65a"
+
+[[files]]
+file = "mods/CreativeCore_FORGE_v2.11.9_mc1.20.1.jar"
+hash = "80f26592a0c1a8c8e8de2fd4ef8eb4847c33b968d640a6b6c925d62aebd0bd2e"
 
 [[files]]
 file = "mods/EnchantmentDescriptions-Forge-1.20.1-17.0.8.jar"
@@ -5494,6 +5506,10 @@ file = "mods/JustEnoughResources-1.20.1-1.4.0.238.jar"
 hash = "2c7f1abd56a2aafac4e3aa0f22bbbc6f781dd1dfbd6f6e8a8d6be41514a4cda0"
 
 [[files]]
+file = "mods/LeavesBeGone-v8.0.0-1.20.1-Forge.jar"
+hash = "e621c22e7107dada09298dffc04dc56144ac08e6e41e8b41c200dc939c662ac5"
+
+[[files]]
 file = "mods/Log-Begone-Forge-1.20.1-1.0.8.jar"
 hash = "7ac59d4a83c7841f46d1182b626f7b0d229b9159b8ec1a63d7a7dd40fc817adc"
 
@@ -5508,6 +5524,10 @@ hash = "c077c7964ad0228a89dc1847f3702a7bba668afbf8466c92947c6bff2d8e81fc"
 [[files]]
 file = "mods/Ping-Wheel-1.7.0-forge-1.20.1.jar"
 hash = "ab4759f18e5bf0ffc4152313994e32c93ee6f1fdb97418ce466e3f106a43db6a"
+
+[[files]]
+file = "mods/PuzzlesLib-v8.1.9-1.20.1-Forge.jar"
+hash = "e286584d9e5cc70edaf370284c37b81c94584bbf7174013b26d36a9c31227bec"
 
 [[files]]
 file = "mods/RegionsUnexploredForge-0.5.3+1.20.1.jar"
@@ -5530,8 +5550,8 @@ file = "mods/WorldPreGenerator-1.20.1-4.0.0.jar"
 hash = "a924be0f9f3c8523bbf7fdfac0367b9d7302af6755ecc17f4d6cc9e51a006d0c"
 
 [[files]]
-file = "mods/XaerosWorldMap_1.36.0_Forge_1.20.jar"
-hash = "a6011143e7d41b5e1445b8eeefda859094a379ff40eeaa6362a25bb23c591a1c"
+file = "mods/XaerosWorldMap_1.37.0_Forge_1.20.jar"
+hash = "61fe6d7b7821611ad6faa262183d4254b9bda1f1cda74d7940f86fb0fdb47e65"
 
 [[files]]
 file = "mods/YungsApi-1.20-Forge-4.0.2.jar"
@@ -5630,6 +5650,14 @@ file = "mods/cloth-config-12.0.109-forge.jar"
 hash = "2d625ede005fbd5cf6b6aaf411494e49410ce6fcd15e9e947ba76436b5872544"
 
 [[files]]
+file = "mods/collective-1.20.1-7.9.jar"
+hash = "cc2849c86feb97e0f44e92da75fb18d1cdaaaa4c0defad9c76a18a9d62f3a4dd"
+
+[[files]]
+file = "mods/comforts-forge-6.3.4+1.20.1.jar"
+hash = "3f2b7f2045fa6ea706f6ad986311260752e601f6a9651b5b6f36b3426c2591f1"
+
+[[files]]
 file = "mods/connectivity-1.20.1-4.8.jar"
 hash = "76b3847542f1e62c0d74a6ab761752e5c78145217b9b12ac240028184a961912"
 
@@ -5650,12 +5678,16 @@ file = "mods/cupboard-1.20.1-2.1.jar"
 hash = "e19d92b01fd1195924a6b29efc22cd13c8bd3cef2964c64bca61e05a4d00065e"
 
 [[files]]
-file = "mods/curios-forge-5.4.2+1.20.1.jar"
-hash = "1780cf50bc3d946027c428ad6dfee2383da7235eb26fe6feea37e7c960e66b92"
+file = "mods/curios-forge-5.4.3+1.20.1.jar"
+hash = "963498d0282b01d98fc8615c03cfaa3212fe1874fbd698b8ee5d8a18559abfdf"
 
 [[files]]
 file = "mods/domum_ornamentum-1.20-1.0.147-BETA-universal.jar"
 hash = "60354d2f4efe531dc0e055ebe14763f766225571b1a814598e33384602fdcb22"
+
+[[files]]
+file = "mods/doubledoors-1.20.1-5.1.jar"
+hash = "fabbfc1e279fc76a7992eb7a16b6578b123bd3c79bd4faac4ded36b0aa4dc4f4"
 
 [[files]]
 file = "mods/dynview-1.20.1-3.9.jar"
@@ -5674,8 +5706,16 @@ file = "mods/emi-1.0.24+1.20.1+forge.jar"
 hash = "baf5b582103f711b86ee43211bcf238b3fc494c52dc6c98215d9d42c59958f58"
 
 [[files]]
+file = "mods/emiffect-forge-1.1.2+mc1.20.1.jar"
+hash = "59934a6da6c6de4a083cbcc70e199c9a5e8cbb33a4ed613114fe4873979ac67a"
+
+[[files]]
 file = "mods/entityculling-forge-1.6.2-mc1.20.1.jar"
 hash = "132ec1dc9127511f044eea7a8ff3636373ed7dcb3696e4b25c4215bc85e8a25c"
+
+[[files]]
+file = "mods/everycomp-1.20-2.6.18.jar"
+hash = "f00b3773477e8d3edec88395d8228f2c9d91aa83c18070828dd48e9004a51c39"
 
 [[files]]
 file = "mods/exposure-1.20.1-1.0.0.jar"
@@ -5686,8 +5726,8 @@ file = "mods/extremesoundmuffler-3.41-forge-1.20.1.jar"
 hash = "3981dfbff18f7f662ee532041faa134762bcd0967fa5b4208a6bd08ff04aa9b7"
 
 [[files]]
-file = "mods/fabric-api-0.90.7+1.10.1+1.20.1.jar"
-hash = "86c9b1edde0b9c2b1f627ec8e400255967bd99ab7ac8192544fc07c34a249ccb"
+file = "mods/fabric-api-0.90.7+1.10.2+1.20.1.jar"
+hash = "8c400784c7a010f6cbfb64fbadfe166e0a4fbdff53f7e13748070ae716bde315"
 
 [[files]]
 file = "mods/fancymenu_forge_2.14.9-3_MC_1.20.1.jar"
@@ -5726,8 +5766,8 @@ file = "mods/gottagofast-1.20.1-2.0.1.jar"
 hash = "1ec91d63658ecf3f7edf29690f4b4aa191aea7f96eeb3a0cecff212305f372f1"
 
 [[files]]
-file = "mods/gpumemleakfix-1.20.1-1.6.jar"
-hash = "da948415b13be24c4af78f4537da8bac32f25628228717749d54461cd1766b9c"
+file = "mods/gpumemleakfix-1.20.1-1.8.jar"
+hash = "a7019442f1b07b1a4a875fe404d04d162905cc7fd42e0b3c843aefc7b39efc46"
 
 [[files]]
 file = "mods/handcrafted-forge-1.20.1-3.0.5.jar"
@@ -5746,8 +5786,8 @@ file = "mods/inventorysorter-1.20.1-23.0.1.jar"
 hash = "0945acae4536823bee289cf4f09879d92f9ff776ad7961a409356feb9c79b2e2"
 
 [[files]]
-file = "mods/irons_spellbooks-1.20.1-2.0.2.jar"
-hash = "98763b37a1396509d45df9311b09beb709db6fc01c99880f28490aa7450edfca"
+file = "mods/irons_spellbooks-1.20.1-2.1.0.jar"
+hash = "68a4c959250e2d94bfca24e88ee3b9dbb3904b40ea53567a9a176e9aaa772699"
 
 [[files]]
 file = "mods/jei-1.20.1-forge-15.2.0.27.jar"
@@ -5778,8 +5818,8 @@ file = "mods/memorysettings-1.20.1-5.4.jar"
 hash = "71c9f057543e9b7d1c0a6f6e4d66b8b462eda6e588f8b937d428da2dc63dbf58"
 
 [[files]]
-file = "mods/minecolonies-1.20.1-1.1.327-BETA.jar"
-hash = "cb3f0ee4b1d79f92a9c5c9f1f52793d49207fac4c777678bcddd8ee9f76285fb"
+file = "mods/minecolonies-1.20.1-1.1.328-BETA.jar"
+hash = "5dc5dfd0e627421df5954abfcd74b1f6280eac2d2b8a7a8211b1c5cfb5c92407"
 
 [[files]]
 file = "mods/missions-forge-0.2.jar"
@@ -5822,8 +5862,12 @@ file = "mods/repurposed_structures-7.1.11+1.20.1-forge.jar"
 hash = "d77da2d274d2164fc8062e442c7b94a3fadbd09d269b47d6c07753df2ac9936d"
 
 [[files]]
-file = "mods/resourcefullib-forge-1.20.1-2.1.16.jar"
-hash = "d24b408465b442c0090fd881eb6138b74df37c964d905e6ecf56012ba1f69e13"
+file = "mods/resourcefullib-forge-1.20.1-2.1.18.jar"
+hash = "d155b7f0cde992ded280b87cb948f98a9764be655953255d5bae5b646af78c36"
+
+[[files]]
+file = "mods/rubidium-extra-0.5.3.1+mc1.20.1-build.110.jar"
+hash = "6932ab72223ce7dc905b88393ae4cc0909aa3ea83819add408f94321ad078aae"
 
 [[files]]
 file = "mods/saturn-mc1.20.1-0.0.7.jar"
@@ -5854,8 +5898,8 @@ file = "mods/starlight-1.1.2+forge.1cda73c.jar"
 hash = "e90763c86d362c7cb427dbb70e89985c11a882fdd69ae7d04ac2e23a106eb500"
 
 [[files]]
-file = "mods/structure_gel-1.20.1-2.15.0.jar"
-hash = "df9abe5a24a52b0b3e63716a6f603204e04632e11b3c22d2d7ccc099d328e9cb"
+file = "mods/structure_gel-1.20.1-2.15.1.jar"
+hash = "c997d8ffb48802889ee32562ed92757b87673efb55c0dac554cac322add83b6e"
 
 [[files]]
 file = "mods/structurize-1.20.1-1.0.662-BETA.jar"
@@ -5870,8 +5914,8 @@ file = "mods/vmp-forge-mc1.20.1-0.2.0+beta.7.101-all.jar"
 hash = "83989e3e2188d520ca71083c0840d8d6c3a89d35f79232f98bc476c113505ca3"
 
 [[files]]
-file = "mods/voicechat-forge-1.20.1-2.4.28.jar"
-hash = "30c1fe61c4cfca55c7602a93fe35aa173ce7fd7c190cbb186fa7f337847b4cbe"
+file = "mods/voicechat-forge-1.20.1-2.4.29.jar"
+hash = "5fee8d41720c9f1b31f57c5b5ec32dee0f34e8f0fd7c145326c135fd284d717e"
 
 [[files]]
 file = "mods/xptome-1.20.1-2.2.jar"
