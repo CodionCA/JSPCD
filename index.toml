@@ -4491,7 +4491,7 @@ hash = "3cb918be192a7a0d3d61fce8ceba4ed9dce2f951182d83882fe8ec70adc4d09c"
 
 [[files]]
 file = "config/fancymenu/config.txt"
-hash = "4627f4330bcfab00baf8fac465767057c7c87d1032eab5be39ba8934f6ade455"
+hash = "8c8fe95da027e8d24c41ebcc1a3f6b6e511c793e0aca6990ba90d59f4a896fdc"
 
 [[files]]
 file = "config/fancymenu/customizablemenus.txt"
@@ -5450,10 +5450,6 @@ file = "mods/AmbientEnvironment-forge-1.20.1-11.0.0.1.jar"
 hash = "2c69c96cb11179ffd6de8e365f6dc0244f3ad2c9d7a4be82cc302170c0c47b02"
 
 [[files]]
-file = "mods/AmbientSounds_FORGE_v5.2.22_mc1.20.1.jar"
-hash = "9a252d256505ecc42d97c4f405a5b282f9adaa9bb97acb9be0c180e6beb59235"
-
-[[files]]
 file = "mods/BetterBurning-Forge-1.20.1-9.0.2.jar"
 hash = "b11f58e21ecb8cda643ed66ba60c1bab32a37d6a8a11c4b0160cb02022115211"
 
@@ -5468,10 +5464,6 @@ hash = "55864af2d3a6fd20a93b33d9fe9d6df807baaa12b62d5355136a8bc64846d214"
 [[files]]
 file = "mods/Clumps-forge-1.20.1-12.0.0.3.jar"
 hash = "575199cd54b3b52c2c887d58af048efa3d8296942f079ec183d0259fcb21c65a"
-
-[[files]]
-file = "mods/CreativeCore_FORGE_v2.11.9_mc1.20.1.jar"
-hash = "80f26592a0c1a8c8e8de2fd4ef8eb4847c33b968d640a6b6c925d62aebd0bd2e"
 
 [[files]]
 file = "mods/EnchantmentDescriptions-Forge-1.20.1-17.0.8.jar"
