@@ -25,7 +25,7 @@ B:showcustomizationbuttons = 'false';
 B:allowgameintroskip = 'true';
 B:showanimationloadingstatus = 'true';
 S:gameintroanimation = '';
-B:preloadanimations = 'false';
+B:preloadanimations = 'true';
 S:customgameintroskiptext = '';
 
 
