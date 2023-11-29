@@ -5498,6 +5498,10 @@ file = "mods/ToolBelt-1.20-1.20.0.jar"
 hash = "4169948f30bc3961f347e08d9b64f19fd6c5fded1c93eef06d69142ac6527ae2"
 
 [[files]]
+file = "mods/YungsBetterEndIsland-1.20-Forge-2.0.4.jar"
+hash = "ff035a7425b8add628cbd6941674cdf4480d6ce59906005fb9cd548757a51e9f"
+
+[[files]]
 file = "mods/adaptive-performance-tweaks-core.pw.toml"
 hash = "76488370b9f6649b4b597a5206066744785e3875e13fbca3586f3ed964d8a0fc"
 metafile = true
@@ -5545,6 +5549,10 @@ metafile = true
 [[files]]
 file = "mods/bendy-lib-forge-4.0.0.jar"
 hash = "dd4af8f403fc9b2f1250144c4b6cb89ea46114be50e6fa00a6c9162cfc870b2b"
+
+[[files]]
+file = "mods/better-bosses-0.2.2.jar"
+hash = "22b7b8e3db6aba6049609f1a0824703690ca7ad1952df7065e351bf2aabf5df4"
 
 [[files]]
 file = "mods/better-burning.pw.toml"
@@ -5691,10 +5699,6 @@ metafile = true
 file = "mods/ecologics.pw.toml"
 hash = "e58257e27b7fce3399b38ca94a953728879d288757957521975ecc5044218fe0"
 metafile = true
-
-[[files]]
-file = "mods/edf-remastered-4.3.jar"
-hash = "1e216ce90e49e283e133daee2fb59a09cb3a93a515926c2215778f833b2da687"
 
 [[files]]
 file = "mods/embeddium.pw.toml"
