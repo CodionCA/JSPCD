@@ -5584,6 +5584,10 @@ hash = "6aafc2bb9101fc3e3548af4677a482eb5f6f85040394230911bc8fa0c46f37a9"
 metafile = true
 
 [[files]]
+file = "mods/cosmeticarmorreworked-1.20.1-v1a.jar"
+hash = "c790e8671625b05ec0aa19272e0ea74ea95619f953e3c6f39a6736af0d386804"
+
+[[files]]
 file = "mods/create-steam-n-rails.pw.toml"
 hash = "f391d8786e495abf68c3ca8f8aec546c6a66b13a170e1b0378b95dfa3fba1f9d"
 metafile = true
