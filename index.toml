@@ -4454,6 +4454,14 @@ file = "config/embeddium-options.json"
 hash = "971377be330405b5950f878070f62150cf71463ecccfd0419bda98513cd3b19d"
 
 [[files]]
+file = "config/emotecraft.json"
+hash = "6ae72f3f8585c872719f503e45de5114935f6dfb28ea13dec836955e7464b0a7"
+
+[[files]]
+file = "config/emotecraft_emote_map.json"
+hash = "0ce5a209870e0673c14f68d4581de2cefc67a3c37aa7071c943b711a69835775"
+
+[[files]]
 file = "config/enchdesc.json"
 hash = "31c1f5099f0deb10946338897737b96384d681034367adef94bb380211fe91f3"
 
@@ -5661,6 +5669,10 @@ hash = "9f0570c6631ffac8da59951ba93a55724aaf1ac644db68a3376abb99a0c360f8"
 metafile = true
 
 [[files]]
+file = "mods/defaultoptions-forge-1.20-18.0.1.jar"
+hash = "788a310efd720d515622e6724b230db5250ad816cba54b6d48adf37c50aab8a1"
+
+[[files]]
 file = "mods/domum-ornamentum.pw.toml"
 hash = "d616c26d95b6e468c5b1b6be91b7cb5537b8039d270395abaca3675aa03f97f7"
 metafile = true
@@ -6095,6 +6107,7 @@ metafile = true
 [[files]]
 file = "options.txt"
 hash = "311cd0ff158ffc8aaf5bb2b54c521386e6fa0ec3fea503bd2ca0f0c67b118e64"
+preserve = true
 
 [[files]]
 file = "resourcepacks/minecraft_title.png"
