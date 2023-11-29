@@ -4499,7 +4499,7 @@ hash = "290bcc08dbac1bd350e67604dcdfcc88efc097a723a4afaf96aa2fbe4f1e9a32"
 
 [[files]]
 file = "config/fancymenu/customization/jscpd.txt"
-hash = "f319c1c7b24f14947f4d9dffcb10e921e35d2c6f497e058b11f01c8bb459c82d"
+hash = "77359fb89b04d436df6dd53ad22854dcf5faf4cdd60e50f601e219d5a19c65e9"
 
 [[files]]
 file = "config/fancymenu/customization/jspcd.txt"
@@ -5446,8 +5446,16 @@ file = "mods/AmbientEnvironment-forge-1.20.1-11.0.0.1.jar"
 hash = "2c69c96cb11179ffd6de8e365f6dc0244f3ad2c9d7a4be82cc302170c0c47b02"
 
 [[files]]
+file = "mods/NoElytrasMod-1.20-1.20.1-1.0.jar"
+hash = "bd06ef5995f815dde288110b4de32475cf24a377927cf8992250bf9af7b3bd19"
+
+[[files]]
 file = "mods/PacketFixer-forge-1.2.1-1.20.1.jar"
 hash = "c077c7964ad0228a89dc1847f3702a7bba668afbf8466c92947c6bff2d8e81fc"
+
+[[files]]
+file = "mods/ToolBelt-1.20-1.20.0.jar"
+hash = "4169948f30bc3961f347e08d9b64f19fd6c5fded1c93eef06d69142ac6527ae2"
 
 [[files]]
 file = "mods/adaptive-performance-tweaks-core.pw.toml"
@@ -5596,6 +5604,10 @@ metafile = true
 file = "mods/create.pw.toml"
 hash = "6ecc31d75d379730df8fe950438b4ca26ed1daa8612406374552665f9222f9ea"
 metafile = true
+
+[[files]]
+file = "mods/create_trains_on_trains-1.0.0.jar"
+hash = "2213e9c7c64ff4c9fc5075bf6cd8928a0009482f56a9ad291c5a0626cc0300bc"
 
 [[files]]
 file = "mods/createaddition.pw.toml"
