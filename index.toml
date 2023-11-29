@@ -4419,7 +4419,7 @@ hash = "9424ceb580ec8f3f074ebcc0618bfceebb62bb44d64750c7df5964fc7713964c"
 
 [[files]]
 file = "config/defaultoptions/options.txt"
-hash = "4bb960e7f6a81f679caaf4c1cb0470e38539526fc5a6f196b130cb635d911a34"
+hash = "e72bd195774d788326a7b23305de36b2faee8cee39e9b2173aa2c5c4f7c17a1e"
 
 [[files]]
 file = "config/does_potato_tick-common.toml"
