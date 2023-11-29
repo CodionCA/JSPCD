@@ -5709,10 +5709,6 @@ hash = "047c2676a37cbc1e8ba2eef7e590b233a59ba97a04cbd9faf85e6b3412d4a51b"
 metafile = true
 
 [[files]]
-file = "mods/enlightened-end-1.19.2-v24.jar"
-hash = "3f9521e0d61ceac64cb795b6e6734aff16fce77cb1903759beeb630606c2deec"
-
-[[files]]
 file = "mods/entityculling-forge-1.6.2-mc1.20.1.jar"
 hash = "132ec1dc9127511f044eea7a8ff3636373ed7dcb3696e4b25c4215bc85e8a25c"
 
