@@ -4507,7 +4507,7 @@ hash = "aabd85b5b2a25b4dd89eeef0f7aec8d6aafc25d738843deca208ba9f1679d0e3"
 
 [[files]]
 file = "config/fancymenu/customizablemenus.txt"
-hash = "c08901a1dedc7b97d817c4fccaebe582817d74c6aa6645637e7666c6477fc87f"
+hash = "2300da17f7b3694b57826a807ac5672476a9377c0f75db8c957686a5aa3ee830"
 
 [[files]]
 file = "config/fancymenu/customization/emi.txt"
@@ -4515,7 +4515,7 @@ hash = "ff3891a0ae97a36420ff61c941d8bbea9b80cf17376a1b306273bdb542888d70"
 
 [[files]]
 file = "config/fancymenu/customization/jscpd.txt"
-hash = "61ac4249a4ec8e7aea46528f41f6d5bd57e0b82a8d8496b5f031b4ff1590bdfa"
+hash = "6e3e2fb6cfa546ee632f7e81d6647450ab52e4f928cb9e163e7c2ea7d58c881c"
 
 [[files]]
 file = "config/fancymenu/customization/jspcd.txt"
@@ -5506,6 +5506,14 @@ file = "mods/AmbientEnvironment-forge-1.20.1-11.0.0.1.jar"
 hash = "2c69c96cb11179ffd6de8e365f6dc0244f3ad2c9d7a4be82cc302170c0c47b02"
 
 [[files]]
+file = "mods/Connector-1.0.0-beta.27+1.20.1.jar"
+hash = "28a3a438f538ad63f7961c8fc499cb83f43e7d8ae5c19fbe6ea3ec1d44f87e35"
+
+[[files]]
+file = "mods/ConnectorExtras-1.7.0+1.20.1.jar"
+hash = "025bc8e114e015a1371f8cb76835b8aef18c5acafcc29985df574c9fb6e50090"
+
+[[files]]
 file = "mods/NoElytrasMod-1.20-1.20.1-1.0.jar"
 hash = "bd06ef5995f815dde288110b4de32475cf24a377927cf8992250bf9af7b3bd19"
 
@@ -5548,6 +5556,10 @@ hash = "e5a5538316757724c7ec1d4ed699cf38deb4737110e9f0318a1d2dbd71e3ea66"
 file = "mods/alternate-current.pw.toml"
 hash = "2362e168d550f0a3a3bea1715a495d7c54fe6e9f159b948981eae15c53df597c"
 metafile = true
+
+[[files]]
+file = "mods/animatica-0.6+1.20.jar"
+hash = "cdfc6e7d48faf10e43f4072d58fbc05c842dfee7d41126db6deefdcf803cbda6"
 
 [[files]]
 file = "mods/appleskin.pw.toml"
@@ -5606,6 +5618,10 @@ metafile = true
 file = "mods/bookshelf.pw.toml"
 hash = "a8beef77c7ca4f31b9b85f4f123f2f461814b249551720b4f75c197e2aca68fc"
 metafile = true
+
+[[files]]
+file = "mods/borderless-mining-1.1.8+1.20.1.jar"
+hash = "115fcbf03eb768bab073b337798289e998f13fc62a6a997971d7ccfd02e6a56a"
 
 [[files]]
 file = "mods/caelus-forge-3.1.0+1.20.jar"
@@ -5769,6 +5785,10 @@ metafile = true
 file = "mods/extreme-sound-muffler.pw.toml"
 hash = "4d6f14a4a81698e97931599a0812e292f779e8acc385a2bd5ab747de92d64464"
 metafile = true
+
+[[files]]
+file = "mods/fabric-language-kotlin-1.10.16+kotlin.1.9.21.jar"
+hash = "0db1a9fe74c262ee7cff86ec42cd3a70ccce8308460e092e10f256fe120a0a12"
 
 [[files]]
 file = "mods/fancymenu-forge.pw.toml"
@@ -5943,6 +5963,10 @@ hash = "f020e22f4ea369079b88cf968e1545ec97297b2cab1f58a25f54700b8d113bdb"
 metafile = true
 
 [[files]]
+file = "mods/modmenu-7.2.2.jar"
+hash = "a041b0f0305ffa5eb90120aa23768e1cfbb27583904b1751e3783c0f69382f1a"
+
+[[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "fac74cc46a4424c4a235a6efbb7e8b3b62c200ad95564e230857eec26b33f216"
 metafile = true
@@ -5960,6 +5984,10 @@ metafile = true
 [[files]]
 file = "mods/neruina-1.3.0-forge+1.18.2-1.20.1.jar"
 hash = "54cf6f1a26e214cf353fde28fec5053acaba34d139ae664e386cd0c5625f11e5"
+
+[[files]]
+file = "mods/notenoughcrashes-4.4.6+1.20.1-forge.jar"
+hash = "5cb208aefd4e1c5a15a07dab665bd54deb0ec7b7d64edcdd5b8b27e41b885fbe"
 
 [[files]]
 file = "mods/oculus-flywheel-compat-1.20.1-0.2.0(Codion'd).jar"
@@ -6022,6 +6050,10 @@ metafile = true
 file = "mods/resourceful-lib.pw.toml"
 hash = "aa6d27fa3726fe8f71cd005e39024dcde7a049ca8d4816a8ab855c0f1a61e8a9"
 metafile = true
+
+[[files]]
+file = "mods/rubidium-extra-0.5.3.1+mc1.20.1-build.110.jar"
+hash = "6932ab72223ce7dc905b88393ae4cc0909aa3ea83819add408f94321ad078aae"
 
 [[files]]
 file = "mods/rubidium-extra.pw.toml"
@@ -6098,6 +6130,10 @@ hash = "ca077274d3017156674b019ef3d3e25077a6f8ac48c25da23cf0926546bc88e8"
 metafile = true
 
 [[files]]
+file = "mods/textrues_embeddium_options-0.1.3+mc1.20.1.jar"
+hash = "287518236af6e1aac7df739e396344d58f515536ab402e225bf621e816ef2b64"
+
+[[files]]
 file = "mods/visuality-forge-2.0.2.jar"
 hash = "336a9f11f9d55f2d600c56ec1a8dcba93b80534fc749b143096e129c9c9c985d"
 
@@ -6105,6 +6141,10 @@ hash = "336a9f11f9d55f2d600c56ec1a8dcba93b80534fc749b143096e129c9c9c985d"
 file = "mods/vmp-forge.pw.toml"
 hash = "ca092a35812395ac4f6542832d934183fa759beeb02b30167ee2452e7e31f340"
 metafile = true
+
+[[files]]
+file = "mods/wakes-0.2.0.jar"
+hash = "b67143a8294dddca60420e599dd8fe8b42d9b7ae3260b41417e3eb64a7b8a11f"
 
 [[files]]
 file = "mods/world-pre-generator.pw.toml"
@@ -6157,7 +6197,7 @@ hash = "311cd0ff158ffc8aaf5bb2b54c521386e6fa0ec3fea503bd2ca0f0c67b118e64"
 preserve = true
 
 [[files]]
-file = "resourcepacks/2023-12-02_07.42.47.png"
+file = "resourcepacks/loading_background.png"
 hash = "3c68be178b56488df2d31fe5ef47f7f2c300d54e220511ebdf1c16dbebf1a435"
 
 [[files]]

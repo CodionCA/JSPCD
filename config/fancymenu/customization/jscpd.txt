@@ -90,6 +90,14 @@ customization {
 }
 
 customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
+  orientation = mid-centered
+  x = -100
+  action = movebutton
+  y = -87
+}
+
+customization {
   identifier = %id=button_compatibility_id:forge_titlescreen_mods_button%
   orientation = mid-centered
   x = -100
@@ -223,18 +231,18 @@ customization {
   [loading_requirement:fancymenu_visibility_requirement_is_element_hovered][requirement_mode:if][req_id:5046b744-7d6e-4d87-85f9-7e6e94cb1dd51701516698390] = 74b25c1f-2512-4e3c-826b-86656a8352cd1701514181498
   fadein = true
   fadeinspeed = 1.0
-  x = -139
+  x = -140
   width = 281
   action = addtexture
   actionid = 9d285cad-e3ab-4bd0-99f0-68c141e166fc1701516382856
-  y = 41
+  y = 40
   delayappearance = true
   delayappearanceeverytime = true
   height = 134
 }
 
 customization {
-  orientation = top-left
+  orientation = mid-centered
   enable_scrolling = true
   shadow = true
   scale = 0.77
@@ -244,25 +252,25 @@ customization {
   case_mode = normal
   source_mode = web
   line_spacing = 1
-  x = 350
+  x = -130
   width = 261
   action = custom_layout_element:fancymenu_customization_item_text
   actionid = d1b21a7a-dc4b-40e9-a35e-656d07e8630d1701516498541
-  y = 328
+  y = 57
   alignment = left
   height = 107
 }
 
 customization {
-  orientation = top-left
+  orientation = mid-centered
   loopbackgroundanimations = true
   restartbackgroundanimations = true
   buttonaction = clear_variables%btnaction_splitter_fm%quitgame%btnaction_splitter_fm%
-  x = 483
+  x = 3
   width = 97
   action = addbutton
   actionid = 64dba7b1-13f3-4def-a043-7e5a2d7b110e1701519885786
-  y = 279
+  y = 9
   label = Quit Game
   height = 20
 }
