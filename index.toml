@@ -4511,7 +4511,7 @@ hash = "aabd85b5b2a25b4dd89eeef0f7aec8d6aafc25d738843deca208ba9f1679d0e3"
 
 [[files]]
 file = "config/fancymenu/customizablemenus.txt"
-hash = "2300da17f7b3694b57826a807ac5672476a9377c0f75db8c957686a5aa3ee830"
+hash = "7ac176670e6bea66a2e78f819f4dddf73e85d32ffac621ee57870366b7d3aa44"
 
 [[files]]
 file = "config/fancymenu/customization/emi.txt"
@@ -4539,7 +4539,7 @@ hash = "1362ab7a2f3e424ef736c5db9428f5953044768a2d1cac88d0921aeb1e5fa21e"
 
 [[files]]
 file = "config/fancymenu/customization/pause.txt"
-hash = "72c94061fade407ad822f09c7d1f149d6108deab2385f57602bf62d74f5a5b2d"
+hash = "be0c06f64c375bd4650064fe88946a628d54fab0890fe8702357972cbec48f43"
 
 [[files]]
 file = "config/fancymenu/customization/worldload.txt"
