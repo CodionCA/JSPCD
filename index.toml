@@ -6157,8 +6157,24 @@ hash = "311cd0ff158ffc8aaf5bb2b54c521386e6fa0ec3fea503bd2ca0f0c67b118e64"
 preserve = true
 
 [[files]]
+file = "resourcepacks/2023-12-02_07.42.47.png"
+hash = "3c68be178b56488df2d31fe5ef47f7f2c300d54e220511ebdf1c16dbebf1a435"
+
+[[files]]
+file = "resourcepacks/loading_title.png"
+hash = "c421a7ca27dcfab20b1c828dc6ca44228d0a081dc749035d6a2ab4c3b2b90368"
+
+[[files]]
 file = "resourcepacks/minecraft_title.png"
-hash = "7d81ae4572187ee326cb38f369a96cf7509b4c79de40720c046ed69164bf4845"
+hash = "74da3d3933127fd74d5b470fa72053b34c2bbe0ef53622701b3d3e46be5d2c61"
+
+[[files]]
+file = "resourcepacks/pnwindow.png"
+hash = "7109c51f1d101083a559775eaf37ddd0cc42788f36ccabaa71551108826557ba"
+
+[[files]]
+file = "resourcepacks/step8.wav"
+hash = "b1e7ac35f3b127e8e492cbf7c642dcde29ce00b0550bdf95d27ddeb1d5dee474"
 
 [[files]]
 file = "servers.dat"
