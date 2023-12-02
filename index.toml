@@ -4458,6 +4458,10 @@ file = "config/embeddium-options.json"
 hash = "971377be330405b5950f878070f62150cf71463ecccfd0419bda98513cd3b19d"
 
 [[files]]
+file = "config/emi.css"
+hash = "9748ed78d80790be8a0c13dd047dbb142e196078f83c3bc364db958e450c2dff"
+
+[[files]]
 file = "config/emotecraft.json"
 hash = "6ae72f3f8585c872719f503e45de5114935f6dfb28ea13dec836955e7464b0a7"
 
@@ -4512,6 +4516,10 @@ hash = "2300da17f7b3694b57826a807ac5672476a9377c0f75db8c957686a5aa3ee830"
 [[files]]
 file = "config/fancymenu/customization/emi.txt"
 hash = "ff3891a0ae97a36420ff61c941d8bbea9b80cf17376a1b306273bdb542888d70"
+
+[[files]]
+file = "config/fancymenu/customization/forced3.txt"
+hash = "809ef5e0dff13c9e45d72d632230ab2933e8d3af2d1627ee003847c90dc01987"
 
 [[files]]
 file = "config/fancymenu/customization/jscpd.txt"
@@ -5670,11 +5678,6 @@ metafile = true
 [[files]]
 file = "mods/comforts.pw.toml"
 hash = "556f4d100557d0d230ee21dca59cb7fe57b7daba4256bc84fece11875a2e613e"
-metafile = true
-
-[[files]]
-file = "mods/config-menus-forge.pw.toml"
-hash = "d7c2a547057823e43871c7a432a95b5a821e4da5f9fa574a53617642e90d1a43"
 metafile = true
 
 [[files]]
