@@ -6,9 +6,6 @@ com.github.alexthe666.iceandfire.client.gui.IceAndFireMainMenu {
 net.minecraft.client.gui.screens.multiplayer.JoinMultiplayerScreen {
 }
 
-net.minecraft.client.gui.screens.inventory.InventoryScreen {
-}
-
 dev.emi.emi.screen.RecipeScreen {
 }
 

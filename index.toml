@@ -5514,6 +5514,10 @@ file = "mods/AmbientEnvironment-forge-1.20.1-11.0.0.1.jar"
 hash = "2c69c96cb11179ffd6de8e365f6dc0244f3ad2c9d7a4be82cc302170c0c47b02"
 
 [[files]]
+file = "mods/AttributeFix-Forge-1.20.1-21.0.4.jar"
+hash = "5d8cc8928ce480288d5b504663bb13104df56ac72ce5bf36f2743ec27c701112"
+
+[[files]]
 file = "mods/Connector-1.0.0-beta.27+1.20.1.jar"
 hash = "28a3a438f538ad63f7961c8fc499cb83f43e7d8ae5c19fbe6ea3ec1d44f87e35"
 
@@ -5522,12 +5526,20 @@ file = "mods/ConnectorExtras-1.7.0+1.20.1.jar"
 hash = "025bc8e114e015a1371f8cb76835b8aef18c5acafcc29985df574c9fb6e50090"
 
 [[files]]
+file = "mods/ForgeConfigScreens-v8.0.2-1.20.1-Forge.jar"
+hash = "0e2f3e6b962071da3c98292b3836bbfe5b03b8236a83043137a7e29b530ebd8e"
+
+[[files]]
 file = "mods/NoElytrasMod-1.20-1.20.1-1.0.jar"
 hash = "bd06ef5995f815dde288110b4de32475cf24a377927cf8992250bf9af7b3bd19"
 
 [[files]]
 file = "mods/Nullscape_1.20.2_v1.2.3.jar"
 hash = "c423feb59609cb53a541a5607425312233e8cbd6ddc11e1d4a61399ac42fed24"
+
+[[files]]
+file = "mods/OverflowingBars-v8.0.0-1.20.1-Forge.jar"
+hash = "20b8ce214d9ca51de26809fcc06f2af8be1627a89de4d0d41c6a48e5737ccf79"
 
 [[files]]
 file = "mods/PacketFixer-forge-1.2.1-1.20.1.jar"
