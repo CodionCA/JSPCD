@@ -1,0 +1,34 @@
+type = menu
+
+customization-meta {
+  identifier = ca.codion.patches
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  orientation = mid-centered
+  enable_scrolling = true
+  shadow = true
+  scale = 1.0
+  source = https://pastebin.com/LBdf4GmM
+  text_border = 0
+  case_mode = normal
+  source_mode = web
+  line_spacing = 2
+  x = -206
+  width = 414
+  action = custom_layout_element:fancymenu_customization_item_text
+  actionid = 7417284e-1e80-4d66-b76f-9e120679ad891701514644335
+  y = -94
+  alignment = left
+  height = 194
+}
+

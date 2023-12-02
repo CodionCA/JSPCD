@@ -4430,6 +4430,10 @@ file = "config/doubledoors.json5"
 hash = "41c34d569277e7490c9a67d7adae9e8645ce46f2a9e2cc640d160d6d359b7e36"
 
 [[files]]
+file = "config/drippyloadingscreen/config.cfg"
+hash = "21530f782934c6b154d8dd56392541ffd380a9acee05ed82d82f85978f18a721"
+
+[[files]]
 file = "config/dynamic_lights_reforged.toml"
 hash = "aa9567de27d7826b65dbec599521c8ab3b048d2e31e068943a5d435c87885f37"
 
@@ -4499,11 +4503,15 @@ hash = "3cb918be192a7a0d3d61fce8ceba4ed9dce2f951182d83882fe8ec70adc4d09c"
 
 [[files]]
 file = "config/fancymenu/config.txt"
-hash = "8c8fe95da027e8d24c41ebcc1a3f6b6e511c793e0aca6990ba90d59f4a896fdc"
+hash = "5c58ed62fbe4d7bd6a4d122f75817ae143e3bca750caaec18853e179810afb6d"
 
 [[files]]
 file = "config/fancymenu/customizablemenus.txt"
-hash = "81b12babacb10c15457d4a7de0d935d087b5c86e0b93461d2bf01d5b7aa220c3"
+hash = "59f99de9270094e8ae23197624d9ef6ec6015cfb35f881f4c8a7f260c01ab793"
+
+[[files]]
+file = "config/fancymenu/customization/.disabled/patchnotes.txt"
+hash = "bf80d383def938d78cb3823ab2a07288651353faf2aec89c11d824dc5566a26a"
 
 [[files]]
 file = "config/fancymenu/customization/emi.txt"
@@ -4511,15 +4519,27 @@ hash = "ff3891a0ae97a36420ff61c941d8bbea9b80cf17376a1b306273bdb542888d70"
 
 [[files]]
 file = "config/fancymenu/customization/jscpd.txt"
-hash = "8942684557ca39a9303ee590165852cdd5f601c0cfa71510d7f4a467959d2d44"
+hash = "61ac4249a4ec8e7aea46528f41f6d5bd57e0b82a8d8496b5f031b4ff1590bdfa"
 
 [[files]]
 file = "config/fancymenu/customization/jspcd.txt"
 hash = "a4847a48c60b4e1b57694602c8c00981bad2ca4e6c2476f9bd01727a51f9edb0"
 
 [[files]]
+file = "config/fancymenu/customization/loading.txt"
+hash = "a1d7672896c87e8cd6edbc49501b56abac91e299fca88e939aa83267cc4788ed"
+
+[[files]]
+file = "config/fancymenu/customization/patches.txt"
+hash = "1362ab7a2f3e424ef736c5db9428f5953044768a2d1cac88d0921aeb1e5fa21e"
+
+[[files]]
 file = "config/fancymenu/customization/pause.txt"
 hash = "ea99751fc5fb27089cd486236cd863b62b3b5f0f3d652397968783d2b0fd29bd"
+
+[[files]]
+file = "config/fancymenu/customization/worldload.txt"
+hash = "e5cc9c2015f520c35dfcd14c0a7546edd5ba6f08afd2747e53e626302983df09"
 
 [[files]]
 file = "config/fancymenu/locals/de_de.local"
@@ -5696,6 +5716,10 @@ metafile = true
 file = "mods/double-doors.pw.toml"
 hash = "c7ff19b335523c976f96892656bb02b893a7dc899f2f1c167d8e6e5cdd5d58d5"
 metafile = true
+
+[[files]]
+file = "mods/drippyloadingscreen_forge_2.2.4_MC_1.20.1.jar"
+hash = "77c7a08a2bca60fd666b5fa3f663968686e081da1cc4aae5e22a00635d38b2ce"
 
 [[files]]
 file = "mods/dynamic-view.pw.toml"

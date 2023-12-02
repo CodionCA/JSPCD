@@ -1,0 +1,94 @@
+type = menu
+
+customization-meta {
+  identifier = de.keksuccino.drippyloadingscreen.customization.DrippyOverlayScreen
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  path = screenshots/2023-12-02_07.42.47.png
+  action = texturizebackground
+}
+
+customization {
+  action = setscale
+  scale = 2
+}
+
+customization {
+  baseheight = 1080
+  action = autoscale
+  basewidth = 1920
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  orientation = mid-centered
+  hidden = true
+  original_pos_size_calculation = false
+  x = -165
+  width = 325
+  action = deep_customization_element:drippy_overlay_logo
+  actionid = 0a939c9b-8477-4f5b-8b8a-9bd3a8e8307c1701517747452
+  y = -87
+  height = 80
+}
+
+customization {
+  orientation = top-left
+  hidden = false
+  x = -1000000
+  width = 0
+  action = deep_customization_element:drippy_overlay_background
+  actionid = 826596a6-c39f-46fc-a821-0dc0d0b799f11701517747460
+  y = -1000000
+  height = 0
+}
+
+customization {
+  custom_color_hex = 8ef3ff
+  orientation = mid-centered
+  hidden = false
+  original_pos_size_calculation = false
+  x = -128
+  width = 256
+  action = deep_customization_element:drippy_overlay_progress_bar
+  actionid = 2247f47f-0c54-4bb0-ad99-3d1be8a2cb6e1701517747460
+  y = 20
+  height = 10
+}
+
+customization {
+  path = resourcepacks/loading_title.png
+  orientation = mid-centered
+  x = -105
+  width = 211
+  action = addtexture
+  actionid = 1da6b4a5-c930-4591-bbef-bb0e4c9850291701520059326
+  y = -71
+  height = 62
+}
+
+customization {
+  orientation = mid-centered
+  restartbackgroundanimations = true
+  buttonaction = set_variable;clicker:{"placeholder":"calc","values":{"expression":"{"placeholder":"getvariable","values":{"name":"clicker"}} + 1","decimal":"false"}}%btnaction_splitter_fm%
+  [loading_requirement:fancymenu_visibility_requirement_is_element_hovered][requirement_mode:if][req_id:6e952e02-e80e-4bd9-9126-ad762e40fb621701522635445] = b6305739-bda1-4d49-8dec-0da069f342281701517962176
+  label = Clicks: §7{"placeholder":"getvariable","values":{"name":"clicker"}}
+  clicksound = resourcepacks/step8.wav
+  loopbackgroundanimations = true
+  x = 320
+  width = 102
+  action = addbutton
+  actionid = b6305739-bda1-4d49-8dec-0da069f342281701517962176
+  y = 215
+  height = 20
+}
+

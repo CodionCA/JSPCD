@@ -30,11 +30,6 @@ customization {
 }
 
 customization {
-  identifier = %id=button_compatibility_id:mc_titlescreen_copyright_button%
-  action = hidebutton
-}
-
-customization {
   identifier = %id=button_compatibility_id:mc_titlescreen_multiplayer_button%
   action = hidebutton
 }
@@ -54,7 +49,7 @@ customization {
   orientation = mid-centered
   x = -100
   action = movebutton
-  y = 9
+  y = 10
 }
 
 customization {
@@ -66,22 +61,10 @@ customization {
 
 customization {
   identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
-  action = hidebutton
-}
-
-customization {
-  identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
   orientation = mid-centered
-  x = 3
+  x = 2
   action = movebutton
-  y = 9
-}
-
-customization {
-  identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
-  width = 97
-  action = resizebutton
-  height = 20
+  y = 10
 }
 
 customization {
@@ -168,12 +151,12 @@ customization {
   orientation = top-centered
   splash_color = #ff6fb0
   hidden = false
-  x = 168
+  x = 170
   width = 60
   splash_rotation = -20
   action = deep_customization_element:title_screen_splash
   actionid = 5672172d-2085-417d-9124-d2d9e13c2e221700550741979
-  y = 93
+  y = 98
   height = 30
 }
 
@@ -195,7 +178,7 @@ customization {
 customization {
   path = resourcepacks/minecraft_title.png
   orientation = top-centered
-  x = -186
+  x = -185
   width = 364
   action = addtexture
   actionid = 020faa4b-af5c-4a5c-ba3c-b9721a3cb61b1700583741275
@@ -207,63 +190,53 @@ customization {
   orientation = mid-centered
   loopbackgroundanimations = true
   restartbackgroundanimations = true
+  buttonaction = disable_layout;patchnotes%btnaction_splitter_fm%
   x = -100
   width = 200
   action = addbutton
   actionid = 74b25c1f-2512-4e3c-826b-86656a8352cd1701514181498
   y = -15
-  label = §f[§a+§f] §rPatch notes
+  label = Patch notes
   height = 20
 }
 
 customization {
   orientation = mid-centered
-  delayappearanceseconds = 0.2
+  delayappearanceseconds = 0.1
   path = resourcepacks/pnwindow.png
-  [loading_requirement:fancymenu_visibility_requirement_is_element_hovered][requirement_mode:if][req_id:5046b744-7d6e-4d87-85f9-7e6e94cb1dd51701516698390] = 74b25c1f-2512-4e3c-826b-86656a8352cd1701514181498
   fadein = true
   fadeinspeed = 1.0
-  x = -139
-  width = 281
+  x = -100
+  width = 200
   action = addtexture
-  actionid = 9d285cad-e3ab-4bd0-99f0-68c141e166fc1701516382856
-  y = 41
+  actionid = cbd29280-14b9-45a8-9f81-ea16f9f7e3d51701515491091
+  y = 39
   delayappearance = true
-  delayappearanceeverytime = true
-  height = 134
+  delayappearanceeverytime = false
+  height = 118
 }
 
 customization {
   orientation = top-left
   enable_scrolling = true
   shadow = true
-  scale = 0.77
-  [loading_requirement:fancymenu_visibility_requirement_is_element_hovered][requirement_mode:if][req_id:d18be844-4cd7-4709-88a3-de5ef73b3f161701516745565] = 74b25c1f-2512-4e3c-826b-86656a8352cd1701514181498
+  delayappearanceseconds = 0.0
+  scale = 0.55
   source = https://pastebin.com/LBdf4GmM
-  text_border = 5
+  text_border = 3
   case_mode = normal
+  fadein = true
   source_mode = web
   line_spacing = 1
-  x = 350
-  width = 261
+  fadeinspeed = 1.0
+  x = 389
+  width = 180
   action = custom_layout_element:fancymenu_customization_item_text
-  actionid = d1b21a7a-dc4b-40e9-a35e-656d07e8630d1701516498541
-  y = 328
+  actionid = 6d754944-8984-4066-ab70-e32bc22aed5d1701515520027
+  y = 330
+  delayappearance = true
   alignment = left
-  height = 107
-}
-
-customization {
-  orientation = top-left
-  loopbackgroundanimations = true
-  restartbackgroundanimations = true
-  buttonaction = clear_variables%btnaction_splitter_fm%quitgame%btnaction_splitter_fm%
-  x = 483
-  width = 97
-  action = addbutton
-  actionid = 64dba7b1-13f3-4def-a043-7e5a2d7b110e1701519885786
-  y = 279
-  label = Quit Game
-  height = 20
+  delayappearanceeverytime = false
+  height = 91
 }
 
