@@ -1,13 +1,13 @@
 name = "Exposure"
-filename = "exposure-1.20.1-1.0.0.jar"
+filename = "exposure-1.20.1-1.0.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "a3c5aa8e44911084803f0e2375662c06c217c0ea"
+hash = "2416f124b3caadbde3043205e9797669550b7e78"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4888995
+file-id = 4917933
 project-id = 871755

@@ -1,0 +1,13 @@
+name = "I'm sorry but the Elytra is in another End City"
+filename = "NoElytrasMod-1.20-1.20.1-1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d03fe890bac1dd15dbee462500c643c5afe8771d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4877739
+project-id = 908300
