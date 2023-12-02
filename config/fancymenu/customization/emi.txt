@@ -1,0 +1,31 @@
+type = menu
+
+customization-meta {
+  identifier = dev.emi.emi.screen.RecipeScreen
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  orientation = top-left
+  basecolor = #555555
+  shadow = true
+  rotation = -20.0
+  scale = 0.5
+  refresh = false
+  bouncing = true
+  vanilla-like = false
+  x = 28
+  actionid = 6cdf245b-78ad-40e1-811c-c0d0c68b3c2d1701493542943
+  action = addsplash
+  y = 504
+  text = < Emily
+}
+
