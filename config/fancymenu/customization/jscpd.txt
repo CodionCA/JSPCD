@@ -182,3 +182,23 @@ customization {
   height = 40
 }
 
+customization {
+  orientation = mid-centered
+  enable_scrolling = true
+  shadow = true
+  scale = 0.78
+  source = https://pastebin.com/LBdf4GmM
+  text_border = 0
+  case_mode = normal
+  source_mode = web
+  line_spacing = 1
+  x = -176
+  width = 353
+  action = custom_layout_element:fancymenu_customization_item_text
+  actionid = 0c36d1c8-2449-46ea-b3db-7cb9dce8cdc41701485869022
+  y = 30
+  alignment = centered
+  base_color = 1FFF8F
+  height = 184
+}
+

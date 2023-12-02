@@ -4507,7 +4507,7 @@ hash = "290bcc08dbac1bd350e67604dcdfcc88efc097a723a4afaf96aa2fbe4f1e9a32"
 
 [[files]]
 file = "config/fancymenu/customization/jscpd.txt"
-hash = "77359fb89b04d436df6dd53ad22854dcf5faf4cdd60e50f601e219d5a19c65e9"
+hash = "8942684557ca39a9303ee590165852cdd5f601c0cfa71510d7f4a467959d2d44"
 
 [[files]]
 file = "config/fancymenu/customization/jspcd.txt"
@@ -5515,6 +5515,10 @@ metafile = true
 file = "mods/ai-improvements.pw.toml"
 hash = "11c40209898628cc8ca75d28f539c449384b40600bfc88272306f6138f4e4428"
 metafile = true
+
+[[files]]
+file = "mods/allthecompressed-1.20.1-3.0.1.jar"
+hash = "e5a5538316757724c7ec1d4ed699cf38deb4737110e9f0318a1d2dbd71e3ea66"
 
 [[files]]
 file = "mods/alternate-current.pw.toml"
