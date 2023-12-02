@@ -3,7 +3,7 @@ type = menu
 customization-meta {
   identifier = net.minecraft.client.gui.screens.PauseScreen
   randomgroup = 1
-  biggerthanwidth = 1080
+  [loading_requirement:fancymenu_loading_requirement_is_window_height_bigger_than][requirement_mode:if][req_id:189bb525-52b6-4d4b-8422-264dce9b3bef1701544761788] = 1065
   renderorder = foreground
   randommode = false
   randomonlyfirsttime = false
@@ -25,7 +25,7 @@ customization {
   showname = false
   crouching = true
   follow_mouse = true
-  x = 159
+  x = 158
   width = 36
   parrot_left_shoulder = true
   action = custom_layout_element:fancymenu_customization_player_entity

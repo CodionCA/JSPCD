@@ -1,0 +1,45 @@
+type = menu
+
+customization-meta {
+  identifier = net.minecraft.client.gui.screens.ReceivingLevelScreen
+  randomgroup = 1
+  renderorder = foreground
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  action = setscale
+  scale = 2
+}
+
+customization {
+  baseheight = 1080
+  action = autoscale
+  basewidth = 1920
+}
+
+customization {
+  keepaspectratio = false
+  action = backgroundoptions
+}
+
+customization {
+  orientation = mid-centered
+  enable_scrolling = true
+  shadow = true
+  scale = 1.0
+  source = %n%Welcome &a{"placeholder":"playername"}
+  text_border = 0
+  case_mode = normal
+  source_mode = direct
+  line_spacing = 1
+  x = -100
+  width = 200
+  action = custom_layout_element:fancymenu_customization_item_text
+  actionid = fa6a7440-e6a9-4bcd-aab0-a245d19a40051701523075984
+  y = -27
+  alignment = centered
+  height = 40
+}
+
