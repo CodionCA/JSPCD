@@ -5930,6 +5930,10 @@ file = "mods/neruina-1.3.0-forge+1.18.2-1.20.1.jar"
 hash = "54cf6f1a26e214cf353fde28fec5053acaba34d139ae664e386cd0c5625f11e5"
 
 [[files]]
+file = "mods/oculus-flywheel-compat-1.20.1-0.2.0.jar"
+hash = "c8f741e3048524bafff409b27fcddc00de62633bf241fd344ee6ffa5c674eeaf"
+
+[[files]]
 file = "mods/oculus.pw.toml"
 hash = "735a4682ce5f732ea64ec5e8d62c9befa234fb55322ce6a6a4dcefc5dbf5a129"
 metafile = true
