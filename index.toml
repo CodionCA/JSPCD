@@ -4514,10 +4514,6 @@ file = "config/fancymenu/customizablemenus.txt"
 hash = "7ac176670e6bea66a2e78f819f4dddf73e85d32ffac621ee57870366b7d3aa44"
 
 [[files]]
-file = "config/fancymenu/customization/emi.txt"
-hash = "ff3891a0ae97a36420ff61c941d8bbea9b80cf17376a1b306273bdb542888d70"
-
-[[files]]
 file = "config/fancymenu/customization/jscpd.txt"
 hash = "6e3e2fb6cfa546ee632f7e81d6647450ab52e4f928cb9e163e7c2ea7d58c881c"
 
@@ -4536,10 +4532,6 @@ hash = "1362ab7a2f3e424ef736c5db9428f5953044768a2d1cac88d0921aeb1e5fa21e"
 [[files]]
 file = "config/fancymenu/customization/pause.txt"
 hash = "be0c06f64c375bd4650064fe88946a628d54fab0890fe8702357972cbec48f43"
-
-[[files]]
-file = "config/fancymenu/customization/worldload.txt"
-hash = "e5cc9c2015f520c35dfcd14c0a7546edd5ba6f08afd2747e53e626302983df09"
 
 [[files]]
 file = "config/fancymenu/locals/de_de.local"
