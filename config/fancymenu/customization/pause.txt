@@ -32,21 +32,21 @@ customization {
   scale = 60
   headrotationy = 0.0
   headrotationx = 0.0
-  showname = true
-  crouching = false
+  showname = false
+  crouching = true
   follow_mouse = true
-  x = 112
+  x = 159
   width = 36
-  parrot_left_shoulder = false
+  parrot_left_shoulder = true
   action = custom_layout_element:fancymenu_customization_player_entity
   actionid = c09571ef-7407-4197-bc55-ad5151ad54af1701493328908
-  y = -102
+  y = -127
   playername = Codion
   bodyrotationx = 0.0
-  parrot = false
+  parrot = true
   bodyrotationy = 0.0
   auto_cape = false
-  is_baby = true
+  is_baby = false
   height = 108
 }
 
