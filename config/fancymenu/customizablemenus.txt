@@ -6,9 +6,6 @@ com.github.alexthe666.iceandfire.client.gui.IceAndFireMainMenu {
 net.minecraft.client.gui.screens.multiplayer.JoinMultiplayerScreen {
 }
 
-net.minecraft.client.gui.screens.PauseScreen {
-}
-
 net.minecraft.client.gui.screens.inventory.InventoryScreen {
 }
 
@@ -22,5 +19,11 @@ de.keksuccino.drippyloadingscreen.customization.DrippyOverlayScreen {
 }
 
 net.minecraft.client.gui.screens.ReceivingLevelScreen {
+}
+
+net.minecraft.client.gui.screens.inventory.CreativeModeInventoryScreen {
+}
+
+net.minecraft.client.gui.screens.PauseScreen {
 }
 

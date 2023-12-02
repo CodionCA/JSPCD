@@ -9,34 +9,44 @@ customization-meta {
 }
 
 customization {
+  action = setscale
+  scale = 2
+}
+
+customization {
+  baseheight = 1080
+  action = autoscale
+  basewidth = 1920
+}
+
+customization {
   keepaspectratio = false
   action = backgroundoptions
 }
 
 customization {
   orientation = mid-centered
-  copy_client_player = false
+  copy_client_player = true
   slim = false
-  auto_skin = true
+  auto_skin = false
   scale = 60
   headrotationy = 0.0
   headrotationx = 0.0
-  skinurl = http://textures.minecraft.net/texture/c51bdddfef9a0aba980262f45f74e2f1d5240c9d3d3aaf053c05e896efb2db74
   showname = true
   crouching = false
   follow_mouse = true
-  x = -18
+  x = 112
   width = 36
   parrot_left_shoulder = false
   action = custom_layout_element:fancymenu_customization_player_entity
   actionid = c09571ef-7407-4197-bc55-ad5151ad54af1701493328908
-  y = 69
-  playername = Ratvadik
+  y = -102
+  playername = Codion
   bodyrotationx = 0.0
   parrot = false
   bodyrotationy = 0.0
   auto_cape = false
-  is_baby = false
+  is_baby = true
   height = 108
 }
 
