@@ -4518,10 +4518,6 @@ file = "config/fancymenu/customization/emi.txt"
 hash = "ff3891a0ae97a36420ff61c941d8bbea9b80cf17376a1b306273bdb542888d70"
 
 [[files]]
-file = "config/fancymenu/customization/forced3.txt"
-hash = "809ef5e0dff13c9e45d72d632230ab2933e8d3af2d1627ee003847c90dc01987"
-
-[[files]]
 file = "config/fancymenu/customization/jscpd.txt"
 hash = "6e3e2fb6cfa546ee632f7e81d6647450ab52e4f928cb9e163e7c2ea7d58c881c"
 
