@@ -4510,10 +4510,6 @@ file = "config/fancymenu/customizablemenus.txt"
 hash = "59f99de9270094e8ae23197624d9ef6ec6015cfb35f881f4c8a7f260c01ab793"
 
 [[files]]
-file = "config/fancymenu/customization/.disabled/patchnotes.txt"
-hash = "bf80d383def938d78cb3823ab2a07288651353faf2aec89c11d824dc5566a26a"
-
-[[files]]
 file = "config/fancymenu/customization/emi.txt"
 hash = "ff3891a0ae97a36420ff61c941d8bbea9b80cf17376a1b306273bdb542888d70"
 
