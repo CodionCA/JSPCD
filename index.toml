@@ -4270,6 +4270,10 @@ file = "config/alexsmobs/warped_toad_spawns.json"
 hash = "72126b26d7f3ae03b80df97dd103e0cec87d10829e86ac8b08da23abc7b318d8"
 
 [[files]]
+file = "config/antixray.toml"
+hash = "48e1432ff80930d26465ca1015d2ac952b2779c4b0f64723d6a3eb0ccf98ad95"
+
+[[files]]
 file = "config/appleskin-client.toml"
 hash = "28c6ad7570268b02ec6f73fb7c39c49ecf90f0697d0db9447899e8aa96285200"
 
@@ -5562,6 +5566,10 @@ metafile = true
 file = "mods/animatica.pw.toml"
 hash = "c688319082fabc81ac56fe130530256b8e3326900a132cb8a839c46c1537813f"
 metafile = true
+
+[[files]]
+file = "mods/anti-xray-1.3.1-Forge-1.20.1.jar"
+hash = "de213bcc13260a943bf3c47c4cf4f4247db27b9bce2511d9b3970ef216597ce2"
 
 [[files]]
 file = "mods/appleskin.pw.toml"
