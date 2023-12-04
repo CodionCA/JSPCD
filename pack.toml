@@ -1,11 +1,11 @@
 name = "JSPCD"
-version = "1.0.2"
+version = "2.0.1"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "4e66ecb4210983da579c5bb133d931cb32fbad4d367ef4002f2bd19e44354468"
+hash = "b743985e471f5404662275f5bc1ab79f56eb2bfd317eb552cff02bdc3962ee31"
 
 [versions]
 forge = "47.2.6"

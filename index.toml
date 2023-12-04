@@ -5538,6 +5538,10 @@ file = "mods/PacketFixer-forge-1.2.1-1.20.1.jar"
 hash = "c077c7964ad0228a89dc1847f3702a7bba668afbf8466c92947c6bff2d8e81fc"
 
 [[files]]
+file = "mods/PuzzlesLib-v8.1.11-1.20.1-Forge.jar"
+hash = "90a0bd6dc16f5ea1c0c9e3455df909a11dba59114bb34e6db4e812825e023d25"
+
+[[files]]
 file = "mods/adaptive-performance-tweaks-core.pw.toml"
 hash = "76488370b9f6649b4b597a5206066744785e3875e13fbca3586f3ed964d8a0fc"
 metafile = true
@@ -5650,9 +5654,8 @@ hash = "51d9f484ad01db764d1e25cc53d18ccab4979c358f6e4e7be5f2e123af8daf30"
 metafile = true
 
 [[files]]
-file = "mods/cccbridge.pw.toml"
-hash = "2ecf09fed9ee5d417e3c748b9274989b37bd5555ddfea9626e53628b60285189"
-metafile = true
+file = "mods/cccbridge-mc1.20.1-forge-1.6.3.jar"
+hash = "ebdde3d104757c50f0a052b7807c4b7464bf12217a1cc7155387f665fb578d22"
 
 [[files]]
 file = "mods/citadel.pw.toml"
@@ -5774,9 +5777,8 @@ hash = "c23517b855704f8cca18f5a56da4098d2cfd8d5b4979ea1edf06e4374933b26a"
 metafile = true
 
 [[files]]
-file = "mods/emi.pw.toml"
-hash = "6266ab274829abe681ffa39ba2a873479fe5064f2aa56c3fa6b503309ab8abd3"
-metafile = true
+file = "mods/emi-1.0.27+1.20.1+forge.jar"
+hash = "b72b9ba55ffa728ff44c85d0128d718c9b20db835271bcdd76e772ce5cf3ce48"
 
 [[files]]
 file = "mods/emiffect-status-effects-emi-plugin.pw.toml"
@@ -5804,9 +5806,8 @@ hash = "25b957c0cd1987e0b45b9733b184ba997e2d8dcebb853958dc8e387a8a0d02e6"
 metafile = true
 
 [[files]]
-file = "mods/exposure.pw.toml"
-hash = "e6ca6f8987d5c6ebe96216d4aedb5df7b4502546d0c99cc0087a40065ad1edd7"
-metafile = true
+file = "mods/exposure-1.20.1-1.0.2.jar"
+hash = "40db9720473669758a5216b0f3d9752676f0d2e6cdddd5167f4e6e7428475315"
 
 [[files]]
 file = "mods/extreme-sound-muffler.pw.toml"
@@ -5977,14 +5978,17 @@ hash = "58591806a06b46c18298e858f14bcfde0be6487d153eef253719c35f6adf0526"
 metafile = true
 
 [[files]]
-file = "mods/minecolonies.pw.toml"
-hash = "faf230b91e9bce34bb54c613c9d6683fbbf092ba590e5c6fb61779153cb89ccd"
-metafile = true
+file = "mods/minecolonies-1.20.1-1.1.343-BETA.jar"
+hash = "994d2dda7855dc90df461c9c8260423936bf7863b2a6125697e6cdaea78cbac8"
 
 [[files]]
 file = "mods/missions.pw.toml"
 hash = "4d10dbc3ba37e2788fdba69a38f436198a996354ea520881d5ecd03cc5153da1"
 metafile = true
+
+[[files]]
+file = "mods/modernfix-forge-5.10.0+mc1.20.1.jar"
+hash = "5320b1dcb0453b4b9bf22e97dd2eb0790be6ed39ca325b465e6e50d319f1bc2a"
 
 [[files]]
 file = "mods/modernfix.pw.toml"
@@ -6062,11 +6066,6 @@ metafile = true
 [[files]]
 file = "mods/project-871698.pw.toml"
 hash = "bbc21d2cf34d36cd4d4a6dcb56b1e58cc5d0190a54c3c4115db7fa0852b5a2e9"
-metafile = true
-
-[[files]]
-file = "mods/puzzles-lib.pw.toml"
-hash = "3d8211f89cfd172b60bcf7128cc7eaf22075ff6e543375e5e0450943fce34758"
 metafile = true
 
 [[files]]
