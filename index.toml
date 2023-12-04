@@ -4366,6 +4366,10 @@ file = "config/boatiview-client.toml"
 hash = "902f719fcb1a780ecc57f2b1c3f97ca61d642b1f4bef66f01deb4c60159c7b0b"
 
 [[files]]
+file = "config/borderlessmining.json"
+hash = "7c47862b98890f793c72476c7f2f805ff6404c4dc37c90465a82007be49e95fd"
+
+[[files]]
 file = "config/canary.properties"
 hash = "8857dd6d9c5761369ad9e392f937e7ecaf99c1563dad8de886c2ebfa31736ed7"
 
