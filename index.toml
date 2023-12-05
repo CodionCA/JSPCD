@@ -3858,7 +3858,7 @@ hash = "f3fce6c7b1f2dd8c36db8d951652b6d8d25d9e7b41d3222a588ee4f8d557cd8c"
 
 [[files]]
 file = "complementary-unbound.pw.toml"
-hash = "fc9a279bdbe61e870a8b446c5c70b924799f9c17cdd04f6f7275801524165f2d"
+hash = "a6abfa266c4e0aebf5fc8e640768baedb08e7cdadbf7e1b209561be82d5fa9b6"
 metafile = true
 
 [[files]]
@@ -5538,12 +5538,12 @@ file = "mods/AmbientEnvironment-forge-1.20.1-11.0.0.1.jar"
 hash = "2c69c96cb11179ffd6de8e365f6dc0244f3ad2c9d7a4be82cc302170c0c47b02"
 
 [[files]]
-file = "mods/PacketFixer-forge-1.2.1-1.20.1.jar"
-hash = "c077c7964ad0228a89dc1847f3702a7bba668afbf8466c92947c6bff2d8e81fc"
+file = "mods/Connector-1.0.0-beta.27+1.20.1.jar"
+hash = "28a3a438f538ad63f7961c8fc499cb83f43e7d8ae5c19fbe6ea3ec1d44f87e35"
 
 [[files]]
-file = "mods/PuzzlesLib-v8.1.11-1.20.1-Forge.jar"
-hash = "90a0bd6dc16f5ea1c0c9e3455df909a11dba59114bb34e6db4e812825e023d25"
+file = "mods/PacketFixer-forge-1.2.1-1.20.1.jar"
+hash = "c077c7964ad0228a89dc1847f3702a7bba668afbf8466c92947c6bff2d8e81fc"
 
 [[files]]
 file = "mods/adaptive-performance-tweaks-core.pw.toml"
@@ -5576,8 +5576,9 @@ hash = "c688319082fabc81ac56fe130530256b8e3326900a132cb8a839c46c1537813f"
 metafile = true
 
 [[files]]
-file = "mods/anti-xray-1.3.1-Forge-1.20.1.jar"
-hash = "de213bcc13260a943bf3c47c4cf4f4247db27b9bce2511d9b3970ef216597ce2"
+file = "mods/antixray-forge.pw.toml"
+hash = "d43ab1ac02af13945f23525f0d7851921ae848f633c4f0031db6025061672777"
+metafile = true
 
 [[files]]
 file = "mods/appleskin.pw.toml"
@@ -5610,6 +5611,10 @@ hash = "2930f6eb3ac116334c6ce7882315e65d0b54eed1cd663687fd6e77dfe3146bd0"
 metafile = true
 
 [[files]]
+file = "mods/bclib-3.0.13.jar"
+hash = "02909e009bf514295868ee7ab55e527fdaf374ea3b67f2bad02b890b3d7cfc08"
+
+[[files]]
 file = "mods/bendy-lib.pw.toml"
 hash = "0c04ed6d72d3f59b20bb30aa960f7f62609c83292d505b73cc864c527e7052a7"
 metafile = true
@@ -5622,6 +5627,10 @@ hash = "22b7b8e3db6aba6049609f1a0824703690ca7ad1952df7065e351bf2aabf5df4"
 file = "mods/better-burning.pw.toml"
 hash = "ba84272f830ac3e979698d1621e7ad93a734075ad2c48608dde686702f3f6ec5"
 metafile = true
+
+[[files]]
+file = "mods/better-end-4.0.10.jar"
+hash = "80d574fb43473cbe84b5fd58c59efee4c7abeebfab9fcc2811ed2efc5bf52908"
 
 [[files]]
 file = "mods/better-third-person.pw.toml"
@@ -5658,8 +5667,9 @@ hash = "51d9f484ad01db764d1e25cc53d18ccab4979c358f6e4e7be5f2e123af8daf30"
 metafile = true
 
 [[files]]
-file = "mods/cccbridge-mc1.20.1-forge-1.6.3.jar"
-hash = "ebdde3d104757c50f0a052b7807c4b7464bf12217a1cc7155387f665fb578d22"
+file = "mods/cccbridge.pw.toml"
+hash = "2ecf09fed9ee5d417e3c748b9274989b37bd5555ddfea9626e53628b60285189"
+metafile = true
 
 [[files]]
 file = "mods/citadel.pw.toml"
@@ -5678,7 +5688,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "9ed4a161dc62f0bff052fbc2f3d6b2d822f0373711b046a1881d03b4f64f45a8"
+hash = "c41da4281babbf24ce778fcae1da1da9c2d0bdf9a73b01310e1d7fb120c19cc1"
 metafile = true
 
 [[files]]
@@ -5733,7 +5743,7 @@ metafile = true
 
 [[files]]
 file = "mods/createaddition.pw.toml"
-hash = "c32ad54d7b3875f326808bf3cf5cae41a132711fe84afc7bd9ccf703f3ecbd79"
+hash = "616407dee7d567f6db337e457ffdcdd2c12ea92f12877fbff822e057a379f487"
 metafile = true
 
 [[files]]
@@ -5781,8 +5791,9 @@ hash = "c23517b855704f8cca18f5a56da4098d2cfd8d5b4979ea1edf06e4374933b26a"
 metafile = true
 
 [[files]]
-file = "mods/emi-1.0.27+1.20.1+forge.jar"
-hash = "b72b9ba55ffa728ff44c85d0128d718c9b20db835271bcdd76e772ce5cf3ce48"
+file = "mods/emi.pw.toml"
+hash = "e6fc479b67717898467d96473d1a88764d2e1fb19ebbd659a7beb2a442933cb6"
+metafile = true
 
 [[files]]
 file = "mods/emiffect-status-effects-emi-plugin.pw.toml"
@@ -5810,8 +5821,9 @@ hash = "25b957c0cd1987e0b45b9733b184ba997e2d8dcebb853958dc8e387a8a0d02e6"
 metafile = true
 
 [[files]]
-file = "mods/exposure-1.20.1-1.0.2.jar"
-hash = "40db9720473669758a5216b0f3d9752676f0d2e6cdddd5167f4e6e7428475315"
+file = "mods/exposure.pw.toml"
+hash = "f9c58601c4d98ece0917f656169100a55533f139e89819bef6a1e14f4fe4f2e4"
+metafile = true
 
 [[files]]
 file = "mods/extreme-sound-muffler.pw.toml"
@@ -5825,7 +5837,7 @@ metafile = true
 
 [[files]]
 file = "mods/fancymenu-forge.pw.toml"
-hash = "3cf25c32e4172131ed12e61b489a7d90cf5aa096571c0357a6d368eca6f2b3d0"
+hash = "98cef412ba0754001dd865cd9ca5dbff62e91b3aadacdfdc2749d14d309c1303"
 metafile = true
 
 [[files]]
@@ -5953,7 +5965,7 @@ metafile = true
 
 [[files]]
 file = "mods/kotlin-for-forge.pw.toml"
-hash = "f5d6bfb0599246f95d25bfd6cc190609f4a2e14ed566ea4fbc6a52ccf248d907"
+hash = "924496b2053a796376b098aa23d95cec889bdc3111a97b1c2749324ddbf1bbfe"
 metafile = true
 
 [[files]]
@@ -5982,8 +5994,9 @@ hash = "58591806a06b46c18298e858f14bcfde0be6487d153eef253719c35f6adf0526"
 metafile = true
 
 [[files]]
-file = "mods/minecolonies-1.20.1-1.1.343-BETA.jar"
-hash = "994d2dda7855dc90df461c9c8260423936bf7863b2a6125697e6cdaea78cbac8"
+file = "mods/minecolonies.pw.toml"
+hash = "b31ae15e967f4e15458ba2e998ab5402ae33c61121827f44b9f4e2d462e0fd34"
+metafile = true
 
 [[files]]
 file = "mods/missions.pw.toml"
@@ -5991,12 +6004,8 @@ hash = "4d10dbc3ba37e2788fdba69a38f436198a996354ea520881d5ecd03cc5153da1"
 metafile = true
 
 [[files]]
-file = "mods/modernfix-forge-5.10.0+mc1.20.1.jar"
-hash = "5320b1dcb0453b4b9bf22e97dd2eb0790be6ed39ca325b465e6e50d319f1bc2a"
-
-[[files]]
 file = "mods/modernfix.pw.toml"
-hash = "f020e22f4ea369079b88cf968e1545ec97297b2cab1f58a25f54700b8d113bdb"
+hash = "2d5463060d769e283800b78ec9a05cb517ddb34fd0064a66b0d8812c437ddac8"
 metafile = true
 
 [[files]]
@@ -6034,11 +6043,6 @@ hash = "14b243b0beec250ebf69d12c4b56acaabade693e30c60a8beb157758c0bdc242"
 metafile = true
 
 [[files]]
-file = "mods/nullscape.pw.toml"
-hash = "a8220eb5483e87eef98558fb707d36ced18445e98a98c2cc73b364b27fe595e6"
-metafile = true
-
-[[files]]
 file = "mods/oculus-flywheel-compat-1.20.1-0.2.0(Codion'd).jar"
 hash = "9d8bcc152c187a2f38dca95f8a9534cc132d908fee5a061de8ad2b04d586e90a"
 
@@ -6070,6 +6074,11 @@ metafile = true
 [[files]]
 file = "mods/project-871698.pw.toml"
 hash = "bbc21d2cf34d36cd4d4a6dcb56b1e58cc5d0190a54c3c4115db7fa0852b5a2e9"
+metafile = true
+
+[[files]]
+file = "mods/puzzles-lib.pw.toml"
+hash = "8a72bad048457c616c690838c8d2f6f958c3a3f5cbc843f38e6e2eaa0d043c7b"
 metafile = true
 
 [[files]]
@@ -6127,11 +6136,6 @@ hash = "45893c2cf9e29f357470f367bbbf1f8eaed4e79bf8523f28af99ad81197e8255"
 metafile = true
 
 [[files]]
-file = "mods/sinytra-connector.pw.toml"
-hash = "cc922f0b6d8e4734d2d6b66ea2469c6561ab5a6e6006c061712bae3929322a74"
-metafile = true
-
-[[files]]
 file = "mods/slice-and-dice.pw.toml"
 hash = "5b8044347814e2099c47058c60680376c5acf64f6e87124d1734ae23aeb183fc"
 metafile = true
@@ -6172,7 +6176,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "015e33afa4d5424d5a76d2a1af470cc99b6e0e9fd4c869d928338e97e7c6b9f0"
+hash = "a811b5e51d1b4d014e19c81549a79894213ef2f2f0e34229de5c93b66a5c7c09"
 metafile = true
 
 [[files]]
