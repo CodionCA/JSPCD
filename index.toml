@@ -5542,6 +5542,10 @@ file = "mods/Connector-1.0.0-beta.27+1.20.1.jar"
 hash = "28a3a438f538ad63f7961c8fc499cb83f43e7d8ae5c19fbe6ea3ec1d44f87e35"
 
 [[files]]
+file = "mods/Nullscape_1.20.2_v1.2.3.jar"
+hash = "c423feb59609cb53a541a5607425312233e8cbd6ddc11e1d4a61399ac42fed24"
+
+[[files]]
 file = "mods/PacketFixer-forge-1.2.1-1.20.1.jar"
 hash = "c077c7964ad0228a89dc1847f3702a7bba668afbf8466c92947c6bff2d8e81fc"
 
@@ -5611,10 +5615,6 @@ hash = "2930f6eb3ac116334c6ce7882315e65d0b54eed1cd663687fd6e77dfe3146bd0"
 metafile = true
 
 [[files]]
-file = "mods/bclib-3.0.13.jar"
-hash = "02909e009bf514295868ee7ab55e527fdaf374ea3b67f2bad02b890b3d7cfc08"
-
-[[files]]
 file = "mods/bendy-lib.pw.toml"
 hash = "0c04ed6d72d3f59b20bb30aa960f7f62609c83292d505b73cc864c527e7052a7"
 metafile = true
@@ -5627,10 +5627,6 @@ hash = "22b7b8e3db6aba6049609f1a0824703690ca7ad1952df7065e351bf2aabf5df4"
 file = "mods/better-burning.pw.toml"
 hash = "ba84272f830ac3e979698d1621e7ad93a734075ad2c48608dde686702f3f6ec5"
 metafile = true
-
-[[files]]
-file = "mods/better-end-4.0.10.jar"
-hash = "80d574fb43473cbe84b5fd58c59efee4c7abeebfab9fcc2811ed2efc5bf52908"
 
 [[files]]
 file = "mods/better-third-person.pw.toml"
