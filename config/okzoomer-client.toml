@@ -1,0 +1,6 @@
+[tweaks]
+	#If enabled, the zoom will use spyglass sounds on zooming in and out.
+	use_spyglass_sounds = true
+	#Shows toasts when the server imposes a restriction.
+	show_restriction_toasts = false
+
