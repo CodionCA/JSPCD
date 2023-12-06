@@ -5834,11 +5834,6 @@ file = "mods/entityculling-forge-1.6.2-mc1.20.1.jar"
 hash = "132ec1dc9127511f044eea7a8ff3636373ed7dcb3696e4b25c4215bc85e8a25c"
 
 [[files]]
-file = "mods/erroring-entity-remover-reforged.pw.toml"
-hash = "d7478bd3882348f3063b006104cdc05b1294b475ba9f1d09dbc875b0086e2f8a"
-metafile = true
-
-[[files]]
 file = "mods/every-compat.pw.toml"
 hash = "25b957c0cd1987e0b45b9733b184ba997e2d8dcebb853958dc8e387a8a0d02e6"
 metafile = true
