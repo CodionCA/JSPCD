@@ -5604,11 +5604,6 @@ hash = "c688319082fabc81ac56fe130530256b8e3326900a132cb8a839c46c1537813f"
 metafile = true
 
 [[files]]
-file = "mods/antixray-forge.pw.toml"
-hash = "d43ab1ac02af13945f23525f0d7851921ae848f633c4f0031db6025061672777"
-metafile = true
-
-[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "8d0321177fed4a0b48554c40158b43db62f6cdaa768f584ef6a11575dfaa6223"
 metafile = true
@@ -5830,10 +5825,6 @@ hash = "aadb47611a4a0f2748b25ad2ea700e05c1aa330581f12c015d6c78beca1a5f08"
 metafile = true
 
 [[files]]
-file = "mods/entityculling-forge-1.6.2-mc1.20.1.jar"
-hash = "132ec1dc9127511f044eea7a8ff3636373ed7dcb3696e4b25c4215bc85e8a25c"
-
-[[files]]
 file = "mods/every-compat.pw.toml"
 hash = "25b957c0cd1987e0b45b9733b184ba997e2d8dcebb853958dc8e387a8a0d02e6"
 metafile = true
@@ -6048,11 +6039,6 @@ metafile = true
 [[files]]
 file = "mods/naturalist.pw.toml"
 hash = "a57155e174f160d0cb42c8e10eb648b05865d70a79496a4024111d2a506325ca"
-metafile = true
-
-[[files]]
-file = "mods/neruina.pw.toml"
-hash = "7dc3c3b0b99843a19a55ec0333554b7d406de1380b5263864714c88c157b49c9"
 metafile = true
 
 [[files]]
