@@ -4436,6 +4436,7 @@ hash = "9424ceb580ec8f3f074ebcc0618bfceebb62bb44d64750c7df5964fc7713964c"
 [[files]]
 file = "config/defaultoptions/options.txt"
 hash = "e72bd195774d788326a7b23305de36b2faee8cee39e9b2173aa2c5c4f7c17a1e"
+preserve = true
 
 [[files]]
 file = "config/does_potato_tick-common.toml"
@@ -5566,8 +5567,8 @@ file = "mods/AmbientEnvironment-forge-1.20.1-11.0.0.1.jar"
 hash = "2c69c96cb11179ffd6de8e365f6dc0244f3ad2c9d7a4be82cc302170c0c47b02"
 
 [[files]]
-file = "mods/Connector-1.0.0-beta.27+1.20.1.jar"
-hash = "28a3a438f538ad63f7961c8fc499cb83f43e7d8ae5c19fbe6ea3ec1d44f87e35"
+file = "mods/Connector-1.0.0-beta.29+1.20.1.jar"
+hash = "e2a4047590ce36da9c8793228c52ff140f8dffb732da24584feaeb7156ed0189"
 
 [[files]]
 file = "mods/adaptive-performance-tweaks-core.pw.toml"
@@ -5821,6 +5822,10 @@ hash = "aadb47611a4a0f2748b25ad2ea700e05c1aa330581f12c015d6c78beca1a5f08"
 metafile = true
 
 [[files]]
+file = "mods/entityculling-forge-1.6.2-mc1.20.1.jar"
+hash = "132ec1dc9127511f044eea7a8ff3636373ed7dcb3696e4b25c4215bc85e8a25c"
+
+[[files]]
 file = "mods/every-compat.pw.toml"
 hash = "25b957c0cd1987e0b45b9733b184ba997e2d8dcebb853958dc8e387a8a0d02e6"
 metafile = true
@@ -5974,6 +5979,10 @@ hash = "924496b2053a796376b098aa23d95cec889bdc3111a97b1c2749324ddbf1bbfe"
 metafile = true
 
 [[files]]
+file = "mods/lazurite-1.0.1+mc1.20.1.jar"
+hash = "eecf72db14fca7ad9ab14a18a5c818fce05b59337a34ae74f0d1d1eedc0bcf15"
+
+[[files]]
 file = "mods/leaves-be-gone.pw.toml"
 hash = "bbba6ac677c4e82b397501e4db188fadcafc4dacff02b835e4b8a44ffcc9a3c7"
 metafile = true
@@ -5987,6 +5996,10 @@ metafile = true
 file = "mods/log-begone.pw.toml"
 hash = "dce6fa268df602cfa84ed377a253c80a1492994d5eeadde732fb74f72ecc742f"
 metafile = true
+
+[[files]]
+file = "mods/lunade-fastanim-1.6-1.20.jar"
+hash = "c6af4d11f52a66bfa4f35e87fe6aa7132f74ff1f2dea3a3dd668a0d60e99017c"
 
 [[files]]
 file = "mods/macaws-bridges.pw.toml"
@@ -6021,6 +6034,10 @@ hash = "a041b0f0305ffa5eb90120aa23768e1cfbb27583904b1751e3783c0f69382f1a"
 file = "mods/moogs-end-structures.pw.toml"
 hash = "71ea49166df94bc55c9636eb10209696fb15945e25a52c9c2f6750db351d3b51"
 metafile = true
+
+[[files]]
+file = "mods/morechathistory-1.0.0.jar"
+hash = "45e71889b046e265e0170a7bd15c2d80f9cd93bc3a76fac5a541191543bf8d99"
 
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
@@ -6270,8 +6287,12 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "311cd0ff158ffc8aaf5bb2b54c521386e6fa0ec3fea503bd2ca0f0c67b118e64"
+hash = "e49504c04414846d1b337fc5347e1116b3d6aa0be08c74859feac32ebe7daa73"
 preserve = true
+
+[[files]]
+file = "resourcepacks/Midnighttiggers-CTM-Default_1.20.2_V2.zip"
+hash = "b4ffb55d2a400fde90a4c420b0aed66b5a32d861af6b93cac918867753d8287b"
 
 [[files]]
 file = "resourcepacks/loading_background.png"
