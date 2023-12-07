@@ -5567,8 +5567,8 @@ file = "mods/AmbientEnvironment-forge-1.20.1-11.0.0.1.jar"
 hash = "2c69c96cb11179ffd6de8e365f6dc0244f3ad2c9d7a4be82cc302170c0c47b02"
 
 [[files]]
-file = "mods/Connector-1.0.0-beta.29+1.20.1.jar"
-hash = "e2a4047590ce36da9c8793228c52ff140f8dffb732da24584feaeb7156ed0189"
+file = "mods/Connector-1.0.0-beta.27+1.20.1.jar"
+hash = "28a3a438f538ad63f7961c8fc499cb83f43e7d8ae5c19fbe6ea3ec1d44f87e35"
 
 [[files]]
 file = "mods/adaptive-performance-tweaks-core.pw.toml"
