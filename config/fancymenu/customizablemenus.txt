@@ -9,9 +9,6 @@ net.minecraft.client.gui.screens.multiplayer.JoinMultiplayerScreen {
 dev.emi.emi.screen.RecipeScreen {
 }
 
-net.minecraft.client.gui.screens.TitleScreen {
-}
-
 de.keksuccino.drippyloadingscreen.customization.DrippyOverlayScreen {
 }
 
@@ -28,5 +25,8 @@ me.jellysquid.mods.sodium.client.gui.SodiumOptionsGUI {
 }
 
 net.minecraft.client.gui.screens.inventory.InventoryScreen {
+}
+
+net.minecraft.client.gui.screens.TitleScreen {
 }
 

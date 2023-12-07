@@ -275,3 +275,23 @@ customization {
   height = 20
 }
 
+customization {
+  orientation = top-left
+  enable_scrolling = true
+  shadow = true
+  scale = 1.0
+  source = Patch notes - {"placeholder":"mcversion"} Mods: {"placeholder":"loadedmods"}
+  text_border = 0
+  case_mode = normal
+  source_mode = direct
+  line_spacing = 1
+  x = 351
+  width = 260
+  action = custom_layout_element:fancymenu_customization_item_text
+  actionid = a24fca82-64c3-4970-8bf5-7fe48b6d19741701915182823
+  y = 314
+  [loading_requirement:fancymenu_visibility_requirement_is_element_hovered][requirement_mode:if][req_id:bcd259e2-eb6c-4201-9dc1-9f4c683d6d1d1701915280686] = 74b25c1f-2512-4e3c-826b-86656a8352cd1701514181498
+  alignment = left
+  height = 13
+}
+

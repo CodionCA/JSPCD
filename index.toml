@@ -4532,7 +4532,7 @@ hash = "aabd85b5b2a25b4dd89eeef0f7aec8d6aafc25d738843deca208ba9f1679d0e3"
 
 [[files]]
 file = "config/fancymenu/customizablemenus.txt"
-hash = "7ac176670e6bea66a2e78f819f4dddf73e85d32ffac621ee57870366b7d3aa44"
+hash = "3f68d8bf108932b2f16a39e6bf079f9d7aa74799c7f26cdf26cb97d9dcbba950"
 
 [[files]]
 file = "config/fancymenu/customization/.disabled/forced3.txt"
@@ -4556,7 +4556,7 @@ hash = "2fb727c5d0dea70c178bc17a5bf8cf79e58a3963616437f1a9d13c2e371469d7"
 
 [[files]]
 file = "config/fancymenu/customization/jscpd.txt"
-hash = "6e3e2fb6cfa546ee632f7e81d6647450ab52e4f928cb9e163e7c2ea7d58c881c"
+hash = "f167ba85eb5767f2d462db688f6c2eb26800337548a880742153f81dd9a97a4d"
 
 [[files]]
 file = "config/fancymenu/customization/jspcd.txt"
@@ -4612,27 +4612,27 @@ hash = "003a1c89846741e0eb9475089d4ed653896fd08e0b994667fae452b4ad894a72"
 
 [[files]]
 file = "config/fancymenu/panoramas/jspcd/panorama/panorama_0.png"
-hash = "7421a7db53766a08a4c6ebc965c9ce0f760a634ff204abb3fb6b88ec89459751"
+hash = "5706f1fb42ca7e6224f5a82b9f99b09907f9a08f2e5daa8e537fb407b6f728da"
 
 [[files]]
 file = "config/fancymenu/panoramas/jspcd/panorama/panorama_1.png"
-hash = "7ab5f3d480ea2c13b08a3f24a7b427a8bbd252f1087f864010260b028b02dce4"
+hash = "f87e4674f6529a239dc0735dd71e306af9db8ebfd256e489168edc5f94d98556"
 
 [[files]]
 file = "config/fancymenu/panoramas/jspcd/panorama/panorama_2.png"
-hash = "6b8ee6fd12385bfca56388e9c63df932eafe165c6eb57d268d6550315f26530d"
+hash = "679f342eca2d5545e15ee6e79a8b6f0463aa2ba6b7b20283afdd332ef96f0c0d"
 
 [[files]]
 file = "config/fancymenu/panoramas/jspcd/panorama/panorama_3.png"
-hash = "8872fd143c331cd60d12265d8276edf3a8d618462539fb7749aadc26c75bf261"
+hash = "b944a3b92b484941f0a50d3919818ff96a8b0a1374bda619e3c6db7df1b32aac"
 
 [[files]]
 file = "config/fancymenu/panoramas/jspcd/panorama/panorama_4.png"
-hash = "58914a9c4b60c182183567316e908e54d0b431ea68071f5f108088300e0d7497"
+hash = "e61441d8ad9c7d11b5230dd532be19498f19c90ff1250647fa3ad34ddc95efc8"
 
 [[files]]
 file = "config/fancymenu/panoramas/jspcd/panorama/panorama_5.png"
-hash = "b27facf18ada947445698750fd85d141a040980518b7552e38caca3c12583364"
+hash = "a47f54f2fde693697f200afb33e5a9f928021969624631bd58e13e2835eb318a"
 
 [[files]]
 file = "config/fancymenu/panoramas/jspcd/panorama/panorama_overlay.png"
