@@ -4532,10 +4532,14 @@ hash = "aabd85b5b2a25b4dd89eeef0f7aec8d6aafc25d738843deca208ba9f1679d0e3"
 
 [[files]]
 file = "config/fancymenu/customizablemenus.txt"
-hash = "3f68d8bf108932b2f16a39e6bf079f9d7aa74799c7f26cdf26cb97d9dcbba950"
+hash = "63b8a46a96992c50cfd376c948ca004b0eca5924aef16b442b06af52d73421f1"
 
 [[files]]
 file = "config/fancymenu/customization/.disabled/forced3.txt"
+hash = "1d959663dc4c739653d78bb9714d4f0b58eeda6c01965cc22bc3624e9fa929f6"
+
+[[files]]
+file = "config/fancymenu/customization/.disabled/forced3_1.txt"
 hash = "1d959663dc4c739653d78bb9714d4f0b58eeda6c01965cc22bc3624e9fa929f6"
 
 [[files]]
@@ -4552,6 +4556,10 @@ hash = "1d959663dc4c739653d78bb9714d4f0b58eeda6c01965cc22bc3624e9fa929f6"
 
 [[files]]
 file = "config/fancymenu/customization/inv.txt"
+hash = "2fb727c5d0dea70c178bc17a5bf8cf79e58a3963616437f1a9d13c2e371469d7"
+
+[[files]]
+file = "config/fancymenu/customization/inv_1.txt"
 hash = "2fb727c5d0dea70c178bc17a5bf8cf79e58a3963616437f1a9d13c2e371469d7"
 
 [[files]]
