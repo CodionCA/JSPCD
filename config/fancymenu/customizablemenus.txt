@@ -24,9 +24,6 @@ net.minecraft.client.gui.screens.PauseScreen {
 me.jellysquid.mods.sodium.client.gui.SodiumOptionsGUI {
 }
 
-net.minecraft.client.gui.screens.inventory.InventoryScreen {
-}
-
 net.minecraft.client.gui.screens.TitleScreen {
 }
 
