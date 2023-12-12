@@ -4407,7 +4407,7 @@ hash = "70570a904102df93d5786953a4e819e398aab5554cc32a9bddf4febfe6b0b0b3"
 
 [[files]]
 file = "config/computercraft-client.toml"
-hash = "266d0217e20da6cd36868252da4ffc1375d7b9c3732e15af267ef4c74ad782f2"
+hash = "07be936a5a6ba215a60510ac62f9bc36abe461a6962a5426b0b2575f078332a1"
 
 [[files]]
 file = "config/connectivity-common.toml"
