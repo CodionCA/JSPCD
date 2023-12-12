@@ -4406,6 +4406,10 @@ file = "config/comforts-server.toml"
 hash = "70570a904102df93d5786953a4e819e398aab5554cc32a9bddf4febfe6b0b0b3"
 
 [[files]]
+file = "config/computercraft-client.toml"
+hash = "266d0217e20da6cd36868252da4ffc1375d7b9c3732e15af267ef4c74ad782f2"
+
+[[files]]
 file = "config/connectivity-common.toml"
 hash = "7b0c1fede7704a30c429f3e2e759100c0a3b5b20f9b8e6f6944a91077f7af194"
 
@@ -6333,7 +6337,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "e49504c04414846d1b337fc5347e1116b3d6aa0be08c74859feac32ebe7daa73"
+hash = "f3b2a1cd103abbeef76b4d1a847b0e4d5302d2d13dce0017a91de61e7f423ac4"
 preserve = true
 
 [[files]]
