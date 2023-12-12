@@ -1,6 +1,6 @@
 
 ["Config category"]
-	#Max distance at which chunk data is kept on the client. default = 32
+	#The distance at which chunks are kept in memory, regardless of whether the server unloads them. default = 32, maximum = 512
 	#Range: 8 ~ 512
 	maxchunkdist = 32
 

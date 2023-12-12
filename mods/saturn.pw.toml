@@ -1,13 +1,13 @@
 name = "Saturn"
-filename = "saturn-mc1.20.1-0.0.7.jar"
+filename = "saturn-mc1.20.1-0.0.10.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "e821aa0aca79a8d0b9e91199b733f265d4a9d4cd"
+hash = "eaa2c7a1041bc34b84e08cfc3523d8a0d7c6afd7"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4800865
+file-id = 4944836
 project-id = 670986
