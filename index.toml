@@ -6112,6 +6112,10 @@ hash = "735a4682ce5f732ea64ec5e8d62c9befa234fb55322ce6a6a4dcefc5dbf5a129"
 metafile = true
 
 [[files]]
+file = "mods/out_of_sight-1.20.1-1.0.3.jar"
+hash = "bf248273cb3f917fc27aba1db2c179ff546bcef051d592fb1a9d439a74ecad9e"
+
+[[files]]
 file = "mods/overflowing-bars.pw.toml"
 hash = "447d3edbe6b85c54c601c64709cf7223af19142d0a47c2a2032194baf10c61f2"
 metafile = true
