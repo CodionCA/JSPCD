@@ -6107,13 +6107,8 @@ hash = "7aac5fffbd7cf3d2da562e5f3b71e0c7d9722c8ed82172fead880d4536a22c05"
 metafile = true
 
 [[files]]
-file = "mods/oculus-flywheel-compat-1.20.1-0.2.0(Codion'd).jar"
-hash = "9d8bcc152c187a2f38dca95f8a9534cc132d908fee5a061de8ad2b04d586e90a"
-
-[[files]]
-file = "mods/oculus.pw.toml"
-hash = "735a4682ce5f732ea64ec5e8d62c9befa234fb55322ce6a6a4dcefc5dbf5a129"
-metafile = true
+file = "mods/oculus-mc1.20.1-1.6.13.jar"
+hash = "2a2f774fc5639498b9f2feaf84001cc42c0eca2df63faa0795b9d0ec7b7c9b45"
 
 [[files]]
 file = "mods/out_of_sight-1.20.1-1.0.3.jar"
