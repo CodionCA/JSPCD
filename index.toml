@@ -5699,10 +5699,6 @@ hash = "1dba25e5e8f8c8574d104986afae329b4b7b6db2329f145ed5f879a4aa054fe3"
 metafile = true
 
 [[files]]
-file = "mods/bocchium-1.20.1-0.0.2.jar"
-hash = "60e9b3cd35a1baa41b0c582a4d64b7071f559739e58c9328ca1034d9429160e8"
-
-[[files]]
 file = "mods/bookshelf.pw.toml"
 hash = "a8beef77c7ca4f31b9b85f4f123f2f461814b249551720b4f75c197e2aca68fc"
 metafile = true
