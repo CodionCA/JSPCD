@@ -5131,6 +5131,10 @@ file = "config/okzoomer-client.toml"
 hash = "1604636804276201addc29fe193ba9ce057374b3d7389739ed04b9f290732514"
 
 [[files]]
+file = "config/out_of_sight-client.toml"
+hash = "fec2eab5ab11c319a5cbfb0501f2277d1442763a838c975ba8dfbaafafed2cd2"
+
+[[files]]
 file = "config/overflowingbars-client.toml"
 hash = "1cb5807421d57c43c64c74b18bc22a30452f4e84b59020ed39742c0b957ea57b"
 
