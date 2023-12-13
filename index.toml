@@ -6111,10 +6111,6 @@ file = "mods/oculus-mc1.20.1-1.6.13.jar"
 hash = "2a2f774fc5639498b9f2feaf84001cc42c0eca2df63faa0795b9d0ec7b7c9b45"
 
 [[files]]
-file = "mods/out_of_sight-1.20.1-1.0.3.jar"
-hash = "bf248273cb3f917fc27aba1db2c179ff546bcef051d592fb1a9d439a74ecad9e"
-
-[[files]]
 file = "mods/overflowing-bars.pw.toml"
 hash = "447d3edbe6b85c54c601c64709cf7223af19142d0a47c2a2032194baf10c61f2"
 metafile = true
