@@ -5355,20 +5355,8 @@ file = "config/sodium-extra.properties"
 hash = "a2f1b47c1eaa119ab34727f1d43c2506cb3d7f17ba8fb4efb49e20c8e0b58e70"
 
 [[files]]
-file = "config/sound_physics_remastered/allowed_sounds.properties"
-hash = "9497afc6a784cbc0ab0923d46aadf7649decfdb6ddb929f8b154feb15e875c5c"
-
-[[files]]
-file = "config/sound_physics_remastered/occlusion.properties"
-hash = "9190f3f7fe5c565ca22da672e7ee40244d17f9070123ef79a7591bb56f691ef7"
-
-[[files]]
-file = "config/sound_physics_remastered/reflectivity.properties"
-hash = "92f58d1a2160fc827a02b70f44c6425416911cd8a49a69bf98a076a6a4d94c7d"
-
-[[files]]
 file = "config/sound_physics_remastered/soundphysics.properties"
-hash = "aef5e862457dbd182e2c06d6a8d3c2750cb326051165f97ac112748e7967498c"
+hash = "2e73bd61dabf1d5ed4cc2b6d0f2d2496d519be8a1a90baa1b7baa0a985f2bdcd"
 
 [[files]]
 file = "config/starterkit/starterkit-old.txt"
