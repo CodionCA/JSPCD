@@ -5591,14 +5591,6 @@ file = "mods/AmbientEnvironment-forge-1.20.1-11.0.0.1.jar"
 hash = "2c69c96cb11179ffd6de8e365f6dc0244f3ad2c9d7a4be82cc302170c0c47b02"
 
 [[files]]
-file = "mods/Connector-1.0.0-beta.27+1.20.1.jar"
-hash = "28a3a438f538ad63f7961c8fc499cb83f43e7d8ae5c19fbe6ea3ec1d44f87e35"
-
-[[files]]
-file = "mods/FpsReducer2-forge-1.20-2.5.jar"
-hash = "4edeec5c3dc690e06a647dd5f4d5cd4f95330e0d0b0d7aceb3748f10dbd64b90"
-
-[[files]]
 file = "mods/adaptive-performance-tweaks-core.pw.toml"
 hash = "76488370b9f6649b4b597a5206066744785e3875e13fbca3586f3ed964d8a0fc"
 metafile = true
@@ -5726,8 +5718,9 @@ hash = "f71088a0f4930a32f27756a6fc6db26a88ead8bf5e236159c52c98868e26ed27"
 metafile = true
 
 [[files]]
-file = "mods/cloth-config-12.0.109-forge.jar"
-hash = "2d625ede005fbd5cf6b6aaf411494e49410ce6fcd15e9e947ba76436b5872544"
+file = "mods/cloth-config.pw.toml"
+hash = "9a5da8d67300030c5b107ece3974256eff61896e85036bb26747ac7395124008"
+metafile = true
 
 [[files]]
 file = "mods/clumps.pw.toml"
@@ -5736,7 +5729,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "95705b43bddd004df85e38b6c56d82e26f865004ae111a8b31c8c0e2bdfe9219"
+hash = "b883eb886342d793d2e07e80ddcb560654bf77114254371414b4557b856ba3b9"
 metafile = true
 
 [[files]]
@@ -5751,7 +5744,7 @@ metafile = true
 
 [[files]]
 file = "mods/connectivity.pw.toml"
-hash = "6aafc2bb9101fc3e3548af4677a482eb5f6f85040394230911bc8fa0c46f37a9"
+hash = "0cdd209cbf66b8929f8250f520e2bcf94056f57c82921444875265fb9db1f64f"
 metafile = true
 
 [[files]]
@@ -5883,8 +5876,8 @@ hash = "50056479cbf8921db75cc5490dd52f8420fd4492dfe2e31ce90460b29e21057e"
 metafile = true
 
 [[files]]
-file = "mods/farsight.pw.toml"
-hash = "895a16cc23b52ea6f851727c04199deae43eedb5bc9d6d121d20bf7f3a97c70a"
+file = "mods/fastanim.pw.toml"
+hash = "a572cf3fe79af016c34abcbb7c286c28a840f98f1ab52b91167cde7cd3ae925a"
 metafile = true
 
 [[files]]
@@ -5905,6 +5898,11 @@ metafile = true
 [[files]]
 file = "mods/forgified-fabric-api.pw.toml"
 hash = "a7edbd795ba0ff382afe03c0026184db8d1a525df4cbac2111dedd86afae4e7a"
+metafile = true
+
+[[files]]
+file = "mods/fps-reducer.pw.toml"
+hash = "74343f6931d66da29809e437bfb83d19adcf2bf5c81861071fad6f049c70ed1e"
 metafile = true
 
 [[files]]
@@ -5967,7 +5965,7 @@ metafile = true
 
 [[files]]
 file = "mods/irons-spells-n-spellbooks.pw.toml"
-hash = "005d5f47894bd0e630534f6d3e82d72d9c0bd26fffc59aa7ecf023778d03bfcf"
+hash = "7dd5a5ad2d32fe18dc06c878f7f8ad6dcb142911f8cc1d765bbfb839358b71e3"
 metafile = true
 
 [[files]]
@@ -6001,8 +5999,9 @@ hash = "f870c6edf1a9b77328b613247a944b8d3f7586cb132b055a48ac707893dbe3a1"
 metafile = true
 
 [[files]]
-file = "mods/lazurite-1.0.1+mc1.20.1.jar"
-hash = "eecf72db14fca7ad9ab14a18a5c818fce05b59337a34ae74f0d1d1eedc0bcf15"
+file = "mods/lazurite.pw.toml"
+hash = "9206dae934cdda53172809d69b895d8f2f6f6f033862e1b787d8b04c163d0762"
+metafile = true
 
 [[files]]
 file = "mods/leaves-be-gone.pw.toml"
@@ -6020,10 +6019,6 @@ hash = "dce6fa268df602cfa84ed377a253c80a1492994d5eeadde732fb74f72ecc742f"
 metafile = true
 
 [[files]]
-file = "mods/lunade-fastanim-1.6-1.20.jar"
-hash = "c6af4d11f52a66bfa4f35e87fe6aa7132f74ff1f2dea3a3dd668a0d60e99017c"
-
-[[files]]
 file = "mods/macaws-bridges.pw.toml"
 hash = "a72b4cce6c4c370313326aa7f838bc4d12e9c207fd2a2b6acc2a9683b8ee6641"
 metafile = true
@@ -6034,12 +6029,8 @@ hash = "58591806a06b46c18298e858f14bcfde0be6487d153eef253719c35f6adf0526"
 metafile = true
 
 [[files]]
-file = "mods/memorysettings-1.20.1-5.4.jar"
-hash = "71c9f057543e9b7d1c0a6f6e4d66b8b462eda6e588f8b937d428da2dc63dbf58"
-
-[[files]]
 file = "mods/minecolonies.pw.toml"
-hash = "5c09822de351b3f735d58d5f1182ef15084d49ce7de6f73bebfe073470afa26f"
+hash = "9d8f15a869e0c7a1ea72ca2b55341ef235133f114d06376d86e1df7c739d705a"
 metafile = true
 
 [[files]]
@@ -6091,8 +6082,9 @@ hash = "7aac5fffbd7cf3d2da562e5f3b71e0c7d9722c8ed82172fead880d4536a22c05"
 metafile = true
 
 [[files]]
-file = "mods/oculus-mc1.20.1-1.6.13.jar"
-hash = "2a2f774fc5639498b9f2feaf84001cc42c0eca2df63faa0795b9d0ec7b7c9b45"
+file = "mods/oculus.pw.toml"
+hash = "31ae55a04e6bf3dd073be426cfd687505ebf9ab691d806d580e9a3305fc8a9ce"
+metafile = true
 
 [[files]]
 file = "mods/overflowing-bars.pw.toml"
@@ -6130,8 +6122,9 @@ hash = "1e4d5c14c4d87c48cae80fd6ce003ad1db70037ea810830504cf0c939ced05b4"
 metafile = true
 
 [[files]]
-file = "mods/redirector-1.20.1-4.4.0-forge.jar"
-hash = "f529994e2279f6d936806cc0d95915d7271dd40de1e38ae16a5b5f7016340707"
+file = "mods/redirectionor.pw.toml"
+hash = "f4bfe8f04847a5b590e59baaf47281273c2f0e54e0e99330eb38e91cfdc98fb4"
+metafile = true
 
 [[files]]
 file = "mods/refined-storage.pw.toml"
@@ -6164,7 +6157,7 @@ metafile = true
 
 [[files]]
 file = "mods/saturn.pw.toml"
-hash = "e845f9fa024878d8da61d7657bb6d1e604c10e0684e9ea1acbaf311ecbbbe566"
+hash = "d06c0259698c2be1e2fb3c78c92389b79b6538444ffda1c9a43d02b6c6a2c037"
 metafile = true
 
 [[files]]
@@ -6179,7 +6172,12 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "bd28216f16b46ae5943f1b82be85d3e46d02c7c20dd3b28240a87a5a3ba840c8"
+hash = "a4fd744cf6d8e4e3cfeff1682a7a93b8560a9ec329b343e44da199d4a9bf553b"
+metafile = true
+
+[[files]]
+file = "mods/sinytra-connector.pw.toml"
+hash = "0e6beb9668fd00d4bff5c6ded253feea737568f00e278a3b61bf0ae37ab2a510"
 metafile = true
 
 [[files]]
@@ -6223,7 +6221,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "f2056d5d5123aac5e5dbe9f98c83771fb0d2c766471dd31778496af6ecb99376"
+hash = "a6462d01e777dc4619bc572e1b876d94cd0ac64bd54f4e70db5423ce486030dc"
 metafile = true
 
 [[files]]

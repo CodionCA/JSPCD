@@ -1,0 +1,13 @@
+name = "Lazurite"
+filename = "lazurite-1.0.1+mc1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "71ec4310da8270de58df25ad28065bbcff604aea"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4827301
+project-id = 928687
