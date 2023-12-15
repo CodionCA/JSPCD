@@ -5591,10 +5591,6 @@ file = "mods/AmbientEnvironment-forge-1.20.1-11.0.0.1.jar"
 hash = "2c69c96cb11179ffd6de8e365f6dc0244f3ad2c9d7a4be82cc302170c0c47b02"
 
 [[files]]
-file = "mods/DistantHorizons.toml"
-hash = "a0f3088b853858db6fe7521ff21510747b95353cb25f31fd679a63b014cf1704"
-
-[[files]]
 file = "mods/adaptive-performance-tweaks-core.pw.toml"
 hash = "76488370b9f6649b4b597a5206066744785e3875e13fbca3586f3ed964d8a0fc"
 metafile = true
