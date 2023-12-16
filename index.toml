@@ -5680,7 +5680,7 @@ metafile = true
 
 [[files]]
 file = "mods/bookshelf.pw.toml"
-hash = "a8beef77c7ca4f31b9b85f4f123f2f461814b249551720b4f75c197e2aca68fc"
+hash = "9cebb1130a4af9458d83fbab1e6c0b2bbb91f025eb13c383849421d03e328aff"
 metafile = true
 
 [[files]]
@@ -5694,7 +5694,7 @@ hash = "3410966d93cd8f31bf4b48ea838f065f25c3f17c745a06fbc2a6cd0a89d4f785"
 
 [[files]]
 file = "mods/cc-tweaked.pw.toml"
-hash = "51d9f484ad01db764d1e25cc53d18ccab4979c358f6e4e7be5f2e123af8daf30"
+hash = "ed2d0e2dd140c2bcbc59f088ae961cb0abaf35e648f3714e840cab9dec087306"
 metafile = true
 
 [[files]]
@@ -5784,7 +5784,7 @@ metafile = true
 
 [[files]]
 file = "mods/curios.pw.toml"
-hash = "33b64d68e19a639ed0edb55703f7758ce59e6a624d59df14d71e6f5c507e97b5"
+hash = "fe27794ddda14f61bba450371493c9e66ca677e7420e1f2526ae40a4fc4d9185"
 metafile = true
 
 [[files]]
@@ -5823,7 +5823,7 @@ metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "e6fc479b67717898467d96473d1a88764d2e1fb19ebbd659a7beb2a442933cb6"
+hash = "07fae73b8d49c92bdb2cde4dd2ee4348e81594e0ece3638d0c342f5141417825"
 metafile = true
 
 [[files]]
@@ -5970,7 +5970,7 @@ metafile = true
 
 [[files]]
 file = "mods/jade.pw.toml"
-hash = "97e0fd23df99408c20ea1bdfc9df2fceb16f4e06cb4a2839a68ec2ed72588a7b"
+hash = "047b5098a60e23a78425c92d69643d5e43102d8e9c560736a6f2e63c4eca94bb"
 metafile = true
 
 [[files]]
@@ -6030,7 +6030,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecolonies.pw.toml"
-hash = "9d8f15a869e0c7a1ea72ca2b55341ef235133f114d06376d86e1df7c739d705a"
+hash = "6ac38e44b79856f60c5e61420c03bc0a9a931bcf6b7c821e698c285612ae0abf"
 metafile = true
 
 [[files]]
@@ -6172,7 +6172,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "a4fd744cf6d8e4e3cfeff1682a7a93b8560a9ec329b343e44da199d4a9bf553b"
+hash = "058ffeb5d53f7390b2cb3b91017ede768427893e43a433ec5d6e4b267547d5a6"
 metafile = true
 
 [[files]]
@@ -6196,8 +6196,8 @@ hash = "590bad572f7a77f8ecc3b6cf7a6c7288c92c0d3af49aa1f5039b3584b1e99401"
 metafile = true
 
 [[files]]
-file = "mods/soundphysics-forge-1.20.1-1.3.0.jar"
-hash = "bab52c429c5373a17a9919bd7619fe529a57096bdc7b03e0cebc013f88c5714f"
+file = "mods/soundphysics-forge-1.20.1-1.2.1.jar"
+hash = "3216ba02b5c3e446d99fdde913842ef6a7d47399b9626e20f21ad70ac31c34b8"
 
 [[files]]
 file = "mods/spark.pw.toml"
