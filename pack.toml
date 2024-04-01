@@ -1,15 +1,13 @@
 name = "JSPCD2"
-version = "10.0.0"
+author = "Codion"
+version = "1.0.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "0ee324e829ae718a2545d15b24f3a6c5c0047dcec46b6770e957c302df848408"
+hash = "aa28c4583d8441d641e0d820cd833c0d967348eae2e0cd4366416cba7bf3346b"
 
 [versions]
-forge = "47.2.16"
+fabric = "0.15.9"
 minecraft = "1.20.1"
-
-[options]
-no-internal-hashes = false
