@@ -1,11 +1,15 @@
 {
 	"basics": {
-		"favorites": [],
-		"hiddenFavorites": [],
+		"favorites": [
+			"{id:\"ftbteams:my_team\",json:'{\"group\":\"ftblibrary:info\",\"icon\":\"ftbteams:textures/teams.png\",\"x\":0,\"click\":\"ftbteams:open_gui\",\"loading_screen\":true}',type:\"ftblibrary:sidebar_button\"}"
+		],
+		"hiddenFavorites": [
+			"{id:\"ftbquests:quests\",json:'{\"group\":\"ftblibrary:info\",\"icon\":\"ftbquests:item/book\",\"x\":610,\"click\":\"ftbquests:open_gui\",\"required_server_mods\":[\"ftbquests\"],\"custom_text\":true}',type:\"ftblibrary:sidebar_button\"}"
+		],
 		"displayHistory": [],
 		// Declares whether cheating mode is on.
-		"cheating": "WHEN_CREATIVE",
-		"favoritesEnabled": true,
+		"cheating": false,
+		"favoritesEnabled": false,
 		"keyBindings": {
 			"recipeKeybind": {
 				"keyCode": "key.keyboard.r",
@@ -97,13 +101,13 @@
 			// Declares whether REI should use compact tabs for categories.
 			"useCompactTabs": true,
 			// Declares whether REI should use compact tab buttons for categories.
-			"useCompactTabButtons": false
+			"useCompactTabButtons": true
 		},
 		"search": {
 			// Declares whether search time should be debugged.
 			"debugSearchTimeRequired": false,
 			// Declares whether REI should search async.
-			"asyncSearch": true,
+			"asyncSearch": false,
 			// Declares how many entries should be grouped one async search.
 			"asyncSearchPartitionSize": 100,
 			"patchAsyncThreadCrash": true,
@@ -127,7 +131,7 @@
 			"clickableRecipeArrows": true,
 			"registerRecipesInAnotherThread": true,
 			"newFastEntryRendering": true,
-			"cachingFastEntryRendering": true,
+			"cachingFastEntryRendering": false,
 			"cachingDisplayLookup": true
 		}
 	},
@@ -144,11 +148,11 @@
 			"showCraftableOnlyButton": true
 		},
 		// Declares the appearance of recipe's border.
-		"recipeBorder": "LIGHTER",
+		"recipeBorder": "DEFAULT",
 		// Declares whether entry panel is scrolled.
 		"scrollingEntryListWidget": false,
-		"horizontalEntriesBoundaries": 0.8,
-		"verticalEntriesBoundaries": 0.8,
+		"horizontalEntriesBoundaries": 0.6,
+		"verticalEntriesBoundaries": 1.0,
 		"horizontalEntriesBoundariesColumns": 50,
 		"verticalEntriesBoundariesRows": 1000,
 		"favoritesHorizontalEntriesBoundaries": 1.0,
@@ -161,7 +165,7 @@
 		// Declares whether REI should remove the recipe book.
 		"disableRecipeBook": false,
 		// Declares whether mob effects should be on the left side instead of the right side.
-		"leftSideMobEffects": true,
+		"leftSideMobEffects": false,
 		// Declares whether subsets is enabled.
 		"isSubsetsEnabled": false,
 		"allowInventoryHighlighting": true,

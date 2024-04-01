@@ -1,1 +1,0 @@
-key_key.emotecraft.fastchoose:key.keyboard.x
