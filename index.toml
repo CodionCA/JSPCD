@@ -2391,9 +2391,8 @@ hash = "5553f08402ff3f277f68bf132463f187d14e2b12275ae319f934e4672f4b9288"
 metafile = true
 
 [[files]]
-file = "mods/not-enough-animations.pw.toml"
-hash = "50f009eec512f80c7dbcdfdbbce4d508abf373399f51f4e9f3ec3fcfeda3bf12"
-metafile = true
+file = "mods/notenoughanimations-fabric-1.7.0-mc1.20.1.jar"
+hash = "0399528f0a5651bf9b49fad3a8c15cca5173d63e7696bc4cf345223bf6e38217"
 
 [[files]]
 file = "mods/nvidium-0.2.6-beta.jar"
