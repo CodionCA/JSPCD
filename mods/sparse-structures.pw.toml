@@ -1,0 +1,13 @@
+name = "Sparse Structures"
+filename = "sparsestructures-2.1.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "015335ad1e580c29a78dde8701fa8116dffc386e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5010102
+project-id = 911437

@@ -14,7 +14,7 @@ hash = "6d46bdc090d4bb9bdfb660be4ca94075dc08e09d5fed84108eba92a422a23c49"
 
 [[files]]
 file = "config/DistantHorizons.toml"
-hash = "1049ebc94444542a846e5318d1bce102e8e68a2f387698408b50879affb18775"
+hash = "933cbc6829c3bc4bd0dc1b8a4a3dda475e0f915a222f4111e8102ef0e53a393e"
 
 [[files]]
 file = "config/InventoryHUD/curios.json"
@@ -325,6 +325,18 @@ file = "config/chefsdelightconfig.properties"
 hash = "4db7ecb912a606e4c66b962ae9f6ed876d0808918950958fa0df10cbe76d7df3"
 
 [[files]]
+file = "config/chiselsandbits-client.json"
+hash = "1c7b7153e21a20ba06aed2ab847f8a8d0174aabdb7fa0b78f7cf4bc1f0573a20"
+
+[[files]]
+file = "config/chiselsandbits-common.json"
+hash = "c6090f0a28963c27da56191e7741d255f4184873a66697ae7c058f7a897a6630"
+
+[[files]]
+file = "config/chiselsandbits-server.json"
+hash = "980171ca682011053caf5d286034bab9a5fd28a59ff0a24189ed627eeee1d419"
+
+[[files]]
 file = "config/chunksending.json"
 hash = "e589c5988aa0f23e08400df47ef156a61eea1978f2161ba014da278c28a60ac7"
 
@@ -438,11 +450,11 @@ hash = "d5d89a471ce957cc6696fb5c26d7708a07b5913a06a7b406f7697d18f5c80093"
 
 [[files]]
 file = "config/everycomp-common.json"
-hash = "939b3292bd627158447c1625285aae909283a6ee255b65364edafe3000dd50c8"
+hash = "822f50636f68e084def6c4b6eca8e7ba443eb1275b44d2a37b718e0d98bf4a35"
 
 [[files]]
 file = "config/fabric/indigo-renderer.properties"
-hash = "d87b2db603e3647be72c057f161669c6e3cb130da88f1c2e425fdebae031efe0"
+hash = "e931faa91255e2e263e8df856a6f37e771c6a0e7427e416bbefbea49b976b0b1"
 
 [[files]]
 file = "config/fallingleaves.json"
@@ -474,7 +486,7 @@ hash = "898b1f038e3bf3df2dafd1c1c7c6cf0b108b3b5a30ffccbf2a02c37b64d488db"
 
 [[files]]
 file = "config/fancymenu/customization/mainmenu.txt"
-hash = "05c1824cd115209b0a465104381aa36b7fbdc8fe59d6d71aa938b6de7f070a5b"
+hash = "6a96221cf9979a262327622c35bd5208729129e089c22f30f6548b9a8065acc4"
 
 [[files]]
 file = "config/fancymenu/customization/mpuc.txt"
@@ -646,7 +658,7 @@ hash = "33e4898a98c82c8829180a2659d75bfb86f1715546d86a997c6ea0d64befabed"
 
 [[files]]
 file = "config/indium-renderer.properties"
-hash = "dada21d7fe4df79925854c4754cce7da3e73d0fbef1841001d55b77e31d569bf"
+hash = "1069fd67d07f93dc919b9089e33c9edbaf51526c601160c2708cd15f535775c3"
 
 [[files]]
 file = "config/inmis.json"
@@ -654,7 +666,7 @@ hash = "e411d391f3091075769080ebfa29e357d85a43882099112d2a4327c517cd4d03"
 
 [[files]]
 file = "config/inventoryhud.json"
-hash = "ab4f8c5b501e390014890c7aa6ddc7d859485a0ee6d955b46fb693645e4242a6"
+hash = "14b937a73a595c850a9062cd22eb3a3589fd2479008abcfaff7e85edb8aee49b"
 
 [[files]]
 file = "config/inventorymanagement.toml"
@@ -662,7 +674,7 @@ hash = "61640977ef02dd307e6781030924ebde648fcd262b2205ced4c3c27553f1602e"
 
 [[files]]
 file = "config/iris.properties"
-hash = "c5ce5204c8dcce17bb19ffe96ca7461020e6da978227b8c92df17fbbf4066829"
+hash = "60f2a53df32219f5353e81473a93cdd2e9ab61e885bdfb8a252c6d2365e06e18"
 
 [[files]]
 file = "config/jade/hide-blocks.json"
@@ -686,7 +698,7 @@ hash = "fa5a8a6bb8a2af829a9c823d57c3ad9db660a780ed9ca0a1c6b2115fa4dfc7ed"
 
 [[files]]
 file = "config/jade/usernamecache.json"
-hash = "1aa274aba76b46ad10f8eeb79ef062b88da9167d93283e4147b0ea0521a08b5e"
+hash = "c4a43dc384c3ddb9e5afef49520ec9859eccb8e2111064ac8383b02e7334b913"
 
 [[files]]
 file = "config/kiwi-client.toml"
@@ -726,7 +738,7 @@ hash = "06daed44c187f773ce9dae4b19e42440166c9b233798af660e044f34bafc262e"
 
 [[files]]
 file = "config/lambdynlights.toml"
-hash = "383c05d303b12a2a8f930fd68fdbff29d5893f0909cb9a0c84352e188470ec0f"
+hash = "90b4d4371ce6230bb4ec49f6d0a3471d15cbb2d428814150ee577d85c49600b2"
 
 [[files]]
 file = "config/languagereload.json"
@@ -1042,7 +1054,7 @@ hash = "56ef07ea78079bbd2e452724718d9816f1d69a4ddb4a111aaf6752cf6e9d5032"
 
 [[files]]
 file = "config/roughlyenoughitems/config.json5"
-hash = "7f7119e09af9125a5fd0a34ef78b8a321f256ca955c080b452fc9078078b4646"
+hash = "8e0962ddc118cfc08c7a606bb77739e9a44145a3632858d68a1a452caee93955"
 
 [[files]]
 file = "config/roughlyenoughitems/hints.json"
@@ -1050,11 +1062,11 @@ hash = "9b9a285d1dd5ce3032f65a47cf1a4ffefc7b27f887033091af8aea6d43ba7236"
 
 [[files]]
 file = "config/roughlyenoughitems/pinyin.properties"
-hash = "53e91a06b7dc19ebc2bd0a4ef6234c274e83cf94ea032ea7a821d6020bf8dc7d"
+hash = "6b77fd2a6059f4b2d7d545b859d444777f85e691139ca27c983841772cfe1f2b"
 
 [[files]]
 file = "config/roughlyenoughitems/pinyin_double.properties"
-hash = "8752a76cd67d381064e4674baa6e5b0892c9fe9d81a9092ce1d2be47179f81fd"
+hash = "60e50c41031cffe958990a8fabb568082a78d4c69fdbf3ecd3b0d5fade9ef57d"
 
 [[files]]
 file = "config/rrp.properties"
@@ -1134,11 +1146,11 @@ hash = "abad274d389572609784c6c5f5c902e94085c187b627413bdd2164880e0616c8"
 
 [[files]]
 file = "config/sound_physics_remastered/occlusion.properties"
-hash = "6c9edd92a23c2015da036e212d0fbdace6801d79f47972ae55ae5b0dc48d1fb4"
+hash = "4654242f87e8c6ebcfb776c60fb5574c6d947f3c8bbc671710efcda86bc70c2d"
 
 [[files]]
 file = "config/sound_physics_remastered/reflectivity.properties"
-hash = "896e021751158fef4041189d0a072bd826fa903862232604136e8b8bf482311b"
+hash = "fa09ecb2b5580613b37e605a0e2b2c915f001d4cb75f1a0930b9fa87e3bf74d7"
 
 [[files]]
 file = "config/sound_physics_remastered/soundphysics.properties"
@@ -1286,7 +1298,7 @@ hash = "4eb247d6b56f29278a6d852e06f48b38b4430b0b476ade1e9fdb3a1fa17c5304"
 
 [[files]]
 file = "config/vivecraft-server-config.toml"
-hash = "3a2a88220332165f437b2cc8c1c707e96a01d86a62cf0b4db7900ab75ee5bad0"
+hash = "4e1ddecf86b10d410642fbe3ffc759a26d2bafc4582ea568cc346991cf41ab03"
 
 [[files]]
 file = "config/voicechat/translations.properties"
@@ -1294,11 +1306,11 @@ hash = "b8215b84232be41438ffb7c7304b57b0677c9cad49b717db59900872080adf20"
 
 [[files]]
 file = "config/voicechat/username-cache.json"
-hash = "5c74034536aee5445068dc362fa546108ebb2a148eefd4fe33d7d5344a160aab"
+hash = "e5fc5b10246953e7747fcc472fb98393b551f80608e094856a4ac1446fc8505f"
 
 [[files]]
 file = "config/voicechat/voicechat-client.properties"
-hash = "8ae73f102abaf939dbf10f35385ba4e56615b7e85900ff0320e79f2d34777c57"
+hash = "0123fccc9dea66e65422eee729c6b8de18714648fa4f4d0714dbe67c3bfeed6d"
 
 [[files]]
 file = "config/voicechat/voicechat-server.properties"
@@ -1507,1136 +1519,1372 @@ hash = "ade6a7967038ec5eeb1fb769f595dfb210147aedbd75c156f6f15af5f89f3782"
 metafile = true
 
 [[files]]
-file = "mods/AdditionalStructures-1.20.x-(v.4.2.1).jar"
-hash = "96ca38fe6604dc777fcd7752612c719597b682822f16057dd578ef8c359cb33c"
-
-[[files]]
-file = "mods/BOMD-1.7.5-1.20.1.jar"
-hash = "85bec458ba79760be82085657865631afbbcd82e7b55b4948e63451c0dc685f2"
-
-[[files]]
-file = "mods/BadOptimizations-1.6.1.jar"
-hash = "0f655851d16c084d972ab0f0753c262962a909d9f7b54c81f60aa039ed7a31b8"
-
-[[files]]
-file = "mods/BarteringStation-v8.0.0-1.20.1-Fabric.jar"
-hash = "55b6e257c9f7adca049fd9e948d221227051c72e6c3bb1f8387dfda6040e6599"
-
-[[files]]
-file = "mods/BetterAdvancements-Fabric-1.20.1-0.3.2.161.jar"
-hash = "30f96def18c54a246432f49a7c12abc433f166cca9189f33fbbaa399e1adc445"
-
-[[files]]
-file = "mods/BetterTridents-v8.0.1-1.20.1-Fabric.jar"
-hash = "ea6d648497499229bb8095552740e469790ec20ac02335894f9f5016ee0347f0"
-
-[[files]]
-file = "mods/Boat-Item-View-Fabric-1.20.1-0.0.5.jar"
-hash = "e38fb50cc1a26704ba0662e86518d1c436109cd6788e7cc035509b1f5ec12cba"
-
-[[files]]
-file = "mods/BoatBreakFix-Universal-1.0.2.jar"
-hash = "c3085a8ab45025ff581dbdeba334514611b68d41995cb8685264a595029de969"
-
-[[files]]
-file = "mods/Bookshelf-Fabric-1.20.1-20.1.8.jar"
-hash = "dfa82766076589f76af63000a6ecf1f28113e05b562064969a8124c36ed36504"
-
-[[files]]
-file = "mods/Bountiful-6.0.3+1.20.1-fabric.jar"
-hash = "7c8403e59e7039d4ca6b3c8d817f6ac1da60b026a823b8c9c29b4852f85b498a"
-
-[[files]]
-file = "mods/CITResewn-1.1.3+1.20.jar"
-hash = "a931051d6cb1c10d745d9a158016bdb42e3639c47c0b91e8347311e259bcd0ab"
-
-[[files]]
-file = "mods/Chunky-1.3.138.jar"
-hash = "517d0400787444e834e731723a68035681f569e8eba61e9a467110a80bf2b541"
-
-[[files]]
-file = "mods/Clumps-fabric-1.20.1-12.0.0.3.jar"
-hash = "ddb1062ac855e465c7c27c99668aa18f5c6087ca391b6754eeb959220cc4dcde"
-
-[[files]]
-file = "mods/ConfiguredDefaults-v8.0.1-1.20.1-Fabric.jar"
-hash = "b024d17cdceebf5508977aaf1b7f7ffacaa0fce64786c2f6cb8fa1dc8e963b17"
-
-[[files]]
-file = "mods/Controlify-1.7.0-beta.1+1.20.jar"
-hash = "d494777501226810928c6de2cc6681de9460308c80f58e7d570501956bcdc48f"
-
-[[files]]
-file = "mods/Controlling-fabric-1.20.1-12.0.2.jar"
-hash = "bc7eced182b73adf773be705f21081bf24854fb5162c0426c6bb6d55e9b88d38"
-
-[[files]]
-file = "mods/CullLessLeaves-1.3.0.jar"
-hash = "da533e0390bba60f3f77d1ef03404ede30fdd0a0ce0cf15fd2a47f0caea1f4b8"
-
-[[files]]
-file = "mods/DEUF_Refabricated-MC1.20.1-1.1.0.jar"
-hash = "a1a331b431c2bc2a9fe9edf0011e0a672d5fc77defa2d4baed32ec556136caa1"
-
-[[files]]
-file = "mods/Debugify-1.20.1+2.0.jar"
-hash = "c61b78a7609c989578e98837047bc026d32654a0ad55f9118bb35f295536949d"
-
-[[files]]
-file = "mods/Decorative Blocks-fabric-1.20.1-4.0.3.jar"
-hash = "721810ff93ff0c064545edb180c88c70e516f7429e0564a70b5c15b09b943614"
-
-[[files]]
-file = "mods/DiagonalFences-v8.1.3-1.20.1-Fabric.jar"
-hash = "41a69c5aca596269e742b12cb36d1ba9d99501299ce1e496cbe45e6882840560"
-
-[[files]]
 file = "mods/DistantHorizons-fabric-2.0.2-a-dev-1.20.1.jar"
 hash = "1e12688df5b051d4d399bf4bb919be7f30d18322507f1c7fd924b7217c103a9c"
 
 [[files]]
-file = "mods/DungeonsArise-1.20.x-2.1.58-fabric-release.jar"
-hash = "b51a10622bbcb575b026eb434e9e44ed42d334351d7990c06718c3275f92980a"
+file = "mods/additional-structures-fabric.pw.toml"
+hash = "cd8faedc22db3735071a5a70c9d10294130fe73ebbf3a0e1f82fc6681aa32f5e"
+metafile = true
 
 [[files]]
-file = "mods/EasyAnvils-v8.0.1-1.20.1-Fabric.jar"
-hash = "d0196f782c5c88b395a68a115c4892396dbbac59e79545c3d539ab29ec2e23a5"
+file = "mods/advanced-netherite-fabric.pw.toml"
+hash = "cdb4baa96c9c709aa7e41143c47eebfe507d0a615d2a1af2acc40a57ebfd4c5b"
+metafile = true
 
 [[files]]
-file = "mods/EasyMagic-v8.0.1-1.20.1-Fabric.jar"
-hash = "c36c2cd0e53647d76581c85db967a18a88b53ffd42f8a2e1b6da5482b58cde1b"
+file = "mods/adventurez.pw.toml"
+hash = "6132e154f5e7876aecd1916390719b85924f0285904cab8ac54f34586e3deb88"
+metafile = true
 
 [[files]]
-file = "mods/EnchantmentDescriptions-Fabric-1.20.1-17.0.13.jar"
-hash = "9f6d44fa172b7a244dc427fc2d88edf5f608fb2da7d1ebb5af173ef1801fbb2e"
+file = "mods/alternate-current.pw.toml"
+hash = "d4022e0035cdd3ee0cbc4b8e9bddf7b3d9b90525635c1ad74db6238513027744"
+metafile = true
 
 [[files]]
-file = "mods/EuphoriaPatcher-0.3.0-fabric.jar"
-hash = "9688ae38f9681f511d57578e33412366f47f1a1d92fbd79e559e1d2117454779"
+file = "mods/animal-feeding-trough.pw.toml"
+hash = "5a2ab30bdbc2db7164c3fa884b321e90b068b1fcb470a4c908359ea8f48d9e1b"
+metafile = true
 
 [[files]]
-file = "mods/FallingTree-1.20.1-4.3.4.jar"
-hash = "5fb64717c368c2759e768873424a46ee5c40076600feadaac5403ca197aebe0f"
+file = "mods/animatica.pw.toml"
+hash = "c688319082fabc81ac56fe130530256b8e3326900a132cb8a839c46c1537813f"
+metafile = true
 
 [[files]]
-file = "mods/ForgeConfigAPIPort-v8.0.0-1.20.1-Fabric.jar"
-hash = "91e685925fff2fcaa51a73202a6edc9d2435f76552a8d97af88942c37643fd86"
+file = "mods/another-furniture.pw.toml"
+hash = "505f89da0af64879da1886bc0eb282ee13a4ae032aaa61a899a4a0a83f15dd6e"
+metafile = true
 
 [[files]]
-file = "mods/ForgeConfigScreens-v8.0.2-1.20.1-Fabric.jar"
-hash = "dbdcf410beddc8604dceb308fbdb61f789479fe3903f9355e47211f5186010ef"
+file = "mods/architectury-api.pw.toml"
+hash = "5554f0809c5a0b91f34be744e593dcb00c3f46b4921c3d1d685364cbda980cb0"
+metafile = true
 
 [[files]]
-file = "mods/GeckoLibIrisCompat-Fabric-1.0.0.jar"
-hash = "3bdd715799e82e4b1472de59995d91da3e5c19389bf2dc01d69a5708641c4ae9"
+file = "mods/ash-api.pw.toml"
+hash = "225aa48b88438cda45d4e6d1937f6be03b8f702ce5375e8c9647e33e50b1ff55"
+metafile = true
 
 [[files]]
-file = "mods/Grass_Overhaul-Fabric-23.10.11-MC1.20.1.jar"
-hash = "8ef1da6e7fd4472ff01dd9a0175ce2d4a3d21ec5b9ca97d926062c688205928d"
+file = "mods/athena.pw.toml"
+hash = "573765992d61492d05465a1a29c937cdff0ebc6d551dec669c94a0d273650bdc"
+metafile = true
 
 [[files]]
-file = "mods/Highlighter-1.20.1-fabric-1.1.9.jar"
-hash = "c70e6bd800da24e50f7cbeaae1bf56cf036009e371cc1002e707bfaa4c01c588"
+file = "mods/audioplayer.pw.toml"
+hash = "c543ad345a81bb328c732b0b309d6cf4fc40bb88c29c1a441d4b8039719e13d9"
+metafile = true
 
 [[files]]
-file = "mods/Iceberg-1.20.1-fabric-1.1.18.jar"
-hash = "9af0cf98c5ddda3d822f74b3f7426018e3a0a17b8bcf989e87b722e059e739d8"
+file = "mods/autoslabs.pw.toml"
+hash = "f12f39ef5609a74c53bc38ed56322698e342142eab68a137411bb64e9f83f10e"
+metafile = true
 
 [[files]]
-file = "mods/IllagerInvasion-v8.0.3-1.20.1-Fabric.jar"
-hash = "b9e8697b2c34189a7f599cc501cadf4d7917bd9bbec0cdaf964b64ab99e7f778"
+file = "mods/backpacked-fabric.pw.toml"
+hash = "83a32267aa14479c455eb564df451b8a14a6a4148661264193d2ef6aa84a0537"
+metafile = true
 
 [[files]]
-file = "mods/ImmediatelyFast-Fabric-1.2.11+1.20.4.jar"
-hash = "b91be3c2e14fbaef6889094f09e1e4c72a1d2ad325163568cf60adfa4795bc13"
+file = "mods/badoptimizations.pw.toml"
+hash = "482dbc813a88e90cc11d40c88f24de846f1fb1ddbfb76bc6330fbcd6d49c1ec5"
+metafile = true
 
 [[files]]
-file = "mods/Jade-1.20-fabric-11.7.0.jar"
-hash = "3c2027956145ce73b920ae4ef7306922d588827a88618eb621fd8f01a93a9c0d"
+file = "mods/balm-fabric.pw.toml"
+hash = "dd29261fd94cf6712a07ff0147334e4d1b0049a67c365612c998f49316b79337"
+metafile = true
 
 [[files]]
-file = "mods/Kambrik-6.1.1+1.20.1-fabric.jar"
-hash = "c4f27750dab2a58124a94b58d4271819db05d6b2f5863391e4f0b6897fd047e1"
+file = "mods/bartering-station.pw.toml"
+hash = "411e7ae3ac73c29974f97d0fb6bae74133c450939b7eb7d6cf3b806ee7160a3c"
+metafile = true
 
 [[files]]
-file = "mods/Kiwi-1.20.1-fabric-11.3.0.jar"
-hash = "7c41ff83c11bd881069e44d1babc243da576acaa2c65f4d3514172a5db23bd4f"
+file = "mods/bclib.pw.toml"
+hash = "0c6982d793283b27ef35fdc3b57b7b9554fbc162c03ac7431ebbee9b1d5b241c"
+metafile = true
 
 [[files]]
-file = "mods/LeavesBeGone-v8.0.0-1.20.1-Fabric.jar"
-hash = "e4cb58de102a4c9893fec5bf157e0ce3086a1f9ff182ddb40b0262eb7ead8c78"
+file = "mods/better-advancements.pw.toml"
+hash = "8c1afd08f9ae6716649612ddf8c59e995cb9047f29ffe64a31f3f4e32bc881b7"
+metafile = true
 
 [[files]]
-file = "mods/Luna-FABRIC-MC1.19.X-1.0.1.jar"
-hash = "9ac038e25f47973dff2a8e360567f4992d07a961dcd2c8acf681b55a923f1de4"
+file = "mods/better-chunk-loading-forge-fabric.pw.toml"
+hash = "5764da06edceffc96b975fc51849c4635fbee39cae01c95d2241c32b3f05c2f7"
+metafile = true
 
 [[files]]
-file = "mods/MagnumTorch-v8.0.1-1.20.1-Fabric.jar"
-hash = "c99064278e30dadef53a1a740b315c41c5df6d3c84bc0b30b3d21343042e6a48"
+file = "mods/better-fps-render-distance-fabric.pw.toml"
+hash = "6fcff06aff8477230989c4551d14bb3a682a5fe9e7a4a312ac078af139fa1a74"
+metafile = true
 
 [[files]]
-file = "mods/MindfulDarkness-v8.0.2-1.20.1-Fabric.jar"
-hash = "12b1a49b5ad64dfc1e9f8b2ec6bd3cd248777b63aa51f4b0b3be63e23097b0db"
+file = "mods/better-mount-hud.pw.toml"
+hash = "378184d2642a7ed600c63b8a3f93a76255592a0f4695c992a130784f1bb2dc94"
+metafile = true
 
 [[files]]
-file = "mods/MouseTweaks-fabric-mc1.20-2.25.jar"
-hash = "4b25e0112a95a4c8343d5ca8d32b8c168b0ec441e73f4a4e4e74504a7b5accfc"
+file = "mods/better-stats.pw.toml"
+hash = "b502552e3224c28eabd25782400814ba294907809256cdebdba739618b92faf0"
+metafile = true
 
 [[files]]
-file = "mods/NaturesCompass-1.20.1-2.2.3-fabric.jar"
-hash = "1869e52d9a306d40063c69f53261e991ecd76dea613216098a196520cebb4aa7"
+file = "mods/better-tridents.pw.toml"
+hash = "44e94d4ef6299403961d0e9b96b9ee38c55cfcf448193f1194c90b5a3e75f229"
+metafile = true
 
 [[files]]
-file = "mods/Necronomicon-Fabric-1.3.0.jar"
-hash = "e29df58a33b0f9ec6ef5622bf1bf5fda8b2b6c7079a0aff924126e628e99a5aa"
+file = "mods/better-trim-tooltips.pw.toml"
+hash = "9fa9b9659167f61c6a77504bd9546faf17ea3e5ba53c9f5b372a94d1f8bd2070"
+metafile = true
 
 [[files]]
-file = "mods/NetherChested-v8.0.1-1.20.1-Fabric.jar"
-hash = "5b9aef80dd3718cba59fe50798f2fd513da3ce66d66b75f82c6a1c44246e2a19"
+file = "mods/betterend.pw.toml"
+hash = "cb9a5f2a86d058074e42755671eef9117861a821114d44b59c327adc350f7beb"
+metafile = true
 
 [[files]]
-file = "mods/NethersDelight-1.0.0.jar"
-hash = "14a5247c6cd8a8a49023816cc72203e8eed3f391e8d651a3cfd718ecb56d5b45"
+file = "mods/betternether.pw.toml"
+hash = "f04f6619202e8b2b22e33c4ce152f879633577d82ada897327603c050da601df"
+metafile = true
 
 [[files]]
-file = "mods/NightConfigFixes-v8.0.0-1.20.1-Fabric.jar"
-hash = "d5baaffd473cd1089eabee463f084cffa28720102124dcd92d3e5586579b4374"
+file = "mods/biome-music.pw.toml"
+hash = "4d0ea4b6c53cf468dab32dff5a634cb7e7928524dfbae38d8a53549688778bef"
+metafile = true
 
 [[files]]
-file = "mods/NoChatReports-FABRIC-1.20.1-v2.2.2.jar"
-hash = "8ff70525b0fbc5fa7592424872aa8092db1f7646d53817590bd9f9b88c75babc"
+file = "mods/boat-break-fix.pw.toml"
+hash = "f60a63c3251ebf33f6636e5fd773f281d3f09b3a273e346b1d2547cc0c67559b"
+metafile = true
 
 [[files]]
-file = "mods/OverflowingBars-v8.0.0-1.20.1-Fabric.jar"
-hash = "f11ba04ba5b6e2e43b8f782113e70e51a921071086fad4c37ddf6a9ba7f5390c"
+file = "mods/boat-item-view.pw.toml"
+hash = "208e3ef9a5b2dee3d7daa09f6aaf6cd2cbc3bcd45029917e56fe186a6f853b9e"
+metafile = true
 
 [[files]]
-file = "mods/PacketFixer-fabric-1.2.1-1.20.1.jar"
-hash = "bd74e1db9ebdedf6f6460788f4cd01cdd790a34aa57406e689575751feaabbe7"
+file = "mods/bookshelf.pw.toml"
+hash = "3eff396428f06c70ebfb724067488b335d95ffd01029b15408b8e645e5581d28"
+metafile = true
 
 [[files]]
-file = "mods/Paintings-fabric-1.20.1-11.0.0.1.jar"
-hash = "f1579b183c2150b7f4b65233991e921a92f29cb0286b150438a13135bd85f7d1"
+file = "mods/bosses-of-mass-destruction.pw.toml"
+hash = "62a06523495d2fe4423080876dbcd631378cf805c20a64c63f3768027b4f8c15"
+metafile = true
 
 [[files]]
-file = "mods/Patchouli-1.20.1-84-FABRIC.jar"
-hash = "96ad2c77adf1d0fe1994223b5f469848d51d111b33737efb708eba4ad8f4d2e0"
+file = "mods/bountiful-fabric.pw.toml"
+hash = "92667416d2a0e84719fe9d15820a37f7c4f3d809ae0f54002066574a02f53420"
+metafile = true
 
 [[files]]
-file = "mods/Paxi-1.20-Fabric-4.0.jar"
-hash = "a2c446a94680897642c669ce6a01dba0f0eee0388160d5c807bda46342dda211"
+file = "mods/bygone-nether-fabric.pw.toml"
+hash = "e053159c2d1538b1fff05e21ea2664f68f5f6488221ad43e05fdf3b77ed5f72f"
+metafile = true
 
 [[files]]
-file = "mods/Philips-Ruins1.20.1-2.9[Fabric].jar"
-hash = "173985566398b5c10424fdd4171375190714ca9817d4299ac17a31eebe5197b9"
+file = "mods/cardinal-components-api.pw.toml"
+hash = "6f0676fe7167a5a5e992ac1588e5a7f62bb6ffcaad158d7f1ace220c73adb938"
+metafile = true
 
 [[files]]
-file = "mods/PickUpNotifier-v8.0.0-1.20.1-Fabric.jar"
-hash = "ea8b8a4d2fc8a516cc4a3700912ceebbe73b175b38cf8349bb1ba1bdd5ef0a76"
+file = "mods/carry-on.pw.toml"
+hash = "3b45878fbe0e15944f9d4c159741548debf4d775fd9e2f9992dcd1719c08b3da"
+metafile = true
 
 [[files]]
-file = "mods/Ping-Wheel-1.7.1-fabric-1.20.1.jar"
-hash = "f8fc1ceaab76325e075be4ec47c866ec296792ae630bfd37ef336df11a6e8ee8"
+file = "mods/charm-of-undying.pw.toml"
+hash = "ce780c8579a607fe190368b4d4aadf3560ef74ebc5dca8beaef9d9a91a4d53f9"
+metafile = true
 
 [[files]]
-file = "mods/PuzzlesLib-v8.1.12-1.20.1-Fabric.jar"
-hash = "6e7acec61e69ea0e87a317b7aedbb866146503509b1813faf20be08bd79e1fe8"
+file = "mods/chat-heads.pw.toml"
+hash = "a7b4549899d0c1e180ffa54e2254183e2ba4ba1b21f20e94228ac16cfa7a1df2"
+metafile = true
 
 [[files]]
-file = "mods/ResourcePackOverrides-v8.0.2-1.20.1-Fabric.jar"
-hash = "f71621cfcf6e1f84d9026c5ee1aa9a3cceb04e84f92e051f8c695215218f1990"
+file = "mods/chefs-delight-fabric.pw.toml"
+hash = "463940fb8de3fb34480eec0d2405428dfd70732cfda966bcf6de2a9e846e7fff"
+metafile = true
 
 [[files]]
-file = "mods/RoughlyEnoughItems-12.0.684-fabric.jar"
-hash = "8daafa20164782ccb435de3d768c6b8d37a49555d372ae4c99dd726216ae1be4"
+file = "mods/cherished-worlds.pw.toml"
+hash = "944682aa08c1ef20934a4eaf33f1773810935f7e6447887720190d6bdb1d2466"
+metafile = true
 
 [[files]]
-file = "mods/RoughlyEnoughProfessions-fabric-1.20.1-2.0.2.jar"
-hash = "4a204c75cce8dad0af2b77d61ae8d4c4aff14341e1dfdc99d7c7619e47f878a8"
+file = "mods/chipped.pw.toml"
+hash = "eb2df2c664b86a6496a8c479af8f0f16b1a0a34b7feb66e136687754f9464dba"
+metafile = true
 
 [[files]]
-file = "mods/Searchables-fabric-1.20.1-1.0.2.jar"
-hash = "4eea61a1f2a50d558d4913f2c9e7e2826409a2aeaa66131576cfba242650c0b3"
+file = "mods/chunk-sending-forge-fabric.pw.toml"
+hash = "a952fb0d69dd033d3577501d2a0b3f0e4c013fa8b5b06a66a0f22eff8df5066d"
+metafile = true
 
 [[files]]
-file = "mods/SnowRealMagic-1.20.1-fabric-10.2.3.jar"
-hash = "4f5ddec7fa242e19f3af4bc8560230d9595af9da7795341a66c02dfac11fabfd"
+file = "mods/chunky-pregenerator.pw.toml"
+hash = "c9046358764d73949cc7f24ebd02741f996db89ce448c92f94bb3a2ae4f17e74"
+metafile = true
 
 [[files]]
-file = "mods/Stoneworks-v8.0.0-1.20.1-Fabric.jar"
-hash = "578fc563dbfd7babdd0c1acdba975cafd19794f8a8ab7f160d39bdb7688f6d55"
+file = "mods/cit-resewn.pw.toml"
+hash = "bed84ea542648fc65b622c84a0b9cb645b057005f29358c46afb03bd03200d9f"
+metafile = true
 
 [[files]]
-file = "mods/Structory_1.20.2_v1.3.3.jar"
-hash = "81ddf5226ee2097f2620c8e8b08ea3b96955d4b301e461a606dc76b41c46caf5"
+file = "mods/cleancut.pw.toml"
+hash = "eb7f6a50483c6f0dcd286578573f3a0264dd70d9b548f2059dd264f50c1569fd"
+metafile = true
 
 [[files]]
-file = "mods/Structory_Towers_1.20.4_v1.0.6.jar"
-hash = "2af4f008074c2af7f67917ee921071f6a7e58ef0a0eef703884cf534a2cad71c"
+file = "mods/client-crafting.pw.toml"
+hash = "e2d6b95e1b38adabd1fa17417bfea31063b95b3ab9911e943366542cd150dea8"
+metafile = true
 
 [[files]]
-file = "mods/SuperBetterGrass-1.5.2+1.20.1.jar"
-hash = "d36f2062e2848528079a10f4faf46c49b832784bc9bbd038e8e39b0d2f5f9d63"
+file = "mods/cloth-config.pw.toml"
+hash = "403c99e6b3c7f03bfc1ef8f0a23c79d9929eb42658be02bd0911c36b0174cf5b"
+metafile = true
 
 [[files]]
-file = "mods/TerraBlender-fabric-1.20.1-3.0.1.2.jar"
-hash = "e6ead46e6235b5716f094b2d27d0e6cf85ab89c657d8a45636cdf634c7e4ec6b"
+file = "mods/clumps.pw.toml"
+hash = "1b222f2d73036e0d08be25c3c8c5a77a8454b1f399467ff212d09e936426734e"
+metafile = true
 
 [[files]]
-file = "mods/Tips-Fabric-1.20.1-12.0.4.jar"
-hash = "cc0a761dc5c6cbff009071cf200302bbf9dabc29a91b8151fa6706b91a412fd1"
+file = "mods/collective.pw.toml"
+hash = "079900b62dc3db7d111eb5cea93e34867dc26e22243e711734b50181c844c11e"
+metafile = true
 
 [[files]]
-file = "mods/ToolStats-Fabric-1.20.1-16.0.7.jar"
-hash = "50dd04d17839af3350f1f76a78c7925f6911454c0f40a5cc077cbbe6bb312038"
+file = "mods/comforts.pw.toml"
+hash = "c6d78fba98d31218e871f7b3633660a7f484e10725bdcf6f8a0aa633f250b2af"
+metafile = true
 
 [[files]]
-file = "mods/Towns-and-Towers-1.12-Fabric+Forge.jar"
-hash = "9c8115af7109579da990249fdd67b38323a45be70f8a3a962b61da69c7021984"
+file = "mods/config-menus-forge.pw.toml"
+hash = "f396dea8cc44bbe8e57f06b3bacc348a8daedfb11b10d09aa510b59bd0c6109a"
+metafile = true
 
 [[files]]
-file = "mods/TradingPost-v8.0.1-1.20.1-Fabric.jar"
-hash = "6eb696ab36cbe85afcbdfc7c0538d13b9398ef7467d220c1ac2023968eaf16d8"
+file = "mods/configured-defaults.pw.toml"
+hash = "558e7e2a556d46b24fba83602f413500a4575f1838e48acb43efccf329b40a17"
+metafile = true
 
 [[files]]
-file = "mods/VillagersPlus_3.1_(FABRIC)_for_1.20.1.jar"
-hash = "f86abec4f7960b277492ae2d66d0a0eb164cfe3f46af4088380b7eab7b3b6122"
+file = "mods/connectivity.pw.toml"
+hash = "8d06506f6a84676626d6e4e702a373105b9564bb00f5cc30c93e8113ef33ae62"
+metafile = true
 
 [[files]]
-file = "mods/VisualWorkbench-v8.0.0-1.20.1-Fabric.jar"
-hash = "802e1015ea979c7c99bb19b8e0824e744e68e40869520042beca577b90d0be40"
+file = "mods/continuity.pw.toml"
+hash = "fceb50162333b2cf2f251af72cc12f1a7657df07f979338dcd6e46b10b993466"
+metafile = true
 
 [[files]]
-file = "mods/XaerosWorldMap_1.37.2_Fabric_1.20.jar"
-hash = "9387c6081e5f67ed583b78d133f9212dc955d66584e705924ce96bfa419faac1"
+file = "mods/controlify.pw.toml"
+hash = "0062b7db6e7690e2feedf7998452bc8a89a343702718ec8e3fee927cb79819e5"
+metafile = true
 
 [[files]]
-file = "mods/YSNS-Fabric_Quilt-1.0.5.jar"
-hash = "32fa9271475835645ec625c44fb1dd42e5344997d6a409f1cb4580802493726f"
+file = "mods/controlling.pw.toml"
+hash = "e7513fdc9b93652c928a5af59e9dc6a5b21dfe5200fe78883a6fa56d3cdefa1f"
+metafile = true
 
 [[files]]
-file = "mods/YeetusExperimentus-Fabric-2.3.1-build.6+mc1.20.1.jar"
-hash = "f2445ea3a5d3ca308effba7687fd423e18b626503b80088065f181eba6a24e56"
+file = "mods/coroutil.pw.toml"
+hash = "77b92be6428aa5504ef7d42df9dd209d4e453d2569231de5846c486acc1ad0f4"
+metafile = true
 
 [[files]]
-file = "mods/YungsApi-1.20-Fabric-4.0.2.jar"
-hash = "9e275f53712c31faa8e4deb9be23fb236bb12e912dc922821cd597e0f67bb38b"
+file = "mods/crawl.pw.toml"
+hash = "a21be9bc722d7d99e07578c15086aa64b0022a20322c30f583f88e8b3a23a474"
+metafile = true
 
 [[files]]
-file = "mods/YungsBetterDungeons-1.20-Fabric-4.0.3.jar"
-hash = "c4166621e809d7468a9b21f11630e03279864a949b9c88ee4546a91c4137cbb5"
+file = "mods/cristel-lib.pw.toml"
+hash = "754b65581daa4a2d8462d5e62b43555a85a2f24106e8662925a1adefcc9f07cf"
+metafile = true
 
 [[files]]
-file = "mods/YungsBetterEndIsland-1.20-Fabric-2.0.4.jar"
-hash = "cd8685e0d55893cd3256ef1c39c00736f8d49cf952a73b465a44a2c0f9ae036b"
+file = "mods/cull-less-leaves.pw.toml"
+hash = "09af3f7efd177b0dbb21db66ba27fa8af09128e74d3d0a77a1ef47495a8054fa"
+metafile = true
 
 [[files]]
-file = "mods/YungsBetterJungleTemples-1.20-Fabric-2.0.4.jar"
-hash = "c51b2ea652a592c2d88eab981d57e8a1f638e8bf637ffd636d686423fd7a1465"
+file = "mods/cultural-delights-fabric.pw.toml"
+hash = "21129c99e43e347dccafc77af2bfb42708a5994cad7427a9d5105869979c1ae0"
+metafile = true
 
 [[files]]
-file = "mods/YungsBetterMineshafts-1.20-Fabric-4.0.4.jar"
-hash = "0a4657689217339a1f6079a2d9dda03f6d01beacac59c14e093ded3357db2b86"
+file = "mods/cupboard.pw.toml"
+hash = "38d75dc4fefd4016935c44f188aff18ab02677c8cb0fb8fc5e11043ae86f5bee"
+metafile = true
 
 [[files]]
-file = "mods/YungsBetterNetherFortresses-1.20-Fabric-2.0.5.jar"
-hash = "b0025adc8cb789de3cabe08dee0f7de150f9a6a6af02f80d49bf21df94cadfe0"
+file = "mods/dawn.pw.toml"
+hash = "fa48c098ff9a6e47470bb3a77bc53158849fa3b413f8b5bdce35ee74ac3cbd1d"
+metafile = true
 
 [[files]]
-file = "mods/YungsBetterOceanMonuments-1.20-Fabric-3.0.4.jar"
-hash = "3013484bceee72540a1eb76d403a0c36db0fd6d99a1e1b5a398b37ca50f27fb2"
+file = "mods/debugify.pw.toml"
+hash = "73b57f14646c1b189bc46d07e7dc6537f6eb5b3846862e8c88d6e3ab92e63a73"
+metafile = true
 
 [[files]]
-file = "mods/YungsBetterStrongholds-1.20-Fabric-4.0.3.jar"
-hash = "122b74d59629bf755663263a4ce43e58a5d13b74e67bea332d44a9bedb51b74a"
+file = "mods/decorative-blocks-fork.pw.toml"
+hash = "1431d44108cdb6262992f10cfa11bb26ad52c1fee724aeddcdae06801bedd60e"
+metafile = true
 
 [[files]]
-file = "mods/YungsBetterWitchHuts-1.20-Fabric-3.0.3.jar"
-hash = "7a1a22be9503bb7556e86eb4471a50acd618fc88590d54164d3599c9fdba94e8"
+file = "mods/deeperdarker.pw.toml"
+hash = "cafed444c6c524fa1755219820d9b89dba6352f393a517a9c33d4974b463c579"
+metafile = true
 
 [[files]]
-file = "mods/YungsBridges-1.20-Fabric-4.0.3.jar"
-hash = "9a4548727fd22fd06efa5a70b4bda0231249be107aa5b91acc615981d558ebb0"
+file = "mods/deuf-refabricated.pw.toml"
+hash = "d335c0c8295531e491bf07e40751e41bcdb29e04c31ec4d2b304b08c370f797c"
+metafile = true
 
 [[files]]
-file = "mods/YungsMenuTweaks-1.20.1-Fabric-1.0.1.jar"
-hash = "05d6256d570b264dc24ae3dc8e22f1727332d1507026f5dc1a77ebba5784b4fa"
+file = "mods/diagonal-fences.pw.toml"
+hash = "8c9ba86590a759de2ae7fe9160af07f5fa1a6783c91127fc8ca469c0e741a318"
+metafile = true
 
 [[files]]
-file = "mods/Zoomify-2.11.2.jar"
-hash = "c54c3cf2b63f49e2c8da01f27e9288f6e73a860cbd3a2caff8b03cf95aa05e45"
+file = "mods/dimensional-sync-fixes.pw.toml"
+hash = "e91fee476dd6aab2adea6a6745b655f0d212a9483831609dc978eaa0d9dd36ea"
+metafile = true
 
 [[files]]
-file = "mods/advancednetherite-fabric-2.0.2-1.20.1.jar"
-hash = "392273e5241b3df7325749ed3e86e4e727b602a84079fdcf8e17dad5a1789239"
+file = "mods/double-doors.pw.toml"
+hash = "39d7c5ae22bc81add73399d5bf75b633018f9a24afccd3e9c0c108926892d117"
+metafile = true
 
 [[files]]
-file = "mods/adventurez-1.4.19.jar"
-hash = "337ccb0cb77004474071ac4899b2e6f7f30a19fa3393e1f4804d34e2df3e650f"
+file = "mods/dragonloot.pw.toml"
+hash = "6357fceb13c6601bbfa5c30397ae8087a031d0ba7ab966a33e98bc358681eb33"
+metafile = true
 
 [[files]]
-file = "mods/alternate-current-mc1.20-1.7.0.jar"
-hash = "06303e54ba9b1cc5c67695597a8f5b8a3eaf8a1dba2f307edc4ab20300bdd868"
+file = "mods/drippy-loading-screen-fabric.pw.toml"
+hash = "12051d297a00569e7d9ac21836168bfdd8b03dc3b289a1658cb6736750114527"
+metafile = true
 
 [[files]]
-file = "mods/animal_feeding_trough-1.0.3+1.20.1.jar"
-hash = "30f0cb6a92c86a9ecdb1e66e8ff2859a941c371c220de4fa2252104d603a799b"
+file = "mods/dungeon-and-taverns.pw.toml"
+hash = "06003a2b14f026f8d7f9833d9b9a3df8a4bb1bd7955acaa7d646de979d906977"
+metafile = true
 
 [[files]]
-file = "mods/animatica-0.6+1.20.jar"
-hash = "cdfc6e7d48faf10e43f4072d58fbc05c842dfee7d41126db6deefdcf803cbda6"
+file = "mods/dynamic-trim.pw.toml"
+hash = "7a7a83e8079461497e764d7c6da4041b10514e8900594644681a545e31d5cf69"
+metafile = true
 
 [[files]]
-file = "mods/another_furniture-fabric-1.20.1-3.0.1.jar"
-hash = "7edd08c7c9d627514e1008ea8631511402609251f53b8c3470278fc69f7c7ae5"
+file = "mods/easy-anvils.pw.toml"
+hash = "5de69336af040225c307a9b2dfaf0c3fbab5b57271b478a4f740918a5bf2f4b1"
+metafile = true
 
 [[files]]
-file = "mods/architectury-9.1.12-fabric.jar"
-hash = "0c55eda09caa42c625ca1d91e32078f73a8b1d0eef62f20b748569c84cb13147"
+file = "mods/easy-magic.pw.toml"
+hash = "e11870c3d508d66b49a6f712a72f1adf2ac552de411c86877bcb4332c935f962"
+metafile = true
 
 [[files]]
-file = "mods/ash_api-fabric-3.0.2+1.20.1.jar"
-hash = "0814e4ca09ef7cabb278646a2f53a2787666104f993568b288fbd11046003850"
+file = "mods/elytra-slot.pw.toml"
+hash = "803b74a214998313742d95245d8be2c0db616c2bb6327896247dff36379cc2d0"
+metafile = true
 
 [[files]]
-file = "mods/athena-fabric-1.20.1-3.1.1.jar"
-hash = "404393147e490b657672c02c97c5ea36af3c05cdea709af48192508fdbee6e15"
+file = "mods/enchantment-descriptions.pw.toml"
+hash = "997480d9b44ae73abda672885e95339ac81a8db725d7d23311a58e81ac6b5492"
+metafile = true
 
 [[files]]
-file = "mods/audioplayer-fabric-1.20.1-1.9.0.jar"
-hash = "3c18961a86a1fbc16a38ef007da696ecd4557276643b89eae1d5679aacc2adc3"
+file = "mods/entity-model-features.pw.toml"
+hash = "5c8c9467394ec72ae289d0349af7bafdad35526234b7f19c8be3e44d3a14ab3f"
+metafile = true
 
 [[files]]
-file = "mods/autoslabs-1.1.3.jar"
-hash = "de9670fd1f7d2ed2756589941e79586a8f80c7d9bf858ef3fc9c6de1bc15d438"
+file = "mods/entity-texture-features-fabric.pw.toml"
+hash = "21c85e482ff4bd0728be48b537e5ef90129de3b31fe9b994b2e2b201deabff89"
+metafile = true
 
 [[files]]
-file = "mods/backpacked-fabric-1.20.1-2.2.7.jar"
-hash = "621e5048f7d02cccdcd68904fb6f27932e8479fba7e49a6ef5c17c4bcf0faf8b"
+file = "mods/euphoria-patches.pw.toml"
+hash = "21c8a791f7322c63ed2cb62531d0428a3371544271fe9629759378413806caf7"
+metafile = true
 
 [[files]]
-file = "mods/balm-fabric-1.20.1-7.2.1.jar"
-hash = "77ca31580a1c1f48eea83512baea611fa3703747298b5dd302677a018d25a87d"
+file = "mods/every-compat.pw.toml"
+hash = "1275849813a7dc07f88d1bbe8ec87991ad580eddfb1ae10e290ba1ff5e50c5be"
+metafile = true
 
 [[files]]
-file = "mods/bclib-3.0.14.jar"
-hash = "391fa2a8d7e369b088c66d1f230c3951e1d83f19d60555b2efea5394d8bcfc51"
+file = "mods/expanded-delight.pw.toml"
+hash = "b56a8c41fbc730aac25745a44efc56214da5f903a33f700806937a6d49d94101"
+metafile = true
 
 [[files]]
-file = "mods/better-end-4.0.10.jar"
-hash = "80d574fb43473cbe84b5fd58c59efee4c7abeebfab9fcc2811ed2efc5bf52908"
+file = "mods/explorations.pw.toml"
+hash = "87e6269d1dab0e6609ac80342d8f9da49876909215bbefb74cf9e5062156389b"
+metafile = true
 
 [[files]]
-file = "mods/better-nether-9.0.10.jar"
-hash = "a516b6be2576292639ee21c495be6cae3a9e3c5e9c84c6fbab092895c314fe64"
+file = "mods/explorify.pw.toml"
+hash = "f37fa0d524b176234a3f32fd2d4d448647356e8f4b3bdbca2c6927ff4a5f3721"
+metafile = true
 
 [[files]]
-file = "mods/better-trim-tooltips-1.0.1.jar"
-hash = "645bc80f1b5a3eb7f247c17765422667439bcb83fdfc38ebb818002eca0a39fc"
+file = "mods/fabric-api.pw.toml"
+hash = "be149f121385bee58583d8f65b3cab3692122051ab22d0e4c05e0c22050e9f15"
+metafile = true
 
 [[files]]
-file = "mods/betterchunkloading-fabric-1.20.1-2.6.jar"
-hash = "1bb6d86f12b15ac65cd2c6ce44cfdc7b2fae4da39e9c2f3730dc43b2cd166c3a"
+file = "mods/fabric-language-kotlin.pw.toml"
+hash = "2f4f744642f99b88f810f532a8d4b63717179e8c7acd3b367ca3d010149b958c"
+metafile = true
 
 [[files]]
-file = "mods/betterfpsdist-fabric-1.20.1-4.0.jar"
-hash = "de8b60b6b878a9e9f9fffc36afe3d77b627b1f0680c21edb9aa7eeaaea9df903"
+file = "mods/fabric-seasons-delight-compat.pw.toml"
+hash = "f9efc3a8b92991d29b7117b9a0d9fd7a3f7d567d0139243f35c6257f56068b75"
+metafile = true
 
 [[files]]
-file = "mods/bettermounthud-1.2.2.jar"
-hash = "5de386555011840070dbbe7942422a8247b0b30a9d6d06d21c3c188ae53dde2f"
+file = "mods/fabric-seasons-extras.pw.toml"
+hash = "c8f7a08cb636bd1054a6a2c8e3fdc1b0513bd69576ddfdce12e6a975d3d4d373"
+metafile = true
 
 [[files]]
-file = "mods/betterstats-3.7.1+fabric-1.20.1.jar"
-hash = "1ccb1b99b63f3132c98fe61ecd0dcd698deb68a7cabba9794b4658a25b51b7ff"
+file = "mods/fabric-seasons.pw.toml"
+hash = "4c8e5444117e7e3104b2da7e72667cd51e61d23903bfab9e48db69cb8ccfd8b3"
+metafile = true
 
 [[files]]
-file = "mods/biomemusic-fabric-1.20.1-2.2.jar"
-hash = "9e94087eddd891637f6568202c5beafa01b55760f155ccd43a5faf67784b8914"
+file = "mods/fabric-waystones.pw.toml"
+hash = "071f493b6c0229e674b50f7cec8385511d8c1861ad01768d3b8b4469e5580238"
+metafile = true
 
 [[files]]
-file = "mods/bygonenether-1.20-1.3.2.jar"
-hash = "75fe570852acb1a1dc7d556c66736f4e82c6e9809ea2244961b4b79ebda66d53"
+file = "mods/falling-leaves-fabric.pw.toml"
+hash = "e651193b4394351dd5246cf112ccff75efd3053e152cd102fb42d0d7ae8aa018"
+metafile = true
 
 [[files]]
-file = "mods/cardinal-components-api-5.2.2.jar"
-hash = "ff64b5b9c9d7aafa28e39cd34be0cfeeaf978da850ddf3983ba3073a2acdace1"
+file = "mods/falling-tree.pw.toml"
+hash = "8c319dc9be07b01f52370beba89dfff019d8adae14278685641cc28f2ef19b2a"
+metafile = true
 
 [[files]]
-file = "mods/carryon-fabric-1.20.1-2.1.2.7.jar"
-hash = "8d25fb164fc4cc15cd9123a915c880c55527efe3fec26b2c7febf09e65c6ebdd"
+file = "mods/fancymenu-fabric.pw.toml"
+hash = "a2c8daefdb4101500d8e52dec1f94f10af823a3ad8b6a051f3f97b5239ddeb45"
+metafile = true
 
 [[files]]
-file = "mods/charmofundying-fabric-6.4.5+1.20.1.jar"
-hash = "6dbe2cca1e0eee2ad26bcea32eff944cb7e2d25fecfc412ae34024ae77425255"
+file = "mods/farmers-delight-fabric.pw.toml"
+hash = "65a7238736733ebdba6bd8932edaff631f42b1c08efa50025247996c2ec25401"
+metafile = true
 
 [[files]]
-file = "mods/chat_heads-0.10.23-fabric-1.20.jar"
-hash = "b5f0fd3b195ce51d5bbdcd09af26171b1e4be6e6ec98c8aea980693e93f30063"
+file = "mods/farmers-knives.pw.toml"
+hash = "131de849e699f52cba8d7207a145e4543c6e34bde1e7ce03dce27c2c91589c3e"
+metafile = true
 
 [[files]]
-file = "mods/chefs-delight-1.0.3-fabric-1.20.1.jar"
-hash = "c77994b4fc91aa416b5bea8a7c42e9b006803c9fe1d022e8c036fcf1b29d8331"
+file = "mods/fast-async-world-save-forge-fabric.pw.toml"
+hash = "2ed3d2f93cfd5d2f44dd3d9f1061321aa4b0d9c584dfe4d0a1c5d1adbbadffca"
+metafile = true
 
 [[files]]
-file = "mods/cherishedworlds-fabric-6.1.5+1.20.1.jar"
-hash = "7d9a39c1354fb8f75cf6e08ca18eeb6c2744373a2555d54d4d8b5dc397240a1e"
+file = "mods/fast-ip-ping.pw.toml"
+hash = "d8f3ac6ac2acd208f7972c24fcff8a010da03849382f76df398063c5b39c3812"
+metafile = true
 
 [[files]]
-file = "mods/chipped-fabric-1.20.1-3.0.1.jar"
-hash = "fc5d62b5c5c169eeb5eefe45fa7dab1d558eb78482410540474ca37e6939ecba"
+file = "mods/fast-paintings.pw.toml"
+hash = "64bfe2e47653d68566eb468a2613c3d504d5faf3dbce7b1e0ebfa2ce7e1c4d7e"
+metafile = true
 
 [[files]]
-file = "mods/chunksending-fabric-1.20.1-2.8.jar"
-hash = "88ddadb2eed63259f019eaaab2d40a0667be46f7e5157fc412f03c3b78b77c40"
+file = "mods/ferritecore-fabric.pw.toml"
+hash = "28f53f38c111e3d6aa7f6854fa976a1456f4094dc504a929a6d4bf1f9f8cc30a"
+metafile = true
 
 [[files]]
-file = "mods/cleancut-6.0.jar"
-hash = "0b25f1689e17cbc3b16e9e6866b0d29bc0ec20e2202b31e14506db703b90b5b1"
+file = "mods/fix-gpu-memory-leak.pw.toml"
+hash = "c344531240115caf4389148fd9ebe51731aa329cec5e9794a046e7050dae01ea"
+metafile = true
 
 [[files]]
-file = "mods/clientcrafting-fabric-1.20.1-1.7.jar"
-hash = "876587b7449f3404cb9a95b9398e93ee384f1a4db81eb2423c949a85544dfbd8"
+file = "mods/forge-config-api-port-fabric.pw.toml"
+hash = "5641148e6922cc3e6768726ff5db1d23088fb3969951a67e201ed3cc8183c700"
+metafile = true
 
 [[files]]
-file = "mods/cloth-config-11.1.118-fabric.jar"
-hash = "1a5b6bfc5abb0516b2aa883f99ddff11af2faa5cebdf33beb52cd4e3cd37bb75"
+file = "mods/formations-nether.pw.toml"
+hash = "74bb88ce51be352936dbf7289de55b1c4a82b05daa445d3aaf1fbb6acddd36fc"
+metafile = true
 
 [[files]]
-file = "mods/collective-1.20.1-7.30.jar"
-hash = "2abe09d984a0a85f1738e1f82d67bcb960b1e8886c11fef8f00fbaec053dee3b"
+file = "mods/formations-overworld.pw.toml"
+hash = "86aaef98c44e3f925f25947a65c3d2140725e61985452be7e1d0c5a20a1d5ac4"
+metafile = true
 
 [[files]]
-file = "mods/comforts-fabric-6.3.4+1.20.1.jar"
-hash = "3d65d5463c0e13958ff85b661e1d4f2b5f52c5daeab8cda0e9c451474f303bc4"
+file = "mods/formations.pw.toml"
+hash = "03eb311abb04930c465b46d7d7201f57d6c916401d4fd5d1d48912bdf642a088"
+metafile = true
 
 [[files]]
-file = "mods/connectivity-fabric-1.20.1-4.9.jar"
-hash = "d8f6182dc90c09577beaaaa6ff2a6aee964c7856238a03b0fe412f2b43188282"
+file = "mods/framework-fabric.pw.toml"
+hash = "afc98470b699a933cbdcc7d95822455596d91864ef14ec21a48f4fdd51d5eb03"
+metafile = true
 
 [[files]]
-file = "mods/continuity-3.0.0-beta.4+1.20.1.jar"
-hash = "8bcc532c2c36150fb12c7bd79d30500b9075e3bc8540ec02b6975b3fe1adf0fd"
+file = "mods/friends-and-foes.pw.toml"
+hash = "bdc764867d21461d54fa52e1d62fdf8aa5f9d099fff48035ce1a0660364ecdc6"
+metafile = true
 
 [[files]]
-file = "mods/coroutil-fabric-1.20.1-1.3.5.jar"
-hash = "c10cfa0de1a631ef5c6b229c742f7e274322938d78ba13f2e6c5eaa4e20f31b4"
+file = "mods/frostiful.pw.toml"
+hash = "7d80024d8c60c0b2061778e1640ec0c6c433828ba4b4ad3921a8784b7a569cd3"
+metafile = true
 
 [[files]]
-file = "mods/crawl-0.12.0.jar"
-hash = "525a507735310278897b795989905a9f5c32937846495c39abec15cdf9ec2e40"
+file = "mods/ftb-library-fabric.pw.toml"
+hash = "3baa1c986d4cfc5f4ea2aebcce3d5cba5d1804256b712ffd427b892c8f5f7f1f"
+metafile = true
 
 [[files]]
-file = "mods/cristellib-1.1.5-fabric.jar"
-hash = "6d4e73a95e7bee1e0f9b2a531d40fcc255490c064f4607f58d11f48c4c61101b"
+file = "mods/ftb-quests-fabric.pw.toml"
+hash = "cca9f0e73329960586bf581ef871c4c452d195301efa4ab3b0a20c3886e23546"
+metafile = true
 
 [[files]]
-file = "mods/cultural-delights-fabric-0.14.11+1.20.1.jar"
-hash = "f3c829f9b016896f9d0b6c93258228867d91dce52dab921deb094b8ad16f566d"
+file = "mods/ftb-teams-fabric.pw.toml"
+hash = "c80affe38a912e33dde3e955f7462feedf157be38b0e968baa8d4f7f9dc26485"
+metafile = true
 
 [[files]]
-file = "mods/cupboard-fabric-1.20.1-2.2.jar"
-hash = "c7937ecbb3be649f38ccbac9a14e8c02b656b4d9e2119587e52265957f81d035"
+file = "mods/ftb-xmod-compat.pw.toml"
+hash = "c0e10c55e13ac8c7857eda2bd3b28cb40f073e70443c08d7192f5dc0fecaa608"
+metafile = true
 
 [[files]]
-file = "mods/dawn-5.0.0.jar"
-hash = "6346c996358b889a5b0c3102889b71ffe16dd3852e06e6579d0f7f0d47d29313"
+file = "mods/fullstack-watchdog.pw.toml"
+hash = "f4ce79d79d2a5bc0c7a979341494365743adceecab63424803e4154537446e46"
+metafile = true
 
 [[files]]
-file = "mods/deeperdarker-fabric-1.20-1.2.5.jar"
-hash = "c3e8dee90f50ce03008cab09bb72a5e2a392f2e369458c1a0cfed5bb5c2c1fd3"
+file = "mods/gamerzdev-loading-screen-deleter.pw.toml"
+hash = "68914998d753a8a662643a0724db524d8c364b90eeb97539bbd5a763296a9941"
+metafile = true
 
 [[files]]
-file = "mods/dimensionalsyncfixes-fabric-1.20.1-0.0.1.jar"
-hash = "fd56307a15665d68447ddeddd5b7a995995cd00fa68858ea66e863ae5398a5dd"
+file = "mods/geckoanimfix.pw.toml"
+hash = "5e25b23f945691a14a0a2e8b54210163597ff2270d13d29804703a610c8f597c"
+metafile = true
 
 [[files]]
-file = "mods/doubledoors-1.20.1-5.2.jar"
-hash = "bb59f158b42352e063a612f92c666c4b4a9dd1ba63e2a48e8a46aee36d0e0c27"
+file = "mods/geckolib.pw.toml"
+hash = "579903f4480a9eac1be6372e365c27321bdd043ca12414000fafec6327f29954"
+metafile = true
 
 [[files]]
-file = "mods/dragonloot-1.1.4.jar"
-hash = "1b650961f53645818b74b8287e9c82f8bd17bbde49b4e705c26f1977e9b9d3bd"
+file = "mods/geophilic.pw.toml"
+hash = "8aef49379849c5988efad45f8212a8995ab8e8a96021ce4e922e05027efac56b"
+metafile = true
 
 [[files]]
-file = "mods/drippyloadingscreen_fabric_2.2.5_MC_1.20.1.jar"
-hash = "fb762a59571f1d8f6a2525ec9aaf9d13025635e41f22b940f5081fb2fe492565"
+file = "mods/goblintraders-fabric.pw.toml"
+hash = "32ee7a7170ed798a1e4d8b4bd98d3659566615f8c189f70ea58419a39dce1c42"
+metafile = true
 
 [[files]]
-file = "mods/dungeons-and-taverns-3.0.3 [Fabric].jar"
-hash = "d98f2d445209980150be0ba5ed1b89766b11413757cae6c706ab4baba41ada8d"
+file = "mods/grass-overhaul.pw.toml"
+hash = "9ee37238e0216b25699df8b6c90e8a6d60177bb1fb3f642bbe087a53b3ede8e1"
+metafile = true
 
 [[files]]
-file = "mods/dynamictrim-1.3.2-fabric+1.20.1.jar"
-hash = "7c18ad4b8563660b735d51c2927d6131c39f7e828279bc4f8fa8b5584f814bd9"
+file = "mods/guard-villagers-fabric.pw.toml"
+hash = "ab42938fc577fedff12f7f649e6194d19bc2640acc47beaab63a7b6e5ec38086"
+metafile = true
 
 [[files]]
-file = "mods/elytraslot-fabric-6.3.0+1.20.1.jar"
-hash = "fdd0c7d5810444a1407806f93cdcea2b944515b442fffcfe2a85c2f1c2fde4b8"
+file = "mods/handcrafted.pw.toml"
+hash = "8e7251101c364445d0f6d3d0ef9259a1a0952394581b98b560a9fb6853a150c6"
+metafile = true
 
 [[files]]
-file = "mods/entity_model_features_fabric_1.20.1-1.2.1.jar"
-hash = "c70ce318a8c62f80a7bed02619087bb3099665a478b7b28518fef18b19395f66"
+file = "mods/hearth-and-home.pw.toml"
+hash = "57b88c0e590a2c8748501ed939397802196023fe25a965682eb9b98889a840ab"
+metafile = true
 
 [[files]]
-file = "mods/entity_texture_features_fabric_1.20.1-5.1.2.jar"
-hash = "2e2b1fb460f9ac4107ffc80eda5eca4959617d3e517097d1f4819cec38338f54"
+file = "mods/hearths.pw.toml"
+hash = "8ebf55176115dee4d1ef114584d99eeacd2d3eddb369e519e31041262ecab22f"
+metafile = true
 
 [[files]]
-file = "mods/everycomp-1.20-2.6.22-fabric.jar"
-hash = "b659b123742ecb6b6247d36d50ffc4f9a5f1a5d2bde8a1438622aa1f50127d4a"
+file = "mods/hybrid-aquatic.pw.toml"
+hash = "1a7061d6ad78c4f9115d21beef0cb53891ed47015bd5a090e9aa8158f8e8afe4"
+metafile = true
 
 [[files]]
-file = "mods/expandeddelight-0.3.0.2.jar"
-hash = "c22e8ce97a879d14a1ed3d20be42fb8e599d4939f437a38814968eec8d575177"
+file = "mods/iceberg-fabric.pw.toml"
+hash = "2ff9b2894dd43471b0f2d1779adcc15150e87c08e1ac9501635a04b975ae7c5c"
+metafile = true
 
 [[files]]
-file = "mods/explorations-fabric-1.20.1-1.5.2.jar"
-hash = "80663b7473199bc0d0c174f4ab41e9c976ba10171c7a0513b9420dfcb2307e62"
+file = "mods/illager-invasion.pw.toml"
+hash = "39e044bbcd82d957de2b8010b8ec34b6c85064159d94e95c2ab7f7a1433bf713"
+metafile = true
 
 [[files]]
-file = "mods/explorify-v1.3.0-mc1.20.jar"
-hash = "7ce41507689f1cb1468e989baaa65ca1cb9a063a0d9e38c08823a8b9c21972a5"
+file = "mods/immediatelyfast.pw.toml"
+hash = "3f698a00763244368d09e8a1f354996715788d4b56141bea7a31d88ca67d18f6"
+metafile = true
 
 [[files]]
-file = "mods/fabric-api-0.91.0+1.20.1.jar"
-hash = "1d2471a83c6af8f416faa54594eb69d7e713d361bcbf35d86bb7a2f432d7ed55"
+file = "mods/indium.pw.toml"
+hash = "275e74338b823bb2b06aedc4337ef6866a47dd718fd9ae7d02df0d64da438cca"
+metafile = true
 
 [[files]]
-file = "mods/fabric-api-0.92.0+1.20.1.jar"
-hash = "d41b4489d43afff0abda28ab5654739303d0e46a2f10181cf961089f8f2ec1da"
+file = "mods/inmis.pw.toml"
+hash = "3b5d812cb326288def7f87a06dddbc4ba987cea771d1708a3680f8201865c0be"
+metafile = true
 
 [[files]]
-file = "mods/fabric-language-kotlin-1.10.16+kotlin.1.9.21.jar"
-hash = "0db1a9fe74c262ee7cff86ec42cd3a70ccce8308460e092e10f256fe120a0a12"
+file = "mods/inmisaddon.pw.toml"
+hash = "ccea3ee507e1aec9e9bb73850c5ec02c6d767d4d2ceb18b5a8c895141e156a57"
+metafile = true
 
 [[files]]
-file = "mods/fabric-seasons-2.3+1.20.jar"
-hash = "31ff2d3af46695c382d61a59c89fe63c83dc7e039f3b589a5621e669cd9f74c4"
-
-[[files]]
-file = "mods/fabric-seasons-delight-1.3.9-compat-1.0.jar"
-hash = "149a075aa3b4902754528c36be66d4d43532b896d3155870bfd0d42a09b02c13"
-
-[[files]]
-file = "mods/fabric-seasons-extras-1.2-BETA+1.20.jar"
-hash = "5450ddd6a14671a1ae629de00b803b243ef9a326f7b28963714b82649eb1cbe0"
-
-[[files]]
-file = "mods/fallingleaves-1.15.4+1.20.1.jar"
-hash = "c71dadd60867dc4587d4a0c770cb6cd0fff1ac8df2b1b4e379b1563438ca59e6"
-
-[[files]]
-file = "mods/fancymenu_fabric_2.14.10-2_MC_1.20.1.jar"
-hash = "2687d9082ec84ba29ece3509f96426fd5809b5daeaf15ecfd40f7950f949d61e"
-
-[[files]]
-file = "mods/farmers-delight-fabric-1.4.3.jar"
-hash = "ea9d91b0a9d5d03abe8388d6e6af429baefe1da2ecc95753b045cea5bd6ed98a"
-
-[[files]]
-file = "mods/farmersknives-3.0.2.jar"
-hash = "800e35a7a33d8286eef0721327757354312d1b89667fc9432123c33401440866"
-
-[[files]]
-file = "mods/fast-ip-ping-mc1.20.4-fabric-v1.0.1.jar"
-hash = "b263809bbffea92b7bd7b05aabf367bc2cba9d4da1467e66e37bda2ff68df855"
-
-[[files]]
-file = "mods/fastasyncworldsave-fabric-1.20.1-1.2.jar"
-hash = "8757448edb1a3d631d8cbee9c3d9ce542832fce1c85e574903c7e067112f64ed"
-
-[[files]]
-file = "mods/fastpaintings-1.20-1.2.3-fabric.jar"
-hash = "7ff7d6255b9585eb2683cbebbdebb49b5e4949defe68929791e92076c881fc65"
-
-[[files]]
-file = "mods/ferritecore-6.0.1-fabric.jar"
-hash = "c7ba1118a05b2da900d1c369fbe1017a3e3ec3cafe5e51398b851279b9becf24"
-
-[[files]]
-file = "mods/forcecloseloadingscreen-2.1.1.jar"
-hash = "0ef803a80eab2db985cb9a2e8520d474e4199dd1506f6f96421334eb1275e342"
-
-[[files]]
-file = "mods/formations-1.0.2-fabric-mc1.20.jar"
-hash = "73d90b6f2e77f2be269a142482f56a3c922fdd9a4a258db5a3fb3deda693ef8e"
-
-[[files]]
-file = "mods/formationsnether-1.0.3.jar"
-hash = "ce254c3db049ec699b2769bd56f9ed70beeeff3e66d8b996b40ce0ee54e982b5"
-
-[[files]]
-file = "mods/formationsoverworld-1.0.2.jar"
-hash = "049a73f39bb40dd8bc1635c02105eb797cc3e20bcb686985e663b497476a2567"
-
-[[files]]
-file = "mods/framework-fabric-1.20.1-0.6.16.jar"
-hash = "b2ce2c5650d95d0ba8caeae21aeacee34a4ff3b5fea90633551e81f0e0518292"
-
-[[files]]
-file = "mods/friendsandfoes-fabric-mc1.20.1-2.0.7.jar"
-hash = "898644da12c71aa408e41ef5424a17a7091bdbb6b23c1f427e87d4f5fc22b1b4"
-
-[[files]]
-file = "mods/frostiful-1.0.2.jar"
-hash = "5bff02a41e66dbcfc01ef55eea1088f16ebfc3ac4593091d90861ae3500b15b1"
-
-[[files]]
-file = "mods/ftb-library-fabric-2001.1.4.jar"
-hash = "8cd76fd19d49764e9d6ae248c2eafef6f4d65bc0e4a7758b0c11ee7d2b08d8da"
-
-[[files]]
-file = "mods/ftb-quests-fabric-2001.3.0.jar"
-hash = "fc33454ce69ffb3a1d7fbd2a9652b9b2926a31d0d07a1f5c84914eeb640afd32"
-
-[[files]]
-file = "mods/ftb-teams-fabric-2001.1.4.jar"
-hash = "f65843b805aff75c7f314dbac12645bf53acad1930815abeb9bef526509d89d3"
-
-[[files]]
-file = "mods/ftb-xmod-compat-fabric-2.1.0.jar"
-hash = "68b8c7c8bb5e5bc3cbdef7292ab24a1734a3f31c690ea755ae347ad4bc11e57a"
-
-[[files]]
-file = "mods/fullstackwatchdog-1.0.1+1.19.2-fabric.jar"
-hash = "72dfbacdc188eca37ab7e003124ac2c2b475d571cccef8047a9c488836416bbb"
-
-[[files]]
-file = "mods/geckolib-fabric-1.20.1-4.3.1.jar"
-hash = "d507524169bf62df89b449f3ac2d759a460d18a9a93781b403892960d5ce1124"
-
-[[files]]
-file = "mods/geophilic-v2.1.0-mc1.20u1.20.2.jar"
-hash = "988477f9dea904d916b1a261ae7c2475a453ed7a5490f96c8742d353740c5586"
-
-[[files]]
-file = "mods/goblintraders-fabric-1.20.1-1.9.3.jar"
-hash = "fcb8c1eaa6d7509cdab49944473b7e6012918d2abef2f86c806bedf543a5fd05"
-
-[[files]]
-file = "mods/gpumemleakfix-fabric-1.20.1-1.8.jar"
-hash = "7f84fd5752533f2ccc2ad62a746b7e5e18baf2f7e7f141e1281dae94e1a9a8f8"
-
-[[files]]
-file = "mods/graves-3.0.0+1.20.1.jar"
-hash = "aa9555daa37702697f877df148783875c301b13ed91e484f7755d54503ce62e6"
-
-[[files]]
-file = "mods/guardvillagers-2.0.9-1.20.1.jar"
-hash = "a18f60127cfc8f0f75867738255a98026ae53a3f4a02b5ce4901baaecfcab502"
-
-[[files]]
-file = "mods/handcrafted-fabric-1.20.1-3.0.5.jar"
-hash = "7e434d503a51600657d4351447cf0859d4f164967dce6c3474bfc6e11462e441"
-
-[[files]]
-file = "mods/hearth_and_home-fabric-1.20.1-2.0.1.jar"
-hash = "786224e99b807f256b33d8f2bc573a50b2966730efde84d54ca00cbfc15d4d04"
-
-[[files]]
-file = "mods/hearths-v1.0.0-mc1.20u1.20.1.jar"
-hash = "faa101c46d895d8330994854b271deff3b3b0c3b12eee84c009923df4885e39b"
-
-[[files]]
-file = "mods/hybrid-aquatic-1.1.0.jar"
-hash = "a3fa5db18638881b96db862e85c77a4d42f911026e2b989bcde1f1adf915d6ed"
-
-[[files]]
-file = "mods/indium-1.0.30+mc1.20.4.jar"
-hash = "995ae1021d370d3b5abd6b805db488f93d6678874ecaa0816d41f15329dffe30"
-
-[[files]]
-file = "mods/inmis-2.7.2-1.20.1.jar"
-hash = "039957059a177252edb6549d33d0297bb89f9c73d0fda1ad123414de63de11a6"
-
-[[files]]
-file = "mods/inmisaddon-1.0.4.jar"
-hash = "79556ac878ebc154ae4ffd314d8661ed4885065eb3182996bf8f58662c0f2f39"
+file = "mods/inventory-hud-forge.pw.toml"
+hash = "5119a0543adb0568199f56f22c883e797f78078a4f8544a3cdf3207f00bf10c6"
+metafile = true
 
 [[files]]
 file = "mods/inventorymanagement-1.3.1+1.20.jar"
 hash = "0f41dc90fd1ade8d5d4c937e556283c95ddcddf94821e281711f1e179deb81d0"
 
 [[files]]
-file = "mods/invhud.fabric.1.20-3.4.18.jar"
-hash = "df20a7ae04e4b1549a2b9a5e38b06c6cfbfbb9626d9487feb387137489b2b052"
+file = "mods/iris-1.7.0-snapshot+mc1.20.1-7f0ecaa-dirty.jar"
+hash = "fe2c2423b8825865807e7613063c00dd65c48b288125f91aae6e311f9bffa2ec"
 
 [[files]]
-file = "mods/iris-1.7.0-snapshot+mc1.20.1-9553b82.jar"
-hash = "4b09ecd7463c2aa7194a09964b38d11bd980daf15157e8e22b0c7ced6158daca"
+file = "mods/item-filters.pw.toml"
+hash = "259b6e654e0bb7185d3c51f9b21a81e0e12e7d16c225b6788cf90ff92c1bd069"
+metafile = true
 
 [[files]]
-file = "mods/iris-1.7.0-snapshotmc1.20.1-5c5db2a.jar"
-hash = "8d1b0722414621f0a4aa6e6e825b4abc43631108dd9d03be646fc6d38c0a910d"
+file = "mods/item-highlighter-fabric.pw.toml"
+hash = "2a29ace445cacafef4e767a196214e9d83c30cb4a7b8a09366ada21791bdbe7f"
+metafile = true
 
 [[files]]
-file = "mods/item-filters-fabric-2001.1.0-build.59.jar"
-hash = "0a4c161bba648fd41b6f6ba69cdc00e65c5c161b7c52baed5ce97d91d8bae238"
+file = "mods/jade.pw.toml"
+hash = "5c4beef2abeebe14660358a2b7e9525392d04f2efa20da60eb130d68d9075b6d"
+metafile = true
 
 [[files]]
-file = "mods/jamlib-0.6.1+1.20.x.jar"
-hash = "1deee37cd3f35bcb84b6821544968a54b85905922c97ce3e9df8052068ae68c0"
+file = "mods/jamlib.pw.toml"
+hash = "c5b4553ad9250281b03636917cd21c26a0e58aa49d88712dac5750cacdf9cb66"
+metafile = true
 
 [[files]]
-file = "mods/keybind_fix-1.0.0.jar"
-hash = "fc14b008d3bea7420fa8f8dfcd69fffa41fb6bd5725755499cba90fac25f4d70"
+file = "mods/kambrik.pw.toml"
+hash = "a1aef67c1fcb62afe66af906e929c09f91ac503fca30d7903b174784f919a2df"
+metafile = true
 
 [[files]]
-file = "mods/kleeslabs-fabric-1.20-15.0.0.jar"
-hash = "b2af3289e01b0ce8e1ffd5c75397b71b1b2ddf2d5ee30a3ef80a5cba97cfdf53"
+file = "mods/keybind-fix.pw.toml"
+hash = "1567dc7a6628a5aed513e6c1804d3e3e5b78510d5ac1732ddefee2ce1069f746"
+metafile = true
 
 [[files]]
-file = "mods/konkrete_fabric_1.7.0-1_MC_1.20.1.jar"
-hash = "0e48fadccfaf3f88e6a260525a1d0dd5df052fb21b8b8281923fef619769637c"
+file = "mods/kiwi-fabric.pw.toml"
+hash = "61e90f5f67e0e513f2980a0b93eb3550fc0aacea56cd3c9809973b35aa8632fe"
+metafile = true
 
 [[files]]
-file = "mods/krypton-0.2.3.jar"
-hash = "69ad1810206ce12181b1b083640f044e7e250781c36c96c655eac36209057698"
+file = "mods/kleeslabs-fabric.pw.toml"
+hash = "0e763074f945d2dbdf4e1597a953444a55086afb23caec3b98e23cabde39bc77"
+metafile = true
 
 [[files]]
-file = "mods/lambdynamiclights-2.3.2+1.20.1.jar"
-hash = "20433fb9a20f9450599bde4d8f0e8b0898eefdbda13e47d68430d31422c9f564"
+file = "mods/konkrete-fabric.pw.toml"
+hash = "c231d4b9b466397da607196b45f3284b0398c6af2b06cf66b90fa611f4cca69a"
+metafile = true
 
 [[files]]
-file = "mods/language-reload-1.5.10+1.20.1.jar"
-hash = "db2eeab6336cd7cd1ac9a37289332f75f9dbae3d2591639e902494883cf33d8f"
+file = "mods/krypton.pw.toml"
+hash = "ef5b1cad2960cf1711194d1ff50b9da616ae3b157c081e8b56af0c8b17e9946b"
+metafile = true
 
 [[files]]
-file = "mods/letmedespawn-fabric-1.20.x-1.2.0.jar"
-hash = "47152d2b3e2870d70060d6a2288129e148d9d35c217f2aeb26f49156c0b31a7a"
+file = "mods/lambdynamiclights.pw.toml"
+hash = "d11159f80df30571247f878dfcec328468472c7a5dbd11d3f6ab074b355d1836"
+metafile = true
 
 [[files]]
-file = "mods/lithium-fabric-mc1.20.1-0.11.2.jar"
-hash = "a0c595355d680e0c87bf8eaebafedff6900d4e771a8d6894ee6d2d4374de8df9"
+file = "mods/language-reload.pw.toml"
+hash = "4cd65e81f8e4597c31c980b07879f3f9cd5e7275da85b0f047f630adfd2a86c9"
+metafile = true
 
 [[files]]
-file = "mods/lmft-1.0.2+1.20-fabric.jar"
-hash = "1a145a0ce7654de710082c73b0eb172a44a098288403582103961a54430a52a3"
+file = "mods/leaves-be-gone.pw.toml"
+hash = "7b106db2cfb5a2aad5ac0f3f9282af7b1fcae68cee63f98e50764c38972bf5c6"
+metafile = true
 
 [[files]]
-file = "mods/lootintegrations-fabric-1.20.1-3.4.jar"
-hash = "818af57d933e69e9aecb8cc9e87958576d76550d24720a13c5dfca4fedf72281"
+file = "mods/let-me-despawn.pw.toml"
+hash = "e4ea8b4858171d25a461833cb0944b34c8d3403119e7a5d83309c0c56f5ee4f8"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "2245f34c6d75a8abbce9a07f902d656b34387bcf1c4b60f56ec094ac8a470e19"
+metafile = true
+
+[[files]]
+file = "mods/lmft.pw.toml"
+hash = "662512cd3986e81c6cfd75816e9c968f66a2bf60001f82cb27a68c9ef5919c90"
+metafile = true
+
+[[files]]
+file = "mods/loot-integrations.pw.toml"
+hash = "eec3a7dd13050aaeee36ee9b95f38f23f224e19da1c3b2ed9b7a93f9e39091e5"
+metafile = true
+
+[[files]]
+file = "mods/luna.pw.toml"
+hash = "df6c4d88edd4c9d8e570b389d6f1d6fa744503463c0e23c67001549f09644996"
+metafile = true
+
+[[files]]
+file = "mods/magnum-torch-forge.pw.toml"
+hash = "ea0f52afcfa1155ce47c64f0dd4465b3175d5f037066c334ca8980e78abaae6d"
+metafile = true
+
+[[files]]
+file = "mods/memory-settings.pw.toml"
+hash = "8cf6612fb586609a53bbe59e980714b3ccdec6267c72256018cab2c27231a2c4"
+metafile = true
 
 [[files]]
 file = "mods/memoryleakfix-fabric-1.17+-1.1.2.jar"
 hash = "a9fadc6d369e6bbfb10eab4c00780c3295292c634b6551d2e1e2897ec38b63ab"
 
 [[files]]
-file = "mods/memorysettings-fabric-1.20.1-5.3.jar"
-hash = "c14609c525dce3331e9d836697d32581187ef20cc33f5ec8b782d1fa61ea850c"
+file = "mods/midnightlib.pw.toml"
+hash = "3a82c08c74d69af0bc30a682da43945005455162276f60efdc3eb5b62d747499"
+metafile = true
 
 [[files]]
-file = "mods/midnightlib-fabric-1.4.1.jar"
-hash = "1092b8b311203cd5f2089c7187e1ac9378e0374b29fabae7e98f4af8360fdbc6"
+file = "mods/mindful-darkness.pw.toml"
+hash = "dc00b63db03e93fe5fe13fece40b04155bb3e23ac061776e726005de8361f124"
+metafile = true
 
 [[files]]
-file = "mods/mixintrace-1.1.1+1.17.jar"
-hash = "26ca21a27706cfa4561868f31c4fd07c542e8cc759419f5884ddff1f3a126a99"
+file = "mods/mixintrace.pw.toml"
+hash = "f8c57b83b826e6447a6a97f88f0fab03bb76caebc8272b74f3b890c6b5821d5d"
+metafile = true
 
 [[files]]
-file = "mods/modelfix-1.14-fabric.jar"
-hash = "c9cd143ff43b89caabbefe1d6b0569477dc91c2a108822d4319c9cb0055ec332"
+file = "mods/model-gap-fix.pw.toml"
+hash = "4e026e566d9b5bf8bb9f528e8f0dbe66184e1f514cc00544a3363a21f2feb482"
+metafile = true
 
 [[files]]
-file = "mods/modernfix-fabric-5.11.1+mc1.20.1.jar"
-hash = "6cdf671214c8839a4645e67865a72f3d7b0e64a06e11c4c983c4127a13a1aff9"
+file = "mods/modernfix.pw.toml"
+hash = "1572c240a0537eafc9f480ab52db4bbcc9c58fcccc635754d7892145ded64401"
+metafile = true
 
 [[files]]
-file = "mods/modmenu-2.0.17.jar"
-hash = "d13dbea8682dfb97d4c69806c7e6d4c53462d4906f4d3eb12422cf085e49b670"
+file = "mods/modmenu.pw.toml"
+hash = "66d1b7bc973830475a7bae8a5b823ec42fbc1ed1f4d4c514f1e6a21b20177810"
+metafile = true
 
 [[files]]
-file = "mods/modmenu-7.2.2.jar"
-hash = "a041b0f0305ffa5eb90120aa23768e1cfbb27583904b1751e3783c0f69382f1a"
+file = "mods/mouse-tweaks.pw.toml"
+hash = "5498b1db0081867fce31ca1eea88a224565b3142205a8d0082e8b1761faeeefd"
+metafile = true
 
 [[files]]
-file = "mods/moonlight-1.20-2.11.9-fabric.jar"
-hash = "2575adaf50daafe218a09cdb312bc89be931fa80829b2f63d7218dc05eee0e25"
+file = "mods/mru.pw.toml"
+hash = "d4bc7f315717e71e116b209349ec36b147affbb8e84048d9ab691750d7890452"
+metafile = true
 
 [[files]]
-file = "mods/mru-0.4.0+1.20.jar"
-hash = "842d82d9b18adaa0878716e51ba79b9f58c2995cc7e37051e35bf917d73ca0fa"
+file = "mods/mythic-charms.pw.toml"
+hash = "333e3fb3f557f2a564a343684c4ee925f1e4e31fe6df9cdc1387b44b2e373a73"
+metafile = true
 
 [[files]]
-file = "mods/mythic_charms-fabric-1.20.1-0.6.0.jar"
-hash = "773fdc70f5a63fdeb9e9a5826c8705aceb85582e2f9a230971a8dc0b93db828d"
+file = "mods/naturalist.pw.toml"
+hash = "682470f6e9dafbd6a55dbba1f8b214258a37fc7eff47b307508498daa653623b"
+metafile = true
 
 [[files]]
-file = "mods/naturalist-fabric-4.0.3-1.20.1.jar"
-hash = "a21c21068a46bb7663376b0cce7e7ac9228aac46db2bc5f3d13ab9b44ed3aa92"
+file = "mods/natures-compass.pw.toml"
+hash = "cb38b82b931ae3c33bf9c21ad0934fcebaebcfe065838ade56a0661e283ee7d6"
+metafile = true
 
 [[files]]
-file = "mods/neruina-1.3.0-fabric+1.18.2-1.20.1.jar"
-hash = "631d1e378271905d7a334309927fcd250a229a5c7e973daa6409ce1b13590a85"
+file = "mods/necronomicon.pw.toml"
+hash = "5cf98fcacada4df943eed3b1d2a3710e1f2e22075dd15d4058336921228470ae"
+metafile = true
 
 [[files]]
-file = "mods/netherportalfix-fabric-1.20-13.0.1.jar"
-hash = "4f69dbfd50efe1476010ce6d35a05660c7dc5d3f0707944a5be3bcbed1c37c2f"
+file = "mods/neruina.pw.toml"
+hash = "17e8ed3dbc72e1c5f4d2cc0b320bfbf55638f29afe940b9011381087a3507cc6"
+metafile = true
 
 [[files]]
-file = "mods/nicer-skies-1.3.0+1.20.1.jar"
-hash = "cb254a1635ad67dce2dd33e28e464918177915dc6b0d58ce4a6b28a28276b297"
+file = "mods/netherportalfix-fabric.pw.toml"
+hash = "23ab8cbe4992e305825d977af0aa8d023a7acff693d0a3a311dae1e78f43a5d1"
+metafile = true
 
 [[files]]
-file = "mods/notenoughanimations-fabric-1.7.0-mc1.20.1.jar"
-hash = "0399528f0a5651bf9b49fad3a8c15cca5173d63e7696bc4cf345223bf6e38217"
+file = "mods/nethers-delight-fabric.pw.toml"
+hash = "3dda9d9871e608fd8b97db8797e70ed5473036485257035409fb9c568b2c6c08"
+metafile = true
+
+[[files]]
+file = "mods/new-nether-chest.pw.toml"
+hash = "851137b75ab67330250078ec572c2849b0fa7c9f74709c79a4cfb3b904e31342"
+metafile = true
+
+[[files]]
+file = "mods/nicer-skies.pw.toml"
+hash = "9f63e31a11f16310e0da0fd0bbbdee4f60a41189def40f2bcfba830c68b8e0b9"
+metafile = true
+
+[[files]]
+file = "mods/night-config-fixes.pw.toml"
+hash = "009f38ed0ab8f7dda14186a6fa8432cfd3208555e4600ac4fa531107de61333e"
+metafile = true
+
+[[files]]
+file = "mods/no-chat-reports.pw.toml"
+hash = "5553f08402ff3f277f68bf132463f187d14e2b12275ae319f934e4672f4b9288"
+metafile = true
+
+[[files]]
+file = "mods/not-enough-animations.pw.toml"
+hash = "50f009eec512f80c7dbcdfdbbce4d508abf373399f51f4e9f3ec3fcfeda3bf12"
+metafile = true
 
 [[files]]
 file = "mods/nvidium-0.2.6-beta.jar"
 hash = "a33b0046144a7d5e96d213759e6fe526d9f9e9c0e1a4ec27083a7ef3cce95933"
 
 [[files]]
-file = "mods/oceansdelight-fabric-1.0.2-1.20.jar"
-hash = "fdfc5c1e74ef9bd88ab148a12b2f45502f546a2371d8dc4d0a17d534efc3c573"
+file = "mods/oceans-delight.pw.toml"
+hash = "1c5732b5010aab54d9937825a1a898292fbeeb4cba818ddb625703ac6f283838"
+metafile = true
 
 [[files]]
-file = "mods/open-parties-and-claims-fabric-1.20.1-0.20.4.jar"
-hash = "3563277d119cbaaf848f72db6ab6f254536a5b21e21f725ea609b4c0dd7bd091"
+file = "mods/open-parties-and-claims.pw.toml"
+hash = "84643181b5182bc5c95570b60c0b823d4235f0c851826ce85c0bfc2c6f02e1ed"
+metafile = true
 
 [[files]]
-file = "mods/owo-lib-0.11.2+1.20.jar"
-hash = "1c249c30d3e50bba5cb35e0c3acebf4bd5f969bd33402de2f3a6a619fd688d12"
+file = "mods/overflowing-bars.pw.toml"
+hash = "85a90ea5eb63cd3c62e5556977bd18c6e1791c27863885b0249f4bc0523a58a2"
+metafile = true
 
 [[files]]
-file = "mods/polymorph-fabric-0.49.1+1.20.1.jar"
-hash = "6b10f690a170823e242ab966aab8a21e81147033ec23e834d4fa92fddfacc350"
+file = "mods/owo-lib.pw.toml"
+hash = "9a0ab52020c3a2d073e71f07ce11b9d2d8ae0a17b8a3cf0c9227029a51df51c3"
+metafile = true
 
 [[files]]
-file = "mods/promenade-4.1.1.jar"
-hash = "1b73ed9401e194b1c1948a54b59d941ac147921e7ede50d150b2390d56bb2260"
+file = "mods/packet-fixer.pw.toml"
+hash = "37fcde5a1fe7726a6f14c2be977e3810b0baa40a9a27e6b1631829c1960d1883"
+metafile = true
 
 [[files]]
-file = "mods/puzzle-1.5.2+1.20.jar"
-hash = "3b1975479627b48efd7f97b6c14edd1ac5b3decb2b6205bb4cbcb27216392200"
+file = "mods/paintings.pw.toml"
+hash = "a666c9289311aebe40459e0020794cffba1dc18cd4b05f78b96d4402528314fb"
+metafile = true
 
 [[files]]
-file = "mods/quartz-elevator-2.2.5+1.20.jar"
-hash = "28a5475215d0442a631551d95effb00eb29d760724667641bf34018c2a2ebf6b"
+file = "mods/patchouli-fabric.pw.toml"
+hash = "bb0398103eccb3b7bb136776e68e7eda242c25d4d9864d4551d18beca58bc913"
+metafile = true
 
 [[files]]
-file = "mods/reacharound+1.20-1.1.2.jar"
-hash = "8b49b226306b7877c18e4fdaa787dabc9c2b0461973d09a367fbe4ba3ce295fc"
+file = "mods/paxi-fabric.pw.toml"
+hash = "b1a74054201c237e898d0dabdb8409864f1f480abdaf69b738b4194dd655a521"
+metafile = true
 
 [[files]]
-file = "mods/recipeessentials-fabric-1.20.1-3.2.jar"
-hash = "89dfd301074e70144e364601d5f9342b71f2cc5e08bda61d52401e652c76e411"
+file = "mods/pick-up-notifier.pw.toml"
+hash = "7aa88c3736f441c44c44457e337d0c45eaa4302efd807f5023757ddd44d6de20"
+metafile = true
 
 [[files]]
-file = "mods/redirector-1.20.1-4.4.0-fabric.jar"
-hash = "edc2a7b2716e9c3c3301e0da8ad2a3fbf968489b9bb11d102bdb1cde4f39de40"
+file = "mods/ping-wheel.pw.toml"
+hash = "772ad8f4bd9de64a04025c2a03262182c1511b37d7bcde5a4add5fa47cc9985c"
+metafile = true
 
 [[files]]
-file = "mods/reeses_sodium_options-1.7.2+mc1.20.1-build.101.jar"
-hash = "627b6b90e30d18de49dd8960afd5c8b530cf2c6f21b248d14a848d1023ff0bec"
+file = "mods/polymorph.pw.toml"
+hash = "d53a9b17a24b687107b6012579418f9a4dd49eaf768513f952e970e3b43de8ab"
+metafile = true
 
 [[files]]
-file = "mods/repurposed_structures-7.1.11+1.20.1-fabric.jar"
-hash = "da7208237a0e5e92aaacf5fa868cd9161921d9a49b902575f59e18e9b8904b6c"
+file = "mods/promenade.pw.toml"
+hash = "f93abf6917928aab77f203743cd05aefa2d7dd1de3e23d1c27794b6a07af40d0"
+metafile = true
 
 [[files]]
-file = "mods/resourcefullib-fabric-1.20.1-2.1.20.jar"
-hash = "4aead7a54ddd79019bc92c74708d9100c0c5900a81d518ed36e3f4c40fa90b13"
+file = "mods/puzzle.pw.toml"
+hash = "6f1c556771ecbda60b1b2f84e428428937e259aa572e8459b13366c7be824664"
+metafile = true
 
 [[files]]
-file = "mods/right-click-harvest-3.2.3+1.19.x-1.20.1-fabric.jar"
-hash = "40e2125f1e4daabce04babab3be00cc869998440d29c9a1e40feefb5c9ccaa22"
+file = "mods/puzzles-lib.pw.toml"
+hash = "5164f88be36a4c0863a2dd42b3da848452d8119dc0efebb63e3c1f8791c18e3c"
+metafile = true
 
 [[files]]
-file = "mods/servercountryflags-1.9.3-1.20.1-FABRIC.jar"
-hash = "3ff05eaadbfc6b59ccbebfea3f88f65bdda4a69a4638b04e29d36d5079476263"
+file = "mods/quartz-elevator.pw.toml"
+hash = "fb59575bbae593714a520e375adc4a166bbd2f2560e7514a9cf2c6c5aad7328e"
+metafile = true
 
 [[files]]
-file = "mods/skinlayers3d-fabric-1.6.1-mc1.20.1.jar"
-hash = "1729227a427e68bf0b8fbfdf90ce5fb9e022bf7117836acf11a95db1b0709cea"
+file = "mods/reacharound.pw.toml"
+hash = "b6820fdc7c01a5821ed2db9d2afcbcdc2b9a25b262c4650c69602b33ea20287f"
+metafile = true
 
 [[files]]
-file = "mods/smarterfarmers-1.20-1.7.3-fabric.jar"
-hash = "d35118e51b71e8211b6ea1aef138a04eddc1d55fb1f99f12579a42c83cd30f13"
+file = "mods/recipe-essentials-forge-fabric.pw.toml"
+hash = "6a01e9efbb53b94065d7fc97ed0f15311451e016502d980b41f928e592afff3a"
+metafile = true
 
 [[files]]
-file = "mods/smoothchunk-fabric-1.20.1-3.5.jar"
-hash = "b4e172b3fd2cc60a79c8b55f24131983ab656c860239845200658f7e18d6e22d"
+file = "mods/redirector.pw.toml"
+hash = "21e7b05ab7bb3eeef7a81106686868a204f918139221c5a57f07aae81e429af3"
+metafile = true
 
 [[files]]
-file = "mods/snow-under-trees-fabric-2.0.0+1.20.jar"
-hash = "0590b5965995011b817b438fa8cccb62c213386353b891865dd79748091b119c"
+file = "mods/reeses-sodium-options.pw.toml"
+hash = "c7a632600334f8643c3dca388a7e6b6b30f15607d21dd7cb1bad3f59a52f0f84"
+metafile = true
 
 [[files]]
-file = "mods/snowyspirit-1.20-3.0.6-fabric.jar"
-hash = "4b18c4f821cd7b90e1a7d67419f22771279a9e0f6821b31cefa4b690027daecc"
+file = "mods/repurposed-structures-fabric.pw.toml"
+hash = "67c62d5ece7f3e8329e373cc5a1fe65a3c77e70a6b08251a8bc35d7648f28185"
+metafile = true
 
 [[files]]
-file = "mods/sodium-extra-0.5.4+mc1.20.1-build.115.jar"
-hash = "e1cf1048d0ee55f9e4c381a165a1304300c8615e5071d78cc912262b362da81d"
+file = "mods/resource-pack-overrides.pw.toml"
+hash = "881680f0b3eb2e9c34aeaf8d7b7a8e3575152c5eda5e69fae3f3964c0aa90657"
+metafile = true
 
 [[files]]
-file = "mods/sodium-fabric-0.5.8+mc1.20.1.jar"
-hash = "cb19c646b6bc09ae75cb438c44d13a3ef3625ef0e2fb8fbc83168746df7d0291"
+file = "mods/resourceful-lib.pw.toml"
+hash = "599d100f81518391514f51b9eec1ead455e9f7e622dd1a3b78009a76bf2b631f"
+metafile = true
 
 [[files]]
-file = "mods/soundphysics-fabric-1.20.1-1.1.2.jar"
-hash = "ee1844c468dd9134dcd1a670ba39d27b5e1cd7165d23c5bf19ff0d2bb8716fe9"
+file = "mods/rightclickharvest.pw.toml"
+hash = "45a0be935bcca91138996460610bd84312729d6ae00648fbb7ea332bd23bb437"
+metafile = true
 
 [[files]]
-file = "mods/spark-1.10.53-fabric.jar"
-hash = "00c034e684fa4471b41539dc29a8d39cc6f22eb29b2fa423895efc978a391d2d"
+file = "mods/roughly-enough-items.pw.toml"
+hash = "5c06045ac59f10bb70c9eda5d47d4fab87b19dab1ae93d2eee2940cb47ec25cf"
+metafile = true
 
 [[files]]
-file = "mods/sparsestructures-2.1.2.jar"
-hash = "c496b663fa47650a3d99fd0f097f3ba64d4dc5cb0753f5a523dabe982d6c9fed"
+file = "mods/roughly-enough-professions-rep.pw.toml"
+hash = "1b20f1b5ebefb4a1561cc92f775dcfd22d3986a14e56b5f239e0369f0ee3f2f4"
+metafile = true
 
 [[files]]
-file = "mods/spawn-1.0.3-fabric.jar"
-hash = "4105e9cc177ffee6ab3a0be74724d920e69bd8c1631346df5b7931024713dad1"
+file = "mods/ruins.pw.toml"
+hash = "31820bc2a44d6741ac1cf25613d8f42b43024f1db46f2d98c32094920ca8458a"
+metafile = true
 
 [[files]]
-file = "mods/spawnersplus-2.0.1-1.20.1.jar"
-hash = "032eb328cb176c5d09570406ba5a0c95c57cde8f836c7cc91da2c96e60ea86c2"
+file = "mods/searchables.pw.toml"
+hash = "7907d6767fc871c8949c4ee64407796b6c9512207a0a06aa8f874357ec81f2f2"
+metafile = true
 
 [[files]]
-file = "mods/starlight-1.1.2+fabric.dbc156f.jar"
-hash = "2b4bb0256279b9edeec050ea02751119e4a7c6933a2b0d2905a72c56b14882d8"
+file = "mods/selene.pw.toml"
+hash = "72ce52db32f382db85056fea1dfe67959cd709c2b4806704520c0ff760584fd1"
+metafile = true
 
 [[files]]
-file = "mods/structureessentials-fabric-1.20.1-3.2.jar"
-hash = "8298a2f254c63f7fdca99f6d3bb736c848a2700fcbf36326dbbb58ac52f807ef"
+file = "mods/server-country-flags.pw.toml"
+hash = "18afeb993581974b5e0b09a9904aa91c3394a2cd8493cfe85f62c35dad973f43"
+metafile = true
+
+[[files]]
+file = "mods/simple-voice-chat.pw.toml"
+hash = "fcac7f6fe9085eaad3b69cd44aedee058b9c379895090444ba722800d2d27d24"
+metafile = true
+
+[[files]]
+file = "mods/skin-layers-3d.pw.toml"
+hash = "2b93b643cb425f869ddcc239fb4c2ca2c5dd7428526b0b96f28de8fa204150b6"
+metafile = true
+
+[[files]]
+file = "mods/smarter-farmers-farmers-replant.pw.toml"
+hash = "cee9fecebf52bdf16efbf617beb249b9f1726ad0166ef4cecc6b0b93b82438d3"
+metafile = true
+
+[[files]]
+file = "mods/smooth-chunk-save.pw.toml"
+hash = "0247475cc78ddaae99848dbdb8bc36b3d20a739cebf7123d8d3853f7973c45fb"
+metafile = true
+
+[[files]]
+file = "mods/snow-real-magic-fabric.pw.toml"
+hash = "283946cda3e9712e66bff9f9270c3182b8ba313f48878bec8fd9130628917875"
+metafile = true
+
+[[files]]
+file = "mods/snow-under-trees-remastered.pw.toml"
+hash = "4312afea2fd1ef8f4117cce02b224d0c46f158cb62a1d726b3853452fd0f3bd1"
+metafile = true
+
+[[files]]
+file = "mods/snowy-spirit.pw.toml"
+hash = "cbc2c176f5553b9e506650383ae7d6f78f617185b27364d41333a1bda0ba33fc"
+metafile = true
+
+[[files]]
+file = "mods/sodium-extra.pw.toml"
+hash = "1c715482d789775635bdadfd07a193c9b72474d9bbae2259e3c65c3a054edddd"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "db035041e13b5f951ecca0c3d17ba92639185d4967d2e7c7e4b451a9e20bc9a3"
+metafile = true
+
+[[files]]
+file = "mods/sound-physics-remastered.pw.toml"
+hash = "770eecbe4f48d87bba10ecfc9f22d9d7e2ed739d9431dd7d528062b11853f79f"
+metafile = true
+
+[[files]]
+file = "mods/spark.pw.toml"
+hash = "d5ed51699dd5358cabc504b6a553b290fd6578c9926ab14f29e14786d43b6b84"
+metafile = true
+
+[[files]]
+file = "mods/sparse-structures.pw.toml"
+hash = "b47c6e962f3c2af733541c70df72cc87623f5b53a91f9759cefde49744c812a9"
+metafile = true
+
+[[files]]
+file = "mods/spawn-mod.pw.toml"
+hash = "3e9fef93b6fce4e167ee44899ec18048970582e5ad4e6f91eba4dcd9eee2b0a4"
+metafile = true
+
+[[files]]
+file = "mods/spawners-plus.pw.toml"
+hash = "de0f4d8a048094b9b23fbe1b5e3b0e9358ac6d844ac3e1f4bdb0bbf53505b67e"
+metafile = true
+
+[[files]]
+file = "mods/starlight.pw.toml"
+hash = "c9707be9953f87c752fc750bc7f54d6d1c10d74e53b7a86fb55357c977c4fd1b"
+metafile = true
+
+[[files]]
+file = "mods/stoneworks.pw.toml"
+hash = "b7124a0d8cdf19f4de41db21aa26cfe4ace1d5c20779ea1db0dda0f68a0c6e20"
+metafile = true
+
+[[files]]
+file = "mods/structory-towers.pw.toml"
+hash = "3dedbd73490f068db41cc979d864ab97568506cfc5436c783ae7549a986eab42"
+metafile = true
+
+[[files]]
+file = "mods/structory.pw.toml"
+hash = "ca3ef53ef31a648063269f3cad4908c991ee06088f949b3cffa29a49c35da942"
+metafile = true
+
+[[files]]
+file = "mods/structure-essentials-forge-fabric.pw.toml"
+hash = "a2952fcf07553f733aba93ca1bc4b556c33a53719ccade60d9f1681e39b2c647"
+metafile = true
 
 [[files]]
 file = "mods/stutterfix-mc1.20.1-0.2.0.jar"
 hash = "9b2bad1d002f3b4f8aea88eea251ef0561731d633a50d69c9dcab89b6ebdd249"
 
 [[files]]
-file = "mods/supplementaries-1.20-2.8.10-fabric.jar"
-hash = "672030c86cca429f47dc1d9ddc519fbf714cf4bfaeaecd6325fd96b1daec7005"
+file = "mods/super-better-grass.pw.toml"
+hash = "09cab4234a9af372c490fa283a67307c2b7220d5441fa8dfa4ef6c104893f31f"
+metafile = true
 
 [[files]]
-file = "mods/suppsquared-1.20-1.1.14-fabric.jar"
-hash = "d5d1ea6d2c68c1c8ff12a88b2e0f6d6759ebf2241f8221a12c333735b3a668b3"
+file = "mods/supplementaries-squared.pw.toml"
+hash = "5d5173fb7e04eb00c60f969d5ddbdd7c8bea82c6afd8428b41afd4b22d4a58ca"
+metafile = true
 
 [[files]]
-file = "mods/talkbubbles-1.0.8.jar"
-hash = "799a6554b46912fd5c5c33c5371766c5cdfa7dee3a9eb5c039fab7fa1ecb5754"
+file = "mods/supplementaries.pw.toml"
+hash = "5113afb95c37a18d4fec0e7521707354cb09f68b16952588855dfdd26ca5290e"
+metafile = true
 
 [[files]]
-file = "mods/the_bumblezone-7.1.14+1.20.1-fabric.jar"
-hash = "ebd55e80ffc84582b3f6d0086da3da64c9d96e7c753fe2310b01a05ed7370bac"
+file = "mods/talkbubbles.pw.toml"
+hash = "4f37c585d5feaf122d7e308117f098a5edba0a4ffb017709f0b426b977085cb4"
+metafile = true
 
 [[files]]
-file = "mods/thermoo-2.1.0.jar"
-hash = "2f5ad5e9869a48af81a1cb4f89920104e8dc0c25129a69be4ba3ca5380a9ad74"
+file = "mods/terrablender-fabric.pw.toml"
+hash = "79a800f9c485559b8a0f37c076a535637cc1dc7e4dcd38bc8627ae4528e1f08d"
+metafile = true
 
 [[files]]
-file = "mods/toms_storage_fabric-1.20-1.6.5.jar"
-hash = "d4ada549db9c99504470fe2a75a9d3715cf442c842c91f02d39d46483e94faee"
+file = "mods/the-bumblezone-fabric.pw.toml"
+hash = "6b574fe6113f60ae5c92fe8e1c3899cfdd9b95f890474faa14dd45cf108090b9"
+metafile = true
 
 [[files]]
-file = "mods/toms_trading_network-fabric-1.20-0.2.3.jar"
-hash = "7489cf77c3f76c3ca765bf375f01e69ab2fc1b87438f31bd8d0fd27024d26ea5"
+file = "mods/thermoo.pw.toml"
+hash = "040377d109d52083ca7b762e55eeeccc68f56ecf3141da5e04397a23b1d2723c"
+metafile = true
 
 [[files]]
-file = "mods/toofast-fabric-1.20-1.2.0.jar"
-hash = "dc0e9cf1770166fe56190a715340ad04eb40cfe59ca40cf2288c30645a104fd4"
+file = "mods/tips.pw.toml"
+hash = "c5ea195f97955a707d12bc8e9f4e9f1f6fd3b2995018e18d45425ba69c7bfe4d"
+metafile = true
 
 [[files]]
-file = "mods/transparent-fabric-8.0.1+1.20.1.jar"
-hash = "6dcbde73ee9c3f6f7176996941cff9759dd867017fdeda74df4912cfdaae1738"
+file = "mods/toms-storage-fabric.pw.toml"
+hash = "6d550472363cf38a2058928fe4110c71dd5e4ea4319078674b277b24c00dadf5"
+metafile = true
 
 [[files]]
-file = "mods/trinkets-3.7.1.jar"
-hash = "6ec3c49dfaefb8753da2de99fae2feef63f1653b4267ee8bac22d2298d0d9be6"
+file = "mods/toms-trading-network.pw.toml"
+hash = "990296fc79ebf149f32cb8bac132198a4b2bced0594dc07a94cdcaf383fd31a5"
+metafile = true
 
 [[files]]
-file = "mods/twigs-3.1.0-fabric.jar"
-hash = "25ab7e6eff163c799d30dfa27f9c54c3d0828dff8f5af099e69966c48783f33a"
+file = "mods/too-fast.pw.toml"
+hash = "afeb531826af02bbed02c66add559cda5864f268d4b433b4af17ed4850480615"
+metafile = true
 
 [[files]]
-file = "mods/universal_ores-1.5.2.jar"
-hash = "03a9ffc628f8ed05a79bed7a84c640b770dd7ba41a4ba5b9a969fd856c6a67e4"
+file = "mods/tool-stats.pw.toml"
+hash = "19fa98d9f4bbfeec49a28b193642e1654ac81f3da7f878b1a65045392845c1df"
+metafile = true
 
 [[files]]
-file = "mods/variantcraftingtables-6.3.5.jar"
-hash = "e08a8b901971be30bf025a7933d94fcaabebc7cf3c19135e8072f7df7a1f4bf9"
+file = "mods/towns-and-towers.pw.toml"
+hash = "00a0cba74675174812eea16aca533adfe9bac7b30a81a7e33dd81bd9343b45c4"
+metafile = true
 
 [[files]]
-file = "mods/veinmining-fabric-1.2.1+1.20.1.jar"
-hash = "b59ad38fc15db65813f42f2a144a6521bb4dbbd0ec73f492da1706bc9304d642"
+file = "mods/trading-post.pw.toml"
+hash = "d047ad782dc22a46e84d29e69e81b915d00fe167b53c173ebfee230966b8e3a1"
+metafile = true
 
 [[files]]
-file = "mods/villagernames-1.20.1-7.3.jar"
-hash = "c4aa3965375d4587e28b39bf031db624e77b9c30c199ed5177891f076b40396d"
+file = "mods/transparent.pw.toml"
+hash = "3ed20daac0bffba028a2cceef475254a0a4eace7fd55c02e607e0b1e9890fbbd"
+metafile = true
 
 [[files]]
-file = "mods/villagesandpillages-fabric-mc1.20.1-1.0.0.jar"
-hash = "34e6f1754adf81e1ddfbd125492ed72cab58fe72d94fb9af8ae98f95e419c1bd"
+file = "mods/trinkets.pw.toml"
+hash = "792155426992079177fe1ee62c1df969fb71540becd719de8efca2ebc6bec896"
+metafile = true
 
 [[files]]
-file = "mods/visuality-0.7.1+1.20.jar"
-hash = "f95afc78d944a06f807c683f5959878d8214d775cd81ecbbbc076fc43763202a"
+file = "mods/twigs.pw.toml"
+hash = "7b9d811345bc97947c0eb2eaa90871c1d22c733779797aa582be0afe7377066a"
+metafile = true
 
 [[files]]
-file = "mods/voicechat-fabric-1.20.1-2.5.11.jar"
-hash = "1629f60c7f4a1c2d7c78aebd8d9cfe80eb173206583b570b5400a96e4448f77e"
+file = "mods/universal-graves.pw.toml"
+hash = "460f5e779cd326c3cad3f04ed2dd473de6b5b3561a1c0c5f232681bcefc1418e"
+metafile = true
 
 [[files]]
-file = "mods/voidtotem-fabric-1.20-3.0.1.jar"
-hash = "c823caf41ad3f5319470fdee59ea80bbb7523c91f1ea47a9103e22c5ade06d67"
+file = "mods/universal-ores-fabric.pw.toml"
+hash = "794fd726546cd520ac7c9be010dbaf991bfb9fe0c3d971fc89d421f18a47306d"
+metafile = true
 
 [[files]]
-file = "mods/voidz-1.0.10.jar"
-hash = "d931c3e56b34ff69703f5ac66d703773a66de5da2ffec63c6633edae69107563"
+file = "mods/variant-crafting-tables-fabric.pw.toml"
+hash = "afd78306318b0f041a6e0f5b813dc5392374967eaafd082cf7f37620bff6197c"
+metafile = true
 
 [[files]]
-file = "mods/watut-fabric-1.20.1-1.0.12.jar"
-hash = "1d3ef7ecb2154694611096f5ac2abf06dd57cbf022b3ed96e502ce6a972f4ccb"
+file = "mods/vein-mining.pw.toml"
+hash = "f9051587597ce594e0b5ba3047c557e39d2d5f21ced519dfa5e68da6c4588797"
+metafile = true
 
 [[files]]
-file = "mods/winterly-0.9.3+1.20.jar"
-hash = "cab168525dfa7961be381c16bbb2e8ff90a389f744dd7b50ef47599896fe709d"
+file = "mods/villager-names.pw.toml"
+hash = "d8eb681d517629cae251ead8e41c0de98c4f6d13663090f09661e3bdc4d4ba1c"
+metafile = true
 
 [[files]]
-file = "mods/wraith-waystones-3.1.3+mc1.20.jar"
-hash = "cc939e17e0bb3336ada21477b075c8594dc4c0331bfec75ac7b718ee7847dca9"
+file = "mods/villagersplus-fabric.pw.toml"
+hash = "d07633020f47c59a70cebb55a0fbe620905382bb5fa2546a4167cb60cd19066b"
+metafile = true
 
 [[files]]
-file = "mods/xp_storage-1.5.3+1.20.1.jar"
-hash = "406dd8afec7ab7640d89c943542ff19675ee75dda8996acea7f12a425bd9febb"
+file = "mods/villages-and-pillages.pw.toml"
+hash = "ecb927b59cc3e10f42a46b64b06c47c66848579293cb7884793208919f36f5cf"
+metafile = true
 
 [[files]]
-file = "mods/xpstorage_trinkets-1.0+1.20.1.jar"
-hash = "6e7f4d9986c8ade58369098ba5f59f461d3f2f27e221f383a5626eb8157e2de0"
+file = "mods/visual-workbench.pw.toml"
+hash = "6238bebd69d6d71f66e2f65e4fec2307963a785e2695dfaf15b1f69ab7ea6469"
+metafile = true
 
 [[files]]
-file = "mods/yet-another-config-lib-fabric-3.2.1+1.20.jar"
-hash = "c5ad5a3dacb789671657f9023675f957bf4cb81b32fdc4817ed1ba14f2acd60e"
+file = "mods/visuality.pw.toml"
+hash = "92e24a8f89e7091aad6c5258ce66ccb74adaa78f831eb57733683643ae4a6c81"
+metafile = true
+
+[[files]]
+file = "mods/vivecraft.pw.toml"
+hash = "253634f72b02a2b1a12c960bc072f3e0c1d4df2d10c86d5a99c7cbd952da6510"
+metafile = true
+
+[[files]]
+file = "mods/voidtotem-fabric.pw.toml"
+hash = "d5941d0e496df31e20081e8ec09741d0385deeb663e1f41f4172f534c7337bca"
+metafile = true
+
+[[files]]
+file = "mods/voidz.pw.toml"
+hash = "c2e678c961d442e8a5941081d0bd931eebb75b5f410a18019aa312033e786f1b"
+metafile = true
+
+[[files]]
+file = "mods/what-are-they-up-to.pw.toml"
+hash = "a4a3cdaf361a94ba05b61b84b90fdd9b61b1e3e8238410ccd5ff3cc7b62c8f0a"
+metafile = true
+
+[[files]]
+file = "mods/when-dungeons-arise-fabric.pw.toml"
+hash = "d4c85656786ae507297bee0346612c7a23af76533c2455723543e104b4089bf7"
+metafile = true
+
+[[files]]
+file = "mods/winterly.pw.toml"
+hash = "71a4862c341c03e715ccd8acea931bb10d5f6f46d4bc1a326499bbcc33c1e681"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "2c4e7c3e5fc75aa9df3e51f2c0a3df74c6c730c510eda4a3f843e0817a64aa0e"
+metafile = true
+
+[[files]]
+file = "mods/xp-storage-trinkets.pw.toml"
+hash = "7e5e0ec5d10220f835c5d6a442e44ce170219360cb44f82f9f20f1aa9f82d62f"
+metafile = true
+
+[[files]]
+file = "mods/xp-storage.pw.toml"
+hash = "24e2f8b6d814fb8657ad1f0ca28f9a590141d7cd9efeec3831c3758a3ed8ebc5"
+metafile = true
+
+[[files]]
+file = "mods/yacl.pw.toml"
+hash = "74aca3c4c496d4b5f955eedc6bda1d35cda98fd70713d39bb05ef00d8eea724b"
+metafile = true
+
+[[files]]
+file = "mods/yeetusexperimentus.pw.toml"
+hash = "ee6c83df1346151c01eed745c9ec109a37607715a84e1ae67266ba50970cc11d"
+metafile = true
+
+[[files]]
+file = "mods/you-shall-not-spawn.pw.toml"
+hash = "d69a2fcfd604c584ac6aed0e3b82066b59f03c69bdae12a5116556210d9229ca"
+metafile = true
+
+[[files]]
+file = "mods/yungs-api-fabric.pw.toml"
+hash = "cba441f39b87df3e479f870998ecadaa833e847ec91932384def56f02b32362a"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-dungeons-fabric.pw.toml"
+hash = "5563f135632355c7b180c1f93087f6789863e3d605ee3149ba9075fdc917f9bd"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-end-island-fabric.pw.toml"
+hash = "1f5bda2ee3183785282d6aef59208330e0fefed0be038c40eb6b86d1d345bd87"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-jungle-temples-fabric.pw.toml"
+hash = "ef6c989521fc38807fcbf8bccc204c0f01f2f071387c2690bdce50e77ed370a3"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-mineshafts-fabric.pw.toml"
+hash = "4b051a6f31f33f629199e2033a5773fa25e24fcdaebf250c96f95a96f629b758"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-nether-fortresses-fabric.pw.toml"
+hash = "ebd74394feb9dd154a0ee710bddffdb5e80e18279e001d3c21ee21728364aa31"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-ocean-monuments-fabric.pw.toml"
+hash = "42b17d95baef2a67c36a91d3cbdef1a7a0858852792a8fd9b67b1c5ca6960658"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-strongholds-fabric.pw.toml"
+hash = "520012b82bfa92bbd6ac71855d16119eaa7e4c3e7e29234ac00f4861dbd4b44b"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-witch-huts-fabric.pw.toml"
+hash = "48cd5e6fc8bc8951f0e33e21d49d4c59dcbae57134e6c7425371ae566aaf6de7"
+metafile = true
+
+[[files]]
+file = "mods/yungs-bridges-fabric.pw.toml"
+hash = "4147ca397d51f92d2aa93d07d4fc24bd09774724088072baf73f5f39aec074f1"
+metafile = true
+
+[[files]]
+file = "mods/yungs-menu-tweaks-fabric.pw.toml"
+hash = "9f3a2e4ef19d9317832cac863ae27ec3d1c86879d44cd60fe2510e1c41595549"
+metafile = true
+
+[[files]]
+file = "mods/zoomify.pw.toml"
+hash = "2d3583018b07595c2af66d006b04e408ae324a6a85adef5c454fd4507df0e195"
+metafile = true
 
 [[files]]
 file = "resourcepacks/Better_Modded_GUI.zip"
 hash = "e161a18333fb2bf8acb897cf689f7f1419d9dba1fe341a98316395953df3ffb4"
-
-[[files]]
-file = "resourcepacks/Graphics/betterm.png"
-hash = "9e4cd7a5dec75c2d88d1ac5d23e83dbc364aafc37b0873d3ec69c4355b4d5f8d"
-
-[[files]]
-file = "resourcepacks/Graphics/discord.png"
-hash = "50588f898d90a1905235c9b4846a889495a37a86910bde6b9129621f9a68c9db"
-
-[[files]]
-file = "resourcepacks/Graphics/fabricapi.png"
-hash = "e890afadd42727fec07d9207e27bb08db34bc18720c8a5c4d8b7b6a89a981e6b"
-
-[[files]]
-file = "resourcepacks/Graphics/loading.png"
-hash = "b8ed73dc58a8657c3d1550deb32a6f0209e26f843bef103a88ed40327ba6d8ae"
-
-[[files]]
-file = "resourcepacks/Graphics/lunapixel.png"
-hash = "67ea9f2228d5918dc2c2b381c20766b5ecfa536f5709b51617b8a1c2fd1df9b9"
-
-[[files]]
-file = "resourcepacks/Graphics/mojang.png"
-hash = "ca4ff6f2f7e75ad5e0afeefbd81e989355f686214ef37af940a7c6f926b2750b"
 
 [[files]]
 file = "resourcepacks/Icon Xaero's 1.13.zip"
@@ -2661,1334 +2909,6 @@ hash = "508bc459fe7125378e595681c3f571724648ff9f0be6dd21e31a83f7eeb1f8e0"
 [[files]]
 file = "shaderpacks/Bliss-Shader-DH.zip"
 hash = "c21d0bd8131091eac5194b481806e798d37ad2f25b12a5aaff8d9b120bb8544c"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/DISCLAIMER.txt"
-hash = "0787f6f53acb08dbb4a309d2b434b08afbb8811abac73cf8d03a106d6a7be3e6"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/Made for Complementary Shaders r5.1.1.txt"
-hash = "8068e01570d59c22061be2ac89c657440465d2decdf68a7b3142ac8a347af05b"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaderFile_1/shaderFile_L.placebo"
-hash = "74ea2fcb43a7f194e136cf0915b9ce5c8fc55f42f745a30e1fbaccf0f77020f6"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaderFile_2/shaderFile_R.placebo"
-hash = "d6a249c4b0aeaed80079877cb6ddc87bba112d6528d84a59504075d59be5a03e"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaderFile_A.placebo"
-hash = "d6a249c4b0aeaed80079877cb6ddc87bba112d6528d84a59504075d59be5a03e"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaderFile_B.placebo"
-hash = "d6a249c4b0aeaed80079877cb6ddc87bba112d6528d84a59504075d59be5a03e"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaderFile_C.placebo"
-hash = "d6a249c4b0aeaed80079877cb6ddc87bba112d6528d84a59504075d59be5a03e"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaderFile_D.placebo"
-hash = "d6a249c4b0aeaed80079877cb6ddc87bba112d6528d84a59504075d59be5a03e"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaderFile_Versions.txt"
-hash = "238e093e59cf729897706e08ccaa2a3890d56bfbbe1d45562846ff32d005bacd"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/block.properties"
-hash = "fb28cd6faa17fa2e1b301e123ba43d1661465113501882438d6ab80450191a60"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/dimension.properties"
-hash = "4063c7a75f60e16cf0518dfda746ee1062c448a719440c47e9227c70dcda05f8"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/entity.properties"
-hash = "2f4c92c7986cd3d398e6c3fca22d349fa839b65125f724857d6543e79a6fd92e"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/item.properties"
-hash = "56088d7860e44367cd79371647074007a282edb99fca287e0645b9c785a90503"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/lang/en_US.lang"
-hash = "d054d8749f352779fcd13dd362ddacb40a148f910b71ff3873d85c8ed3b6a8ad"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/lang/zh_CN.lang"
-hash = "1580f7b33c6dcf5d95512638a24f3288f18077c7203cd69726d0b07ce3b5cdf3"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/lib/antialiasing/fxaa.glsl"
-hash = "4723ae3d4d068b7ce3f89702f528afa7bcae72381b3066ce4e679f78183f2097"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/lib/antialiasing/jitter.glsl"
-hash = "fe81fec7b10be8107b9c372796325e8a95f858f9983822ff46c238d330b2f593"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/lib/antialiasing/taa.glsl"
-hash = "192cf5b120e7dc30e69215b968db7d429d05b71c8d24fdaa174bdfc389331137"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/lib/atmospherics/auroraBorealis.glsl"
-hash = "f793249ab7e6eb15161d744d81d7a165b07844f2fec73e817b9870f0fc367141"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/lib/atmospherics/bedrockNoise.glsl"
-hash = "7a98f4eaab73c509ca375852914b979b2dbda594b43a195f9ac729b359e7c76b"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/lib/atmospherics/clouds/cloudCoord.glsl"
-hash = "f83b12ae20af241fce6e0e030583b12502f7840b98868a67dea2f7fc4748d157"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/lib/atmospherics/clouds/mainClouds.glsl"
-hash = "c5560fb6cb3d0bc276e84c1cbd5526281325c39174998ed2d2e57fb558dc23e5"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/lib/atmospherics/clouds/reimaginedClouds.glsl"
-hash = "d7b6549a3c6837a5018609a4ccbaa87c4e296fe54b3c5134d28507a2f57cc905"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/lib/atmospherics/clouds/unboundClouds.glsl"
-hash = "6cdf651977d7bffab2afc047f5b5c7ab1127edf3da226d9927b56ccff998e780"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/lib/atmospherics/enderBeams.glsl"
-hash = "91f5e69888ed5be6c9afc40a012aac9b64acfe7b3ae3bdeede5248ee95633732"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/lib/atmospherics/enderStars.glsl"
-hash = "41b1c17c95b604239057c6719b4c9940355449f2a9062dd480a918078febd125"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/lib/atmospherics/fog/bloomFog.glsl"
-hash = "33f2ac67eb67d6a37faaef135dc74eb40252332a9f7fe1245feede78b1c4d64d"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/lib/atmospherics/fog/caveFactor.glsl"
-hash = "560d12dbfb4306a92ebe1eb81209b4d689e79748fe4135d8a196226b4f1d0449"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/lib/atmospherics/fog/mainFog.glsl"
-hash = "eaa5aa5b6afe7ab52e926867d6237115269bf8fb9384e660c08e48c1a3f6b1a3"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/lib/atmospherics/fog/waterFog.glsl"
-hash = "80d394eb97b3e360d77728b1acdcd18464a65eca4bf7b49b32a3e64e3942dd23"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/lib/atmospherics/netherNoise.glsl"
-hash = "d848a9c9aba2f7819740d70b5141011a1d8d1b8b55dcad921fe255b63be95176"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/lib/atmospherics/netherStorm.glsl"
-hash = "625c1a5620a2693165f91a41d1b9d5728422589ae23612a77c61171229a69d0d"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/lib/atmospherics/nightNebula.glsl"
-hash = "9620dd5471ada87e8d7dd2d631962feb6a73c88a558d2ed5453f86ff09f3cd51"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/lib/atmospherics/overworldBeams.glsl"
-hash = "c46a62f5b04fd8c57049202c05d871d2225863360c7b49a12c9760c290ba7e53"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/lib/atmospherics/rainbow.glsl"
-hash = "3fdcc9284783f35a62c2de9ec7e8cf378a1ca9d76473efcc184a305a862d596c"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/lib/atmospherics/sky.glsl"
-hash = "1b5a4720ec4f46cadccc9e2106775a1e19cc949b4ffe88be575782e9e504c2cd"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/lib/atmospherics/stars.glsl"
-hash = "855731f94d89c1cda2c6fd2bcc5961a76a604ed22221aa6aca47b4c3492fc208"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/lib/atmospherics/volumetricLight.glsl"
-hash = "183fca007bd1d2b171c6586afe8e57819ff48882f4e84ec637614bf8d910550d"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/lib/colors/cloudColors.glsl"
-hash = "e73482cccf730184647e0f7bf3504ab83f30211bb324ba040ab67b6cdae1b121"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/lib/colors/colorMultipliers.glsl"
-hash = "6fbe545cdf8ea351df134d3777b6b58abe6ae5551cafb2a7e9bbbdef0f08eeb3"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/lib/colors/lightAndAmbientColors.glsl"
-hash = "2ac55ecefd27caf492c5218e1e89547c6844be863cf35e211256c6496fffca84"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/lib/colors/moonPhaseInfluence.glsl"
-hash = "98bae77a89a6c51ff8c2dae893e131675855daa01232b2d08ecd70005d6b2ba7"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/lib/colors/skyColors.glsl"
-hash = "7eac5061611cfc490295dcfb3c4113e471b0caadca18da1c78389aa3998713cc"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/lib/common.glsl"
-hash = "57088c3edbe42244bb8d59f83cbd0c9cd8976be9b24c9782d899236493398939"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/lib/lighting/coloredBlocklight.glsl"
-hash = "5871870cba7d1643397516660e328d1014d9f94100b6e5e015eafab11e396e07"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/lib/lighting/ggx.glsl"
-hash = "8652e8b5a9881e32f14bddd52ad9cbd4b9389c8eeb535d8f46f5e4c57c9c3cc1"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/lib/lighting/mainLighting.glsl"
-hash = "a8cfca97fb5d63918da42a943d55103fec116b5d420c7ae33fed4a4878d93481"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/lib/lighting/shadowSampling.glsl"
-hash = "4af4e7c62f257f13e808c5ea53446277a8e011cab270c7c1d65fddacf26c3222"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/lib/materials/materialHandling/blockEntityMaterials.glsl"
-hash = "8a6c935ebe068cca9b70613f6751b4498247ad6d2d9f07b0bf790dfde15c140a"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/lib/materials/materialHandling/customMaterials.glsl"
-hash = "c7987d9b390085510c6b2e4234c51d463de31f7da9105f10a8dfd18b5e12f387"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/lib/materials/materialHandling/deferredMaterials.glsl"
-hash = "2f6d47e235bc2911364399e440d742abe8bd917493f05bf798b1eefb278efdaf"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/lib/materials/materialHandling/entityMaterials.glsl"
-hash = "2a1e593726d3b0b422da536d7ae18d301c37ed8ce298d36e0d867f42e0aef7ac"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/lib/materials/materialHandling/irisMaterials.glsl"
-hash = "7ecf764d64b5c919a6b5969b36bbd3e629f7f70f8294e4ac7ece9b63e83a5e0b"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/lib/materials/materialHandling/terrainMaterials.glsl"
-hash = "92e47754387bc2a5549ff164ed10bcd3df0d86a92faa17ef1f0155f64f10fe47"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/lib/materials/materialHandling/translucentMaterials.glsl"
-hash = "5e09c1ead3a5032b4b70c3371cc6d59cfed7bd6df0f28d67f03914f3b0eb81c7"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/lib/materials/materialMethods/anisotropicFiltering.glsl"
-hash = "bff7c1374338d8632faed6ff6150201976d194ae6207657f408a87f7428242fc"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/lib/materials/materialMethods/coatedTextures.glsl"
-hash = "cdb79dac787882f0d5e4d610a550a18a432ee86e137812b975cf27c12ca22390"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/lib/materials/materialMethods/generatedNormals.glsl"
-hash = "7a0694fd2862541ac327d2da5135f4a8ce914c2a9e05bd9b0250fa865f511034"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/lib/materials/materialMethods/pomEffects.glsl"
-hash = "9bd9e8f09dd2cfb3faa49e26fcd2f4cb38872619723bc2898d5f1f3d23b73d24"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/lib/materials/materialMethods/reflections.glsl"
-hash = "ff57a4a8a70fa58a77e08656ac55f6b08dd979998a8f5530ad7f4aed124922bd"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/lib/materials/materialMethods/refraction.glsl"
-hash = "5be1ec3aba55f0cc6e2d2b1a1e4e200d5840c7a8e28e6d949989f7993230c27d"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/lib/materials/materialMethods/wavingBlocks.glsl"
-hash = "0218dc408adf72a6561b49056a771a18da311b8e2794b664f541bd345d45f3f0"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/lib/materials/overlayNoise.glsl"
-hash = "9569bbc8c5a6b78873662c23d4c3878c5a86f17dfccf648b583806e899c84c5c"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/lib/materials/overlayNoiseApply.glsl"
-hash = "828e46081335d404faa0ed6c7571e99b58c040cc9018eb6f38309b10fd382e2a"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/lib/materials/seasons.glsl"
-hash = "d369daad62d2a730c32699c4e4eae5c4f3733b7a6a15b4acc8eba071edc63681"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/lib/materials/seasonsTime.glsl"
-hash = "34005308b6622ec106c47a7416034cbfda6fec8a5960cdf6f49cd1ddfa7f3af1"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/lib/materials/specificMaterials/entities/glowItemFrame.glsl"
-hash = "31c0446852f3a9eb74b83801fc726ff7242cf72a6c96722ecb34d6ac3891d16d"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/lib/materials/specificMaterials/entities/itemFrame.glsl"
-hash = "8fb9152f6b6618d3786a397c82a75800e742e4afb2545aab0be2ec6f8aa2ab02"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/lib/materials/specificMaterials/entities/lightningBolt.glsl"
-hash = "4c1534c3eebfecd43c3cfb5fb1e4df6afe43ddba1c78b26ca2f549363a08cdd1"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/lib/materials/specificMaterials/others/endPortalEffect.glsl"
-hash = "bdc0d7ab88323a6e125f9dacd07eee6e34da5c0e8b61c572800f911e5328ea8c"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/lib/materials/specificMaterials/others/signText.glsl"
-hash = "ee4b529f967f339f3f1c7bb094b1b286a7beab8728b9025a325c91b00c3c7278"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/lib/materials/specificMaterials/others/trident.glsl"
-hash = "f4ff0cbdc91df66b02501172c98366c72f26ac52db6e6028b5760a2dfbc9f966"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/lib/materials/specificMaterials/planks/acaciaPlanks.glsl"
-hash = "8718ee517f23dad0e30ae51611eb3f7840a956d9e74087c14a66c99537250f5c"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/lib/materials/specificMaterials/planks/bambooPlanks.glsl"
-hash = "dd49ce79487a9dcd9592e7f8f09e62b99840dcfeae51508b153007a810da5621"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/lib/materials/specificMaterials/planks/birchPlanks.glsl"
-hash = "f4223a5768c36b1ed45f2b2df5ae9ec8be38f99a53e118afe55976f128069fa2"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/lib/materials/specificMaterials/planks/cherryPlanks.glsl"
-hash = "72f9bfd3866012bd565fbc19c741c4c6b278083db925a04639bbb7b617ce6b24"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/lib/materials/specificMaterials/planks/crimsonPlanks.glsl"
-hash = "d667446426111134c388ff127612b30c1adbc2c9f7f6094216c2b6ca6a3365c8"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/lib/materials/specificMaterials/planks/darkOakPlanks.glsl"
-hash = "e59d059298aebcc43eeac70e974f40cec9ad0f83022c906c4e9ec93337e35223"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/lib/materials/specificMaterials/planks/junglePlanks.glsl"
-hash = "bbade8aaa9fd18954019529f9104a07d6bfc089aace2e2cd34c9a84e27b06aea"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/lib/materials/specificMaterials/planks/mangrovePlanks.glsl"
-hash = "53d8376e5e02eaf0992315403466a3a7a42217141eb40b2ff75c6346a4c43dec"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/lib/materials/specificMaterials/planks/oakPlanks.glsl"
-hash = "0744af0c584208e5975745eabe0fd1230cc5bf643104f6980464240e066a3467"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/lib/materials/specificMaterials/planks/sprucePlanks.glsl"
-hash = "27baf1caa937df0df1490b2ccc97af81a1f10ef643ac3a38c8d0d616dc4f9a46"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/lib/materials/specificMaterials/planks/warpedPlanks.glsl"
-hash = "5bc327caf12312c1eac8e8dc767da9433b663720024ef1cb2477a36387e42875"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/lib/materials/specificMaterials/terrain/anvil.glsl"
-hash = "18a6268d70c41754d66736916c96d506400b3c7953ab2e8e5663962dba5b8933"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/lib/materials/specificMaterials/terrain/blackstone.glsl"
-hash = "f30ce9787bf04df0abc79b00ba9df9875e21aa0376393ec837393db79d7d5907"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/lib/materials/specificMaterials/terrain/cobblestone.glsl"
-hash = "670c20c56738c19be07f8779f5a4ee27da9ea95fcee8dada120ba6bf02555124"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/lib/materials/specificMaterials/terrain/copperBlock.glsl"
-hash = "8b95d3e43d8eec5c615d3531795b707453e3431f837b16a8a361612b70dd9f4b"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/lib/materials/specificMaterials/terrain/coral.glsl"
-hash = "ca8b06088d8d66be3d2d277b17d5c10bd5ddda3752293cdb10c26ce006b57fd1"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/lib/materials/specificMaterials/terrain/cryingObsidian.glsl"
-hash = "681f9e03a62fd3afe4d458ebc2cd6ed367c37109d68158fd840179cc3509c5ad"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/lib/materials/specificMaterials/terrain/deepslate.glsl"
-hash = "7238e22573950b353b514d0f3ed18dfda0dfe301d7daca2f51dfc10b8ac01005"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/lib/materials/specificMaterials/terrain/diamondBlock.glsl"
-hash = "116c3a8882b36c99d26df8f161dc56a66d187070663b9753b0f0fb0f897833c2"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/lib/materials/specificMaterials/terrain/dirt.glsl"
-hash = "de0587910bdb8ae23a1fc4f6062f2f34b2979b2aa1e231ad3cebb0f6ba336019"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/lib/materials/specificMaterials/terrain/emeraldBlock.glsl"
-hash = "0c90c3c0f26f29654753f545e2cec8aa4600ef59b59e9a1964092659b781ac39"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/lib/materials/specificMaterials/terrain/endPortalFrame.glsl"
-hash = "bf7096d9c103363ba40f6869a9b68b98cec5df5ac40341087ef455840e5807ee"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/lib/materials/specificMaterials/terrain/endStone.glsl"
-hash = "8aeaf8c743d0c7a8893f976bf6ec4b57ac0269ea89c7c0c8bfad623cc9f0f442"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/lib/materials/specificMaterials/terrain/froglights.glsl"
-hash = "6e5c19480c8daf7e9c2ba6440a889ed4a067f1b86bd418aee23b6d44fa1d8269"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/lib/materials/specificMaterials/terrain/goldBlock.glsl"
-hash = "e7abdf45ac6fb32b3584b1ac7ac603e421650d535429c91cae99eb33543ef144"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/lib/materials/specificMaterials/terrain/ironBlock.glsl"
-hash = "752f0f946888ea9110348f3e5ee450b1956a54d433400a3d2b4a2bacb8267301"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/lib/materials/specificMaterials/terrain/lanternMetal.glsl"
-hash = "03157c932100ce630f9438652a762e5de7f263e05a5f473acf9e6e7bb9461fce"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/lib/materials/specificMaterials/terrain/lapisBlock.glsl"
-hash = "729cff8d1faf3d66177208719839d841384193702ac0de7afb58396b4162134d"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/lib/materials/specificMaterials/terrain/lava.glsl"
-hash = "cf1d9253b1d65df5cc8edd4cc3996cd45cfa484dbb1c4ad208fd93c234c2504c"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/lib/materials/specificMaterials/terrain/lavaNoise.glsl"
-hash = "38749c1f1da9acdbac1c6297aab0b6ee49f06bece86b2cd5b4601d7d170d1d2d"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/lib/materials/specificMaterials/terrain/leaves.glsl"
-hash = "1329838651bb30ee7d252135fb2ca0369a2cea3a423243c0a285075d574c5f79"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/lib/materials/specificMaterials/terrain/netheriteBlock.glsl"
-hash = "2d5ad2c4e978cb8a13518b73c63ffa1a92bc26cfa3c5b11b95f8a3a973a74f3a"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/lib/materials/specificMaterials/terrain/netherrack.glsl"
-hash = "03a44822bdc983f0c9d0207c0da0762c7a88653db4732be61d3339eabbdbb06a"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/lib/materials/specificMaterials/terrain/oakWood.glsl"
-hash = "32958b2882111418c4529db866e579de43ac19b6aa183ff4134d14f89a8cb4e6"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/lib/materials/specificMaterials/terrain/obsidian.glsl"
-hash = "1ff7688d580056ac502a4de2c8b85c8ea1603499275302a933f8b2002df9e6aa"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/lib/materials/specificMaterials/terrain/pumpkin.glsl"
-hash = "54c9bfc7c861b9406b3ab1f3f85ee237559143dadf922d28e6ac01796638eba5"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/lib/materials/specificMaterials/terrain/quartzBlock.glsl"
-hash = "3ab4d1c913d4bc0cc075cdad8c9ffb4900012549a5f5ee4fee68b9c18265a11a"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/lib/materials/specificMaterials/terrain/rawCopperBlock.glsl"
-hash = "2dd8f8af7a5a3777afaff13749c4085ebce4248afb619d65a9968c0f12d14ce2"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/lib/materials/specificMaterials/terrain/rawGoldBlock.glsl"
-hash = "a9fd6b18570f8bd18ce2454e25507ff3bc4a29aed071d0716bbb4006f35ee7ec"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/lib/materials/specificMaterials/terrain/rawIronBlock.glsl"
-hash = "ebc4573b9c4006e293d9ed512adc9adfde7b0439d3d234b98b1ed37d85a3ff40"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/lib/materials/specificMaterials/terrain/redstoneBlock.glsl"
-hash = "4a74754c00aadeac34c69390247b0283b002b44da1d56ae6888c89e1ef35843c"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/lib/materials/specificMaterials/terrain/redstoneTorch.glsl"
-hash = "3d617482f97a15ebebcfb37a4800a4d4ddf1f4d8e68526d7b20a40bbbe366e2b"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/lib/materials/specificMaterials/terrain/snow.glsl"
-hash = "75efb562e47436d4ddeafaa0f22ca023d31977c4500403dac19d9dd80148c96a"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/lib/materials/specificMaterials/terrain/stone.glsl"
-hash = "eb923baad9048c919234f279ea1aec5dc902943016146403eb67588f834ee586"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/lib/materials/specificMaterials/translucents/glass.glsl"
-hash = "e9f8116bf55211340e362ce498ff194b5b4c9c42797e12636e523833cc67af78"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/lib/materials/specificMaterials/translucents/netherPortal.glsl"
-hash = "63914e33badced0f00e7377e575bc20610b59fe43aa6faf3a932a228bf5a91a3"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/lib/materials/specificMaterials/translucents/stainedGlass.glsl"
-hash = "4be7a619b4c5833a52884aa648a5b6d368a5ce2d3b0e38159d68b7aedd007452"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/lib/materials/specificMaterials/translucents/water.glsl"
-hash = "64d57014aea880b82a9f6a75bc6d11d9ddc333a1d6401e9ed741cf81e803cdc1"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/lib/misc/colorCodedPrograms.glsl"
-hash = "981cf25d66f5b3adfc5cfea9f903a56099513dd01390acde4ea7ff0c9ad7b002"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/lib/misc/darkOutline.glsl"
-hash = "0787a03e13c7f6831169a40cdb024ed45fde17ebe90aca4d537ad49b234632fb"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/lib/misc/distortWorld.glsl"
-hash = "780c20c30120f394661994a268fc18da7c2d9df43859c7d3abe23cb01ef2e43f"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/lib/misc/handSway.glsl"
-hash = "ce1f7693effd40b0a2e46f0dc28ed5c978c5bae751d8f31b4368ff125eb23459"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/lib/misc/lensFlare.glsl"
-hash = "7c50175a67f41617719cc612e0296cfbd9b7badac2c718b3d28fef444f2c6e2a"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/lib/misc/showLightLevels.glsl"
-hash = "ee892393d62a52aead6821e910450e5e7235abe03a27c18c873f8dd6042bfa59"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/lib/misc/worldOutline.glsl"
-hash = "3f14f04ad181d0febc1e8947407521b4720310cfa4cfe65da6ea28926b2185f2"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/lib/pipelineSettings.glsl"
-hash = "c5ea919b964465944ae967b1314a4652512c22857e93c52ea6bc55776aca3840"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/lib/textures/cloud-water.png"
-hash = "e03a26c2a265e0d39b8bed90124cf5dcaa788f8a2f3a1191a485460d7f05ffca"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/lib/textures/cloud-water.png.mcmeta"
-hash = "7f447458dce74ae0fe936ba8dd11f0cdb30e36d4e99ca93f82ce8966d25ed9d2"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/lib/textures/clouds_minecrafty-water.png"
-hash = "3d8f1ef4e3f0bab6a5e6eaa9f5f9064815de8fa94d24f6223654867d58178f2c"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/lib/textures/clouds_minecrafty-water.png.mcmeta"
-hash = "7f447458dce74ae0fe936ba8dd11f0cdb30e36d4e99ca93f82ce8966d25ed9d2"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/lib/textures/cucumber.png"
-hash = "93ee6240e35a9749ea939788618b4028610a8b06c4d42d54e36dbf6468979a80"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/lib/textures/cucumber.png.mcmeta"
-hash = "761a92999abde64e1e9599aa8a253ca812a3afc700e9c96f70c848824e4e30a9"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/lib/textures/euphoria_patches.png"
-hash = "09c4960ab67bb5fb88e7f670656036841a8fcd5f9b01ecfe73b0630b235e8b8b"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/lib/textures/euphoria_patches.png.mcmeta"
-hash = "3edec6bbec4fd7635dfe28893cdb21e9b304117e7c0a7fe4b8f1df519dc7b74f"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/lib/textures/noise.png"
-hash = "c810be7b1154640ec514f34f61cece2882514e6f5887101f20a1c57386cc15a1"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/lib/textures/noise.png.mcmeta"
-hash = "7f447458dce74ae0fe936ba8dd11f0cdb30e36d4e99ca93f82ce8966d25ed9d2"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/lib/uniforms.glsl"
-hash = "f6d7ea971e8207ebe2a82165cb1e777a558feb5cb5d748bc080c9b140ba6d20c"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/lib/util/commonFunctions.glsl"
-hash = "0bdae6b8a3a2cbb836d1517a5d415b787c9187b86e2750443d93e72bdefe3c95"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/lib/util/dFdxdFdy.glsl"
-hash = "f2444a514287a2008ece49b18272da9eb617607416a4a62220cce0cac4dcbe45"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/lib/util/dither.glsl"
-hash = "5664317f6142cb9ab8a35dbe5177650e2cabf608cc55226786b3b7301a24f2ce"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/lib/util/miplevel.glsl"
-hash = "21dadbe3d5d8722e187198ecca306d84c0b1e05e5a26dd47f9115d77d99ba106"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/lib/util/spaceConversion.glsl"
-hash = "f2d044834549a5531e1f04f59a57aa7b81e9f4f91fd9a3039e67cbb2fca7e021"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/lib/util/textRendering.glsl"
-hash = "2172da180089f2dfb6900d1aa70fdef8f1f8756d16760b5042fb2725a297ca25"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/program/composite.glsl"
-hash = "9fc7b3701455f494476f9619c8dff0edd66f33b72327f7b3239f82a48967fc08"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/program/composite2.glsl"
-hash = "b70475cce0738c741befb110a0fd62804844b283614a284f07f2568083c6f03d"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/program/composite3.glsl"
-hash = "a4d7a48d654de51427370508fd10bd3e13b3948ce265947554e0038bb8f001c0"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/program/composite4.glsl"
-hash = "b665029473a4ee176cde6095272b35b72d874170da0505f12185f3684d17bf6b"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/program/composite5.glsl"
-hash = "28d7538cf4f3b1d9e90f57ad1f237e334e02501c5fcc57a7badfb5132e269712"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/program/composite6.glsl"
-hash = "e49aa2b2fdce381d348623519df4f6d9abfe2312d9211057ca785cdf8dcef9e6"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/program/composite7.glsl"
-hash = "46e1ee851d00deea792caa1b0d1556b71fe33abd46dd0f9f9dea3924f3ba5d6e"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/program/deferred1.glsl"
-hash = "82a39223c048cea2f4a5c23d537d366d02965fba0cccae4fc7f2d37944ec23b8"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/program/final.glsl"
-hash = "a4cfdc2ae0298bb863dc5618886b19f360abf3b938c5ac71c3b438b078b004b9"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/program/gbuffers_armor_glint.glsl"
-hash = "30bb84cb187960e42d9f850d1817f853cf29693d83c48164b137c6cc5039ded9"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/program/gbuffers_basic.glsl"
-hash = "299bfbf461fc34f243ab18da46da38d356bebfefe45b8c7d63ac0da941f686dd"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/program/gbuffers_beaconbeam.glsl"
-hash = "0b046756bf9967bda3aaa722a9dbc16e11d0801288e45ab8738e7b59600cc7dc"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/program/gbuffers_block.glsl"
-hash = "783cb9a14efbd0763866eae5a37bbc2d4809130735185a7becc30042501f7df8"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/program/gbuffers_clouds.glsl"
-hash = "b44dc745144bfd9b572383c5a15f2211f7308228ae68bf79175436204ef5f929"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/program/gbuffers_damagedblock.glsl"
-hash = "a603d37469aabe3a9dd184df7e59950b473da10ed30e1a6f55de3b81029b3978"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/program/gbuffers_entities.glsl"
-hash = "732025c80b7c47f25734e783e45104005ec8b8752c6d307a5f270449826f27d7"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/program/gbuffers_hand.glsl"
-hash = "eaa5b3f91eef48bf78b5bc8e4831ac9a5cd8da0a76f66fe8026e75ac991846a8"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/program/gbuffers_skybasic.glsl"
-hash = "38887a05710498e2897b62ac42622e7e2eb571c1c8d96a617a65bd40cc6eef19"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/program/gbuffers_skytextured.glsl"
-hash = "7c903ea349187f7148ef8b73ddb2a33dd70eafe91f1a75f44563604ee7e0bdce"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/program/gbuffers_spidereyes.glsl"
-hash = "338cad6d944094c2a6d9b2561ac7f7b1eced9692d5becf16692ee5e7e71a4d95"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/program/gbuffers_terrain.glsl"
-hash = "cc6564f61a6d81833e698ca3e811ec3dbb8f8a1ef430d1f42dee1e8ab5cf3ca9"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/program/gbuffers_textured.glsl"
-hash = "7baae89e098d6fe9dff4521eff258d8cb703f920d04647647204397c4279e12f"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/program/gbuffers_water.glsl"
-hash = "e4c7b71869831059c2a01739796ecbbb937c0955ecabd5e2ba83a3140d9f0ee2"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/program/gbuffers_weather.glsl"
-hash = "e3e80bfabb3006a5aa94dee390f1ee0efbd944db77064d9a912a16a8938de5e9"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/program/shadow.glsl"
-hash = "9c47992004a3cbe74fb8373c8ee415fe6792b6835ffe4643e8d0590903167738"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/program/template.glsl"
-hash = "ecb9f62d9b657c32cadf95d765e1f4cd5d54abcb16088df9ab73f19886f05e64"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/shaders.properties"
-hash = "e880bc3824cf29ecc1f585fd348c56f2b0198fca8a08cfb39ca4e67036df6f67"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/world-1/composite.fsh"
-hash = "1bf8a6d6b2b3904ab853628fda489e12c338f3a053010e4fbf7cee7e2d79bf9f"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/world-1/composite.vsh"
-hash = "a7ced6577379ddd7ae085aba78c51ee1171cc4291076a08402bdcaa5b8f6cccf"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/world-1/composite2.fsh"
-hash = "3986a78f3661b2103ff36f756a81e4b713b7c2385a35553adf4f579f8ef13f6d"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/world-1/composite2.vsh"
-hash = "efd92c8fb096557c39c248eef88eb80b111569509ccdfd37abd826de2134ca64"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/world-1/composite3.fsh"
-hash = "6399cad51dbea7a7b11086f62f707a5760b96931efa94bc1f05f771fdf09fb34"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/world-1/composite3.vsh"
-hash = "be5b6dcbde18a77fe5313a5768abeef223f78c991eac2cc38c43d475b311d2bd"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/world-1/composite4.fsh"
-hash = "5ef8ff0f6b6f8823667e8cac5da949d84fe6ef27935c16925aecefcd9f123f70"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/world-1/composite4.vsh"
-hash = "43cd1ecc14fbf7a065e44bae46e81643a432c5daa64af6d8ed7c85f845e97345"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/world-1/composite5.fsh"
-hash = "fb1b58a23d4eb2e43d7aaadb347a2225e977ab618de261d01198fcc3eb075715"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/world-1/composite5.vsh"
-hash = "f87d7e1480659b576bf2d114f2ce119fe7ed1c7286b34d0c23cb4513fdca9bce"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/world-1/composite6.fsh"
-hash = "f6cc7abff796b7ab687cab5775c3d37db57f9771cec622b06193601b8d9604b9"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/world-1/composite6.vsh"
-hash = "075130a14f9a424baeb7d48948ddcd9dceb163f146038a775c63e544bc925798"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/world-1/composite7.fsh"
-hash = "bf79a85176a2fb64378f9fb3a952412e692d6f77daba88b8db58dc1ec7f5a035"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/world-1/composite7.vsh"
-hash = "5516cd4dc1c4eddb20193f0bd02e92729de37050ea1d16d0eabac0926ca30039"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/world-1/deferred1.fsh"
-hash = "ba74cea53ea240fef0858d9f898d2d3a5e18017cabff5eda4fb7e93ddd22e2db"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/world-1/deferred1.vsh"
-hash = "f3546299ae73d8f6157fc720b75fa29073ebeab589b32d94469c665b83d633d4"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/world-1/final.fsh"
-hash = "e3403360509fcc39221c872b25146cb6949bee3188ad055ea3fe6b88f97b95ad"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/world-1/final.vsh"
-hash = "3b76097f35e44744919e513bc5654ebbc06b032b93a5b29b6dea36bb9d9a05a9"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/world-1/gbuffers_armor_glint.fsh"
-hash = "9ab1ebf4a50e43e96f5eb4257109d46f28a1be8a585e41a31740d088ae0653ee"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/world-1/gbuffers_armor_glint.vsh"
-hash = "e7bd9ce4538efb63b48d6c0f5001c0e5eaa5d8f28388c348694c912feff8f74a"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/world-1/gbuffers_basic.fsh"
-hash = "0b826ceafd1a897b2043c5099d080ca189e7dc80f7f3e1ee7ad477519231b4bc"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/world-1/gbuffers_basic.vsh"
-hash = "fdc6618d6ac0056737f711aa786fc6b3be7d16a088438cc74e016cdb9f050247"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/world-1/gbuffers_beaconbeam.fsh"
-hash = "36bae87ed41643853f4f7bdb7ef81ec603b9b7c3cff2701fac026b07b85276ae"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/world-1/gbuffers_beaconbeam.vsh"
-hash = "d7145f68d0ea197caf4834fbbaff9353575db5f681765437ecc91c3f532f1436"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/world-1/gbuffers_block.fsh"
-hash = "2517c07ae7e24a3bec07dd2969db72ca1d6418add61fdb612fd407e12fb80da8"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/world-1/gbuffers_block.vsh"
-hash = "fcc629bf45da4e6953a81b7dccb988b1b116e429c889d427a6b104e5dd340ad5"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/world-1/gbuffers_clouds.fsh"
-hash = "a8b3b9df93cdb3dd1556bae1fc01a73f4f7a18749e641c296980edee586a635b"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/world-1/gbuffers_clouds.vsh"
-hash = "5751b23505b9d39b4df528f9ff6ea6153496c4a9d76c6ea9abecdb51591cafcb"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/world-1/gbuffers_damagedblock.fsh"
-hash = "64f8deb6db2c412b272b5de9cbd99e68f3fd86edd27ebef7304bd3212b13313c"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/world-1/gbuffers_damagedblock.vsh"
-hash = "7d34cd1622050303f47327bb8d02cd05bff723b8c3b930e98e0a6d28beb25cb6"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/world-1/gbuffers_entities.fsh"
-hash = "e4ea21a627829c6b156b771107e8e93f067c882a3b355800c996901dbb223920"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/world-1/gbuffers_entities.vsh"
-hash = "e4ad41ff1475bb113dc5d0b10cc5627fbe270125174ef371974645c82f376a35"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/world-1/gbuffers_entities_glowing.fsh"
-hash = "5b886b66feaf381eb47753c9a1aca320a69f067b7a079c182a1e95f56a55ae8f"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/world-1/gbuffers_entities_glowing.vsh"
-hash = "b854a4555543bd8082b71870d1c857e217395ca0276a4f2fa6cc2834d4aec3ca"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/world-1/gbuffers_hand.fsh"
-hash = "bfcf030d32a2802e8edf4634a16a0110b8ea9e454de52dd86dfd3876bc55441e"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/world-1/gbuffers_hand.vsh"
-hash = "4f5828615d5c8196d0db078d4da8670d90b72b6eeb3fe4cb7f1cc3247822f655"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/world-1/gbuffers_line.fsh"
-hash = "3abba981e1b742cfd738d8d323a5c457bb9e811aef81ce55526fcf5772438843"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/world-1/gbuffers_line.vsh"
-hash = "2a366483233b9c443b7ac73a6b27e9de5208f0555e397f0843517c128d39d52f"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/world-1/gbuffers_skybasic.fsh"
-hash = "1652db0b6f44a14f891d7219efbc39e3fb8dbd684752f88003c5382148c65b07"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/world-1/gbuffers_skybasic.vsh"
-hash = "06c08c9b267b5036831ed286adeed7340dc611bbc3411c0d91a5ca1c9b8316b4"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/world-1/gbuffers_skytextured.fsh"
-hash = "48aae20708a9265d23d47d65dd1ce082513a4a53c7bfa74cb7f6b0edf1d0af1d"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/world-1/gbuffers_skytextured.vsh"
-hash = "84568a7596408c9475bec4c8194374684876269aea6db8b55b2f12402e2cd46d"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/world-1/gbuffers_spidereyes.fsh"
-hash = "2d7644f07b71ef9410cbfc57365a9e53f4284b466765e516a0515fbacd0035b9"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/world-1/gbuffers_spidereyes.vsh"
-hash = "8fa982dc39a03f0ccad71ec645bcd357300021789eac26ec2e13a1df155cda91"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/world-1/gbuffers_terrain.fsh"
-hash = "23bd3561c2bfa0f5de915ba910601d68695b189c325fa0f7a0d7705d597dd3be"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/world-1/gbuffers_terrain.vsh"
-hash = "c904199f8cabe527602b7210c5af66ed674eb35390e1f373ef370c0ac0a8b574"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/world-1/gbuffers_textured.fsh"
-hash = "4834debabe6c73c3a985e9ebdde4da497b627659942624cd42b47e2f67657694"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/world-1/gbuffers_textured.vsh"
-hash = "6c3c3ae188a696215c89ab2c689e22944f68851f3a309ce6448c8d3b64276507"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/world-1/gbuffers_water.fsh"
-hash = "bd986e253b1858a0c0b8502830199c630e7098345a65153ac798e61b8660261d"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/world-1/gbuffers_water.vsh"
-hash = "b0143d26aa421719988fd9535314d0ac4a4566f8021c263f75a36e34401086e2"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/world-1/gbuffers_weather.fsh"
-hash = "4e99fef7013f4a1e7371da9b21b87acf970614ef889e6b25c6f8f78cc0a880e6"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/world-1/gbuffers_weather.vsh"
-hash = "dbb2e116e5d0d1c9972cbcdec33119b90a5c6c97aa65a2579e366791a4a6e9a4"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/world0/composite.fsh"
-hash = "db3c2ad93c83c87a765f22c1e442d3656729f243f0116aef94acdfd0018eb0be"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/world0/composite.vsh"
-hash = "5079ae1107daaffeefa59c73ba5cf772ce0cf8d812d211e0916d3be053826e13"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/world0/composite2.fsh"
-hash = "768105d371609d3624cc6db00e16b82b26b972c53201bc5bf691e691c3725916"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/world0/composite2.vsh"
-hash = "2d7a610966d8ea182a1bb0d56d6f0766becb49480f65b4342bb227ea4261030b"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/world0/composite3.fsh"
-hash = "2adeecf3b590f19148565cd52528063bf958a99a1dd06785783b5387807daaa9"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/world0/composite3.vsh"
-hash = "c9684b11f24202e7c3a6741c73e1cfa35215ae4b4c8353c1c8241d0a0c2dd340"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/world0/composite4.fsh"
-hash = "1690bbd43a9fd3200a076ee908e65d0411e463978d620efa921b3e54b2022e59"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/world0/composite4.vsh"
-hash = "57d3d49580a6c7ca7352edd92bffd7e22d5b45e82e3fff50ea4c4d466e4cf855"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/world0/composite5.fsh"
-hash = "8ec2d24db0523a977a00a5eff037e392ca48666a28bd9ef5ba7db5d26b5b6bf9"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/world0/composite5.vsh"
-hash = "f6a887b4ec5d1614971491bd510b34ce51e3f4c908c6558c610173023bd95ba0"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/world0/composite6.fsh"
-hash = "1a81d1b0a2bf7356f8b42eb5842e6821dc76e21266fe2ab846fa31af00b24b93"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/world0/composite6.vsh"
-hash = "2a7f85fd80f43b5cd857d12bb63b5e06c2ab49403f8c4c758b4e0d7129bb5a2a"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/world0/composite7.fsh"
-hash = "fae1e1e49cd84e0bae0f28bb69e151186cf2f50d22aaa9c1d088384647e72583"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/world0/composite7.vsh"
-hash = "e472077e1da91a41fd104716cc8fece93ea9315392d7c970976b9e86a0e19e21"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/world0/deferred1.fsh"
-hash = "8bbf0642c8423772963983ceec5f8a7b337a3042411f183481529be276acbc15"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/world0/deferred1.vsh"
-hash = "1eacc1cdef97d5c207d7bc11a4d0fb1100514f3775ed12f9f1c2e922afffa532"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/world0/final.fsh"
-hash = "8e89dcd1f96b8f26d9206fb9c455d5e5ccd1f6cf86b4ad9cbc91737d393274ba"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/world0/final.vsh"
-hash = "328062773e29d5b3852090b608e1c0b40b2d5a2fe9b8d7850cde2b6586046202"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/world0/gbuffers_armor_glint.fsh"
-hash = "272af5abba939819cef823a680aebe1388bbe8c002d0ee284cf5979ddb8fc9fa"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/world0/gbuffers_armor_glint.vsh"
-hash = "3b5d4da16427a28741c20baffecb6c704393bbe7576699c264210185c1abc626"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/world0/gbuffers_basic.fsh"
-hash = "704a2ef9b2722765e52919ba5f71a3ad104dc7699c5cc3aa03a92c4be56c1fbd"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/world0/gbuffers_basic.vsh"
-hash = "60645ccd76d6f314461bd56880d249f903e0e440c7fbc3da22fc3900aedcdab9"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/world0/gbuffers_beaconbeam.fsh"
-hash = "3002068fb867e383328979250eacf26cdd2f2884bb358ddf5f9cf6eb2b0cb86b"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/world0/gbuffers_beaconbeam.vsh"
-hash = "6665a728d85547234e8d27fafcd6b2d8041238e632fcf663385196a50e06dbb2"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/world0/gbuffers_block.fsh"
-hash = "cabc22e3cd519fda798e62d05dc822699081c45f78e776f017f54e154aee836b"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/world0/gbuffers_block.vsh"
-hash = "da1400f74d509c8209a7173bdff7e952004919817a01fc8409e5e4c398548670"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/world0/gbuffers_clouds.fsh"
-hash = "3a0a5cc6e9b58088696dbf713d05180225f9d795f68cd663ad6f06eee906cdc0"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/world0/gbuffers_clouds.vsh"
-hash = "9f52bef9794f7696d20f21d87f1966d2c0265b0d5e373b1e6a0b02876e83f016"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/world0/gbuffers_damagedblock.fsh"
-hash = "b07b092c5f10efd670a4d46b53e8ebc4b1a3d1feeffe66d03d99a305219c80fb"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/world0/gbuffers_damagedblock.vsh"
-hash = "f8f5201489b4a7acd076d91f7820321874824e3da343637bd237838ff4678c98"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/world0/gbuffers_entities.fsh"
-hash = "97356dd878a97c1476b8703469da5c8c495e5e782d8594286b4c5dd9a250eb4d"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/world0/gbuffers_entities.vsh"
-hash = "52f7fc5beeb0df33972a803024aa1290efc892754a462668095bc946401e498b"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/world0/gbuffers_entities_glowing.fsh"
-hash = "17be1d7aa46fb8d5a4a0e768be61e8775cad92324bee205794e9822da31824da"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/world0/gbuffers_entities_glowing.vsh"
-hash = "d87054c6499cc9c8cb2e7d7140e46b2521a740063382cb1bb094e052a56088a0"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/world0/gbuffers_hand.fsh"
-hash = "9ae7ca25a9bb007b100a0db3ec9f7db6d54f3c11e6c27c348b0adfab566869d9"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/world0/gbuffers_hand.vsh"
-hash = "6a7ac23e93b588a39e6300fc8d75010314fe2b479fa1bf8badb829cbbec1c62e"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/world0/gbuffers_line.fsh"
-hash = "624a38a5587bd6feed5d182cce7db2afe9c827c3861b0076a738795d7e703676"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/world0/gbuffers_line.vsh"
-hash = "bcd5d434671460bde6294203078d8de2f6108a8c524b68724d950e76fc5bff22"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/world0/gbuffers_skybasic.fsh"
-hash = "f36b86314a1ff8bee3ee741fd2de67ab12f406b421bbbf77ae94f8c4ad0de865"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/world0/gbuffers_skybasic.vsh"
-hash = "933eb9045b4053d858898c69be0bd806301fb76ddd58730f2a7c4dedf9e8cf29"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/world0/gbuffers_skytextured.fsh"
-hash = "e2ca20d1dca6c05630d533d42ed10fd7b6a4326886bb1dbfab1ec96d83bc329d"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/world0/gbuffers_skytextured.vsh"
-hash = "79bf9c3374b620a887f85c82ad3f1f9a88aa6d1fa7e9f4198f4881afbc0d8e54"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/world0/gbuffers_spidereyes.fsh"
-hash = "7debbcdf42c30d5bd0f7fab4832e24d75b9f4cfe578f6cdc187d26aebcaa7205"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/world0/gbuffers_spidereyes.vsh"
-hash = "45f45918bf77ae926397dafc422f2886676c66f1a5b72af307aad5f90297ea31"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/world0/gbuffers_terrain.fsh"
-hash = "41e8f4f5b7eacb3f010780f08999c0884d030946b22243c4d79a640cc32365c8"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/world0/gbuffers_terrain.vsh"
-hash = "19d53fc835cd03b2dadf2c1dd47b424db0acdb30d59004997b30bd5e1d4382c4"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/world0/gbuffers_textured.fsh"
-hash = "639ca025197675cb750299107ebd7d9e32d740ec4a6864646f65a06a58a9faad"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/world0/gbuffers_textured.vsh"
-hash = "8ee1b5e3e91b4981ff451d1bfbfdc45c781954bc056e62e7b9cafc2ed882e91c"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/world0/gbuffers_water.fsh"
-hash = "a308cd8f93a2b14e164fd772c76d3ec1104a2fa3c3de4e0c396cbd1e92fc295b"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/world0/gbuffers_water.vsh"
-hash = "e93b3cbef8afe23a5dc47ef62b523b6ea3a93c39e4a8523cb114b57982aefd43"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/world0/gbuffers_weather.fsh"
-hash = "7e12dbe049a4e9c9b870253208f88eac59b87a956d577c5de24e31b852f30d54"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/world0/gbuffers_weather.vsh"
-hash = "ec413b395b72b8f87e63844971333e8f377517123ffe7a4d9f6045a3af61bd59"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/world0/shadow.fsh"
-hash = "e2445364a7ff8eecc3a6add5503f49dd4e97610965cd914dc9ada9900403fef0"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/world0/shadow.vsh"
-hash = "f625bf1d06906fc52fd46f3afbf5bddcb728197622a1f38f3e9f6c1c350ac618"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/world1/composite.fsh"
-hash = "4913549a8f6d3de4a825715a09fd66193b1737c0318d5a62341a80a1f2d946d4"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/world1/composite.vsh"
-hash = "730b590147f87d54b4e3fda060273cdc3e5f1e537e320b62f14db7d0a1cf8141"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/world1/composite2.fsh"
-hash = "c7b27a724109a625503f1dd9a9fec636b26c053e5a5786fde406bea088a70339"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/world1/composite2.vsh"
-hash = "4d8d7aa9f05dccc20054b948984d3425ec49dd4c1ab7cd28906e08af1a3ac3f5"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/world1/composite3.fsh"
-hash = "78dcf554e49e09ac3168cc88e8f163f32d05b5f5dcb42d7f9f788494e64d27fa"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/world1/composite3.vsh"
-hash = "930805494e345490642ad17bde4c1f16e0ab1fcdb2c621ea9a548730b5d7c264"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/world1/composite4.fsh"
-hash = "21c3c8a51a75a041e3f2f3e876f64c7813d3411d863eaa7a476f2ef13e9105ee"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/world1/composite4.vsh"
-hash = "ce54b664158073dedaefcf8bfe93eee1bea77ae3c457f230427387dbc72e600b"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/world1/composite5.fsh"
-hash = "c0192588bb08f6239881aa4dafc3ac68e9adb71958861076ba1b746e1825f0dc"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/world1/composite5.vsh"
-hash = "6733277d54b9c982c522d232546ba1f8ef206cdaa60a012459bcf7b0e272e030"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/world1/composite6.fsh"
-hash = "c4a6ad129cc129d1b060955a544494351232aca35fbfa55239e81bdb8f788a87"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/world1/composite6.vsh"
-hash = "749a8db5bd3928b6670e3fceeea058495726359495504446a5177ecb1116edc3"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/world1/composite7.fsh"
-hash = "f3ba0a7a1b79e3bb78ab5dae1adf4cfe0910f3dccddc029728c22f0e304ac133"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/world1/composite7.vsh"
-hash = "b9d0aed97ef625a89019eb62ff4bb780ce6ea3a048afdc96bb1203a81b730161"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/world1/deferred1.fsh"
-hash = "765473c0ee46489763ab7e323b4e128b383f2b645b0d02fbc08e859e612a217d"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/world1/deferred1.vsh"
-hash = "d95408080dd559e50c36724e0896f519c3ec20a667b977cc0426b3c64ca45c0e"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/world1/final.fsh"
-hash = "c198f9405b88acc405cf1740cf73cbe72e4bc01f9338b3c02b65401113354c27"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/world1/final.vsh"
-hash = "ed6871c9b3ce5e90ac3ab104c58afa0a11a9f8087c4e093692b5cde2c21acbb5"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/world1/gbuffers_armor_glint.fsh"
-hash = "4977c4b60184d85526a3083904d2fef79b7d8b7bd118aabc8b09655a3294fd5a"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/world1/gbuffers_armor_glint.vsh"
-hash = "311156f0053d4405db37d953a4b3fd89e8100de24644b713a17f6727e1598078"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/world1/gbuffers_basic.fsh"
-hash = "79845432f6aa18ba526b9f2504b0e586b00cde019a2017ac9cd1dff43f72a6e7"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/world1/gbuffers_basic.vsh"
-hash = "86731c9c91f84d646c219c5de7b72f54fece1aa6288b4d306fedf6d22d0bedd0"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/world1/gbuffers_beaconbeam.fsh"
-hash = "70ef44d224d5db16f6e5c13808bfe15f9fd66fce13b4fddbb34e98d86c406d64"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/world1/gbuffers_beaconbeam.vsh"
-hash = "768be9c7a23f046579603eb2f1d8ec4379d5745b798fd6e7dd92e1b2ac10fc5b"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/world1/gbuffers_block.fsh"
-hash = "f28bf016f3284799bc3d810e9664885e67fa94efbc75adc8790d6160aa1c3b4c"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/world1/gbuffers_block.vsh"
-hash = "bd8df9bb3403eedcc88baa7c27241dff319d8e8027a8b3c593d1c6639e872f36"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/world1/gbuffers_clouds.fsh"
-hash = "7f4ff63219caa509f46e70cbf826a7db6942f7ebc8582134fde5720eadeb1f9c"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/world1/gbuffers_clouds.vsh"
-hash = "807b889a642e626ea1e11dc4d21beb3b2be36d4fe8c871fbf86066754505c670"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/world1/gbuffers_damagedblock.fsh"
-hash = "4d92959d6e205e930a96ec9cb35182a7b8cc1ef7e16dc1148951298a5afdf4fb"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/world1/gbuffers_damagedblock.vsh"
-hash = "425828dd29fcd3aeb6ca6aa8786a8f9f0ba21c1d138ebeceda08504a43793d93"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/world1/gbuffers_entities.fsh"
-hash = "667cdaa4ea324fa334ec713a04f6c3212276e8571ee1d4dd09b0aaef886f16ab"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/world1/gbuffers_entities.vsh"
-hash = "5a0a5da037f00f500d24ea438822346b9c5ba9dc381190b323c90b26de275a71"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/world1/gbuffers_entities_glowing.fsh"
-hash = "9ef577558410886de2ee7ae9d9585aa953c106d691e36586aaf6dc17f0d79204"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/world1/gbuffers_entities_glowing.vsh"
-hash = "1698b9b31f40c1e9f0bfdd293a33c6ba3ef7c4d13cffdc4d0b8dc42a02ffcd25"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/world1/gbuffers_hand.fsh"
-hash = "9e7fb8083b9599fe5497f244194fab0e55eb8a43905dbae2ecbcbc4f81e35e39"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/world1/gbuffers_hand.vsh"
-hash = "e28e61209447c90e6521cdba4c3af4f467283dd7106c170678f25df7566f0a0c"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/world1/gbuffers_line.fsh"
-hash = "1aff8003bb3faa95a4b066d226b604e348a23d5596e3c2316506da4c50368d4a"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/world1/gbuffers_line.vsh"
-hash = "0e6cf3a18bccfc40ff025e0c70a0d92f1d8c3c693828bc88cf0180933701e693"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/world1/gbuffers_skybasic.fsh"
-hash = "7ebd58151c96b32b622a715a809e2de361ed8c9f7ccc8988b611bd3423d2b8d0"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/world1/gbuffers_skybasic.vsh"
-hash = "fc2cc5253c35c33c9b0d52ea332c6bd9e2beaa5f6d11111c044bb4b621977e2a"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/world1/gbuffers_skytextured.fsh"
-hash = "f20ac7e2ffa299b3c6cf4e836ab1799c45c51e3020e592a2769732c292cc31e4"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/world1/gbuffers_skytextured.vsh"
-hash = "07c56c404d10a7a878cc97f5ce4815e0b7cd0ce02f595f9e558513aba0fc0656"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/world1/gbuffers_spidereyes.fsh"
-hash = "0265f14d49add14932ec360ad377cebad46460456926ddf45bde1ea89c84c817"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/world1/gbuffers_spidereyes.vsh"
-hash = "351006474e6265445fee1bf0ce5991a3c63b3f2d8430c06268f84dbc0db2d896"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/world1/gbuffers_terrain.fsh"
-hash = "5261e39bd21c121997a93b01bbafa1f36a2b1d25d9a2c888f4847ddaccf270ad"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/world1/gbuffers_terrain.vsh"
-hash = "5c9c864d9172aedc30177890752e0e609d39347bc685709afbac279571309a74"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/world1/gbuffers_textured.fsh"
-hash = "32679bc8e53fbae101e1600a8a8f916e31656065a8399d13370bafa000bec46d"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/world1/gbuffers_textured.vsh"
-hash = "dd6ab7f1da3ee81d5a4348f1d61fedddf01587e0f9f1cd300698fbe04527aa85"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/world1/gbuffers_water.fsh"
-hash = "20406eddb92d8b933171c7428a0426063cc95cc2424532157899bf27c4b1ae24"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/world1/gbuffers_water.vsh"
-hash = "b32566b0cee0bc6a7ade17c43d0b6f5ebf4c65d038df5a2c1bf9c3145471855e"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/world1/gbuffers_weather.fsh"
-hash = "71d3c28b2925f315b483a2a2af64436e91166ab776b8631a812ff5037d9e7482"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/world1/gbuffers_weather.vsh"
-hash = "db96a6ed0e8ab3a83eae2f5ba47afbd198457c577cd56d7559ac65d4050d1961"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/world1/shadow.fsh"
-hash = "4890e939dc6c9cb74e45a608c09e68337c0f2ca4f144d190747258b4ea4b6337"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.1/shaders/world1/shadow.vsh"
-hash = "1ac230670f346eb77c014631a77977e08743ad29d6e6420ce8709bd8685135fd"
 
 [[files]]
 file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/DISCLAIMER.txt"
@@ -5317,7 +4237,3 @@ hash = "4890e939dc6c9cb74e45a608c09e68337c0f2ca4f144d190747258b4ea4b6337"
 [[files]]
 file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2/shaders/world1/shadow.vsh"
 hash = "1ac230670f346eb77c014631a77977e08743ad29d6e6420ce8709bd8685135fd"
-
-[[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1.zip"
-hash = "f4925044d6975225296cb9cb84b3ee9388bc00d3aacce066eee92bc427ca66cf"

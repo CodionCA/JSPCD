@@ -1,0 +1,13 @@
+name = "Vivecraft"
+filename = "vivecraft-1.20.1-1.1.7-fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "3fb7d5884a035b06176b9219f586efda4cee6dae"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5144670
+project-id = 667903

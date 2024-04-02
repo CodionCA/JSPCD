@@ -165,6 +165,11 @@ mode = "fast"
 				finch = true
 				bass = true
 				duck = true
+				tortoise = true
+				lizard = true
+				alligator = true
+				sparrow = true
+				dragonfly = true
 
 			[light_sources.settings.entities.ecologics]
 				squirrel = true
@@ -410,14 +415,33 @@ mode = "fast"
 				mauve_stinger = true
 				glowing_sucker_octopus = true
 				seahorse = true
+				cauliflower_jellyfish = true
+				sea_cucumber = true
 
 			[light_sources.settings.entities.promenade]
 				sunken_skeleton = true
 				duck = true
 				lush_creeper = true
+				capybara = true
 
 			[light_sources.settings.entities.spawn]
 				ant = true
+				snail = true
+				hamster = true
+
+			[light_sources.settings.entities.guardvillagers]
+				guard = true
+
+			[light_sources.settings.entities.illagerinvasion]
+				provoker = true
+				marauder = true
+				inquisitor = true
+				basher = true
+				alchemist = true
+
+			[light_sources.settings.entities.snowyspirit]
+				sled = true
+				container_entity = true
 
 		[light_sources.settings.block_entities]
 
