@@ -2753,11 +2753,6 @@ hash = "92e24a8f89e7091aad6c5258ce66ccb74adaa78f831eb57733683643ae4a6c81"
 metafile = true
 
 [[files]]
-file = "mods/vivecraft.pw.toml"
-hash = "253634f72b02a2b1a12c960bc072f3e0c1d4df2d10c86d5a99c7cbd952da6510"
-metafile = true
-
-[[files]]
 file = "mods/voidtotem-fabric.pw.toml"
 hash = "d5941d0e496df31e20081e8ec09741d0385deeb663e1f41f4172f534c7337bca"
 metafile = true
