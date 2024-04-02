@@ -3111,7 +3111,8 @@ hash = "c5ad5a3dacb789671657f9023675f957bf4cb81b32fdc4817ed1ba14f2acd60e"
 
 [[files]]
 file = "options.txt"
-hash = "47c751437a48ab93d306e174da89673f0c9c72e6258075add33e06daa09846ef"
+hash = "ad57469210c13cf522e7667dbfdf060dfe156a35aab302aa0a408d02c7d81479"
+preserve = "true"
 
 [[files]]
 file = "resourcepacks/Better_Modded_GUI.zip.disabled"
