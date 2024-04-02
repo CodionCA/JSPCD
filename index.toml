@@ -3138,10 +3138,6 @@ file = "options.txt"
 hash = "47c751437a48ab93d306e174da89673f0c9c72e6258075add33e06daa09846ef"
 
 [[files]]
-file = "resourcepacks/Better_Modded_GUI.zip"
-hash = "e161a18333fb2bf8acb897cf689f7f1419d9dba1fe341a98316395953df3ffb4"
-
-[[files]]
 file = "resourcepacks/Better_Modded_GUI.zip.disabled"
 hash = "e161a18333fb2bf8acb897cf689f7f1419d9dba1fe341a98316395953df3ffb4"
 
@@ -3164,10 +3160,6 @@ hash = "b243fcadf46d00d033a1b8e99025b1c023796879dfea34cd5a2e586fee1f5b4f"
 [[files]]
 file = "resourcepacks/NoBushyLeaves.zip"
 hash = "b3751ee1742c1cef6f283af8be45d50d51a4359534f0f469cc9dcfb6b69c17e1"
-
-[[files]]
-file = "resourcepacks/Stay_True_1.20.zip"
-hash = "508bc459fe7125378e595681c3f571724648ff9f0be6dd21e31a83f7eeb1f8e0"
 
 [[files]]
 file = "resourcepacks/Stay_True_1.20.zip.disabled"
