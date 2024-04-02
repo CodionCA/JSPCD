@@ -2,4 +2,4 @@
 enableRightClickCycleButton = true
 enableMouseScrollOnSliders = true
 enableBackgroundTexture = false
-backgroundTexture = "minecraft:textures/block/dirt.png"
+backgroundTexture = "minecraft:textures/block/mangrove_planks.png"

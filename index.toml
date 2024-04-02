@@ -102,7 +102,7 @@ hash = "9eb7f3639d361ec09d02366832452ef1bd702eedf87fd070c4e10d30b276af73"
 
 [[files]]
 file = "config/bcc.json"
-hash = "a0486347ca1c81b108cf7558c311b12bf26f7c4109a8e93a406939fcb10dc9a5"
+hash = "71b7988cca34c068a8ec94f59291207afb309a4b620001c3789858caa66f7478"
 
 [[files]]
 file = "config/bclib/biomes.json"
@@ -263,22 +263,6 @@ hash = "ae1d279732ae8929d2b9709164a4473b38d70bebdb39ef8dd6d55b43c0fe9454"
 [[files]]
 file = "config/betterwitchhuts-fabric-1_20.toml"
 hash = "063ce4f60934ab166dade45375ef5518df74be2c6c1e1f1a52ec181013803197"
-
-[[files]]
-file = "config/bhmenu/bhmenu-client.properties"
-hash = "1d57e45485586156d7e86de8734e758d8bf639acca1a835aaf03a1e8036085ca"
-
-[[files]]
-file = "config/bhmenu/bhmenu-general.properties"
-hash = "0910a9c27c3c4b6bc091bab76253b194a3c19f5163bcb93666e022ecd38a220b"
-
-[[files]]
-file = "config/bhmenu/bhmenu-public_server_list.properties"
-hash = "ac6e3d350941d5829bb3c6a967fb20862a0c16ba57542d3b21f41a358710bce7"
-
-[[files]]
-file = "config/bhmenu/bhmenu-server_creator_banner.properties"
-hash = "cf515b85bd88c8336338fb07168ac2b21de048140a0c50c625a7dea25a86a6e4"
 
 [[files]]
 file = "config/biomemusic.json"
@@ -478,7 +462,7 @@ hash = "922a0a06c316eb1f0aba285f5bc59f4421b51b6f861661f3cdab38bbd44e4927"
 
 [[files]]
 file = "config/fancymenu/config.txt"
-hash = "22a9c83b31d5c95717fdd19873abc2e08268faa34eafe9d79afa432455d535fe"
+hash = "c7cb29b98421e2c238db63cb1b1c7b0511ad22cb02eeccc7aff7df616b3f6d3a"
 
 [[files]]
 file = "config/fancymenu/customizablemenus.txt"
@@ -1402,15 +1386,11 @@ hash = "605b131ad2f3db5cc295688975cd32a57eac138db4c314b79b0189b81d4c346f"
 
 [[files]]
 file = "config/yungsmenutweaks-fabric-1_20_1.toml"
-hash = "eb1dfe20f3cb1ee88f21381f2f7825f83d3f60123c42975d3959dfb41345e986"
+hash = "b77f3b0ce5022d7322f106ab7dc9afdc8d974afe07ebc2123916b7a0482b7031"
 
 [[files]]
 file = "config/zoomify.json"
 hash = "8d61a625f65493f3e4f40f5e49cd0d5405b6e105b2d9c005950f78dbfb2095fa"
-
-[[files]]
-file = "configureddefaults/options.txt"
-hash = "b85cc64f1a8dbd97c1ed106784fb19ebfbeea3f7dccdd991cd6987cfd4440cd1"
 
 [[files]]
 file = "data/fabricDefaultResourcePacks.dat"
