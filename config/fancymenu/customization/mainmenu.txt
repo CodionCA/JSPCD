@@ -9,8 +9,14 @@ customization-meta {
 }
 
 customization {
-  name = betterminecraftpanorama
-  action = setbackgroundpanorama
+  action = setscale
+  scale = 3
+}
+
+customization {
+  baseheight = 1080
+  action = autoscale
+  basewidth = 1920
 }
 
 customization {
@@ -19,29 +25,24 @@ customization {
 }
 
 customization {
-  identifier = %id=button_compatibility_id:modmenu_titlescreen_mods_button%
+  identifier = %id=button_compatibility_id:mc_titlescreen_multiplayer_button%
   action = hidebutton
+}
+
+customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_multiplayer_button%
+  orientation = mid-centered
+  x = -100
+  action = movebutton
+  y = 18
 }
 
 customization {
   identifier = %id=button_compatibility_id:modmenu_titlescreen_mods_button%
   orientation = mid-centered
-  x = 105
+  x = -100
   action = movebutton
-  y = 19
-}
-
-customization {
-  identifier = %id=button_compatibility_id:modmenu_titlescreen_mods_button%
-  width = 20
-  action = resizebutton
-  height = 20
-}
-
-customization {
-  identifier = %id=button_compatibility_id:modmenu_titlescreen_mods_button%
-  action = setbuttonlabel
-  value = 
+  y = 24
 }
 
 customization {
@@ -84,6 +85,14 @@ customization {
 }
 
 customization {
+  identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
+  orientation = mid-centered
+  x = -100
+  action = movebutton
+  y = -24
+}
+
+customization {
   identifier = %id=button_compatibility_id:mc_titlescreen_realms_button%
   action = hidebutton
 }
@@ -97,38 +106,17 @@ customization {
 }
 
 customization {
-  identifier = %id=button_compatibility_id:mc_titlescreen_language_button%
+  identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
   orientation = mid-centered
-  x = -122
+  x = 3
   action = movebutton
   y = 48
 }
 
 customization {
-  identifier = %id=button_compatibility_id:mc_titlescreen_multiplayer_button%
-  action = hidebutton
-}
-
-customization {
-  identifier = %id=button_compatibility_id:mc_titlescreen_multiplayer_button%
+  identifier = %id=button_compatibility_id:mc_titlescreen_language_button%
   orientation = mid-centered
-  x = -100
-  action = movebutton
-  y = 18
-}
-
-customization {
-  identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
-  orientation = mid-centered
-  x = -100
-  action = movebutton
-  y = -6
-}
-
-customization {
-  identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
-  orientation = mid-centered
-  x = 3
+  x = -122
   action = movebutton
   y = 48
 }
@@ -170,65 +158,37 @@ customization {
   orientation = mid-centered
   splash_color = #ffff00
   hidden = false
-  x = -136
+  x = 103
   width = 60
   splash_rotation = -20
   action = deep_customization_element:title_screen_splash
   actionid = 1448d3ba-b3f4-46c7-80b7-7eb153fd79f51686808471727
-  y = -117
+  y = -80
   height = 30
 }
 
 customization {
-  path = resourcepacks/Graphics/betterm.png
-  orientation = mid-centered
-  x = -180
-  width = 351
+  path = resourcepacks/Graphics/minecraft_title.png
+  orientation = top-centered
+  x = -201
+  width = 400
   action = addtexture
-  actionid = ba1bf56a-052b-47f9-bc1d-1563eee671ac1686808638513
-  y = -130
+  actionid = 1bd240b0-c12c-4e1c-a169-61e536b346271712049582094
+  y = 35
   height = 100
 }
 
 customization {
-  orientation = top-left
+  orientation = mid-centered
   loopbackgroundanimations = true
   restartbackgroundanimations = true
   buttonaction = joinserver;mc.codion.ca%btnaction_splitter_fm%
-  x = 220
+  x = -100
   width = 200
   action = addbutton
   actionid = 6489627e-fc8d-4198-90fb-0cfa6d8d145c1712011357160
-  y = 200
+  y = 0
   label = JSPCD
-  height = 20
-}
-
-customization {
-  identifier = %id=604346%
-  action = hidebutton
-}
-
-customization {
-  identifier = %id=604346%
-  orientation = mid-centered
-  x = 127
-  action = movebutton
-  y = 48
-}
-
-customization {
-  identifier = %id=604310%
-  orientation = mid-centered
-  x = -25
-  action = movebutton
-  y = 74
-}
-
-customization {
-  identifier = %id=604310%
-  width = 53
-  action = resizebutton
   height = 20
 }
 
