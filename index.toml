@@ -1523,6 +1523,18 @@ file = "mods/DistantHorizons-fabric-2.0.2-a-dev-1.20.1.jar"
 hash = "1e12688df5b051d4d399bf4bb919be7f30d18322507f1c7fd924b7217c103a9c"
 
 [[files]]
+file = "mods/PacketFixer-fabric-1.2.1-1.20.1.jar"
+hash = "bd74e1db9ebdedf6f6460788f4cd01cdd790a34aa57406e689575751feaabbe7"
+
+[[files]]
+file = "mods/Structory_1.20.2_v1.3.3.jar"
+hash = "81ddf5226ee2097f2620c8e8b08ea3b96955d4b301e461a606dc76b41c46caf5"
+
+[[files]]
+file = "mods/Structory_Towers_1.20.4_v1.0.6.jar"
+hash = "2af4f008074c2af7f67917ee921071f6a7e58ef0a0eef703884cf534a2cad71c"
+
+[[files]]
 file = "mods/additional-structures-fabric.pw.toml"
 hash = "cd8faedc22db3735071a5a70c9d10294130fe73ebbf3a0e1f82fc6681aa32f5e"
 metafile = true
@@ -2163,9 +2175,8 @@ hash = "3b5d812cb326288def7f87a06dddbc4ba987cea771d1708a3680f8201865c0be"
 metafile = true
 
 [[files]]
-file = "mods/inmisaddon.pw.toml"
-hash = "ccea3ee507e1aec9e9bb73850c5ec02c6d767d4d2ceb18b5a8c895141e156a57"
-metafile = true
+file = "mods/inmisaddon-1.0.4.jar"
+hash = "79556ac878ebc154ae4ffd314d8661ed4885065eb3182996bf8f58662c0f2f39"
 
 [[files]]
 file = "mods/inventory-hud-forge.pw.toml"
@@ -2409,11 +2420,6 @@ hash = "9a0ab52020c3a2d073e71f07ce11b9d2d8ae0a17b8a3cf0c9227029a51df51c3"
 metafile = true
 
 [[files]]
-file = "mods/packet-fixer.pw.toml"
-hash = "37fcde5a1fe7726a6f14c2be977e3810b0baa40a9a27e6b1631829c1960d1883"
-metafile = true
-
-[[files]]
 file = "mods/paintings.pw.toml"
 hash = "a666c9289311aebe40459e0020794cffba1dc18cd4b05f78b96d4402528314fb"
 metafile = true
@@ -2539,9 +2545,8 @@ hash = "fcac7f6fe9085eaad3b69cd44aedee058b9c379895090444ba722800d2d27d24"
 metafile = true
 
 [[files]]
-file = "mods/skin-layers-3d.pw.toml"
-hash = "2b93b643cb425f869ddcc239fb4c2ca2c5dd7428526b0b96f28de8fa204150b6"
-metafile = true
+file = "mods/skinlayers3d-fabric-1.6.1-mc1.20.1.jar"
+hash = "1729227a427e68bf0b8fbfdf90ce5fb9e022bf7117836acf11a95db1b0709cea"
 
 [[files]]
 file = "mods/smarter-farmers-farmers-replant.pw.toml"
@@ -2559,9 +2564,8 @@ hash = "283946cda3e9712e66bff9f9270c3182b8ba313f48878bec8fd9130628917875"
 metafile = true
 
 [[files]]
-file = "mods/snow-under-trees-remastered.pw.toml"
-hash = "4312afea2fd1ef8f4117cce02b224d0c46f158cb62a1d726b3853452fd0f3bd1"
-metafile = true
+file = "mods/snow-under-trees-fabric-2.0.0+1.20.jar"
+hash = "0590b5965995011b817b438fa8cccb62c213386353b891865dd79748091b119c"
 
 [[files]]
 file = "mods/snowy-spirit.pw.toml"
@@ -2574,9 +2578,8 @@ hash = "1c715482d789775635bdadfd07a193c9b72474d9bbae2259e3c65c3a054edddd"
 metafile = true
 
 [[files]]
-file = "mods/sodium.pw.toml"
-hash = "db035041e13b5f951ecca0c3d17ba92639185d4967d2e7c7e4b451a9e20bc9a3"
-metafile = true
+file = "mods/sodium-fabric-0.5.8+mc1.20.1.jar"
+hash = "cb19c646b6bc09ae75cb438c44d13a3ef3625ef0e2fb8fbc83168746df7d0291"
 
 [[files]]
 file = "mods/sound-physics-remastered.pw.toml"
@@ -2589,14 +2592,12 @@ hash = "d5ed51699dd5358cabc504b6a553b290fd6578c9926ab14f29e14786d43b6b84"
 metafile = true
 
 [[files]]
-file = "mods/sparse-structures.pw.toml"
-hash = "b47c6e962f3c2af733541c70df72cc87623f5b53a91f9759cefde49744c812a9"
-metafile = true
+file = "mods/sparsestructures-2.1.2.jar"
+hash = "c496b663fa47650a3d99fd0f097f3ba64d4dc5cb0753f5a523dabe982d6c9fed"
 
 [[files]]
-file = "mods/spawn-mod.pw.toml"
-hash = "3e9fef93b6fce4e167ee44899ec18048970582e5ad4e6f91eba4dcd9eee2b0a4"
-metafile = true
+file = "mods/spawn-1.0.3-fabric.jar"
+hash = "4105e9cc177ffee6ab3a0be74724d920e69bd8c1631346df5b7931024713dad1"
 
 [[files]]
 file = "mods/spawners-plus.pw.toml"
@@ -2611,16 +2612,6 @@ metafile = true
 [[files]]
 file = "mods/stoneworks.pw.toml"
 hash = "b7124a0d8cdf19f4de41db21aa26cfe4ace1d5c20779ea1db0dda0f68a0c6e20"
-metafile = true
-
-[[files]]
-file = "mods/structory-towers.pw.toml"
-hash = "3dedbd73490f068db41cc979d864ab97568506cfc5436c783ae7549a986eab42"
-metafile = true
-
-[[files]]
-file = "mods/structory.pw.toml"
-hash = "ca3ef53ef31a648063269f3cad4908c991ee06088f949b3cffa29a49c35da942"
 metafile = true
 
 [[files]]
