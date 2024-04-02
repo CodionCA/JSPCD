@@ -1,14 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "Distant_Horizons_server_data/JSPCD/overworld/DistantHorizons.sqlite"
-hash = "9da48ce5cc57dae55c039382506b1a5fe48181071ed421d70ed9745dbab85683"
-
-[[files]]
-file = "Distant_Horizons_server_data/Minecraft+Server/overworld/DistantHorizons.sqlite"
-hash = "77b302a96fcad910b1a21b1a6994c10dc4278cf541e128cf54f21eb66394fa5a"
-
-[[files]]
 file = "SERVE.bat"
 hash = "e29d92762100c335025db765a6b10f3a75be9b595640c323404a75db5aa8a4b8"
 
