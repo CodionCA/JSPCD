@@ -18,7 +18,7 @@ hash = "6d46bdc090d4bb9bdfb660be4ca94075dc08e09d5fed84108eba92a422a23c49"
 
 [[files]]
 file = "config/DistantHorizons.toml"
-hash = "933cbc6829c3bc4bd0dc1b8a4a3dda475e0f915a222f4111e8102ef0e53a393e"
+hash = "b21689b44fa4ac9553232e53e725b09c8e2d47cc7ce4cc849834a109b92cf838"
 
 [[files]]
 file = "config/InventoryHUD/curios.json"
@@ -1190,7 +1190,7 @@ hash = "e38122ebaea862c3f5d0878298a28e39bf791b448d2ee14dc164c798f5df15ea"
 
 [[files]]
 file = "config/stutterfix-config.json"
-hash = "993fa1261f91f026fc198c8f4f5b5aec6dd1c9da79901e9d442c48ba7201c54a"
+hash = "6c9b43faa3f1113a56b24b92309065839b9528ca61c6304481dce9950b8c2e09"
 
 [[files]]
 file = "config/supplementaries-client.json"
@@ -2448,10 +2448,6 @@ hash = "77ca31580a1c1f48eea83512baea611fa3703747298b5dd302677a018d25a87d"
 [[files]]
 file = "mods/bclib-3.0.14.jar"
 hash = "391fa2a8d7e369b088c66d1f230c3951e1d83f19d60555b2efea5394d8bcfc51"
-
-[[files]]
-file = "mods/better-end-4.0.10.jar"
-hash = "80d574fb43473cbe84b5fd58c59efee4c7abeebfab9fcc2811ed2efc5bf52908"
 
 [[files]]
 file = "mods/better-end-4.0.11.jar"
