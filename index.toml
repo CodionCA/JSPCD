@@ -2826,10 +2826,6 @@ file = "mods/moonlight-1.20-2.11.9-fabric.jar"
 hash = "2575adaf50daafe218a09cdb312bc89be931fa80829b2f63d7218dc05eee0e25"
 
 [[files]]
-file = "mods/moreculling-1.20.4-0.22.1.jar"
-hash = "c8d568404a72d446eee11031fef655a68e7cc358ee8c589e91daef00a07d9608"
-
-[[files]]
 file = "mods/mru-0.4.0+1.20.jar"
 hash = "842d82d9b18adaa0878716e51ba79b9f58c2995cc7e37051e35bf917d73ca0fa"
 
@@ -2928,10 +2924,6 @@ hash = "40e2125f1e4daabce04babab3be00cc869998440d29c9a1e40feefb5c9ccaa22"
 [[files]]
 file = "mods/servercountryflags-1.9.3-1.20.1-FABRIC.jar"
 hash = "3ff05eaadbfc6b59ccbebfea3f88f65bdda4a69a4638b04e29d36d5079476263"
-
-[[files]]
-file = "mods/show-me-your-skin-1.8.0+1.20.jar"
-hash = "a1e4bca0269eb0565c07a161c7cb8b111a5d13025c7b220da45d189b52dcedc4"
 
 [[files]]
 file = "mods/skinlayers3d-fabric-1.6.1-mc1.20.1.jar"
