@@ -525,38 +525,6 @@ file = "config/fancymenu/menu_identifiers.db"
 hash = "003a1c89846741e0eb9475089d4ed653896fd08e0b994667fae452b4ad894a72"
 
 [[files]]
-file = "config/fancymenu/panoramas/betterminecraftpanorama/panorama/panorama_0.png"
-hash = "5706f1fb42ca7e6224f5a82b9f99b09907f9a08f2e5daa8e537fb407b6f728da"
-
-[[files]]
-file = "config/fancymenu/panoramas/betterminecraftpanorama/panorama/panorama_1.png"
-hash = "f87e4674f6529a239dc0735dd71e306af9db8ebfd256e489168edc5f94d98556"
-
-[[files]]
-file = "config/fancymenu/panoramas/betterminecraftpanorama/panorama/panorama_2.png"
-hash = "679f342eca2d5545e15ee6e79a8b6f0463aa2ba6b7b20283afdd332ef96f0c0d"
-
-[[files]]
-file = "config/fancymenu/panoramas/betterminecraftpanorama/panorama/panorama_3.png"
-hash = "b944a3b92b484941f0a50d3919818ff96a8b0a1374bda619e3c6db7df1b32aac"
-
-[[files]]
-file = "config/fancymenu/panoramas/betterminecraftpanorama/panorama/panorama_4.png"
-hash = "e61441d8ad9c7d11b5230dd532be19498f19c90ff1250647fa3ad34ddc95efc8"
-
-[[files]]
-file = "config/fancymenu/panoramas/betterminecraftpanorama/panorama/panorama_5.png"
-hash = "a47f54f2fde693697f200afb33e5a9f928021969624631bd58e13e2835eb318a"
-
-[[files]]
-file = "config/fancymenu/panoramas/betterminecraftpanorama/panorama/panorama_overlay.png"
-hash = "cce8a709b00e632508b9f54a51a87b24949888695b061cc1dc3f71efdcbc4a57"
-
-[[files]]
-file = "config/fancymenu/panoramas/betterminecraftpanorama/properties.txt"
-hash = "357041dd503b38013ebe995b437c9103a7be01e7b3e0bfd6da43950dc878ac71"
-
-[[files]]
 file = "config/fancymenu/user_variables.db"
 hash = "f27db2df244107a607158267a180cf1ad0adcd33b582e0394aa58b690a25806e"
 
@@ -3111,8 +3079,8 @@ hash = "c5ad5a3dacb789671657f9023675f957bf4cb81b32fdc4817ed1ba14f2acd60e"
 
 [[files]]
 file = "options.txt"
-hash = "ad57469210c13cf522e7667dbfdf060dfe156a35aab302aa0a408d02c7d81479"
-preserve = "true"
+hash = "70404d5cf99606e58be3e7ade36088490215b59095ecca1c0cae03835ee313d8"
+preserve = true
 
 [[files]]
 file = "resourcepacks/Better_Modded_GUI.zip.disabled"

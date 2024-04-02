@@ -20,9 +20,9 @@ fullscreen:true
 bobView:true
 toggleCrouch:false
 toggleSprint:false
-darkMojangStudiosBackground:false
+darkMojangStudiosBackground:true
 hideLightningFlashes:false
-mouseSensitivity:0.6
+mouseSensitivity:0.5
 fov:0.625
 screenEffectScale:1.0
 fovEffectScale:1.0
