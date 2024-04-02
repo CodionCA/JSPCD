@@ -2270,6 +2270,10 @@ file = "mods/TradingPost-v8.0.1-1.20.1-Fabric.jar"
 hash = "6eb696ab36cbe85afcbdfc7c0538d13b9398ef7467d220c1ac2023968eaf16d8"
 
 [[files]]
+file = "mods/TreeChop-1.20.1-fabric-0.19.0.jar"
+hash = "66ad56c20fc07fddbfc5144d98c70fa85b5fce43dd0d68474a4aa5d2d748705f"
+
+[[files]]
 file = "mods/VillagersPlus_3.1_(FABRIC)_for_1.20.1.jar"
 hash = "f86abec4f7960b277492ae2d66d0a0eb164cfe3f46af4088380b7eab7b3b6122"
 
@@ -2718,6 +2722,10 @@ file = "mods/hybrid-aquatic-1.1.0.jar"
 hash = "a3fa5db18638881b96db862e85c77a4d42f911026e2b989bcde1f1adf915d6ed"
 
 [[files]]
+file = "mods/immersive_armors-1.6.1+1.20.1-fabric.jar"
+hash = "41259c8aaf2d284e51893ad32bbd6eddb718c3661d50d82dddc250833177738f"
+
+[[files]]
 file = "mods/indium-1.0.30+mc1.20.4.jar"
 hash = "995ae1021d370d3b5abd6b805db488f93d6678874ecaa0816d41f15329dffe30"
 
@@ -2910,12 +2918,20 @@ file = "mods/resourcefullib-fabric-1.20.1-2.1.20.jar"
 hash = "4aead7a54ddd79019bc92c74708d9100c0c5900a81d518ed36e3f4c40fa90b13"
 
 [[files]]
+file = "mods/revive-1.0.7.jar"
+hash = "77a046d067308110aa43c72dd7041dccc1052edab4971bff8126d93bac019b6e"
+
+[[files]]
 file = "mods/right-click-harvest-3.2.3+1.19.x-1.20.1-fabric.jar"
 hash = "40e2125f1e4daabce04babab3be00cc869998440d29c9a1e40feefb5c9ccaa22"
 
 [[files]]
 file = "mods/servercountryflags-1.9.3-1.20.1-FABRIC.jar"
 hash = "3ff05eaadbfc6b59ccbebfea3f88f65bdda4a69a4638b04e29d36d5079476263"
+
+[[files]]
+file = "mods/show-me-your-skin-1.8.0+1.20.jar"
+hash = "a1e4bca0269eb0565c07a161c7cb8b111a5d13025c7b220da45d189b52dcedc4"
 
 [[files]]
 file = "mods/skinlayers3d-fabric-1.6.1-mc1.20.1.jar"
